@@ -1,0 +1,4337 @@
+
+
+PLH - Activity - Teen - Active - Co chef*************************************
+
+
+PLH - Internal - Frequency*************************************
+
+Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.
+
+Change these settings by typing "Help" and then selecting "Technical Support."
+
+Please select the number for the following options:
+1. Same frequency
+2. A little less often
+arg list: same
+arg: same
+same,1,
+arg list: less,often
+arg: less
+less,often,2,
+arg: often
+less,often,2,2,
+
+
+PLH - Survey - Parenting & Behaviour - Questions & Comparison*************************************
+
+Would you like a brief activity to help you with stress?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would like a brief relaxing activity now?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Supportive - Activities*************************************
+
+Hi! Would you like some suggestions for fun or educational activities to do with your children?
+
+Please select the number for the following options:
+1. Give me more information
+2. I am not interested
+arg list: more,information
+arg: more
+more,information,1,
+arg: information
+more,information,1,1,
+arg list: not,no,interested
+arg: not
+not,no,interested,2,
+arg: no
+arg: interested
+not,no,interested,2,2,
+
+
+PLH - Supportive - Activities for babies*************************************
+
+Hi! Would you like some suggestions for fun activities to help develop your baby's brain?
+
+Please select the number for the following options:
+1. Give me more information
+2. I am not interested
+arg list: more,information
+arg: more
+more,information,1,
+arg: information
+more,information,1,1,
+arg list: not,no,interested
+arg: not
+not,no,interested,2,
+arg: no
+arg: interested
+not,no,interested,2,2,
+
+
+PLH - Content - Positive - Online adults - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Positive - Online adults*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Content - Positive - Budget adults*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want 4 quick steps to help you make a budget and save money?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to receive Step 2? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to receive Step 3?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to receive Step 4?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Budget adults - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Time - One on one time teen*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: Y,yes
+arg: Y
+arg: yes
+Y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like some suggestions for activities to do with your teen?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Time - One on one time child*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: Y,yes
+arg: Y
+arg: yes
+Y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like some suggestions for activities to do with your child?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Time - One on one time baby - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Time - One on one time child - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Activity - Child - Active - What are you doing*************************************
+
+
+PLH - Timed - 24h timeout alert*************************************
+
+
+PLH - Supportive - Disabilities*************************************
+
+Hi! Would you like to learn more about how you could support children with disabilities?
+
+Please select the number for the following options:
+1. Give me more information
+2. I am not interested
+arg list: more,information
+arg: more
+more,information,1,
+arg: information
+more,information,1,1,
+arg list: not,no,interested
+arg: not
+not,no,interested,2,
+arg: no
+arg: interested
+not,no,interested,2,2,
+
+
+PLH - Supportive - Development*************************************
+
+Hi! Would you like to learn more about your children's development?
+
+Please select the number for the following options:
+1. Give me more information
+2. I am not interested
+arg list: more,information
+arg: more
+more,information,1,
+arg: information
+more,information,1,1,
+arg list: not,no,interested
+arg: not
+not,no,interested,2,
+arg: no
+arg: interested
+not,no,interested,2,2,
+
+
+PLH - Supportive - Family*************************************
+
+Hi! Would you like to learn more about how to resolve conflicts in the family?
+
+Please select the number for the following options:
+1. Give me more information
+2. I am not interested
+arg list: more,information
+arg: more
+more,information,1,
+arg: information
+more,information,1,1,
+arg list: not,no,interested
+arg: not
+not,no,interested,2,
+arg: no
+arg: interested
+not,no,interested,2,2,
+
+
+PLH - Supportive - Covid*************************************
+
+Hi! Would you like to learn more about how to talk to your children about COVID-19?
+
+Please select the number for the following options:
+1. Give me more information
+2. I am not interested
+arg list: more,information
+arg: more
+more,information,1,
+arg: information
+more,information,1,1,
+arg list: not,no,interested
+arg: not
+not,no,interested,2,
+arg: no
+arg: interested
+not,no,interested,2,2,
+
+
+PLH - Internal - Restart campaign for WA*************************************
+
+
+PLH - Content - Positive - Education - Timed intro*************************************
+
+Would you like to learn more about how to support your children with remote learning and returning to school?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+We know that you have already received this tip (well done!). Would like to review them again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Activity - Child - Calm - At the end of the day*************************************
+
+
+PLH - Internal - Restart expired flow*************************************
+
+
+PLH - Activity - Teen - Calm - Superpowers*************************************
+
+
+PLH - Timed - Campaign*************************************
+
+
+PLH - Internal - Define next campaign event*************************************
+
+
+PLH - Internal - Initialise time variables*************************************
+
+
+PLH - Internal - Update time counters*************************************
+
+
+PLH - Supportive - Share*************************************
+
+
+PLH - Supportive - Help reminder*************************************
+
+
+PLH - Activity - Child - Active - See it be it*************************************
+
+
+PLH - Activity - Child - Calm - Story time*************************************
+
+
+PLH - Activity - Child - Active - Superpowers*************************************
+
+
+PLH - Activity - Child - Calm - Three options*************************************
+
+
+PLH - Activity - Child - Active - Worms go home*************************************
+
+
+PLH - Content - Relax - CheckIn - Anger management*************************************
+
+
+PLH - Content - Relax - CheckIn - Anger management 2*************************************
+
+
+PLH - Content - Relax - CheckIn - Notice how you feel*************************************
+
+
+PLH - Content - Positive - Behave - Crisis*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Relax - CheckIn - Connect*************************************
+
+Hi! How are you feeling?
+
+Please select the number for the following options:
+1. Great
+2. Okay
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: ok,okay
+arg: ok
+arg: okay
+ok,okay,2,
+arg list: bad
+arg: bad
+bad,3,
+
+
+PLH - Content - Relax - Exercise*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+Would you like some  other relaxation activities?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: Yes,Y
+arg: Yes
+Yes,Y,1,
+arg: Y
+arg list: No,N
+arg: No
+No,N,0,
+arg: N
+
+
+PLH - Activity - Child - Active - Dance choreography*************************************
+
+
+PLH - Activity - Child - Active - Mirror*************************************
+
+
+PLH - Activity - Child - Active - Freeze dance*************************************
+
+
+PLH - Activity - Child - Active - Run around and do this*************************************
+
+
+PLH - Activity - Child - Active - Stage Directions*************************************
+
+
+PLH - Activity - Child - Calm - Blind Dragon*************************************
+
+
+PLH - Content - Extra - Development*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+Which child development milestones do you want to learn about?
+
+Please select the number for the following options:
+1. Babies (0-2 years)
+2. Young children (2-9 years)
+3. Teens (10-17 years)
+arg list: baby,babies
+arg: baby
+arg: babies
+baby,babies,1,
+arg list: young,child,children
+arg: young
+young,child,children,2,
+arg: child
+arg: children
+young,child,children,2,2,
+arg list: teens,teenagers,teen,teenager
+arg: teens
+teens,teenagers,teen,teenager,3,
+arg: teenagers
+arg: teen
+arg: teenager
+
+
+PLH - Activity - Child - Calm - When I was younger*************************************
+
+
+PLH - Activity - Child - Calm - Dancing with Angels*************************************
+
+
+PLH - Activity - Child - Calm - The Interrupter*************************************
+
+
+PLH - Activity - Child - Active - Make housework fun*************************************
+
+
+PLH - Activity - Teen - Calm - Dream travel*************************************
+
+
+PLH - Content - Positive - Behave - Praise*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Time - One on one time baby*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: Y,yes
+arg: Y
+arg: yes
+Y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like some suggestions for activities to do with your baby?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Routines*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: n,no
+arg: n
+arg: no
+n,no,0,
+
+
+PLH - Content - Positive - Behave - Emotion*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Redirect*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Ignore*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Consequences*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Content - Positive - Behave - ProblemSolving*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Activity - Teen - Active - Get Active*************************************
+
+
+PLH - Help - Settings - Manage information children*************************************
+
+What would you like to do?
+
+Please select the number for the following options:
+1. Update the age of your children
+2. Update the age group you are receiving tips for
+0. Go back to the previous options
+arg list: children
+arg: children
+children,1,
+arg list: tips
+arg: tips
+tips,2,
+arg list: back
+arg: back
+back,0,
+
+Which age group would you like to receive parenting tips for? Please type
+
+Please select the number for the following options:
+1. Baby (0 to 23 months old)
+2. Young child (2 to 9 years)
+3. Teenager (10 to 17 years)
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teen,teenager
+arg: teen
+arg: teenager
+teen,teenager,3,
+
+
+PLH - Activity - Teen - Active - What is new*************************************
+
+
+PLH - Activity - Teen - Active - Dance Choreography*************************************
+
+
+PLH - Activity - Teen - Active - What are you doing*************************************
+
+
+PLH - Content - Positive - Behave - Routines - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y,1
+arg: YES
+YES,Y,1,1,
+arg: Y
+arg: 1
+arg list: NO,N,0
+arg: NO
+NO,N,0,0,
+arg: N
+arg: 0
+
+
+PLH - Activity - Teen - Calm - Make up a story*************************************
+
+
+PLH - Activity - Teen - Active - Crazy chicken*************************************
+
+
+PLH - Content - Time - One on one time teen - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Time - CheckIn - One on one time*************************************
+
+Hi! Were you able to spend 5 minutes or more of One-on-One Time with your children today?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+That's great! How did it go?
+
+Please select the number for the following options:
+1. Great
+2. Ok
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: ok
+arg: ok
+ok,2,
+arg list: bad
+arg: bad
+bad,3,
+
+Would you like some new activities to do with your children?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+We understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons parents struggle. Which one is the closest to you?
+
+Please select the number for the following options:
+1. Not enough time
+2. My child did not want to spend time with me
+3. All my child wanted to do is watch T.V. or play with a gadget
+4. My child wanted to do things I felt uncomfortable about
+5. My child wanted to do activities that I could not do
+6. My child chose a competitive activity. I won and then they got angry
+7. My child had a tantrum at the end of One-on-One Time
+8. My child wanted to do too many things at once
+9. All my children wanted One-on-One Time at the same time
+0. Prefer not to say
+arg list: enough
+arg: enough
+enough,1,
+arg: did not want to spend 
+arg list: t.v.,gadget
+arg: t.v.
+arg: gadget
+t.v.,gadget,3,
+arg list: uncomfortable
+arg: uncomfortable
+uncomfortable,4,
+arg: activities that I could not do
+arg list: competitive
+arg: competitive
+competitive,6,
+arg list: tantrum
+arg: tantrum
+tantrum,7,
+arg:  too many things at once
+arg: All my children
+arg list: prefer
+arg: prefer
+prefer,0,
+
+
+PLH - Activity - Teen - Active - Pass the snap*************************************
+
+
+PLH - Activity - Teen - Calm - Just a friendly chat*************************************
+
+
+PLH - Content - Relax - Take a pause - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Activity - Teen - Calm - At the end of the day*************************************
+
+
+PLH - Content - Relax - CheckIn - List of things*************************************
+
+Hi! How are you feeling?
+
+Please select the number for the following options:
+1. Great
+2. Okay
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: ok,okay
+arg: ok
+arg: okay
+ok,okay,2,
+arg list: bad
+arg: bad
+bad,3,
+
+
+PLH - Activity - Adult - Active - 2 truths 1 lie*************************************
+
+
+PLH - Activity - Adult - Active - Family work out*************************************
+
+
+PLH - Activity - Adult - Active - Crazy chicken*************************************
+
+
+PLH - Content - Relax - Take a pause*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Content - Positive - Introduction*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Praise - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Activity - Adult - Active - Relax*************************************
+
+
+PLH - Activity - Adult - Calm - Magical number*************************************
+
+
+PLH - Activity - Adult - Active - Stop and listen*************************************
+
+
+PLH - Activity - Adult - Calm - Release some energy*************************************
+
+
+PLH - Activity - Adult - Calm - Give yourself a hug*************************************
+
+
+PLH - Feedback - Feedback for content*************************************
+
+How helpful was this tip?
+
+Please select the number for the following options:
+1. Extremely helpful
+2. Very helpful
+3. Helpful
+4. A little helpful
+5. Not helpful
+0. Prefer not to answer
+arg list: not
+arg: not
+not,5,
+not,5,0,
+arg list: little
+arg: little
+little,4,
+arg: helpful
+3,
+arg list: very
+arg: very
+very,2,
+arg list: extremely
+arg: extremely
+extremely,1,
+arg list: prefer
+arg: prefer
+prefer,0,
+
+How helpful was this activity?
+
+Please select the number for the following options:
+1. Extremely helpful
+2. Very helpful
+3. Helpful
+4. A little helpful
+5. Not helpful
+0. Prefer not to answer
+arg list: not,5,0
+arg: not
+not,5,0,5,
+not,5,0,5,0,
+arg: 5
+arg: 0
+arg list: little,4
+arg: little
+little,4,4,
+arg: 4
+arg list: 3
+arg: 3
+NO MATCH 
+arg list: very,2
+arg: very
+very,2,2,
+arg: 2
+arg list: extremely,1
+arg: extremely
+extremely,1,1,
+arg: 1
+arg list: prefer,0
+arg: prefer
+prefer,0,0,
+arg: 0
+
+Have these relaxation activities helped reduce the stress in your life?
+
+Please select the number for the following options:
+1. Extremely helpful
+2. Very helpful
+3. Helpful
+4. A little helpful
+5. Not helpful
+0. Prefer not to answer
+arg list: not,5,0,5,0
+arg: not
+not,5,0,5,0,5,
+not,5,0,5,0,5,0,
+arg: 5
+arg: 0
+arg: 5
+arg: 0
+arg list: little,4,4
+arg: little
+little,4,4,4,
+arg: 4
+arg: 4
+arg list: 3
+arg: 3
+NO MATCH 
+arg list: very,2,2
+arg: very
+very,2,2,2,
+arg: 2
+arg: 2
+arg list: extremely,1,1
+arg: extremely
+extremely,1,1,1,
+arg: 1
+arg: 1
+arg list: prefer,0,0
+arg: prefer
+prefer,0,0,0,
+arg: 0
+arg: 0
+
+Was this advice helpful?
+
+Please select the number for the following options:
+1. Extremely helpful
+2. Very helpful
+3. Helpful
+4. A little helpful
+5. Not helpful
+0. Prefer not to answer
+arg list: not,5,0,5,0,5,0
+arg: not
+not,5,0,5,0,5,0,5,
+not,5,0,5,0,5,0,5,0,
+arg: 5
+arg: 0
+arg: 5
+arg: 0
+arg: 5
+arg: 0
+arg list: little,4,4,4
+arg: little
+little,4,4,4,4,
+arg: 4
+arg: 4
+arg: 4
+arg list: 3
+arg: 3
+NO MATCH 
+arg list: very,2,2,2
+arg: very
+very,2,2,2,2,
+arg: 2
+arg: 2
+arg: 2
+arg list: extremely,1,1,1
+arg: extremely
+extremely,1,1,1,1,
+arg: 1
+arg: 1
+arg: 1
+arg list: prefer,0,0,0
+arg: prefer
+prefer,0,0,0,0,
+arg: 0
+arg: 0
+arg: 0
+
+
+PLH - Activity - Adult - Calm - Taking care of yourself*************************************
+
+
+PLH - Content - Positive - Rules*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Content - Positive - Behave - Redirect - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y,1
+arg: YES
+YES,Y,1,1,
+arg: Y
+arg: 1
+arg list: NO,N,0
+arg: NO
+NO,N,0,0,
+arg: N
+arg: 0
+
+
+PLH - Content - Positive - Behave - Consequences - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Positive - Book sharing*************************************
+
+Would you like to learn more about how you can help your child develop through book sharing?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Ignore - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Positive - Behave - ProblemSolving - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Positive - Behave - Crying - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Picker - Age group for activity*************************************
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. baby
+2. teen
+3. adult
+4. other
+arg list: baby
+arg: baby
+baby,1,
+arg list: teen,teenager
+arg: teen
+teen,teenager,2,
+arg: teenager
+arg list: adult
+arg: adult
+adult,3,
+arg list: other
+arg: other
+other,4,
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. baby
+2. adult
+3. other
+arg list: baby
+arg: baby
+baby,1,
+arg list: adult
+arg: adult
+adult,2,
+arg list: other
+arg: other
+other,3,
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. teenager
+2. adult
+3. other
+arg list: teen,teenager
+arg: teen
+arg: teenager
+teen,teenager,1,
+arg list: adult
+arg: adult
+adult,2,
+arg list: other
+arg: other
+other,3,
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. young child
+2. adult
+3. other
+arg list: child,young
+arg: child
+child,young,1,
+arg: young
+child,young,1,1,
+arg list: adult
+arg: adult
+adult,2,
+arg list: other
+arg: other
+other,3,
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. baby
+2. young child
+3. adult
+4. other
+arg list: baby
+arg: baby
+baby,1,
+arg list: child,young
+arg: child
+child,young,2,
+arg: young
+child,young,2,2,
+arg list: adult
+arg: adult
+adult,3,
+arg list: other
+arg: other
+other,4,
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. baby
+2. young child
+3. teenager
+4. adult
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teen,teenager
+arg: teen
+arg: teenager
+teen,teenager,3,
+arg list: adult
+arg: adult
+adult,4,
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. young child
+2. teenager
+3. adult
+4. other
+arg list: young,child
+arg: young
+young,child,1,
+arg: child
+young,child,1,1,
+arg list: teen,teenager
+arg: teen
+arg: teenager
+teen,teenager,2,
+arg list: adult
+arg: adult
+adult,3,
+arg list: other
+arg: other
+other,4,
+
+
+PLH - Survey - Behave - Tips for difficult behaviours*************************************
+
+Would like suggestions for active and calm things to do with your child?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: Y,yes
+arg: Y
+arg: yes
+Y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Online children - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Supportive - Behave reminder*************************************
+
+
+PLH - Welcome - Age group for tips*************************************
+
+Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most. 
+
+You can always change this later by typing "Help" and selecting "Technical support"
+
+Please select the number for the following options:
+1. Baby
+2. Young child
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+
+Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.
+
+You can always change this later by typing "Help" and selecting "Technical support".
+
+Please select the number for the following options:
+1. Baby
+2. Teen
+arg list: baby
+arg: baby
+baby,1,
+arg list: teen,teenager
+arg: teen
+teen,teenager,2,
+arg: teenager
+
+Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.
+
+You can always change this later by typing "Help" and selecting "Technical support".
+
+Please select the number for the following options:
+1. Young child
+2. Teen
+arg list: young,child
+arg: young
+young,child,1,
+arg: child
+young,child,1,1,
+arg list: teen,teenager
+arg: teen
+teen,teenager,2,
+arg: teenager
+
+Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.
+
+You can always change this later by typing "Help" and selecting "Technical support".
+
+Please select the number for the following options:
+1. Baby
+2. Young child
+3. Teen
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teen,teenager
+arg: teen
+teen,teenager,3,
+arg: teenager
+
+
+PLH - Help - Settings - Change age group for tips*************************************
+
+Would you like to receive parenting tips for another age group? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Which age group would you like to receive parenting tips for? 
+
+Please select the number for the following options:
+1. Baby (0 to 23 months old)
+2. Young child (2 to 9 years)
+3. Teenager (10 to 17 years)
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teen,teenager
+arg: teen
+arg: teenager
+teen,teenager,3,
+
+
+PLH - Content - Positive - Safe or unsafe touch*************************************
+
+Do you want to learn more about how to protect your child from abuse?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Behave - Crisis - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want some tips that can help you respond in a more supportive way?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Positive - CheckIn - Routines with song*************************************
+
+
+PLH - Content - Positive - CheckIn - Routines*************************************
+
+
+PLH - Content - Positive - Behave - Emotion - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Help - Entry*************************************
+
+What do you need help with?
+
+Please select the number for the following options:
+1. Help with children
+2. Stress relief
+3. Other support
+4. Review previous skills
+5. Technical support
+arg list: children
+arg: children
+children,1,
+arg list: relief,stress
+arg: relief
+relief,stress,2,
+arg: stress
+relief,stress,2,2,
+arg list: other
+arg: other
+other,3,
+arg list: Technical,tech
+arg: Technical
+Technical,tech,5,
+arg: tech
+arg list: review,skills
+arg: review
+review,skills,4,
+arg: skills
+review,skills,4,4,
+
+
+PLH - Help - Emergency*************************************
+
+
+PLH - Help - Stress*************************************
+
+How can we help you?
+
+Please select the number for the following options:
+1. Relaxation and stress reduction
+2. Dealing with financial stress
+3. Family relationships
+0. Go back to the previous options
+arg list: relaxation,reduction
+arg: relaxation
+relaxation,reduction,1,
+arg: reduction
+relaxation,reduction,1,1,
+arg list: financial
+arg: financial
+financial,2,
+arg list: family,relationships
+arg: family
+family,relationships,3,
+arg: relationships
+family,relationships,3,3,
+arg list: back
+arg: back
+back,0,
+
+
+PLH - Content - Relax - CheckIn - Quick Pause*************************************
+
+
+PLH - Content - Positive - Positive instructions*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Handler - Activity - Babies*************************************
+
+What kind of activity do you want for your baby?
+
+Please select the number for the following options:
+1. Active
+2. Calm
+3. Fun
+arg list: active
+arg: active
+active,1,
+arg list: calm
+arg: calm
+calm,2,
+arg list: fun
+arg: fun
+fun,3,
+
+
+PLH - Handler - Activity - Young children*************************************
+
+What kind of activity do you want for your child?
+
+Please select the number for the following options:
+1. Active
+2. Calm
+3. Fun
+arg list: active
+arg: active
+active,1,
+arg list: calm
+arg: calm
+calm,2,
+arg list: fun
+arg: fun
+fun,3,
+
+
+PLH - Handler - Activity - Teenagers*************************************
+
+What kind of activity do you want for your teen?
+
+Please select the number for the following options:
+1. Active
+2. Calm
+3. Fun
+arg list: active
+arg: active
+active,1,
+arg list: calm
+arg: calm
+calm,2,
+arg list: fun
+arg: fun
+fun,3,
+
+
+PLH - Handler - Activity - Adults*************************************
+
+What kind of activity do you want?
+
+Please select the number for the following options:
+1. Active
+2. Calm
+3. Fun
+arg list: active
+arg: active
+active,1,
+arg list: calm
+arg: calm
+calm,2,
+arg list: fun
+arg: fun
+fun,3,
+
+
+PLH - Activity - Child - Active - Crazy chicken*************************************
+
+
+PLH - Activity - Child - Calm - Drawing*************************************
+
+
+PLH - Survey - Behaviour - Children age groups*************************************
+
+Are you a parent/caregiver of a baby (0 to 23 months)? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,yep,yeah,y
+arg: yes
+yes,yep,yeah,y,1,
+arg: yep
+arg: yeah
+arg: y
+arg list: no,not,nope,n
+arg: no
+no,not,nope,n,0,
+arg: not
+arg: nope
+arg: n
+
+Are you a parent/caregiver of a young child (2 to 9 years)?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,yep,yeah,y
+arg: yes
+yes,yep,yeah,y,1,
+arg: yep
+arg: yeah
+arg: y
+arg list: no,not,n,nope
+arg: no
+no,not,n,nope,0,
+arg: not
+arg: n
+arg: nope
+
+Are you a parent/caregiver of a teenager (10 to 17 years)? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,yeah,yep,sure,y
+arg: yes
+yes,yeah,yep,sure,y,1,
+arg: yeah
+arg: yep
+arg: sure
+arg: y
+arg list: no,not,nope,n
+arg: no
+no,not,nope,n,0,
+arg: not
+arg: nope
+arg: n
+
+
+PLH - Activity - Child - Calm - Self portrait*************************************
+
+
+PLH - Activity - Child - Active - Transform the object*************************************
+
+
+PLH - Activity - Child - Active - Name that tune*************************************
+
+
+PLH - Content - Positive - Behave - Crying*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Activity - Child - Calm - Memory game*************************************
+
+
+PLH - Welcome - Initial registration*************************************
+
+So that we can give you the right information, please tell us if you are a male or female.
+
+Please select the number for the following options:
+1. Male
+2. Female
+3. Other
+0. Prefer not to tell
+arg list: female,F
+arg: female
+female,F,2,
+arg: F
+arg list: male,M
+arg: male
+male,M,1,
+arg: M
+arg list: other,O
+arg: other
+other,O,3,
+arg: O
+arg list: prefer,N,no
+arg: prefer
+prefer,N,no,0,
+arg: N
+arg: no
+
+Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.
+
+You can always change this later by typing "Help" and selecting "Technical support".
+
+Please select the number for the following options:
+1. Baby (0 to 23 months)
+2. Young child (2 to 9 years)
+3. Teenager (10 to 17 years)
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teenager
+arg: teenager
+teenager,3,
+
+
+PLH - Supportive - Weekly congratulations*************************************
+
+
+PLH - Activity - Child - Active - Ship to shore*************************************
+
+
+PLH - Handler - Content - Main - Time*************************************
+
+
+PLH - Handler - Content - Main - Relax*************************************
+
+
+PLH - Handler - Content - Main - Positive*************************************
+
+
+PLH - Handler - Survey*************************************
+
+
+PLH - Supportive - Calm*************************************
+
+Hi! How are you feeling? 
+
+Please select the number for the following options:
+1. Great
+2. Okay
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: okay,ok
+arg: okay
+okay,ok,2,
+arg: ok
+arg list: bad
+arg: bad
+bad,3,
+
+
+PLH - Activity - Teen - Calm - 2 Truths 1 Lie*************************************
+
+
+PLH - Survey - COVID19 Experience*************************************
+
+Hi! We are delighted that you have signed up for these messages. It shows that you care!
+
+Can we ask you 2 quick questions about COVID-19 in your area?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+Which is most like your experience?
+
+Please select the number for the following options:
+1. Curfews
+2. Non-essential shops closed
+3. Non-essential production closed
+4. Cancellation of recreational venues and closing of public places like parks
+5. Stay-at-home orders and total movement controls
+6. Social distancing and movement restrictions
+7. No restrictions
+0. Does not apply
+arg list: Curfews
+arg: Curfews
+Curfews,1,
+arg list: shops
+arg: shops
+shops,2,
+arg list: production
+arg: production
+production,3,
+arg list: recreational,venues
+arg: recreational
+recreational,venues,4,
+arg: venues
+recreational,venues,4,4,
+arg list: Stay-at-home,orders
+arg: Stay-at-home
+Stay-at-home,orders,5,
+arg: orders
+Stay-at-home,orders,5,5,
+arg list: distancing
+arg: distancing
+distancing,6,
+arg list: no
+arg: no
+no,7,
+arg list: apply
+arg: apply
+apply,0,
+
+Are your children currently going to school/daycare? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+It is normal to feel overwhelmed or stressed about how your children's education during this time. Would you like to learn more about how to support your children with remote learning and returning to school?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Internal - Set up default contact fields*************************************
+
+
+PLH - Activity - Teen - Calm - Three options*************************************
+
+
+PLH - Activity - Teen - Calm - Yes No or Maybe*************************************
+
+
+PLH - Survey - Parenting & Behaviour*************************************
+
+Can we ask you a few questions? If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Which parenting tip has been the most useful to you?
+
+Please select the number for the following options:
+1. Activities
+2. Stress reduction
+3. Child behaviour
+4. Other
+5. None of the parenting tips have been helpful
+arg list: activity,activities
+arg: activity
+arg: activities
+activity,activities,1,
+arg list: stress
+arg: stress
+stress,2,
+arg list: behaviour
+arg: behaviour
+behaviour,3,
+arg list: none
+arg: none
+none,5,
+arg list: other
+arg: other
+other,4,
+
+
+PLH - Activity - Teen - Calm - The Interrupter*************************************
+
+
+PLH - Supportive - Praise*************************************
+
+Hi! How is your parenting going today? 
+
+Please select the number for the following options:
+1. Great
+2. Okay
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: okay
+arg: okay
+okay,2,
+arg list: bad
+arg: bad
+bad,3,
+
+
+PLH - Activity - Teen - Calm - How was your day*************************************
+
+
+PLH - Survey - Behaviour*************************************
+
+Can we also ask you a few quick questions about your children's behaviour?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+Are you a parent/caregiver of a child living with disabilities?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Is @fields.survey_behave_name a boy or girl?
+
+Please select the number for the following options:
+1. Boy
+2. Girl
+0. Prefer not to say
+arg list: boy
+arg: boy
+boy,1,
+arg list: girl
+arg: girl
+girl,2,
+arg list: not,prefer,say
+arg: not
+not,prefer,say,0,
+arg: prefer
+not,prefer,say,0,0,
+arg: say
+not,prefer,say,0,0,0,
+
+What is your relationship to @fields.survey_behave_name?
+
+Please select the number for the following options:
+1. Parent
+2. Grandparent
+3. Aunt/Uncle
+4. Foster Parent
+5. Other
+0. Prefer not to say
+arg: parent
+1,
+arg list: grandparent
+arg: grandparent
+grandparent,2,
+arg list: aunt,uncle,aunt/uncle
+arg: aunt
+aunt,uncle,aunt/uncle,3,
+arg: uncle
+aunt,uncle,aunt/uncle,3,3,
+arg: aunt/uncle
+aunt,uncle,aunt/uncle,3,3,3,
+arg list: foster
+arg: foster
+foster,4,
+arg list: other
+arg: other
+other,5,
+arg list: prefer,not,say
+arg: prefer
+prefer,not,say,0,
+arg: not
+prefer,not,say,0,0,
+arg: say
+prefer,not,say,0,0,0,
+
+We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about how you could support children with disabilities?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Help - Children*************************************
+
+How can we help you with your children?
+
+Please select the number for the following options:
+1. Things to do with my child
+2. Managing challenging behaviour
+3. Supporting your child emotionally
+4. Keeping your child safe
+5. Helping with schoolwork
+6. Talking about COVID-19
+7. How to respond to a crisis
+8. Supporting children with disabilities
+9. Information about child development
+0. Go back to the previous options
+arg list: things
+arg: things
+things,1,
+arg list: behaviour
+arg: behaviour
+behaviour,2,
+arg list: emotionally
+arg: emotionally
+emotionally,3,
+arg list: safe
+arg: safe
+safe,4,
+arg list: covid,covid19,covid-19
+arg: covid
+covid,covid19,covid-19,6,
+arg: covid19
+arg: covid-19
+covid,covid19,covid-19,6,6,
+arg list: crisis
+arg: crisis
+crisis,7,
+arg list: disabilities
+arg: disabilities
+disabilities,8,
+arg list: development
+arg: development
+development,9,
+arg list: back
+arg: back
+back,0,
+arg list: schoolwork
+arg: schoolwork
+schoolwork,5,
+
+How can we help you keep your children safe?
+
+Please select the number for the following options:
+1. Online safety
+2. Sexual abuse prevention
+3. Responding to crisis
+0. Go back to the previous options
+arg list: online
+arg: online
+online,1,
+arg list: sexual,abuse
+arg: sexual
+sexual,abuse,2,
+arg: abuse
+sexual,abuse,2,2,
+arg list: crisis
+arg: crisis
+crisis,3,
+arg list: back
+arg: back
+back,0,
+
+
+PLH - Content - Extra - Disability*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Rules - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Introductory - First received tip*************************************
+
+
+PLH - Help - Settings - Manage information user*************************************
+
+What would you like to update?
+
+Please select the number for the following options:
+1. Age
+2. Gender
+0. Go back to the previous options
+arg list: age
+arg: age
+age,1,
+arg list: gender
+arg: gender
+gender,2,
+arg list: back,no,n
+arg: back
+back,no,n,0,
+arg: no
+arg: n
+
+I am a...
+
+Please select the number for the following options:
+1. Male
+2. Female
+3. Other
+0. I prefer not to tell
+arg list: male
+arg: male
+male,1,
+arg list: female
+arg: female
+female,2,
+arg list: other
+arg: other
+other,3,
+arg list: prefer,not,n,no
+arg: prefer
+prefer,not,n,no,0,
+arg: not
+prefer,not,n,no,0,0,
+arg: n
+arg: no
+
+
+PLH - Content - Positive - Safe or unsafe touch - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would like to review them again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to learn more about how to protect your child from abuse?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Help - Settings - Message timing*************************************
+
+What would you like to do?
+
+Please select the number for the following options:
+1. Change the time of the day
+2. Receive tips more often
+0. Go back to the previous options
+arg list: time,day
+arg: time
+time,day,1,
+arg: day
+time,day,1,1,
+arg list: often,more
+arg: often
+often,more,2,
+arg: more
+often,more,2,2,
+arg list: back
+arg: back
+back,0,
+
+What would you like to do?
+
+Please select the number for the following options:
+1. Change the time of the day
+2. Receive tips less often (every other day)
+0. Go back to the previous options
+arg list: time,day
+arg: time
+time,day,1,
+arg: day
+time,day,1,1,
+time,day,1,1,2,
+arg list: less,often
+arg: less
+less,often,2,
+arg: often
+less,often,2,2,
+arg list: back
+arg: back
+back,0,
+
+
+PLH - Timed - Morning*************************************
+
+
+PLH - Timed - Main*************************************
+
+
+PLH - Timed - Evening*************************************
+
+
+PLH - Handler - Content - Evening*************************************
+
+
+PLH - Handler - Content - Morning*************************************
+
+
+PLH - Activity - Teen - Calm - Mirror*************************************
+
+
+PLH - Help - Settings - Type of media content*************************************
+
+Your current setting for receiving media content is: High - text, audios, images, videos (high data).
+Would you like to change it? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n,back
+arg: no
+no,n,back,0,
+arg: n
+arg: back
+
+Your current setting for receiving media content is: Medium - text, audios, images (low data).
+Would you like to change it?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,back,0
+arg: no
+no,n,back,0,0,
+arg: n
+arg: back
+arg: 0
+
+Your current setting for receiving media content is: Low - text only (almost no data).
+Would you like to change it?  
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1,1
+arg: yes
+yes,y,1,1,1,
+arg: y
+arg: 1
+arg: 1
+arg list: no,n,back,0,0
+arg: no
+no,n,back,0,0,0,
+arg: n
+arg: back
+arg: 0
+arg: 0
+
+How would you like your messages?
+
+Please select the number for the following options:
+1. Text only (almost no data)
+2. Text, audio, image (low data)
+3. Text, audio, image, video (high data)
+0. Go back to the previous options
+arg list: high,video
+arg: high
+high,video,3,
+arg: video
+high,video,3,3,
+arg list: low
+arg: low
+low,2,
+arg list: only
+arg: only
+only,1,
+arg list: back
+arg: back
+back,0,
+
+
+PLH - Activity - Teen - Active - Name that tune*************************************
+
+
+PLH - Content - Positive - Family - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Positive - Budget with children - Timed intro*************************************
+
+We know that you have already received this tip (well done!). Would you like to review it again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Activity - Teen - Calm - When COVID19 ends*************************************
+
+
+PLH - Picker - Choose difficult age*************************************
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Baby
+2. Other
+arg list: baby
+arg: baby
+baby,1,
+arg list: other
+arg: other
+other,2,
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Baby
+2. Teen
+3. Other
+arg list: baby
+arg: baby
+baby,1,
+arg list: teen,teenager
+arg: teen
+teen,teenager,2,
+arg: teenager
+arg list: other
+arg: other
+other,3,
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Teen
+2. Other
+arg list: teen,teenager
+arg: teen
+teen,teenager,1,
+arg: teenager
+arg list: other
+arg: other
+other,2,
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Young child
+2. Other
+arg list: young,child
+arg: young
+young,child,1,
+arg: child
+young,child,1,1,
+arg list: other
+arg: other
+other,2,
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Young child
+2. Teen
+3. Other
+arg list: young,child
+arg: young
+young,child,1,
+arg: child
+young,child,1,1,
+arg list: teen,teenager
+arg: teen
+teen,teenager,2,
+arg: teenager
+arg list: other
+arg: other
+other,3,
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Baby
+2. Young child
+3. Teen
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teen,teenager
+arg: teen
+teen,teenager,3,
+arg: teenager
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Baby
+2. Young child
+3. Other
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: other
+arg: other
+other,3,
+
+
+PLH - Help - Settings - Manage information*************************************
+
+Who would you like to change the information about?
+
+Please select the number for the following options:
+1. Yourself
+2. Your children
+0. Go back to the previous options
+arg list: yourself
+arg: yourself
+yourself,1,
+arg list: children
+arg: children
+children,2,
+arg list: back
+arg: back
+back,0,
+
+
+PLH - Activity - Teen - Active - Make housework fun*************************************
+
+
+PLH - Content - Relax - CheckIn - Loving Kindness*************************************
+
+Hi! How are you feeling?
+
+Please select the number for the following options:
+1. Great
+2. Okay
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: ok,okay
+arg: ok
+arg: okay
+ok,okay,2,
+arg list: bad
+arg: bad
+bad,3,
+
+
+PLH - Activity - Adult - Calm - A short pause*************************************
+
+
+test - PLH - Handler - Welcome*************************************
+
+
+PLH - Handler - Activity*************************************
+
+Who would you like an activity for?
+
+Please select the number for the following options:
+1. Baby (0-23 months)
+2. Young child (2-9 years)
+3. Teenager (10-17 years)
+4. Adult (18+ years)
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teenager
+arg: teenager
+teenager,3,
+arg list: adult
+arg: adult
+adult,4,
+
+Would you like to choose another activity?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Relax - CheckIn - Three is a magical number*************************************
+
+
+PLH - Content - Positive - Book sharing - Timed intro*************************************
+
+Would you like to learn more about how you can help your child develop through book sharing?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+We know that you have already received this tip (well done!). Would like to review them again?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,1
+arg: yes
+yes,y,1,1,
+arg: y
+arg: 1
+arg list: no,n,0
+arg: no
+no,n,0,0,
+arg: n
+arg: 0
+
+
+PLH - Content - Relax - Feedback*************************************
+
+
+PLH - Help - Settings - Language*************************************
+
+The language you are currently receiving messages in is "English".
+Would you like to change it?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n,back
+arg: no
+no,n,back,0,
+arg: n
+arg: back
+
+Which language would you like?
+
+Please select the number for the following options:
+1. English
+2. Malay
+3. Chinese
+arg list: e,english
+arg: e
+arg: english
+e,english,1,
+arg list: m,malay
+arg: m
+arg: malay
+m,malay,2,
+arg list: c,chinese
+arg: c
+arg: chinese
+c,chinese,3,
+
+
+PLH - Help - Settings - Leave the program*************************************
+
+
+PLH - Content - Relax - Anger management*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Help - Access toolkit*************************************
+
+Which parenting topics would you like to revisit?
+
+Type "back" if you want to go back to the Help menu.
+
+Please select the number for the following options:
+1. Skills in toolkit
+2. Incomplete skills
+arg list: toolkit
+arg: toolkit
+toolkit,1,
+arg list: incomplete
+arg: incomplete
+incomplete,2,
+arg list: back
+arg: back
+NO MATCH 
+
+Would you like to go back to the Help menu?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,back
+arg: yes
+yes,y,back,1,
+arg: y
+arg: back
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Budget with children*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want 4 quick steps to help you make a budget and save money with your children?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to receive Step 2? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to receive Step 3?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you want to receive Step 4?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Online children*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Family*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y,yep,sure,yeah
+arg: yes
+yes,y,yep,sure,yeah,1,
+arg: y
+arg: yep
+arg: sure
+arg: yeah
+arg list: no,not,n,nope
+arg: no
+no,not,n,nope,0,
+arg: not
+arg: n
+arg: nope
+
+
+PLH - Content - Extra - COVID*************************************
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Positive - Education*************************************
+
+Would you like to learn more about how to support your children with remote learning and returning to school?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Content - Extra - Behave*************************************
+
+Which child do you want tips for?
+
+Please select the number for the following options:
+1. Baby
+2. Young child
+3. Teen
+arg list: baby
+arg: baby
+baby,1,
+arg list: young,child
+arg: young
+young,child,2,
+arg: child
+young,child,2,2,
+arg list: teen,teenager
+arg: teen
+teen,teenager,3,
+arg: teenager
+
+Which behaviour is most like the one you want support for?
+
+Please select the number for the following options:
+1. Refuses to obey
+2. Temper tantrums
+3. Disrespectful behaviour
+4. Whining
+5. Hyperactivity, can’t sit still
+6. Hitting others
+7. Breaking things
+8. Fighting with others
+9. Teasing or bothering others
+0. Does not apply
+arg list: obey,Temper,tantrums,Disrespectful,Whining
+arg: obey
+obey,Temper,tantrums,Disrespectful,Whining,1,
+arg: Temper
+obey,Temper,tantrums,Disrespectful,Whining,1,2,
+arg: tantrums
+obey,Temper,tantrums,Disrespectful,Whining,1,2,2,
+arg: Disrespectful
+obey,Temper,tantrums,Disrespectful,Whining,1,2,2,3,
+arg: Whining
+obey,Temper,tantrums,Disrespectful,Whining,1,2,2,3,4,
+arg list: Hyperactivity,still
+arg: Hyperactivity
+Hyperactivity,still,5,
+arg: still
+Hyperactivity,still,5,5,
+arg list: Hitting,Breaking,Fighting,Teasing,bothering
+arg: Hitting
+Hitting,Breaking,Fighting,Teasing,bothering,6,
+arg: Breaking
+Hitting,Breaking,Fighting,Teasing,bothering,6,7,
+arg: Fighting
+Hitting,Breaking,Fighting,Teasing,bothering,6,7,8,
+arg: Teasing
+Hitting,Breaking,Fighting,Teasing,bothering,6,7,8,9,
+arg: bothering
+Hitting,Breaking,Fighting,Teasing,bothering,6,7,8,9,9,
+arg list: apply
+arg: apply
+apply,0,
+
+Which behaviour is most like the one you want support for?
+
+Please select the number for the following options:
+1. Refuses to obey
+2. Gets angry often
+3. Rudeness, disrespectful behaviour
+4. Irritable or frequent mood changes
+5. Does not follow rules
+6. Stubbornness
+7. Breaking things
+8. Fighting with others
+9. Teasing or bothering others
+0. Does not apply
+arg list: Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering
+arg: Refuses
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,
+arg: obey
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,
+arg: angry
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,
+arg: Rudeness
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,
+arg: disrespectful
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,
+arg: rules
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,5,
+arg: Stubbornness
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,5,6,
+arg: Breaking
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,5,6,7,
+arg: Fighting
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,5,6,7,8,
+arg: Teasing
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,5,6,7,8,9,
+arg: bothering
+Refuses,obey,angry,Rudeness,disrespectful,rules,Stubbornness,Breaking,Fighting,Teasing,bothering,1,1,2,3,3,5,6,7,8,9,9,
+arg list: Irritable,mood
+arg: Irritable
+Irritable,mood,4,
+arg: mood
+Irritable,mood,4,4,
+arg list: apply
+arg: apply
+apply,0,
+
+Which behaviour is most like the one you want support for?
+
+Please select the number for the following options:
+1. Crying a lot
+2. Problems sleeping
+3. Clingy
+4. Whining
+5. Bad tempered or moody
+6. Problems eating
+7. Stubborn or fussy
+0. Does not apply
+arg list: crying
+arg: crying
+crying,1,
+arg list: sleeping
+arg: sleeping
+sleeping,2,
+arg list: clingy
+arg: clingy
+clingy,3,
+arg list: Whining
+arg: Whining
+Whining,4,
+arg list: bad,tempered,moody
+arg: bad
+bad,tempered,moody,5,
+arg: tempered
+bad,tempered,moody,5,5,
+arg: moody
+bad,tempered,moody,5,5,5,
+arg list: eating
+arg: eating
+eating,6,
+arg list: stubborn,fussy
+arg: stubborn
+stubborn,fussy,7,
+arg: fussy
+stubborn,fussy,7,7,
+arg list: apply
+arg: apply
+apply,0,
+
+Which behaviour is most like the one you want support for?
+
+Please select the number for the following options:
+1. Crying a lot
+2. Problems sleeping
+3. Clingy
+4. Whining
+5. Bad tempered or moody
+6. Problems eating
+7. Stubborn or fussy
+8. Naughty behaviour
+9. Temper tantrums
+0. Does not apply
+arg list: crying
+arg: crying
+crying,1,
+arg list: sleeping
+arg: sleeping
+sleeping,2,
+arg list: clingy
+arg: clingy
+clingy,3,
+arg list: whining
+arg: whining
+whining,4,
+arg list: bad,tempered,moody
+arg: bad
+bad,tempered,moody,5,
+arg: tempered
+bad,tempered,moody,5,5,
+arg: moody
+bad,tempered,moody,5,5,5,
+arg list: eating
+arg: eating
+eating,6,
+arg list: stubborn,fussy
+arg: stubborn
+stubborn,fussy,7,
+arg: fussy
+stubborn,fussy,7,7,
+arg list: naughty
+arg: naughty
+naughty,8,
+arg list: temper,tantrums
+arg: temper
+temper,tantrums,9,
+arg: tantrums
+temper,tantrums,9,9,
+arg list: apply
+arg: apply
+apply,0,
+
+Which behaviour is most like the one you want support for?
+
+Please select the number for the following options:
+1. Crying a lot
+2. Problems sleeping
+3. Clingy
+0. Does not apply
+arg list: crying
+arg: crying
+crying,1,
+arg list: sleeping
+arg: sleeping
+sleeping,2,
+arg list: clingy
+arg: clingy
+clingy,3,
+arg list: apply
+arg: apply
+apply,0,
+
+Would you like suggestions for active and calm things to do with your child?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Do you need some ideas of what you can do with your child?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: Y,yes
+arg: Y
+arg: yes
+Y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Would you like to learn more about this tip?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: y,yes
+arg: y
+arg: yes
+y,yes,1,
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+
+PLH - Welcome - Entry*************************************
+
+Thanks so much! How would you like to receive your messages? You can always change this choice through the settings later:
+
+Please select the number for the following options:
+1. Text only (almost no data)
+2. Text, audio, image (low data)
+3. Text, audio, image, video (high data)
+arg list: video,high
+arg: video
+video,high,3,
+arg: high
+video,high,3,3,
+arg list: low
+arg: low
+low,2,
+arg list: only
+arg: only
+only,1,
+
+
+PLH - Help - Settings - Entry*************************************
+
+What would you like to change?
+
+Please select the number for the following options:
+1. Personal information
+2. User experience
+0. Go back to the previous options
+arg list: personal
+arg: personal
+personal,1,
+arg list: user
+arg: user
+user,2,
+arg list: back
+arg: back
+back,0,
+
+What would you like to change?
+Type "EXIT" to stop receiving messages.
+
+Please select the number for the following options:
+1. Message timing
+2. Type of media content
+3. Age group for tips
+4. Language
+0. Go back to the previous options
+arg list: time,timing
+arg: time
+arg: timing
+time,timing,1,
+arg list: media
+arg: media
+media,2,
+arg list: language
+arg: language
+language,4,
+arg list: age,group
+arg: age
+age,group,3,
+arg: group
+age,group,3,3,
+arg list: back
+arg: back
+back,0,
+arg list: exit
+arg: exit
+NO MATCH 
+
+Would you like to go back to tech support? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,not,n
+arg: no
+no,not,n,0,
+arg: not
+arg: n
+
+Would you like to go back to Help?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n,back
+arg: no
+no,n,back,0,
+arg: n
+arg: back
+
+
+PLH - Survey - Parenting*************************************
+
+Can we ask you a few questions to help these messages work better for you?  If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: YES,Y
+arg: YES
+YES,Y,1,
+arg: Y
+arg list: NO,N
+arg: NO
+NO,N,0,
+arg: N
+
+
+PLH - Activity - Baby - Active - Peek a boo*************************************
+
+
+PLH - Activity - Baby - Active - Funny faces*************************************
+
+
+PLH - Activity - Baby - Active - Mirror game*************************************
+
+
+PLH - Activity - Baby - Active - The sun is coming*************************************
+
+
+PLH - Activity - Baby - Active - Shakers*************************************
+
+
+PLH - Activity - Baby - Active - Down in a ditch*************************************
+
+
+PLH - Activity - Baby - Active - Musical Toes*************************************
+
+
+PLH - Activity - Baby - Calm - Lullaby*************************************
+
+
+PLH - Activity - Baby - Active - See it Be it*************************************
+
+
+PLH - Activity - Baby - Active - Dance party*************************************
+
+
+PLH - Activity - Baby - Active - Cooking together*************************************
+
+
+PLH - Handler - Content - Main*************************************
+
+
+PLH - Activity - Baby - Calm - At the end of the day*************************************
+
+
+PLH - Activity - Child - Active - Rain on the mountain*************************************
+
+
+PLH - Activity - Child - Active - Dance party*************************************
+
+
+PLH - Activity - Child - Calm - Listening to sounds*************************************
+
+
+PLH - Timed - Periodic - Congratulations*************************************
+
+
+PLH - Internal - Print parenting toolkits*************************************
+
+
+PLH - Internal - Update toolkits*************************************
+
+
+PLH - Internal - Update incomplete toolkits*************************************
+
+
+PLH - Internal - Update survey counters*************************************
+
+
+PLH - Internal - Print children age group string*************************************
+
+
+PLH - Handler - Welcome*************************************
+
+
+PLH - Welcome - Tips*************************************
+
+Thanks so much! Taking care of children can be difficult even in the best of times. We're here to help!
+
+What is the most difficult situation you have recently encountered as a parent?
+
+Please select the number for the following options:
+1. Things to do with my children
+2. Managing difficult child behaviour
+3. Talking about COVID-19
+4. Stress, loneliness, anger
+5. Money problems
+6. Helping with schoolwork
+7. Keeping children safe
+8. Conflict in the family
+9. Other issue
+arg list: difficult,behaviour
+arg: difficult
+difficult,behaviour,2,
+arg: behaviour
+difficult,behaviour,2,2,
+arg list: conflict,family
+arg: conflict
+conflict,family,8,
+arg: family
+conflict,family,8,8,
+arg list: stress,loneliness,anger
+arg: stress
+stress,loneliness,anger,4,
+arg: loneliness
+stress,loneliness,anger,4,4,
+arg: anger
+stress,loneliness,anger,4,4,4,
+arg list: money
+arg: money
+money,5,
+arg list: helping,schoolwork
+arg: helping
+helping,schoolwork,6,
+arg: schoolwork
+helping,schoolwork,6,6,
+arg list: keeping,safe,online
+arg: keeping
+keeping,safe,online,7,
+arg: safe
+keeping,safe,online,7,7,
+arg: online
+arg list: talking,covid
+arg: talking
+talking,covid,3,
+arg: covid
+talking,covid,3,3,
+arg list: things
+arg: things
+things,1,
+arg list: other
+arg: other
+other,9,
+
+
+PLH - Introductory - First message*************************************
+
+
+PLH - Content - Positive - CheckIn - Praise*************************************
+
+Did you praise your child during one-on-one time or any other time during the day? 
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Well done, great job for remembering. How did your child or teen respond?
+
+Please select the number for the following options:
+1. Surprised
+2. Happy
+3. My child did not like it
+4. I don't know
+arg list: surprised
+arg: surprised
+surprised,1,
+arg list: happy
+arg: happy
+happy,2,
+arg: My child did not like it
+arg list: I,don't,know
+arg: I
+I,don't,know,4,
+arg: don't
+I,don't,know,4,4,
+arg: know
+I,don't,know,4,4,4,
+
+
+PLH - Content - Positive - CheckIn - Instructions*************************************
+
+How are you doing with giving your child or teen instructions?
+
+Please select the number for the following options:
+1. Great
+2. Neutral
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: neutral,bad
+arg: neutral
+neutral,bad,2,
+arg: bad
+neutral,bad,2,3,
+
+What was your main challenge?
+
+Please select the number for the following options:
+1. My child or teen did not want to follow the instruction
+2. I gave a negative instead of a positive instruction
+3. I gave too many instructions at once
+4. My child or teen could not do what I asked them
+5. I forgot to praise my child or teen for following my instruction
+arg: My child or teen did not want to follow the instruction
+arg: I gave a negative instead of a positive instruction
+arg: I gave too many instructions at once
+arg: My child or teen could not do what I asked them
+arg: I forgot to praise my child or teen for following my instruction
+
+
+PLH - Content - Positive - CheckIn - Emotions*************************************
+
+Have you noticed and shared emotions with your child or teen recently? How did it make you feel?
+
+Please select the number for the following options:
+1. Great
+2. Neutral
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: neutral,bad
+arg: neutral
+neutral,bad,2,
+arg: bad
+neutral,bad,2,3,
+
+What was difficult for you about sharing emotions with your child or teen?
+
+Please select the number for the following options:
+1. I am afraid my child or teen will think I am weak
+2. I felt uncomfortable to name specific difficult emotions
+3. My child or teen felt uncomfortable when I shared my emotions
+4. My child or teen asked many questions when I shared my emotions, which made me uncomfortable
+5. I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that
+arg: I am afraid my child or teen will think I am weak
+arg: I felt uncomfortable to name specific difficult emotions
+arg: My child or teen felt uncomfortable when I shared my emotions
+arg: My child or teen asked many questions when I shared my emotions, which made me uncomfortable
+arg: I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that
+
+
+PLH - Content - Positive - CheckIn - Rules*************************************
+
+Did you manage to establish ONE rule or daily routine together with your child or teen?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+Great to hear it this! Remember, the more we involve our children in setting rules, the more our children will be likely to follow them!
+
+Did you have any challenges when trying to establish a rule or routine together?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n
+
+What was difficult for you about establishing a rule or routine with your child or teen?
+
+Please select the number for the following options:
+1. My child or teen could not agree on one specific rule or routine
+2. My children felt it was unfair that they have to follow the rule while I don’t have to follow it
+3. I felt uncomfortable because I feel I should be the one establishing the rule not my child or teen
+4. My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen
+arg: My child or teen could not agree on one specific rule or routine
+arg: My children felt it was unfair that they have to follow the rule while I don’t have to follow it
+arg: I felt uncomfortable because I feel I should be the one establishing the rule not my child or teen
+arg: My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen
+
+
+PLH - Content - Positive - CheckIn - Consequences*************************************
+
+Have you been able to use consequences for not following instructions or forgetting household rules with your child or teen? How has it been?
+
+Please select the number for the following options:
+1. Great
+2. Neutral
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: neutral,bad
+arg: neutral
+neutral,bad,2,
+arg: bad
+neutral,bad,2,3,
+
+What was difficult about using consequences?
+
+Please select the number for the following options:
+1. I got very angry with my child or teen and yelled at them
+2. I forgot to give my child or teen a choice to comply before giving the consequence
+3. My child or teen got very angry with me after I gave the consequence
+4. My child or teen complained that the consequence was not fair
+5. I forgot to follow through with the consequence
+6. I am giving too many consequences all the time
+arg: I got very angry with my child or teen and yelled at them
+arg: I forgot to give my child or teen a choice to comply before giving the consequence
+arg: My child or teen got very angry with me after I gave the consequence
+arg: My child or teen complained that the consequence was not fair
+arg: I forgot to follow through with the consequence
+arg: I am giving too many consequences all the time
+
+
+PLH - Content - Positive - CheckIn - Ignore*************************************
+
+Have you been able to ignore your child's tantrums or other negative demanding behaviours? How has it been?
+
+Please select the number for the following options:
+1. Great
+2. Neutral
+3. Bad
+arg list: great
+arg: great
+great,1,
+arg list: neutral,bad
+arg: neutral
+neutral,bad,2,
+arg: bad
+neutral,bad,2,3,
+
+What was difficult about using ignore?
+
+Please select the number for the following options:
+1. It was hard to stay calm while ignoring my child's tantrum
+2. I struggled to be consistent and gave into their demands
+3. I am concerned about my child or someone else getting hurt
+4. I am having to ignore my child's behaviour all the time
+arg: It was hard to stay calm while ignoring my child's tantrum
+arg: I struggled to be consistent and gave into their demands
+arg: I am concerned about my child or someone else getting hurt
+arg: I am having to ignore my child's behaviour all the time
+
+
+PLH - Feedback - Feedback for checkIn*************************************
+
+
+PLH - Supportive - Children reminder*************************************
+
+Would you like a suggestion for an activity to do with your children?
+
+Please select the number for the following options:
+1. Yes
+0. No
+arg list: yes,y
+arg: yes
+yes,y,1,
+arg: y
+arg list: no,n
+arg: no
+no,n,0,
+arg: n

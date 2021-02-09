@@ -1,0 +1,2878 @@
+[
+  {
+    "SourceText": "How helpful was this tip?",
+    "text": "How helpful was this tip?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have these relaxation activities helped reduce the stress in your life?",
+    "text": "Have these relaxation activities helped reduce the stress in your life?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How helpful was this activity?",
+    "text": "How helpful was this activity?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Sorry, I don't understand what you mean.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for the feedback!",
+    "text": "Thank you for the feedback!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Who would you like an activity for?",
+    "text": "Who would you like an activity for?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry I don't understand what you mean.",
+    "text": "Sorry I don't understand what you mean.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to choose another activity?",
+    "text": "Would you like to choose another activity?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's okay! Here is a great resource from LEGO of more activities that you can do with your children!",
+    "text": "That's okay! Here is a great resource from LEGO of more activities that you can do with your children!",
+    "type": "text"
+  },
+  {
+    "SourceText": "https://playlist.legofoundation.com/all-activities/",
+    "text": "https://playlist.legofoundation.com/all-activities/",
+    "type": "text"
+  },
+  {
+    "SourceText": "Chat to you later!",
+    "text": "Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "What kind of activity do you want?",
+    "text": "What kind of activity do you want?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What kind of activity do you want for your baby?",
+    "text": "What kind of activity do you want for your baby?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What kind of activity do you want for your teen?",
+    "text": "What kind of activity do you want for your teen?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What kind of activity do you want for your child?",
+    "text": "What kind of activity do you want for your child?",
+    "type": "text"
+  },
+  {
+    "SourceText": "It looks like you are busy right now. Please type “GoBack” to receive the most recent messages again.",
+    "text": "It looks like you are busy right now. Please type “GoBack” to receive the most recent messages again.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It looks like you are busy right now. You can always type \"GoBack\" to restart this parenting tip or \"Help\" for other support.",
+    "text": "It looks like you are busy right now. You can always type \"GoBack\" to restart this parenting tip or \"Help\" for other support.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which parenting topics would you like to revisit?",
+    "text": "Which parenting topics would you like to revisit?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"back\" if you want to go back to the Help menu.",
+    "text": "Type \"back\" if you want to go back to the Help menu.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have the following completed skills in your Parenting Toolkit:",
+    "text": "You have the following completed skills in your Parenting Toolkit:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have made progress on the following skills:",
+    "text": "You have made progress on the following skills:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You don't have any incomplete skill.",
+    "text": "You don't have any incomplete skill.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You don't have any completed skill in your parenting toolkit yet.",
+    "text": "You don't have any completed skill in your parenting toolkit yet.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type the number corresponding to the skill to receive messages about this topic again. ",
+    "text": "Type the number corresponding to the skill to receive messages about this topic again. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"back\" if you want to go back to the previous options.",
+    "text": "Type \"back\" if you want to go back to the previous options.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please reply with a number between 1 and @results.n_skills for receiving messages about that topic again. ",
+    "text": "Sorry, I don't understand what you mean. Please reply with a number between 1 and @results.n_skills for receiving messages about that topic again. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+  },
+  {
+    "SourceText": "Type the number corresponding to the skill to complete it for your Parenting Toolkit. ",
+    "text": "Type the number corresponding to the skill to complete it for your Parenting Toolkit. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please reply with a number between 1 and @results.n_skills for completing the corresponding skill.",
+    "text": "Sorry, I don't understand what you mean. Please reply with a number between 1 and @results.n_skills for completing the corresponding skill.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+  },
+  {
+    "SourceText": " ",
+    "text": " ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to go back to the Help menu?",
+    "text": "Would you like to go back to the Help menu?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How can we help you with your children?",
+    "text": "How can we help you with your children?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How can we help you keep your children safe?",
+    "text": "How can we help you keep your children safe?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here are some useful numbers in Malaysia:",
+    "text": "Here are some useful numbers in Malaysia:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Police: 999",
+    "text": "Police: 999",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ambulance: 999",
+    "text": "Ambulance: 999",
+    "type": "text"
+  },
+  {
+    "SourceText": "Violence at home: Talian Bantuan WAO  03-7956 3488 or WhatsApp to 018 988 8058 or Talian Kasih 15999",
+    "text": "Violence at home: Talian Bantuan WAO  03-7956 3488 or WhatsApp to 018 988 8058 or Talian Kasih 15999",
+    "type": "text"
+  },
+  {
+    "SourceText": "Drug: Hotline AADK : 03 8911 2233 / 019 626 2233 www.adk.gov.my",
+    "text": "Drug: Hotline AADK : 03 8911 2233 / 019 626 2233 www.adk.gov.my",
+    "type": "text"
+  },
+  {
+    "SourceText": "Childline: Talian Kasih 15999",
+    "text": "Childline: Talian Kasih 15999",
+    "type": "text"
+  },
+  {
+    "SourceText": "Lifeline (Counselling): Talian Kasih 15999",
+    "text": "Lifeline (Counselling): Talian Kasih 15999",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please type \"back\" if you want to go back to the previous options.",
+    "text": "Please type \"back\" if you want to go back to the previous options.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What do you need help with?",
+    "text": "What do you need help with?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. ",
+    "text": "Sorry, I don't understand what you mean. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What would you like to change?",
+    "text": "What would you like to change?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"EXIT\" to stop receiving messages.",
+    "text": "Type \"EXIT\" to stop receiving messages.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to go back to tech support? ",
+    "text": "Would you like to go back to tech support? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to go back to Help?",
+    "text": "Would you like to go back to Help?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ok, thanks. Chat to you later!",
+    "text": "Ok, thanks. Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "How can we help you?",
+    "text": "How can we help you?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.",
+    "text": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
+    "text": "Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of a baby (0 to 23 months old).",
+    "text": "You told us that you are a parent/caregiver of a baby (0 to 23 months old).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of a baby (0 to 23 months old) and teenager (10 to 17 years).",
+    "text": "You told us that you are a parent/caregiver of a baby (0 to 23 months old) and teenager (10 to 17 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of a teenager (10 to 17 years).",
+    "text": "You told us that you are a parent/caregiver of a teenager (10 to 17 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of a young child (2 to 9 years).",
+    "text": "You told us that you are a parent/caregiver of a young child (2 to 9 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of a young child (2 to 9 years) and teenager (10 to 17 years).",
+    "text": "You told us that you are a parent/caregiver of a young child (2 to 9 years) and teenager (10 to 17 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of baby (0 to 23 months old) and young child (2 to 9 years).",
+    "text": "You told us that you are a parent/caregiver of baby (0 to 23 months old) and young child (2 to 9 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a parent/caregiver of a baby (0 to 23 months old), young child (2 to 9 years) and teenager (10 to 17 years).",
+    "text": "You told us that you are a parent/caregiver of a baby (0 to 23 months old), young child (2 to 9 years) and teenager (10 to 17 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "@results.count  One-on-one time",
+    "text": "@results.count  One-on-one time",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Taking a Pause",
+    "text": "@results.count  Taking a Pause",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Managing anger",
+    "text": "@results.count  Managing anger",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Giving positive instructions",
+    "text": "@results.count  Giving positive instructions",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Praising your children",
+    "text": "@results.count  Praising your children",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Establishing daily routines",
+    "text": "@results.count  Establishing daily routines",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Setting household rules",
+    "text": "@results.count  Setting household rules",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Redirecting behaviour",
+    "text": "@results.count  Redirecting behaviour",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Using appropriate consequences",
+    "text": "@results.count  Using appropriate consequences",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Shared reading",
+    "text": "@results.count  Shared reading",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Ignoring demanding behaviours",
+    "text": "@results.count  Ignoring demanding behaviours",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Solving problems with your teen",
+    "text": "@results.count  Solving problems with your teen",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Keeping your child safe online",
+    "text": "@results.count  Keeping your child safe online",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Coping with crying",
+    "text": "@results.count  Coping with crying",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Giving emotional support",
+    "text": "@results.count  Giving emotional support",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Responding to crises",
+    "text": "@results.count  Responding to crises",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Understanding safe/unsafe touch",
+    "text": "@results.count  Understanding safe/unsafe touch",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Making a happy and peaceful home",
+    "text": "@results.count  Making a happy and peaceful home",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Family budgeting",
+    "text": "@results.count  Family budgeting",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Talking about COVID19",
+    "text": "@results.count  Talking about COVID19",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Supporting children with disabilities",
+    "text": "@results.count  Supporting children with disabilities",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Child Development",
+    "text": "@results.count  Child Development",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Helping your children learn",
+    "text": "@results.count  Helping your children learn",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "@results.count  Keeping healthy",
+    "text": "@results.count  Keeping healthy",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "Sorry, you don't have anything to go back to! If you want to revisit any of the parenting tips, please type \"Help\". ",
+    "text": "Sorry, you don't have anything to go back to! If you want to revisit any of the parenting tips, please type \"Help\". ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which child do you want tips for?",
+    "text": "Which child do you want tips for?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The age group you are currently receiving parenting tips for is: Baby (0 to 23 months old).",
+    "text": "The age group you are currently receiving parenting tips for is: Baby (0 to 23 months old).",
+    "type": "text"
+  },
+  {
+    "SourceText": "The age group you are currently receiving parenting tips for is: Teenager (10 to 17 years).",
+    "text": "The age group you are currently receiving parenting tips for is: Teenager (10 to 17 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "The age group you are currently receiving parenting tips for is: Young child (2 to 9 years).",
+    "text": "The age group you are currently receiving parenting tips for is: Young child (2 to 9 years).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to receive parenting tips for another age group? ",
+    "text": "Would you like to receive parenting tips for another age group? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which age group would you like to receive parenting tips for? ",
+    "text": "Which age group would you like to receive parenting tips for? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "The language you are currently receiving messages in is \"English\".",
+    "text": "The language you are currently receiving messages in is \"English\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to change it?",
+    "text": "Would you like to change it?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which language would you like?",
+    "text": "Which language would you like?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you sure you want to Exit? If you do not want to receive any more messages, please type \"STOP MESSAGES.\"",
+    "text": "Are you sure you want to Exit? If you do not want to receive any more messages, please type \"STOP MESSAGES.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you made a mistake, please type \"back\" and choose another option.",
+    "text": "If you made a mistake, please type \"back\" and choose another option.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Okay thanks! If you ever want to sign up for parenting messages, type \"MoreTips\". We are here to help!",
+    "text": "Okay thanks! If you ever want to sign up for parenting messages, type \"MoreTips\". We are here to help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Who would you like to change the information about?",
+    "text": "Who would you like to change the information about?",
+    "type": "text"
+  },
+  {
+    "SourceText": "You didn't tell us the age of your children. ",
+    "text": "You didn't tell us the age of your children. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have not selected an age group for receiving parenting tips yet.",
+    "text": "You have not selected an age group for receiving parenting tips yet.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What would you like to do?",
+    "text": "What would you like to do?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which age group would you like to receive parenting tips for? Please type",
+    "text": "Which age group would you like to receive parenting tips for? Please type",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are @fields.age years old.",
+    "text": "You told us that you are @fields.age years old.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "You did not tell us your age.",
+    "text": "You did not tell us your age.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a male.",
+    "text": "You told us that you are a male.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You did not tell us your gender.",
+    "text": "You did not tell us your gender.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You indicated \"other\" gender.",
+    "text": "You indicated \"other\" gender.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a female.",
+    "text": "You told us that you are a female.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What would you like to update?",
+    "text": "What would you like to update?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am a...",
+    "text": "I am a...",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is your age? Please reply with the number only. Example: 28",
+    "text": "What is your age? Please reply with the number only. Example: 28",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you don't want to tell us your age, that's okay. Please type \"N\"",
+    "text": "If you don't want to tell us your age, that's okay. Please type \"N\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "This looks too old. Please reply with the number only. Example: 28.",
+    "text": "This looks too old. Please reply with the number only. Example: 28.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry I don't understand what you mean. Please reply with the number only. Example: 28. ",
+    "text": "Sorry I don't understand what you mean. Please reply with the number only. Example: 28. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "This looks too young. Please reply with the number only. Example: 28.",
+    "text": "This looks too young. Please reply with the number only. Example: 28.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are currently receiving messages every day at @fields.morning_time_of_day, @fields.main_time_of_day and @fields.evening_time_of_day.",
+    "text": "You are currently receiving messages every day at @fields.morning_time_of_day, @fields.main_time_of_day and @fields.evening_time_of_day.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "You receive new parenting tips every day at @fields.main_time_of_day.",
+    "text": "You receive new parenting tips every day at @fields.main_time_of_day.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "You receive new parenting tips every other day at @fields.main_time_of_day.",
+    "text": "You receive new parenting tips every other day at @fields.main_time_of_day.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "*missing*",
+    "text": "*missing*",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your current setting for receiving media content is: High - text, audios, images, videos (high data).",
+    "text": "Your current setting for receiving media content is: High - text, audios, images, videos (high data).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to change it? ",
+    "text": "Would you like to change it? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your current setting for receiving media content is: Medium - text, audios, images (low data).",
+    "text": "Your current setting for receiving media content is: Medium - text, audios, images (low data).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your current setting for receiving media content is: Low - text only (almost no data).",
+    "text": "Your current setting for receiving media content is: Low - text only (almost no data).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to change it?  ",
+    "text": "Would you like to change it?  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How would you like your messages?",
+    "text": "How would you like your messages?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Would you like to learn more about how to talk to your children about COVID-19?",
+    "text": "Hi! Would you like to learn more about how to talk to your children about COVID-19?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's okay! You can always get more information by typing \"Help\". Chat later!",
+    "text": "That's okay! You can always get more information by typing \"Help\". Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Would you like to learn more about your children's development?",
+    "text": "Hi! Would you like to learn more about your children's development?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Would you like to learn more about how you could support children with disabilities?",
+    "text": "Hi! Would you like to learn more about how you could support children with disabilities?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Would you like to learn more about how to resolve conflicts in the family?",
+    "text": "Hi! Would you like to learn more about how to resolve conflicts in the family?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+    "text": "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be much more fun doing something with another person than doing it by yourself.  ",
+    "text": "It can be much more fun doing something with another person than doing it by yourself.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a link to the messages that you can share with a friend!",
+    "text": "Here is a link to the messages that you can share with a friend!",
+    "type": "text"
+  },
+  {
+    "SourceText": "*insert link*",
+    "text": "*insert link*",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have made it through your first week. How time flies! ",
+    "text": "Congratulations! You have made it through your first week. How time flies! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have made it through another week!",
+    "text": "Congratulations! You have made it through another week!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations for finishing the ParenText programme! ",
+    "text": "Congratulations for finishing the ParenText programme! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can always revisit the parenting tips by typing \"Help\". If you want to stop receiving messages, go to \"Technical Support\" and then select \"User Experience\".",
+    "text": "You can always revisit the parenting tips by typing \"Help\". If you want to stop receiving messages, go to \"Technical Support\" and then select \"User Experience\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have added one skill to your Parenting Toolkit this week:",
+    "text": "You have added one skill to your Parenting Toolkit this week:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have added @results.n_skills_week skills to your Parenting Toolkit this week:",
+    "text": "You have added @results.n_skills_week skills to your Parenting Toolkit this week:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+  },
+  {
+    "SourceText": "You also have made progress on the following skills: ",
+    "text": "You also have made progress on the following skills: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"Toolkit\" if you want to go back and revisit any of these tips.",
+    "text": "Type \"Toolkit\" if you want to go back and revisit any of these tips.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+    "text": "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+    "text": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can we also ask you a few quick questions about your children's behaviour?",
+    "text": "Can we also ask you a few quick questions about your children's behaviour?",
+    "type": "text"
+  },
+  {
+    "SourceText": "All children misbehave sometimes. So that we can give you the right information, please tell us the name or nickname of the child who you are having the most difficulties with.",
+    "text": "All children misbehave sometimes. So that we can give you the right information, please tell us the name or nickname of the child who you are having the most difficulties with.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is okay if this is not a good time. We will try again tomorrow. Chat later!",
+    "text": "It is okay if this is not a good time. We will try again tomorrow. Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is okay if this is not a good time. Chat later!",
+    "text": "It is okay if this is not a good time. Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Is @fields.survey_behave_name a boy or girl?",
+    "text": "Is @fields.survey_behave_name a boy or girl?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "How old is @fields.survey_behave_name in years? Please reply with a number between 0 and 17.",
+    "text": "How old is @fields.survey_behave_name in years? Please reply with a number between 0 and 17.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "This looks too old. ",
+    "text": "This looks too old. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many months old is @fields.survey_behave_name? Please enter a number between 0 and 23.",
+    "text": "How many months old is @fields.survey_behave_name? Please enter a number between 0 and 23.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "What is your relationship to @fields.survey_behave_name?",
+    "text": "What is your relationship to @fields.survey_behave_name?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "All children behave badly sometimes. Here are a list of typical behaviours that can challenging for parents:",
+    "text": "All children behave badly sometimes. Here are a list of typical behaviours that can challenging for parents:",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Crying a lot",
+    "text": "1. Crying a lot",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Problems sleeping",
+    "text": "2. Problems sleeping",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Acting clingy",
+    "text": "3. Acting clingy",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Whining for things",
+    "text": "4. Whining for things",
+    "type": "text"
+  },
+  {
+    "SourceText": "5. Bad tempered or moody",
+    "text": "5. Bad tempered or moody",
+    "type": "text"
+  },
+  {
+    "SourceText": "6. Problems eating",
+    "text": "6. Problems eating",
+    "type": "text"
+  },
+  {
+    "SourceText": "7. Stubborn or fussy",
+    "text": "7. Stubborn or fussy",
+    "type": "text"
+  },
+  {
+    "SourceText": "8. Behaving naughty",
+    "text": "8. Behaving naughty",
+    "type": "text"
+  },
+  {
+    "SourceText": "9. Temper tantrums",
+    "text": "9. Temper tantrums",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please type the number that describes the most challenging behaviour for you to manage with @fields.survey_behave_name. You can also type \"N\" if you do not want to answer. ",
+    "text": "Please type the number that describes the most challenging behaviour for you to manage with @fields.survey_behave_name. You can also type \"N\" if you do not want to answer. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "1. Refuse to obey instructions",
+    "text": "1. Refuse to obey instructions",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Gets angry a lot",
+    "text": "2. Gets angry a lot",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Rudeness, disrespectful behaviour",
+    "text": "3. Rudeness, disrespectful behaviour",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Irritable, frequent mood changes",
+    "text": "4. Irritable, frequent mood changes",
+    "type": "text"
+  },
+  {
+    "SourceText": "5. Does not follow rules",
+    "text": "5. Does not follow rules",
+    "type": "text"
+  },
+  {
+    "SourceText": "6. Stubbornness",
+    "text": "6. Stubbornness",
+    "type": "text"
+  },
+  {
+    "SourceText": "7. Breaking things",
+    "text": "7. Breaking things",
+    "type": "text"
+  },
+  {
+    "SourceText": "8. Getting into fights",
+    "text": "8. Getting into fights",
+    "type": "text"
+  },
+  {
+    "SourceText": "9. Teasing or bothering others",
+    "text": "9. Teasing or bothering others",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Temper tantrums",
+    "text": "2. Temper tantrums",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Disrespectful behaviour",
+    "text": "3. Disrespectful behaviour",
+    "type": "text"
+  },
+  {
+    "SourceText": "5. Hyperactivity, can't sit still",
+    "text": "5. Hyperactivity, can't sit still",
+    "type": "text"
+  },
+  {
+    "SourceText": "6. Hitting others",
+    "text": "6. Hitting others",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please type a number between 1 and 9.  You can also type \"N\" if you do not want to answer. ",
+    "text": "Sorry, I don't understand what you mean. Please type a number between 1 and 9.  You can also type \"N\" if you do not want to answer. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How challenging is this problem on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "How challenging is this problem on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please type a number between 0 and 8.",
+    "text": "Sorry, I don't understand what you mean. Please type a number between 0 and 8.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?",
+    "text": "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are doing much better than most people. Keep investing in One-on-One Time with your child!",
+    "text": "You are doing much better than most people. Keep investing in One-on-One Time with your child!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions. ",
+    "text": "Thanks so much for answering these questions. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Be gentle with yourself. Just because something didn’t go well today, or you lost your temper, this doesn’t define who you are as a parent. Remind yourself of the things you did well today, even if they may seem small.",
+    "text": "Be gentle with yourself. Just because something didn’t go well today, or you lost your temper, this doesn’t define who you are as a parent. Remind yourself of the things you did well today, even if they may seem small.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember that we are here to help. Type \"Help\" if you ever want more parenting tips or other assistance. Chat later!",
+    "text": "Remember that we are here to help. Type \"Help\" if you ever want more parenting tips or other assistance. Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a parent/caregiver of a baby (0 to 23 months)? ",
+    "text": "Are you a parent/caregiver of a baby (0 to 23 months)? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a parent/caregiver of a young child (2 to 9 years)?",
+    "text": "Are you a parent/caregiver of a young child (2 to 9 years)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a parent/caregiver of a teenager (10 to 17 years)? ",
+    "text": "Are you a parent/caregiver of a teenager (10 to 17 years)? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! We are delighted that you have signed up for these messages. It shows that you care!",
+    "text": "Hi! We are delighted that you have signed up for these messages. It shows that you care!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can we ask you 2 quick questions about COVID-19 in your area?",
+    "text": "Can we ask you 2 quick questions about COVID-19 in your area?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which is most like your experience?",
+    "text": "Which is most like your experience?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks! ",
+    "text": "Thanks! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How has COVID-19 affected your family? You can choose multiple options with a space in between each (e.g., 1 2 5):",
+    "text": "How has COVID-19 affected your family? You can choose multiple options with a space in between each (e.g., 1 2 5):",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Someone in my family has had COVID-19 symptoms (e.g., dry cough, fatigue, headache, high temperature, loss of smell or taste)",
+    "text": "1. Someone in my family has had COVID-19 symptoms (e.g., dry cough, fatigue, headache, high temperature, loss of smell or taste)",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Someone in my family has died from COVID-19",
+    "text": "2. Someone in my family has died from COVID-19",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. My family has been experiencing financial stress due to COVID-19",
+    "text": "3. My family has been experiencing financial stress due to COVID-19",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. My family has been experiencing emotional stress due to COVID-19",
+    "text": "4. My family has been experiencing emotional stress due to COVID-19",
+    "type": "text"
+  },
+  {
+    "SourceText": "5. My family has not been negatively affected by COVID-19",
+    "text": "5. My family has not been negatively affected by COVID-19",
+    "type": "text"
+  },
+  {
+    "SourceText": "6. Other",
+    "text": "6. Other",
+    "type": "text"
+  },
+  {
+    "SourceText": "0. Prefer not to answer",
+    "text": "0. Prefer not to answer",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions. We really appreciate it especially since COVID-19 has been a very difficult time for many families. ",
+    "text": "Thanks so much for answering these questions. We really appreciate it especially since COVID-19 has been a very difficult time for many families. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember that you are not alone and that we are here to help. Just type \"Help\" at anytime.",
+    "text": "Remember that you are not alone and that we are here to help. Just type \"Help\" at anytime.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are your children currently going to school/daycare? ",
+    "text": "Are your children currently going to school/daycare? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is normal to feel overwhelmed or stressed about how your children's education during this time. Would you like to learn more about how to support your children with remote learning and returning to school?",
+    "text": "It is normal to feel overwhelmed or stressed about how your children's education during this time. Would you like to learn more about how to support your children with remote learning and returning to school?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+    "text": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can we ask you a few questions? If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
+    "text": "Can we ask you a few questions? If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you!",
+    "text": "Thank you!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions! We really appreciate it.",
+    "text": "Thanks so much for answering these questions! We really appreciate it.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We would also like to know how you are doing with @fields.survey_behave_name. ",
+    "text": "We would also like to know how you are doing with @fields.survey_behave_name. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was crying a lot. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was crying a lot. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems sleeping. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems sleeping. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was whining for things. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was whining for things. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was acting clingy. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was acting clingy. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being bad tempered or moody. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being bad tempered or moody. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems eating. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems eating. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being stubborn or fussy. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being stubborn or fussy. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was naughty behaviour. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was naughty behaviour. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was temper tantrums. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was temper tantrums. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was refusing to obey instructions. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was refusing to obey instructions. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hyperactivity. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hyperactivity. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being disrespectful. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being disrespectful. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hitting others. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hitting others. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was breaking things. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was breaking things. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting into fights. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting into fights. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was teasing or bothering others. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was teasing or bothering others. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting angry a lot. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting angry a lot. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was rudeness, disrespectful behaviour. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was rudeness, disrespectful behaviour. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being irritable, having frequent mood changes. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being irritable, having frequent mood changes. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was not following rules. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was not following rules. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was stubbornness. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was stubbornness. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please answer with a number between 0 and 8.",
+    "text": "Sorry, I don't understand what you mean. Please answer with a number between 0 and 8.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! It looks like you able to manage this behavior even though it is difficult. Keep it up!",
+    "text": "Well done! It looks like you able to manage this behavior even though it is difficult. Keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour? ",
+    "text": "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! This is an improvement from last week! You are making great progress. Keep it up!",
+    "text": "Well done! This is an improvement from last week! You are making great progress. Keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which parenting tip has been the most useful to you?",
+    "text": "Which parenting tip has been the most useful to you?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions! We really appreciate it. Remember you can always get more tips or extra help by typing \"Help\". Chat later!",
+    "text": "Thanks so much for answering these questions! We really appreciate it. Remember you can always get more tips or extra help by typing \"Help\". Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a very stressful time for families. How many times in the past week did you feel very stressed as a parent/caregiver? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "text": "This is a very stressful time for families. How many times in the past week did you feel very stressed as a parent/caregiver? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you don't want to answer, please type 99.",
+    "text": "If you don't want to answer, please type 99.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please reply with a number between 0 and 8.",
+    "text": "Sorry, I don't understand what you mean. Please reply with a number between 0 and 8.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that this is a stressful time. Remember that you are not alone. We are here to help!",
+    "text": "We understand that this is a stressful time. Remember that you are not alone. We are here to help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Did you know that you are less stressed than you were last week? Amazing!",
+    "text": "Did you know that you are less stressed than you were last week? Amazing!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is hard to find time to have fun with your children. How many times in the past week did you do something fun together? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "text": "It is hard to find time to have fun with your children. How many times in the past week did you do something fun together? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! Spending time with your child is the best gift you can give them. Keep it up!",
+    "text": "Well done! Spending time with your child is the best gift you can give them. Keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Looks like you are really busy, but give yourself credit for trying. Even 5 minutes a day can make a BIG difference!",
+    "text": "Looks like you are really busy, but give yourself credit for trying. Even 5 minutes a day can make a BIG difference!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is so stressful when children misbehave. How many times in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "text": "It is so stressful when children misbehave. How many times in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "type": "text"
+  },
+  {
+    "SourceText": "It sounds like you are having have a difficult time with your child. This can be really hard so be patient with yourself. Try to take a pause (even one deep breath!) next time and respond differently. You can do it!",
+    "text": "It sounds like you are having have a difficult time with your child. This can be really hard so be patient with yourself. Try to take a pause (even one deep breath!) next time and respond differently. You can do it!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! Learning new ways of responding to your children when they misbehave will make a BIG difference in the way they learn how to resolve conflicts as they get older.",
+    "text": "Well done! Learning new ways of responding to your children when they misbehave will make a BIG difference in the way they learn how to resolve conflicts as they get older.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes our children make us really upset. How many times in the past week did you shout, scream, or yell at your children? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "text": "Sometimes our children make us really upset. How many times in the past week did you shout, scream, or yell at your children? (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! Brain science shows if you control your anger when your child misbehaves, you increase your child's brain development. Be proud of yourself when you manage to do it! ",
+    "text": "Well done! Brain science shows if you control your anger when your child misbehaves, you increase your child's brain development. Be proud of yourself when you manage to do it! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be difficult to control our anger, especially when they make us really angry. Try to take a pause (even one deep breath!) next time and respond differently. You can do it!",
+    "text": "It can be difficult to control our anger, especially when they make us really angry. Try to take a pause (even one deep breath!) next time and respond differently. You can do it!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can sometimes be difficult to have a positive relationship with our children. How confident do you feel about your ability as a parent/caregiver to have a positive relationship with your children? (0=not confident to 8=extremely confident)",
+    "text": "It can sometimes be difficult to have a positive relationship with our children. How confident do you feel about your ability as a parent/caregiver to have a positive relationship with your children? (0=not confident to 8=extremely confident)",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all want to keep our children safe. How confident do you feel you are to protect your child from sexual abuse online or in-person? (0=not confident to 8=extremely confident)",
+    "text": "We all want to keep our children safe. How confident do you feel you are to protect your child from sexual abuse online or in-person? (0=not confident to 8=extremely confident)",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is so wonderful to hear that you are able to maintain a positive relationship with your children. They really benefit from having you as a source of love and support in their lives.",
+    "text": "It is so wonderful to hear that you are able to maintain a positive relationship with your children. They really benefit from having you as a source of love and support in their lives.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Having a positive relationship with our children can be difficult, especially during stressful times. You might want to try spending a little more One-on-One Time with your child. It will show them that they are valued and loved.",
+    "text": "Having a positive relationship with our children can be difficult, especially during stressful times. You might want to try spending a little more One-on-One Time with your child. It will show them that they are valued and loved.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being a parent is not easy and comes with lots of stress and responsibilities. It can be difficult to know how to keep our children safe. We are here to support you!",
+    "text": "Being a parent is not easy and comes with lots of stress and responsibilities. It can be difficult to know how to keep our children safe. We are here to support you!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being a parent is not easy and comes with lots of stress and responsibilities. Well done for taking the time to learn how to keep your child safe!",
+    "text": "Being a parent is not easy and comes with lots of stress and responsibilities. Well done for taking the time to learn how to keep your child safe!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! I hope you are finding these messages useful. Please type “MoreTips” when you want to receive your next message.",
+    "text": "Hi! I hope you are finding these messages useful. Please type “MoreTips” when you want to receive your next message.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most. ",
+    "text": "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can always change this later by typing \"Help\" and selecting \"Technical support\"",
+    "text": "You can always change this later by typing \"Help\" and selecting \"Technical support\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.",
+    "text": "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can always change this later by typing \"Help\" and selecting \"Technical support\".",
+    "text": "You can always change this later by typing \"Help\" and selecting \"Technical support\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Thank you for signing up to receive these parenting tips. Please tell us which language you would like:",
+    "text": "Hi! Thank you for signing up to receive these parenting tips. Please tell us which language you would like:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Taking care of children is hard, and nobody is  doing this perfectly. Take a moment now to praise yourself for keeping it up. ",
+    "text": "Taking care of children is hard, and nobody is  doing this perfectly. Take a moment now to praise yourself for keeping it up. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are a real star!",
+    "text": "You are a real star!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your participation and any information you provide will be used anonymously by researchers so that we learn about how to better support families like yours. ",
+    "text": "Your participation and any information you provide will be used anonymously by researchers so that we learn about how to better support families like yours. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. Click here for more information [insert link]",
+    "text": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. Click here for more information [insert link]",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry I did not understand. Please type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate.",
+    "text": "I am sorry I did not understand. Please type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much! How would you like your messages? You can always change this choice through the settings later. ",
+    "text": "Thanks so much! How would you like your messages? You can always change this choice through the settings later. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "So that we can give you the right information, please tell us if you are a male or female.",
+    "text": "So that we can give you the right information, please tell us if you are a male or female.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you please tell us your age? Please reply with the number only. Example: 28",
+    "text": "Can you please tell us your age? Please reply with the number only. Example: 28",
+    "type": "text"
+  },
+  {
+    "SourceText": "This looks too young. ",
+    "text": "This looks too young. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry I don't understand what you mean. ",
+    "text": "Sorry I don't understand what you mean. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much! Taking care of children can be difficult even in the best of times. We're here to help!",
+    "text": "Thanks so much! Taking care of children can be difficult even in the best of times. We're here to help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the most difficult situation you have recently encountered as a parent?",
+    "text": "What is the most difficult situation you have recently encountered as a parent?",
+    "type": "text"
+  },
+  {
+    "SourceText": "All children misbehave. It is normal when children are tired, hungry, afraid, or learning independence.",
+    "text": "All children misbehave. It is normal when children are tired, hungry, afraid, or learning independence.",
+    "type": "text"
+  },
+  {
+    "SourceText": "One thing you can try is catching misbehavior early and distracting your kids’ attention to something positive. It actually works! ",
+    "text": "One thing you can try is catching misbehavior early and distracting your kids’ attention to something positive. It actually works! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is completely normal to feel stressed, afraid, angry, and depressed during this time. You are not alone. These tips will help you take care of yourself so you can take care of your children.",
+    "text": "It is completely normal to feel stressed, afraid, angry, and depressed during this time. You are not alone. These tips will help you take care of yourself so you can take care of your children.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is really hard to help our children continue learning when schools are closed or part-open. ",
+    "text": "It is really hard to help our children continue learning when schools are closed or part-open. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "One thing that might be helpful is to try and set up a daily schedule that includes time for schoolwork and time for fun.",
+    "text": "One thing that might be helpful is to try and set up a daily schedule that includes time for schoolwork and time for fun.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be difficult to know how to talk your children about COVID-19, especially since we are learning about it too. ",
+    "text": "It can be difficult to know how to talk your children about COVID-19, especially since we are learning about it too. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "The important thing is to be open and listen to your children. Be honest and supportive. Show them that you care.",
+    "text": "The important thing is to be open and listen to your children. Be honest and supportive. Show them that you care.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parenting is really hard. But there are things we can do to make things easier. We are here to help!",
+    "text": "Parenting is really hard. But there are things we can do to make things easier. We are here to help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Millions are stressed about money because of COVID-19. Children or teenagers asking for things can cause arguments.  It can help them a lot when we involve them with family budgeting.",
+    "text": "Millions are stressed about money because of COVID-19. Children or teenagers asking for things can cause arguments.  It can help them a lot when we involve them with family budgeting.",
+    "type": "text"
+  },
+  {
+    "SourceText": "There are lots of risks to children online. But you can help protect your children by setting up easy tech fixes and creating health and safe online habits.",
+    "text": "There are lots of risks to children online. But you can help protect your children by setting up easy tech fixes and creating health and safe online habits.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a stressful time for all of us. The more we listen to each other and show children how we keep ourselves healthy, the more they will feel secure and loved.",
+    "text": "This is a stressful time for all of us. The more we listen to each other and show children how we keep ourselves healthy, the more they will feel secure and loved.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Spending even just a few minutes a day focused on having fun with your children can help your relationship. If you are really busy it could be tidying or cleaning together - just make it fun!",
+    "text": "Spending even just a few minutes a day focused on having fun with your children can help your relationship. If you are really busy it could be tidying or cleaning together - just make it fun!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We spend a lot of time indoors with a young baby, and Covid-19 makes it much more intense.  It is completely normal to feel isolated, overwhelmed, anxious, and scared for you and your baby.",
+    "text": "We spend a lot of time indoors with a young baby, and Covid-19 makes it much more intense.  It is completely normal to feel isolated, overwhelmed, anxious, and scared for you and your baby.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have added your first parenting skill to your Parenting Toolkit.",
+    "text": "Congratulations! You have added your first parenting skill to your Parenting Toolkit.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Each day you will learn a new skill so that you can be build a happy home for you and your family.",
+    "text": "Each day you will learn a new skill so that you can be build a happy home for you and your family.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a song that we made just for parents like you! ",
+    "text": "Here is a song that we made just for parents like you! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember you can always get more tips by typing \"Help\".",
+    "text": "Remember you can always get more tips by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have a great day!",
+    "text": "Have a great day!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. ",
+    "text": "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Extremely helpful",
+    "text": "Extremely helpful",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Very helpful",
+    "text": "Very helpful",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Helpful",
+    "text": "Helpful",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A little helpful",
+    "text": "A little helpful",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not helpful",
+    "text": "Not helpful",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to answer",
+    "text": "Prefer not to answer",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Baby (0-23 months)",
+    "text": "Baby (0-23 months)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Young child (2-9 years)",
+    "text": "Young child (2-9 years)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Teenager (10-17 years)",
+    "text": "Teenager (10-17 years)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Adult (18+ years)",
+    "text": "Adult (18+ years)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Yes",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No",
+    "text": "No",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Active",
+    "text": "Active",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Calm",
+    "text": "Calm",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Fun",
+    "text": "Fun",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Skills in toolkit",
+    "text": "Skills in toolkit",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Incomplete skills",
+    "text": "Incomplete skills",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Fun activities",
+    "text": "Fun activities",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Challenging behaviour",
+    "text": "Challenging behaviour",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Emotional support",
+    "text": "Emotional support",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Keeping your child safe",
+    "text": "Keeping your child safe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Remote learning and school",
+    "text": "Remote learning and school",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Talking about COVID-19",
+    "text": "Talking about COVID-19",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "How to respond to a crisis",
+    "text": "How to respond to a crisis",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Children with disabilities",
+    "text": "Children with disabilities",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Information about child development",
+    "text": "Information about child development",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Go back to the previous options",
+    "text": "Go back to the previous options",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Online safety",
+    "text": "Online safety",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Sexual abuse prevention",
+    "text": "Sexual abuse prevention",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Responding to crisis",
+    "text": "Responding to crisis",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Help with children",
+    "text": "Help with children",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Stress relief",
+    "text": "Stress relief",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Other support",
+    "text": "Other support",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review previous skills",
+    "text": "Review previous skills",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Technical support",
+    "text": "Technical support",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Personal information",
+    "text": "Personal information",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "User experience",
+    "text": "User experience",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Message timing",
+    "text": "Message timing",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Type of media content",
+    "text": "Type of media content",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Age group for tips",
+    "text": "Age group for tips",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Language",
+    "text": "Language",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Relaxation and stress reduction",
+    "text": "Relaxation and stress reduction",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Dealing with financial stress",
+    "text": "Dealing with financial stress",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Family relationships",
+    "text": "Family relationships",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Same frequency",
+    "text": "Same frequency",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A little less often",
+    "text": "A little less often",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "baby",
+    "text": "baby",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "teen",
+    "text": "teen",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "adult",
+    "text": "adult",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "other",
+    "text": "other",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "teenager",
+    "text": "teenager",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "young child",
+    "text": "young child",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Baby",
+    "text": "Baby",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Other",
+    "text": "Other",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Teen",
+    "text": "Teen",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Young child",
+    "text": "Young child",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Baby (0 to 23 months old)",
+    "text": "Baby (0 to 23 months old)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Young child (2 to 9 years)",
+    "text": "Young child (2 to 9 years)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Teenager (10 to 17 years)",
+    "text": "Teenager (10 to 17 years)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "English",
+    "text": "English",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Malay",
+    "text": "Malay",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Chinese",
+    "text": "Chinese",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yourself",
+    "text": "Yourself",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Your children",
+    "text": "Your children",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Update the age of your children",
+    "text": "Update the age of your children",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Update the age group you are receiving tips for",
+    "text": "Update the age group you are receiving tips for",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Age",
+    "text": "Age",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Gender",
+    "text": "Gender",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Male",
+    "text": "Male",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Female",
+    "text": "Female",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I prefer not to tell",
+    "text": "I prefer not to tell",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change the time of the day",
+    "text": "Change the time of the day",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Receive tips more often",
+    "text": "Receive tips more often",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Receive tips less often (every other day)",
+    "text": "Receive tips less often (every other day)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text only (almost no data)",
+    "text": "Text only (almost no data)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text, audio, image (low data)",
+    "text": "Text, audio, image (low data)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text, audio, image, video (high data)",
+    "text": "Text, audio, image, video (high data)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me more information",
+    "text": "Give me more information",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am not interested",
+    "text": "I am not interested",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Boy",
+    "text": "Boy",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Girl",
+    "text": "Girl",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "Prefer not to say",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Parent",
+    "text": "Parent",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Grandparent",
+    "text": "Grandparent",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Aunt/Uncle",
+    "text": "Aunt/Uncle",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Foster Parent",
+    "text": "Foster Parent",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Curfews",
+    "text": "Curfews",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Non-essential shops closed",
+    "text": "Non-essential shops closed",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Non-essential production closed",
+    "text": "Non-essential production closed",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Cancellation of recreational venues and closing of public places like parks",
+    "text": "Cancellation of recreational venues and closing of public places like parks",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Stay-at-home orders and total movement controls",
+    "text": "Stay-at-home orders and total movement controls",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Social distancing and movement restrictions",
+    "text": "Social distancing and movement restrictions",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No restrictions",
+    "text": "No restrictions",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Does not apply",
+    "text": "Does not apply",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Activities",
+    "text": "Activities",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Stress reduction",
+    "text": "Stress reduction",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Child behaviour",
+    "text": "Child behaviour",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "None of the parenting tips have been helpful",
+    "text": "None of the parenting tips have been helpful",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to tell",
+    "text": "Prefer not to tell",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Baby (0 to 23 months)",
+    "text": "Baby (0 to 23 months)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Things to do with my children",
+    "text": "Things to do with my children",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Difficult child behaviour",
+    "text": "Difficult child behaviour",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Stress, loneliness, anger",
+    "text": "Stress, loneliness, anger",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Money problems",
+    "text": "Money problems",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Helping with schoolwork",
+    "text": "Helping with schoolwork",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Keeping children safe online",
+    "text": "Keeping children safe online",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Conflict in the family",
+    "text": "Conflict in the family",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Other issue",
+    "text": "Other issue",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "not ",
+    "text": "not ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "little",
+    "text": "little",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "helpful",
+    "text": "helpful",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "very",
+    "text": "very",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "extremely",
+    "text": "extremely",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer",
+    "text": "prefer",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "baby",
+    "text": "baby",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "young child",
+    "text": "young child",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "teenager",
+    "text": "teenager",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "adult",
+    "text": "adult",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y",
+    "text": "yes y",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n",
+    "text": "no n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "active",
+    "text": "active",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "calm",
+    "text": "calm",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "fun",
+    "text": "fun",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "toolkit",
+    "text": "toolkit",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "incomplete",
+    "text": "incomplete",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "back",
+    "text": "back",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y back",
+    "text": "yes y back",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "activities",
+    "text": "activities",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "behaviour",
+    "text": "behaviour",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "emotional",
+    "text": "emotional",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "safe",
+    "text": "safe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "covid covid19 covid-19",
+    "text": "covid covid19 covid-19",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "crisis",
+    "text": "crisis",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "disabilities",
+    "text": "disabilities",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "development",
+    "text": "development",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "remote learning school",
+    "text": "remote learning school",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "online",
+    "text": "online",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "sexual abuse",
+    "text": "sexual abuse",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "children ",
+    "text": "children ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "relief stress",
+    "text": "relief stress",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "other",
+    "text": "other",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "technical tech",
+    "text": "technical tech",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review skills",
+    "text": "review skills",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "personal",
+    "text": "personal",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "user",
+    "text": "user",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "time timing ",
+    "text": "time timing ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "media",
+    "text": "media",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "language ",
+    "text": "language ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "age group",
+    "text": "age group",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "exit",
+    "text": "exit",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y ",
+    "text": "yes y ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no not n",
+    "text": "no not n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n back",
+    "text": "no n back",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "relaxation reduction",
+    "text": "relaxation reduction",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "financial",
+    "text": "financial",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "family relationships",
+    "text": "family relationships",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "same ",
+    "text": "same ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "less often",
+    "text": "less often",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "teen teenager",
+    "text": "teen teenager",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "child young ",
+    "text": "child young ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "child young",
+    "text": "child young",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "young child ",
+    "text": "young child ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "e english",
+    "text": "e english",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "m malay",
+    "text": "m malay",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "c chinese",
+    "text": "c chinese",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stop messages",
+    "text": "stop messages",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n not back",
+    "text": "no n not back",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yourself",
+    "text": "yourself",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "children",
+    "text": "children",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "tips",
+    "text": "tips",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "age",
+    "text": "age",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "gender",
+    "text": "gender",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "back no n",
+    "text": "back no n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "male",
+    "text": "male",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "female",
+    "text": "female",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not n no",
+    "text": "prefer not n no",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "n no",
+    "text": "n no",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "time day",
+    "text": "time day",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "often more",
+    "text": "often more",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "time day ",
+    "text": "time day ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "less often ",
+    "text": "less often ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "high video",
+    "text": "high video",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "low",
+    "text": "low",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "only",
+    "text": "only",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "more information",
+    "text": "more information",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not no interested",
+    "text": "not no interested",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "boy",
+    "text": "boy",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "girl",
+    "text": "girl",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not prefer say",
+    "text": "not prefer say",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "parent",
+    "text": "parent",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "grandparent",
+    "text": "grandparent",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "aunt uncle aunt/uncle",
+    "text": "aunt uncle aunt/uncle",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "foster",
+    "text": "foster",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer  not say",
+    "text": "prefer  not say",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes yep yeah y",
+    "text": "yes yep yeah y",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no not nope n",
+    "text": "no not nope n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no not n nope",
+    "text": "no not n nope",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes yeah yep sure y",
+    "text": "yes yeah yep sure y",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "curfews",
+    "text": "curfews",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "shops",
+    "text": "shops",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "production",
+    "text": "production",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "recreational venues",
+    "text": "recreational venues",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stay-at-home orders",
+    "text": "stay-at-home orders",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "distancing",
+    "text": "distancing",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no",
+    "text": "no",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "apply",
+    "text": "apply",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "activity activities",
+    "text": "activity activities",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stress ",
+    "text": "stress ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "none",
+    "text": "none",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "more",
+    "text": "more",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "2 english",
+    "text": "2 english",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "1 bahasa melayu",
+    "text": "1 bahasa melayu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "4 中文",
+    "text": "4 中文",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "3 தமிழ்",
+    "text": "3 தமிழ்",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "video high",
+    "text": "video high",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "female f",
+    "text": "female f",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "male m",
+    "text": "male m",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "other o",
+    "text": "other o",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer n no",
+    "text": "prefer n no",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n nope not",
+    "text": "no n nope not",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "difficult behaviour",
+    "text": "difficult behaviour",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "conflict family",
+    "text": "conflict family",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stress loneliness anger",
+    "text": "stress loneliness anger",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "money",
+    "text": "money",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "helping schoolwork",
+    "text": "helping schoolwork",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "keeping safe online",
+    "text": "keeping safe online",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "talking covid",
+    "text": "talking covid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "things",
+    "text": "things",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

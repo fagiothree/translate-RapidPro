@@ -1,0 +1,4795 @@
+[
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "A Short Pause",
+    "word_count": 0
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Sit down and close your eyes",
+    "has_bullet": true,
+    "word_count": 3
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Listen to your breath as it goes in and out. ",
+    "has_bullet": true,
+    "word_count": 9
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Notice how you feel. ",
+    "has_bullet": true,
+    "word_count": 20
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Take a few more deep breaths.",
+    "has_bullet": true,
+    "word_count": 25
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "When you are ready open your eyes again. Do you feel any different? ",
+    "has_bullet": true,
+    "word_count": 31
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fc48f45b-7b20-4e40-86e5-ec75633c2f8f",
+    "bit_id": "09aa0301-ab17-41f3-a389-817d366b03e8",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Remind yourself that “Everything is ok”",
+    "has_bullet": true,
+    "word_count": 45
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ed25ef71-8116-4b0d-88d8-7c108924a94a",
+    "bit_id": "56d42f4a-2d5e-4a4a-8e44-91450a04da46",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "2 Truths, 1 Lie",
+    "word_count": 51
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ed25ef71-8116-4b0d-88d8-7c108924a94a",
+    "bit_id": "56d42f4a-2d5e-4a4a-8e44-91450a04da46",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of three statements about yourself. Two must be true and one must be a lie.",
+    "has_bullet": true,
+    "word_count": 55
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ed25ef71-8116-4b0d-88d8-7c108924a94a",
+    "bit_id": "56d42f4a-2d5e-4a4a-8e44-91450a04da46",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "It might help to think of wishes, dreams, likes or dislikes. For example, I hate bananas, I love ice cream and I really wish I could sing. ",
+    "has_bullet": true,
+    "word_count": 71
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ed25ef71-8116-4b0d-88d8-7c108924a94a",
+    "bit_id": "56d42f4a-2d5e-4a4a-8e44-91450a04da46",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Say them to your partner or friends. Ask them to guess which one is a lie. ",
+    "has_bullet": true,
+    "word_count": 99
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ed25ef71-8116-4b0d-88d8-7c108924a94a",
+    "bit_id": "56d42f4a-2d5e-4a4a-8e44-91450a04da46",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Did they guess correctly? Was it a surprise?",
+    "has_bullet": true,
+    "word_count": 116
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ed25ef71-8116-4b0d-88d8-7c108924a94a",
+    "bit_id": "56d42f4a-2d5e-4a4a-8e44-91450a04da46",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Now ask them to do the same. Did you learn something new about each other? ",
+    "has_bullet": true,
+    "word_count": 124
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ab5e277b-6a3c-4620-a2f6-67e630428141",
+    "bit_id": "63a0c0f3-89c0-4c34-ac5b-a9fedf548d0a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Family Work Out",
+    "word_count": 140
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ab5e277b-6a3c-4620-a2f6-67e630428141",
+    "bit_id": "63a0c0f3-89c0-4c34-ac5b-a9fedf548d0a",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Choose a sport or exercise to do together",
+    "has_bullet": true,
+    "word_count": 143
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ab5e277b-6a3c-4620-a2f6-67e630428141",
+    "bit_id": "63a0c0f3-89c0-4c34-ac5b-a9fedf548d0a",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Decide on a schedule. Are you going to do it every day? For how long? ",
+    "has_bullet": true,
+    "word_count": 151
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ab5e277b-6a3c-4620-a2f6-67e630428141",
+    "bit_id": "63a0c0f3-89c0-4c34-ac5b-a9fedf548d0a",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Try it out for a week. ",
+    "has_bullet": true,
+    "word_count": 167
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ab5e277b-6a3c-4620-a2f6-67e630428141",
+    "bit_id": "63a0c0f3-89c0-4c34-ac5b-a9fedf548d0a",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "At the end of the week, ask yourself and your family these questions. How´s it going? How did you feel at the start of the week? How do you feel at the end of the week? What can we do differently next week?",
+    "has_bullet": true,
+    "word_count": 174
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Crazy Chicken",
+    "word_count": 217
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Shake your hand in the air 8 times while counting",
+    "has_bullet": true,
+    "word_count": 219
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Do it as fast and loud as you can",
+    "has_bullet": true,
+    "word_count": 229
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Repeat with your other hand and both feet",
+    "has_bullet": true,
+    "word_count": 238
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Do it 7 times, then 6 times until you get to 1.",
+    "has_bullet": true,
+    "word_count": 246
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Call out “Crazy chicken” as loud as you can!",
+    "has_bullet": true,
+    "word_count": 258
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d41eb2e3-7206-4525-90b0-65175c4b2663",
+    "bit_id": "4ca275ca-c2e0-4b30-bb90-fbae7c8d38bb",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Have you released all your stress? If not, do it again even faster and louder! ",
+    "has_bullet": true,
+    "word_count": 267
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "c872e039-dea9-4673-935d-f5e2401e109c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taking a Pause is a simple relaxation activity that you can do whenever you are feeling stressed or worried. It can also be helpful when you find your child is irritating you or has done something wrong.",
+    "word_count": 283
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "a5a12f6d-fd2f-4f22-ad01-44af6f6a393e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 4. Expand your awareness to your whole body. Listen to the sounds in the room.",
+    "word_count": 320
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "d0aa6f47-8f25-4bc7-8917-c80adc7f5562",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Notice how you are feeling emotionally. Notice if your emotions are pleasant or unpleasant. Remind yourself that whatever you feel, it is okay.",
+    "word_count": 336
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "45b1e378-7b1a-4da3-a175-8e4f2a977fc4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 5. Take a moment to reflect on whether you feel any different. When you are ready, open your eyes.",
+    "word_count": 359
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "ded982a0-bdc8-4c06-8440-586de9a63e26",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Notice how your body feels. Notice anything that hurts or is tense.",
+    "word_count": 379
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "4339c27e-c973-4dc0-9b17-5a94be725adf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 1. Close your eyes and take a deep breath. ",
+    "word_count": 391
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "7312ab86-30a2-48a4-8d93-c147b1d464f8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! ",
+    "word_count": 402
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "7312ab86-30a2-48a4-8d93-c147b1d464f8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "You can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Children!",
+    "word_count": 418
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "f6de9915-3436-485d-869e-a4f22b835ecd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 3. Focus on your breath. Feel your breath as it goes in and out. You can put a hand on your stomach and feel it rise and fall with each breath. Do this for about 10 breaths.",
+    "word_count": 460
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "567cc98c-7f94-435a-bcf1-0063398457e0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to learn more about this tip?",
+    "word_count": 498
+  },
+  {
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "567cc98c-7f94-435a-bcf1-0063398457e0",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 507
+  },
+  {
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "567cc98c-7f94-435a-bcf1-0063398457e0",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 508
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "fc0d1115-7b34-493c-a4ed-2b7a97900c9f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 2. Ask yourself, \"What am I thinking?\" Notice if your thoughts are positive or negative.",
+    "word_count": 509
+  },
+  {
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "865a9ef1-4841-4ee4-8296-2de90a83fd71",
+    "bit_type": "arguments",
+    "text": "YES Y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 525
+  },
+  {
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "2c293a83-d11e-4dfe-8c8b-ff056e05984f",
+    "bit_type": "arguments",
+    "text": "NO N",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 527
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "24b5aff0-487c-4f55-8677-8d774bbdf2ae",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 529
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+    "bit_id": "e4a768bd-4443-4905-b4da-48c986bcb18c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
+    "word_count": 536
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "06369915-aaef-4989-8468-b8f2860e4d6d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taking care of yourself",
+    "word_count": 561
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "06369915-aaef-4989-8468-b8f2860e4d6d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Here is a short activity that can help when you are feeling like needing some more support to get through the day.",
+    "word_count": 565
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "910e9a76-d44d-47c8-9060-3feb81f97de9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? ",
+    "word_count": 587
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f111febc-872b-4885-abf0-f9aac767d1de",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Connect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest.",
+    "word_count": 628
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You can then say the following words silently to yourself:",
+    "word_count": 650
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "May I be peaceful.",
+    "word_count": 660
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "May I be safe.",
+    "word_count": 664
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "May I be healthy.",
+    "word_count": 668
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "May I be happy.",
+    "word_count": 672
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "May there be love in my family.",
+    "word_count": 676
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "f055d0ea-3dd6-492b-8091-fbfe8e58d269",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "May I feel loved.",
+    "word_count": 683
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "04ba4111-c954-423d-8908-ebf97903fcda",
+    "bit_id": "022694ab-caa2-4c2a-83b6-93b7f255b4e2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Take a moment to reflect on your experience. Remember that you can do this activity at any time whenever you feel like you need extra support.",
+    "word_count": 687
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f9f094d6-d9f6-4bf5-a7b7-85b756faff40",
+    "bit_id": "7758ac2f-a764-42bd-8152-8d1a14e16bb7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? ",
+    "word_count": 713
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f9f094d6-d9f6-4bf5-a7b7-85b756faff40",
+    "bit_id": "be56b42f-6286-47c1-95b8-f00ac41d29da",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? ",
+    "word_count": 749
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f9f094d6-d9f6-4bf5-a7b7-85b756faff40",
+    "bit_id": "f5bd7e19-379a-46cb-8ff0-2e942efa23f5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!",
+    "word_count": 786
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "73e846af-8121-40d7-8940-fdd783f114c3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hello! How are you feeling? If you are feeling overwhelmed or stress, here's a fun activity that can also release some stress.",
+    "word_count": 816
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "8546cb79-5c0c-4fb3-877b-a09a7bbcbf26",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Stand up and stretch your arms up to the sky. Push away any clouds and let the Sunshine of Positive Attention shine down on you. Stretch to both sides. Stretch to the front and to the back.",
+    "word_count": 838
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "49ffc991-8e6b-434f-b4a3-33674c36c6ab",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction",
+    "word_count": 875
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "8aed4320-ddc6-4a24-8d4f-690f06d72854",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!",
+    "word_count": 904
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "08881608-e7a9-4011-8bc8-27bbd908549d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.",
+    "word_count": 926
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "6ba3b724-f1b2-48ac-8879-2f8dd8f7d137",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Close your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out. Repeat 4 times.",
+    "word_count": 960
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "c881b2e2-e289-45b0-bd49-76a8ec4d9f24",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Relax your arms and let them swing to the front and back. Take 4 deep breaths while you do this. This is good for your lower back.",
+    "word_count": 989
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "c881b2e2-e289-45b0-bd49-76a8ec4d9f24",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Relax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side.",
+    "word_count": 1016
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "74b81542-1854-442c-8a18-40e1f82f536d",
+    "bit_id": "97cf6a1e-1011-4cf4-9663-a4729d6964ba",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Take a moment to reflect on your experience. Remember that you can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
+    "word_count": 1045
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ddbc4c5e-69ba-4c1d-8e75-08b79213abd1",
+    "bit_id": "4ba16d0e-882f-462f-b72a-ef416a928688",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Stop & Listen",
+    "word_count": 1078
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ddbc4c5e-69ba-4c1d-8e75-08b79213abd1",
+    "bit_id": "4ba16d0e-882f-462f-b72a-ef416a928688",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "• Stop for a moment and close your eyes. ",
+    "word_count": 1081
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ddbc4c5e-69ba-4c1d-8e75-08b79213abd1",
+    "bit_id": "4ba16d0e-882f-462f-b72a-ef416a928688",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "• How many sounds can you hear? Listen to sounds inside and outside the room. Count them on your fingers. (Pause for 10 seconds)",
+    "word_count": 1091
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ddbc4c5e-69ba-4c1d-8e75-08b79213abd1",
+    "bit_id": "4ba16d0e-882f-462f-b72a-ef416a928688",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "• How many fingers do you have up? What sounds did you hear? ",
+    "word_count": 1115
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ddbc4c5e-69ba-4c1d-8e75-08b79213abd1",
+    "bit_id": "4ba16d0e-882f-462f-b72a-ef416a928688",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "• Let’s try again. Can you hear any new sounds this time? Can you hear any sounds inside your own body? (Pause for 10 seconds)",
+    "word_count": 1129
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ddbc4c5e-69ba-4c1d-8e75-08b79213abd1",
+    "bit_id": "4ba16d0e-882f-462f-b72a-ef416a928688",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "• Open your eyes. What new sounds did you hear?",
+    "word_count": 1154
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fe8cdd40-85ce-45f6-a6d2-b107d1cbbf2b",
+    "bit_id": "f36c0e6c-ffe9-4fa6-b602-b9994b1f87a7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Release Some Energy",
+    "word_count": 1164
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fe8cdd40-85ce-45f6-a6d2-b107d1cbbf2b",
+    "bit_id": "f36c0e6c-ffe9-4fa6-b602-b9994b1f87a7",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Baba da bi da ba da baaa! Pause Power! ",
+    "has_bullet": true,
+    "word_count": 1167
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fe8cdd40-85ce-45f6-a6d2-b107d1cbbf2b",
+    "bit_id": "f36c0e6c-ffe9-4fa6-b602-b9994b1f87a7",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "What’s Pause Power I hear you say? It’s the ability to transform from a grumpy, angry person into a calm, clear one. ",
+    "has_bullet": true,
+    "word_count": 1177
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fe8cdd40-85ce-45f6-a6d2-b107d1cbbf2b",
+    "bit_id": "f36c0e6c-ffe9-4fa6-b602-b9994b1f87a7",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "When I’m feeling frustrated I plant my feet firmly on the ground and I breathe in and out three times as slowly as I can. Sometimes I imagine I’m smelling a flower and blowing out a candle. ",
+    "has_bullet": true,
+    "word_count": 1200
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fe8cdd40-85ce-45f6-a6d2-b107d1cbbf2b",
+    "bit_id": "f36c0e6c-ffe9-4fa6-b602-b9994b1f87a7",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Da ta! Pause Power! My transformation from grumpy to calm is complete!",
+    "has_bullet": true,
+    "word_count": 1238
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "62cca4c6-72e3-4a24-89a3-7e5a29044dd2",
+    "bit_id": "dc0038ea-ae84-43c3-b7dd-63a19c087e04",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Give Yourself A Hug",
+    "word_count": 1250
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "62cca4c6-72e3-4a24-89a3-7e5a29044dd2",
+    "bit_id": "dc0038ea-ae84-43c3-b7dd-63a19c087e04",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Bella mama, bella mama hey. ",
+    "has_bullet": true,
+    "word_count": 1254
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "62cca4c6-72e3-4a24-89a3-7e5a29044dd2",
+    "bit_id": "dc0038ea-ae84-43c3-b7dd-63a19c087e04",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Hey there! How are you feeling today? Do you feel great?!",
+    "has_bullet": true,
+    "word_count": 1260
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "62cca4c6-72e3-4a24-89a3-7e5a29044dd2",
+    "bit_id": "dc0038ea-ae84-43c3-b7dd-63a19c087e04",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Maybe not. Maybe you shouted again at your children today? Maybe you got angry and said something you don't feel proud of? It’s ok. It’s super stressful right now. ",
+    "has_bullet": true,
+    "word_count": 1271
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "62cca4c6-72e3-4a24-89a3-7e5a29044dd2",
+    "bit_id": "dc0038ea-ae84-43c3-b7dd-63a19c087e04",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Take a deep breath and think of one thing you did today that you do feel proud of. It doesn't have to be big. And wrap your arms around your body and give yourself a hug. And now think of one thing you did today that you don't feel proud of. What can you do differently tomorrow? And wrap your arms around your body and give yourself a hug. ",
+    "has_bullet": true,
+    "word_count": 1301
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "62cca4c6-72e3-4a24-89a3-7e5a29044dd2",
+    "bit_id": "dc0038ea-ae84-43c3-b7dd-63a19c087e04",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Bella mama, bella mama, bella mama, bella mama, bella mama, bella mama hey”.",
+    "has_bullet": true,
+    "word_count": 1371
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "468a95c1-35ec-4f02-b136-260d1ff2d936",
+    "bit_id": "3a26419d-d000-4eea-a425-00da140211d3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Mirror Game",
+    "word_count": 1384
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "468a95c1-35ec-4f02-b136-260d1ff2d936",
+    "bit_id": "3a26419d-d000-4eea-a425-00da140211d3",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "• Get to your baby's level so they can see you and hear you. ",
+    "word_count": 1386
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "468a95c1-35ec-4f02-b136-260d1ff2d936",
+    "bit_id": "3a26419d-d000-4eea-a425-00da140211d3",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "• Copy their facial expressions and sounds. ",
+    "word_count": 1401
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "468a95c1-35ec-4f02-b136-260d1ff2d936",
+    "bit_id": "3a26419d-d000-4eea-a425-00da140211d3",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "• It is so simple while creating a strong bond between you and your baby!",
+    "word_count": 1409
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5779ee42-fc90-4e66-ac66-dd817bdd86b0",
+    "bit_id": "b4076fb1-d642-4fe6-970c-ea7400a54fb2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Peek-a-Boo! ",
+    "word_count": 1423
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5779ee42-fc90-4e66-ac66-dd817bdd86b0",
+    "bit_id": "b4076fb1-d642-4fe6-970c-ea7400a54fb2",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "• Cover your face with your hands. ",
+    "word_count": 1425
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5779ee42-fc90-4e66-ac66-dd817bdd86b0",
+    "bit_id": "b4076fb1-d642-4fe6-970c-ea7400a54fb2",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "• Quickly show your face and say \"Peek-a-Boo!\" or \"Hello!\" Babies love it!",
+    "word_count": 1432
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Funny Faces",
+    "word_count": 1444
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Look at your baby in the eyes and make different funny faces. ",
+    "has_bullet": true,
+    "word_count": 1446
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Make a big face. Make a small face. Make a happy face. Make a surprised face. ",
+    "has_bullet": true,
+    "word_count": 1459
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Which ones make your baby smile or laugh? Do them again, even bigger this time!",
+    "has_bullet": true,
+    "word_count": 1476
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Play with different feelings and add sounds. ",
+    "has_bullet": true,
+    "word_count": 1491
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Copy their facial expressions too. Exaggerate them to make them funny.",
+    "has_bullet": true,
+    "word_count": 1499
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fa2c76d7-61ce-4fe1-a5a7-8c14ad6bac76",
+    "bit_id": "da0e5e90-7fbb-47c6-b98f-fcb086011e4f",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Always end on a positive expression!",
+    "has_bullet": true,
+    "word_count": 1510
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "The Sun is Coming! ",
+    "word_count": 1516
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Lie your baby on their back after washing them or changing their diaper",
+    "has_bullet": true,
+    "word_count": 1521
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Tell them the sun is coming! Wiggle your fingers like sunrays above their head and make your face a big smiling sun.",
+    "has_bullet": true,
+    "word_count": 1534
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Tell them the wind is coming! Blow softly over their body.",
+    "has_bullet": true,
+    "word_count": 1556
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Tell them the rain is coming! Use your fingers to gently pat over their whole body like light raindrops.",
+    "has_bullet": true,
+    "word_count": 1567
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Tell them the clouds are coming! Wrap the towel or cloth around them like a blanket and cuddle them ",
+    "has_bullet": true,
+    "word_count": 1586
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Play with different weathers. Which one does your baby like best?",
+    "has_bullet": true,
+    "word_count": 1606
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5f6de26e-a70b-4107-b629-0ee50f9f66c8",
+    "bit_id": "d27dd81e-6974-466a-aa96-c681b110da03",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Add sound effects or make it into a little song. Use the tune of another song you know! ",
+    "has_bullet": true,
+    "word_count": 1617
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Shakers",
+    "word_count": 1636
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Find an empty, clean plastic bottle or pot with a lid that closes tight.",
+    "has_bullet": true,
+    "word_count": 1637
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Fill it with sand, stones, uncooked rice, beans or any small objects that make an interesting sound. ",
+    "has_bullet": true,
+    "word_count": 1651
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Move your body as you shake it in front of your baby",
+    "has_bullet": true,
+    "word_count": 1669
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "If it is safe, give it to your baby to shake!",
+    "has_bullet": true,
+    "word_count": 1681
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Get creative! Can you find something colourful or try it with water? ",
+    "has_bullet": true,
+    "word_count": 1692
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7007bc62-f980-4372-9a25-5c15e2df1a63",
+    "bit_id": "8d10d7ba-7af7-42f4-b48d-37c7e1a4b3f8",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "What sounds does your baby like?",
+    "has_bullet": true,
+    "word_count": 1705
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Musical Toes",
+    "word_count": 1711
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Put your baby on their back",
+    "has_bullet": true,
+    "word_count": 1713
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Wiggle their toe and say, “This little toe goes [funny sound]”",
+    "has_bullet": true,
+    "word_count": 1719
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Make a funny sound for each toe",
+    "has_bullet": true,
+    "word_count": 1730
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Play with different sounds. For example, animal sounds, popping sounds, squeaky sounds, fart sounds. ",
+    "has_bullet": true,
+    "word_count": 1737
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Repeat this for all ten toes. ",
+    "has_bullet": true,
+    "word_count": 1752
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0be6adc-1f0b-4d92-a6cf-650d15167ef1",
+    "bit_id": "8eb0be23-ed69-48df-9f0d-7e29f52135d2",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Try to make the last toe the biggest and funniest sound!",
+    "has_bullet": true,
+    "word_count": 1759
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cbf266ac-6ff2-4df3-84a5-1e0eb72809a4",
+    "bit_id": "1814859b-6227-4d63-a21a-b83ecafc1d2d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Down in a ditch!",
+    "word_count": 1770
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cbf266ac-6ff2-4df3-84a5-1e0eb72809a4",
+    "bit_id": "1814859b-6227-4d63-a21a-b83ecafc1d2d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Sit on a chair and put your toddler on your lap facing you. Hold them firmly under the arms.",
+    "has_bullet": true,
+    "word_count": 1774
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cbf266ac-6ff2-4df3-84a5-1e0eb72809a4",
+    "bit_id": "1814859b-6227-4d63-a21a-b83ecafc1d2d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Gently bounce your legs and say in a soft voice “Baby horse, baby horse, baby horse, baby horse”",
+    "has_bullet": true,
+    "word_count": 1793
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cbf266ac-6ff2-4df3-84a5-1e0eb72809a4",
+    "bit_id": "1814859b-6227-4d63-a21a-b83ecafc1d2d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Bounce your legs a bit more and say a bit louder “Little horse, little horse, little horse, little horse”",
+    "has_bullet": true,
+    "word_count": 1811
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cbf266ac-6ff2-4df3-84a5-1e0eb72809a4",
+    "bit_id": "1814859b-6227-4d63-a21a-b83ecafc1d2d",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Bounce your legs more and say louder “Big horse, big horse, big horse, big horse”",
+    "has_bullet": true,
+    "word_count": 1830
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cbf266ac-6ff2-4df3-84a5-1e0eb72809a4",
+    "bit_id": "1814859b-6227-4d63-a21a-b83ecafc1d2d",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "When you call out “Down in a ditch!” open your knees and let your child drop down between them. Make sure you hold them so they don’t fall far! ",
+    "has_bullet": true,
+    "word_count": 1845
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Dance Party",
+    "word_count": 1875
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Put on your favourite music or sing your favourite song and dance around the room with your toddler. If you have a baby hold them while you dance. ",
+    "has_bullet": true,
+    "word_count": 1877
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Dance in different ways or with different parts of your body",
+    "has_bullet": true,
+    "word_count": 1906
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "For example, “Dance like a monkey”, “Dance like a chicken” or “Let’s dance with our knees and hips”",
+    "has_bullet": true,
+    "word_count": 1917
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think up different instructions. Be seriously playful! ",
+    "has_bullet": true,
+    "word_count": 1935
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "When the music stops, everyone does a funny freeze",
+    "has_bullet": true,
+    "word_count": 1943
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "858744f7-a17f-4592-a9a1-4a61a5df9339",
+    "bit_id": "f2398015-746b-43d0-887f-9265c7a19b49",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Notice what rhythms or movement they like!",
+    "has_bullet": true,
+    "word_count": 1952
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5aa6460d-afbb-4ae2-99c1-6df1f02880c0",
+    "bit_id": "8c38f795-7b9c-4f11-a353-8d55ec332cb1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Lullaby",
+    "word_count": 1959
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5aa6460d-afbb-4ae2-99c1-6df1f02880c0",
+    "bit_id": "8c38f795-7b9c-4f11-a353-8d55ec332cb1",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "When your baby or toddler cries, sing a soft song to calm you both down",
+    "has_bullet": true,
+    "word_count": 1960
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5aa6460d-afbb-4ae2-99c1-6df1f02880c0",
+    "bit_id": "8c38f795-7b9c-4f11-a353-8d55ec332cb1",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Sing a soothing song you know or make up your own with a simple melody and some soothing words",
+    "has_bullet": true,
+    "word_count": 1975
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5aa6460d-afbb-4ae2-99c1-6df1f02880c0",
+    "bit_id": "8c38f795-7b9c-4f11-a353-8d55ec332cb1",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Repeat it over and over in a rhythmical way. For example, “My little one, oh little one”",
+    "has_bullet": true,
+    "word_count": 1994
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5aa6460d-afbb-4ae2-99c1-6df1f02880c0",
+    "bit_id": "8c38f795-7b9c-4f11-a353-8d55ec332cb1",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Sing the same song regularly so your child gets used to it!",
+    "has_bullet": true,
+    "word_count": 2011
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "See It Be It",
+    "word_count": 2023
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Look around you and name something that you can see. For example, a tree or a cup",
+    "has_bullet": true,
+    "word_count": 2027
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Say to your child “I see a tree, let’s be it”",
+    "has_bullet": true,
+    "word_count": 2044
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Countdown from 5 and make the shape of a tree with your bodies. Be as big and silly as possible.",
+    "has_bullet": true,
+    "word_count": 2055
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now let your child have a turn. What can they see?",
+    "has_bullet": true,
+    "word_count": 2075
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "If you can, go outside and be in nature. If you can’t, play it inside. ",
+    "has_bullet": true,
+    "word_count": 2086
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a6e113be-5d73-4bc8-b77f-0f1b4b4f6925",
+    "bit_id": "ee56e70a-1c0c-4d34-bd3e-4a8cd3191161",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "When you’ve done it a few times, add moves and sounds!",
+    "has_bullet": true,
+    "word_count": 2102
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5164df94-e5d0-4890-ab0b-9b020a5f3703",
+    "bit_id": "a7f53eec-2d9b-4451-bbdb-399768688729",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Cooking together",
+    "word_count": 2113
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5164df94-e5d0-4890-ab0b-9b020a5f3703",
+    "bit_id": "a7f53eec-2d9b-4451-bbdb-399768688729",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Children love to do what you do!",
+    "has_bullet": true,
+    "word_count": 2115
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5164df94-e5d0-4890-ab0b-9b020a5f3703",
+    "bit_id": "a7f53eec-2d9b-4451-bbdb-399768688729",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Let your baby play with pots and spoons while you are making dinner",
+    "has_bullet": true,
+    "word_count": 2122
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "869647ee-e290-4dfa-8d0c-861ccab17886",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+    "word_count": 2135
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "549bce2f-f68e-4e29-ba21-3edd1d843265",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to learn more about how you can help your child develop through book sharing?",
+    "word_count": 2168
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "549bce2f-f68e-4e29-ba21-3edd1d843265",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2185
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "549bce2f-f68e-4e29-ba21-3edd1d843265",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2186
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "f39504cb-23d1-4bfc-b94c-cefc4559ada6",
+    "bit_type": "arguments",
+    "text": "yes y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2187
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "e72e8322-faab-4da9-80e6-a4fc69361eca",
+    "bit_type": "arguments",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2189
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "f2f8bf93-d95a-41c8-9d95-d208a1ae1120",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 2191
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "0f42af29-e05e-40fe-a807-7eb1be118e79",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+    "word_count": 2199
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some tips for sharing books with your child:",
+    "word_count": 2220
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Follow your child's interest",
+    "word_count": 2230
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Use a lifely voice",
+    "word_count": 2235
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Pointing and naming",
+    "word_count": 2240
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Be positive and supportive",
+    "word_count": 2244
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "5. Making actions and links",
+    "word_count": 2249
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "6. Talking about feelings",
+    "word_count": 2254
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "7. Babies and books go well together",
+    "word_count": 2258
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "ef51aa2b-6c12-4310-a582-3051d5aa3463",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "To learn more about one of these tips, type \"1\" to \"7\". You can also type \"N\" to move on.",
+    "word_count": 2265
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "84f964a6-d77c-4834-afc8-204a37cba019",
+    "bit_type": "arguments",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2285
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "51929761-1ac2-4fc5-bdf3-b5367467b0f9",
+    "bit_type": "arguments",
+    "text": "1",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2287
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "dc38560b-3e23-4c33-b832-db034eee3b83",
+    "bit_type": "arguments",
+    "text": "2",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2288
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "f1210bdd-d961-40c9-9fba-0950e40babe1",
+    "bit_type": "arguments",
+    "text": "3",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2289
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "e3e075b0-92ab-4fc7-a33d-e5dee8ebb784",
+    "bit_type": "arguments",
+    "text": "4",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2290
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "b6ad4598-3bbc-49ba-a943-e4ec1877ef91",
+    "bit_type": "arguments",
+    "text": "5",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2291
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "89b025bd-2139-4d20-a56c-eb7f752c7610",
+    "bit_type": "arguments",
+    "text": "6",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2292
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "01a07236-1411-42ce-b76b-78c1de8c5478",
+    "bit_type": "arguments",
+    "text": "7",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2293
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "fb9d826d-9159-47e2-9115-572956756552",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 2294
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "d51a14c5-cb14-4b00-9d6b-eb6df6d5c825",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "1. Follow your child’s interest",
+    "word_count": 2301
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "d51a14c5-cb14-4b00-9d6b-eb6df6d5c825",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Talk about what interests your child. When your child shows interest in a picture (pointing, patting, looking), use this as a chance to talk about what has attracted your child’s interest",
+    "word_count": 2306
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "b4790323-5f5b-4d24-92cf-d196e65b43bc",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "2. Use a lively voice",
+    "word_count": 2337
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "b4790323-5f5b-4d24-92cf-d196e65b43bc",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Speak with a lively or animated voice. This will help to keep the child’s attention on the book.",
+    "word_count": 2342
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "15773b09-444b-42fb-b3c5-f50e337d01bd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another tool to your Parenting Tooolbox! Sharing books with your child will help them to learn to speak, think and focus better. It will also help them to get along with others better, by helping them understand about feelings",
+    "word_count": 2360
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "fe9efe8f-1dc0-4a6a-a1cb-7a7198e48d9d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "3. Pointing and naming",
+    "word_count": 2404
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "fe9efe8f-1dc0-4a6a-a1cb-7a7198e48d9d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Pointing to and naming an object or person in the book will help your child learn new words. Children learn through repetition, so repeat the word and look for other opportunities to use the word (in the book or elsewhere). ",
+    "word_count": 2408
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "c263a8df-7dd1-45cb-8c49-e22379d73cef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "4. Be positive and supportive",
+    "word_count": 2449
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "c263a8df-7dd1-45cb-8c49-e22379d73cef",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Always respond positively to whatever your child says about the pictures. For example, if your child points to a red apple and says “Tomato”, you can say “Yes, you’re right, it’s red - it's an apple!”",
+    "word_count": 2454
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "6cdd3a30-2c8e-4324-9b0d-81fa5e58581a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "If your child knows a word and can say that word, ask “What’s that?” and give them the opportunity to say the word and point to it.",
+    "word_count": 2490
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "605b6773-446d-490c-a011-45dfc4960269",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "5. Making actions and links",
+    "word_count": 2517
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "605b6773-446d-490c-a011-45dfc4960269",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Connect things in the book with familiar things in your child’s world. For example, if the baby in the book is wearing shoes, ask your child to point out their own shoes. If someone in the book is waving, you and your child can do the same. ",
+    "word_count": 2522
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "d408f09c-2518-4d2f-85ba-c7c9c6307c7c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "6. Talking about feelings",
+    "word_count": 2570
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "d408f09c-2518-4d2f-85ba-c7c9c6307c7c",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Books are a great way for children to learn more about feelings. You can use your face and voice to help them understand emotion words like happy, sad, angry, or scared. You can use what is happening in the book to talk about your child’s own feelings, and why other people might feel a certain way.",
+    "word_count": 2574
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "b78e9f74-6f7a-4529-9bac-a2cef7cdbfda",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "7. Babies and Books!",
+    "word_count": 2630
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "b78e9f74-6f7a-4529-9bac-a2cef7cdbfda",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Even very young babies enjoy book-sharing and looking at the pictures together with a parent or caregiver. In fact, regular book-sharing helps their development and learning. And it is okay for them to put the book in their mouth - they are exploring!",
+    "word_count": 2634
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "0f75cca2-1aba-49d7-a65a-8258f042531a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some examples! ",
+    "word_count": 2677
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "0f75cca2-1aba-49d7-a65a-8258f042531a",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "“Look, she is smiling. Why do you think she is smiling? What made you smile today?”",
+    "word_count": 2682
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "0f75cca2-1aba-49d7-a65a-8258f042531a",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "“The monkey is sad because he is all on his own. Can you remember when you were last sad?”",
+    "word_count": 2698
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "0f75cca2-1aba-49d7-a65a-8258f042531a",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "“That tiger looks angry. Why do you think he is angry? Do you remember when I got angry this morning?” ",
+    "word_count": 2717
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "c73f5351-6cb1-4c4f-9b9d-fc7ca0a6e37d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You can use books and stories to help talk with children about topics related to COVID-19 (such as getting sick, not going to school or work, staying indoors, feeling worried) and help them think about how this makes them feel.",
+    "word_count": 2738
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "59ace085-4915-45b8-9da6-344a908ae58e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Chat to you later!",
+    "word_count": 2778
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "46a29818-2aaa-45eb-9dc5-21026dec4d35",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Technical Support.\" Chat to you later!",
+    "word_count": 2782
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "8c966cfd-8ba4-4bb2-8a68-1dff49e81612",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do you want to go back and learn more sharing books with your child?",
+    "word_count": 2821
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "8c966cfd-8ba4-4bb2-8a68-1dff49e81612",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2835
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "8c966cfd-8ba4-4bb2-8a68-1dff49e81612",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2836
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "f0482247-f49c-44ed-ac1c-fb0a2b3d4104",
+    "bit_type": "arguments",
+    "text": "yes y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2837
+  },
+  {
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "b4d6ab77-422b-4d1b-8161-7065b5a6cd92",
+    "bit_type": "arguments",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2839
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e673e874-73e3-4577-b3b1-209af1066428",
+    "bit_id": "708c477d-8081-4d83-9793-9535c041329c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 2841
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8608a0ee-7dbb-43a4-b809-755773b7ad91",
+    "bit_id": "92ed20af-b4c4-42f6-8468-0a0f12bcc22d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "At the End of the Day",
+    "word_count": 2849
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8608a0ee-7dbb-43a4-b809-755773b7ad91",
+    "bit_id": "92ed20af-b4c4-42f6-8468-0a0f12bcc22d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "At the end of each day, take a minute to think about the day.  ",
+    "has_bullet": true,
+    "word_count": 2855
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8608a0ee-7dbb-43a4-b809-755773b7ad91",
+    "bit_id": "92ed20af-b4c4-42f6-8468-0a0f12bcc22d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Talk your child about one positive or fun thing they did.",
+    "has_bullet": true,
+    "word_count": 2871
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8608a0ee-7dbb-43a4-b809-755773b7ad91",
+    "bit_id": "92ed20af-b4c4-42f6-8468-0a0f12bcc22d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Praise yourself for one thing you did well today.",
+    "has_bullet": true,
+    "word_count": 2882
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8608a0ee-7dbb-43a4-b809-755773b7ad91",
+    "bit_id": "92ed20af-b4c4-42f6-8468-0a0f12bcc22d",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think of one thing that you are grateful for.  ",
+    "has_bullet": true,
+    "word_count": 2891
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8608a0ee-7dbb-43a4-b809-755773b7ad91",
+    "bit_id": "92ed20af-b4c4-42f6-8468-0a0f12bcc22d",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You are a star!",
+    "has_bullet": true,
+    "word_count": 2902
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7feae8f5-46a8-4b70-89f1-713e34992a3e",
+    "bit_id": "973ddea5-a5a9-460a-9312-1ccfb1375430",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Rain on the Mountain",
+    "word_count": 2906
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7feae8f5-46a8-4b70-89f1-713e34992a3e",
+    "bit_id": "973ddea5-a5a9-460a-9312-1ccfb1375430",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Call out, “There’s rain on the mountain”",
+    "has_bullet": true,
+    "word_count": 2910
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7feae8f5-46a8-4b70-89f1-713e34992a3e",
+    "bit_id": "973ddea5-a5a9-460a-9312-1ccfb1375430",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Everyone else replies “Run, run, run” while running around the space. ",
+    "has_bullet": true,
+    "word_count": 2917
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7feae8f5-46a8-4b70-89f1-713e34992a3e",
+    "bit_id": "973ddea5-a5a9-460a-9312-1ccfb1375430",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Call out different instructions. For example, touch something red or hop like a frog",
+    "has_bullet": true,
+    "word_count": 2929
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7feae8f5-46a8-4b70-89f1-713e34992a3e",
+    "bit_id": "973ddea5-a5a9-460a-9312-1ccfb1375430",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Keep playing and change the instructions each time. ",
+    "has_bullet": true,
+    "word_count": 2943
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "7feae8f5-46a8-4b70-89f1-713e34992a3e",
+    "bit_id": "973ddea5-a5a9-460a-9312-1ccfb1375430",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You can use this as a fun way to learn colours or even tidy up! ",
+    "has_bullet": true,
+    "word_count": 2952
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Dance Party",
+    "word_count": 2968
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Play or sing your favourite music and dance around the room",
+    "has_bullet": true,
+    "word_count": 2970
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Dance in different ways or with different parts of your body",
+    "has_bullet": true,
+    "word_count": 2981
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "For example, “Dance like a monkey”, “Dance like a chicken” or “Dance with just our knees and hips”",
+    "has_bullet": true,
+    "word_count": 2992
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think up different instructions. Be seriously playful! ",
+    "has_bullet": true,
+    "word_count": 3010
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "When the music stops, everyone does a funny freeze. ",
+    "has_bullet": true,
+    "word_count": 3018
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "fad17aa2-d7cc-4ef1-a547-3423cadd3b8c",
+    "bit_id": "b12d3a64-5385-442e-b6ef-325b25212dda",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Give your child a chance to be the one to stop the music! ",
+    "has_bullet": true,
+    "word_count": 3028
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Listening to Sounds",
+    "word_count": 3042
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Sit down and close your eyes",
+    "has_bullet": true,
+    "word_count": 3045
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "How many sounds can you hear? Listen to the sounds inside and outside the room. Count them on your fingers",
+    "has_bullet": true,
+    "word_count": 3051
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+    "has_bullet": true,
+    "word_count": 3071
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Try again for another ten seconds. ",
+    "has_bullet": true,
+    "word_count": 3086
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Can you hear any new sounds? Can you hear any sounds inside your own body?",
+    "has_bullet": true,
+    "word_count": 3093
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "36a4facb-54b1-4c45-a104-24aac4bb13b9",
+    "bit_id": "16daa0f8-8d50-407b-90f6-51995c7140ec",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Notice how you feel and ask your child how they are feeling.",
+    "has_bullet": true,
+    "word_count": 3108
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "See It Be It",
+    "word_count": 3120
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Look around you and name something that you can see. For example, a tree or a cup",
+    "has_bullet": true,
+    "word_count": 3124
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Say to your child “I see a tree, let’s be it”",
+    "has_bullet": true,
+    "word_count": 3141
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Countdown from 5 and make the shape of a tree with your bodies. Be as big and silly as possible.",
+    "has_bullet": true,
+    "word_count": 3152
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now let your child have a turn. What can they see?",
+    "has_bullet": true,
+    "word_count": 3172
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "If you can, go outside and be in nature. If you can’t, play it inside. ",
+    "has_bullet": true,
+    "word_count": 3183
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "220571bf-b05c-4634-b73b-87463effaffc",
+    "bit_id": "af76ba9e-14d7-483a-a972-ce48bfd15670",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "When you’ve done it a few times, add moves and sounds!",
+    "has_bullet": true,
+    "word_count": 3199
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Story time",
+    "word_count": 3210
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Start the story with “Once upon a time there was a…”",
+    "has_bullet": true,
+    "word_count": 3212
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Let your child make up the next sentence",
+    "has_bullet": true,
+    "word_count": 3223
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Then you make up a sentence",
+    "has_bullet": true,
+    "word_count": 3231
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Take turns until you have a wonderful new story",
+    "has_bullet": true,
+    "word_count": 3237
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Make sure to end the story on a positive note.",
+    "has_bullet": true,
+    "word_count": 3246
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4514302c-fbd6-4118-a6e6-a1dfeae52432",
+    "bit_id": "679e92b2-a26c-44f3-affa-d5c3dbe8f1c7",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Ask your child what was their favourite part of the story!",
+    "has_bullet": true,
+    "word_count": 3256
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b698aaac-5180-415b-8b59-30788989ee95",
+    "bit_id": "c3784c73-3c8e-4eb1-a582-166f4d2ea565",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Superpowers",
+    "word_count": 3267
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b698aaac-5180-415b-8b59-30788989ee95",
+    "bit_id": "c3784c73-3c8e-4eb1-a582-166f4d2ea565",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of a superpower. For example, going anywhere instantly, travelling in time, reading minds. ",
+    "has_bullet": true,
+    "word_count": 3268
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b698aaac-5180-415b-8b59-30788989ee95",
+    "bit_id": "c3784c73-3c8e-4eb1-a582-166f4d2ea565",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Ask your child “If you had the superpower to […] how would you use it?",
+    "has_bullet": true,
+    "word_count": 3283
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b698aaac-5180-415b-8b59-30788989ee95",
+    "bit_id": "c3784c73-3c8e-4eb1-a582-166f4d2ea565",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Encourage them to give their superhero a name and act it out. ",
+    "has_bullet": true,
+    "word_count": 3298
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b698aaac-5180-415b-8b59-30788989ee95",
+    "bit_id": "c3784c73-3c8e-4eb1-a582-166f4d2ea565",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now let them choose a super power for you",
+    "has_bullet": true,
+    "word_count": 3311
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b698aaac-5180-415b-8b59-30788989ee95",
+    "bit_id": "c3784c73-3c8e-4eb1-a582-166f4d2ea565",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Make sure you act it out too! ",
+    "has_bullet": true,
+    "word_count": 3320
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b9d38f32-5a7f-4aa7-8225-c411ab4a22f1",
+    "bit_id": "0ed07fcf-5f83-47a7-8abf-54240c0e0fc0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Three options",
+    "word_count": 3328
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b9d38f32-5a7f-4aa7-8225-c411ab4a22f1",
+    "bit_id": "0ed07fcf-5f83-47a7-8abf-54240c0e0fc0",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of three different situations. For example, driving a car, sailing a boat or flying a plane",
+    "has_bullet": true,
+    "word_count": 3330
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b9d38f32-5a7f-4aa7-8225-c411ab4a22f1",
+    "bit_id": "0ed07fcf-5f83-47a7-8abf-54240c0e0fc0",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Say them to your child and ask, “Which would you prefer?”",
+    "has_bullet": true,
+    "word_count": 3347
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b9d38f32-5a7f-4aa7-8225-c411ab4a22f1",
+    "bit_id": "0ed07fcf-5f83-47a7-8abf-54240c0e0fc0",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Ask them why?",
+    "has_bullet": true,
+    "word_count": 3358
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b9d38f32-5a7f-4aa7-8225-c411ab4a22f1",
+    "bit_id": "0ed07fcf-5f83-47a7-8abf-54240c0e0fc0",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now think of three more situations or ask your child to do it for you ",
+    "has_bullet": true,
+    "word_count": 3361
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Worms Go Home",
+    "word_count": 3377
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Lie on your tummies and pretend your index fingers are a wiggly worm. ",
+    "has_bullet": true,
+    "word_count": 3380
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "With your other hand make a worm house by making a circle with your fingers and thumb and place it on the floor. ",
+    "has_bullet": true,
+    "word_count": 3394
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Call out an instruction for your finger to touch, like “Worms on noses” or “Worms on ears”",
+    "has_bullet": true,
+    "word_count": 3418
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "When you call out “Worms go home”, your wiggly worm has to find a worm house as quickly as possible. ",
+    "has_bullet": true,
+    "word_count": 3435
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "The last worm to find a home calls out the instructions next. ",
+    "has_bullet": true,
+    "word_count": 3456
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6ea29925-7e9c-4957-ad59-30a644f8fa24",
+    "bit_id": "c804d7a4-0ffc-4908-8a5d-8ad990648f6d",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Keep playing until you feel rejuvenated from lying down. ",
+    "has_bullet": true,
+    "word_count": 3469
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1a82b37a-c256-4711-9eac-1c34fe47a827",
+    "bit_id": "8abff6c5-a7f3-4fc4-a8ed-521e42c64d54",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Crazy Chicken",
+    "word_count": 3479
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1a82b37a-c256-4711-9eac-1c34fe47a827",
+    "bit_id": "8abff6c5-a7f3-4fc4-a8ed-521e42c64d54",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Shake your left hands in the air 8 times while counting to 8 ",
+    "has_bullet": true,
+    "word_count": 3481
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1a82b37a-c256-4711-9eac-1c34fe47a827",
+    "bit_id": "8abff6c5-a7f3-4fc4-a8ed-521e42c64d54",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Do it as fast and loud as you can",
+    "has_bullet": true,
+    "word_count": 3495
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1a82b37a-c256-4711-9eac-1c34fe47a827",
+    "bit_id": "8abff6c5-a7f3-4fc4-a8ed-521e42c64d54",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Repeat with your other hand. Repeat with both feet",
+    "has_bullet": true,
+    "word_count": 3504
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1a82b37a-c256-4711-9eac-1c34fe47a827",
+    "bit_id": "8abff6c5-a7f3-4fc4-a8ed-521e42c64d54",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Do it 7 times, then 6 times and continue until you get to 1.",
+    "has_bullet": true,
+    "word_count": 3513
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1a82b37a-c256-4711-9eac-1c34fe47a827",
+    "bit_id": "8abff6c5-a7f3-4fc4-a8ed-521e42c64d54",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Everyone calls out “Crazy chicken” and does their best crazy chicken dance!",
+    "has_bullet": true,
+    "word_count": 3527
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Drawing",
+    "word_count": 3539
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Children love to draw! It helps build creativity",
+    "has_bullet": true,
+    "word_count": 3540
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Get some pens or crayons and a piece of paper or cardboard",
+    "has_bullet": true,
+    "word_count": 3548
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Let your children freely whatever they want",
+    "has_bullet": true,
+    "word_count": 3560
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "While your child is drawing, use words to describe what they are doing: “I see you are drawing a person” or “I see you are making lines with the red crayon.”",
+    "has_bullet": true,
+    "word_count": 3567
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You can also have fun drawing next to them",
+    "has_bullet": true,
+    "word_count": 3598
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a6af68e-ef89-4882-ac9c-b66aa0b974db",
+    "bit_id": "d90fea77-7981-4a9f-bf5d-eccae5331c40",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Put their drawings up on the wall, refrigerator, or outside to decorate the house – it will make your children feel appreciated!",
+    "has_bullet": true,
+    "word_count": 3607
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Self-portrait",
+    "word_count": 3629
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Here’s how your children can draw a picture of themselves!",
+    "has_bullet": true,
+    "word_count": 3630
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Find a big piece of paper or cardboard. It needs to be the same length or slightly longer than the height of your child",
+    "has_bullet": true,
+    "word_count": 3640
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Ask your child to lie down on the paper. Carefully draw the outline of your child.",
+    "has_bullet": true,
+    "word_count": 3664
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now let your child fill in the outline: face, hair, clothes, shoes, or anything they want!",
+    "has_bullet": true,
+    "word_count": 3680
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Ask your child to draw things that they like and do not like outside of the outline",
+    "has_bullet": true,
+    "word_count": 3696
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Have a conversation with your child about these things. You may learn something about your child!",
+    "has_bullet": true,
+    "word_count": 3713
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4745e9e0-cd81-41ae-ac31-312b6d42e78c",
+    "bit_id": "69330c53-1feb-49af-82bf-695af65ebfa1",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "You can put their outline up in their room or anywhere in the house – it will make your children feel appreciated!",
+    "has_bullet": true,
+    "word_count": 3729
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3ec09b79-2895-4a05-a6a8-4481c4f47973",
+    "bit_id": "c4eb191d-0eee-440d-a196-5c2565bef288",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Transform the object",
+    "word_count": 3751
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3ec09b79-2895-4a05-a6a8-4481c4f47973",
+    "bit_id": "c4eb191d-0eee-440d-a196-5c2565bef288",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Every day household items like brooms, mops, or scarfs can become fun props for games",
+    "has_bullet": true,
+    "word_count": 3754
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3ec09b79-2895-4a05-a6a8-4481c4f47973",
+    "bit_id": "c4eb191d-0eee-440d-a196-5c2565bef288",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Place an object in the center of the room and whenever someone has an idea, they jump in and show the rest what the object can be",
+    "has_bullet": true,
+    "word_count": 3769
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3ec09b79-2895-4a05-a6a8-4481c4f47973",
+    "bit_id": "c4eb191d-0eee-440d-a196-5c2565bef288",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "For example, a broom might be ridden as a horse or a microphone or a guitar!",
+    "has_bullet": true,
+    "word_count": 3796
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f2c178ed-cef5-4174-bb9b-3bf726ff1c6f",
+    "bit_id": "e28b889c-8e9f-43a4-b30e-28514fa6d739",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Name that tune",
+    "word_count": 3812
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f2c178ed-cef5-4174-bb9b-3bf726ff1c6f",
+    "bit_id": "e28b889c-8e9f-43a4-b30e-28514fa6d739",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "First person gets to choose or sing a song",
+    "has_bullet": true,
+    "word_count": 3815
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f2c178ed-cef5-4174-bb9b-3bf726ff1c6f",
+    "bit_id": "e28b889c-8e9f-43a4-b30e-28514fa6d739",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Everyone else must guess the name of the tune (to make it harder they can guess the singer)",
+    "has_bullet": true,
+    "word_count": 3824
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f2c178ed-cef5-4174-bb9b-3bf726ff1c6f",
+    "bit_id": "e28b889c-8e9f-43a4-b30e-28514fa6d739",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "The first one to guess it right becomes the next leader",
+    "has_bullet": true,
+    "word_count": 3842
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "85313216-4d5a-4ad6-9069-58a9398580e6",
+    "bit_id": "1a0a2cc3-9ad2-4343-8621-41da3b6b4a64",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Memory game – “When COVID-19 ends…”",
+    "word_count": 3853
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "85313216-4d5a-4ad6-9069-58a9398580e6",
+    "bit_id": "1a0a2cc3-9ad2-4343-8621-41da3b6b4a64",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "First person says, “When COVID-19 ends, I am going to… (e.g., go to the park)”",
+    "has_bullet": true,
+    "word_count": 3859
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "85313216-4d5a-4ad6-9069-58a9398580e6",
+    "bit_id": "1a0a2cc3-9ad2-4343-8621-41da3b6b4a64",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Second person adds to first person, “When COVID-19 ends, I am going to the park and… (e.g., visit my best friend”",
+    "has_bullet": true,
+    "word_count": 3874
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "85313216-4d5a-4ad6-9069-58a9398580e6",
+    "bit_id": "1a0a2cc3-9ad2-4343-8621-41da3b6b4a64",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Each person adds to the previous trying to think of all of the fun things to do when COVID-19 ends",
+    "has_bullet": true,
+    "word_count": 3895
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c12b7e27-aebc-4a01-98ad-c6c49e256d72",
+    "bit_id": "4b16d575-f309-4c1b-9007-ec1ea21e35d1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Dance choreography",
+    "word_count": 3915
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c12b7e27-aebc-4a01-98ad-c6c49e256d72",
+    "bit_id": "4b16d575-f309-4c1b-9007-ec1ea21e35d1",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Create a dance choreography to your children’s favorite songs",
+    "has_bullet": true,
+    "word_count": 3917
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c12b7e27-aebc-4a01-98ad-c6c49e256d72",
+    "bit_id": "4b16d575-f309-4c1b-9007-ec1ea21e35d1",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "First person does a dance move and everyone else copies. ",
+    "has_bullet": true,
+    "word_count": 3926
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c12b7e27-aebc-4a01-98ad-c6c49e256d72",
+    "bit_id": "4b16d575-f309-4c1b-9007-ec1ea21e35d1",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Everyone takes turns being the leader",
+    "has_bullet": true,
+    "word_count": 3937
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c12b7e27-aebc-4a01-98ad-c6c49e256d72",
+    "bit_id": "4b16d575-f309-4c1b-9007-ec1ea21e35d1",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Perform it for the household!",
+    "has_bullet": true,
+    "word_count": 3943
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Mirror",
+    "word_count": 3948
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This game can be played in pairs or even as a group",
+    "has_bullet": true,
+    "word_count": 3949
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Stand facing each other or in a circle  ",
+    "has_bullet": true,
+    "word_count": 3961
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "One person leads first while everyone else must copy, trying to move exactly at the same time as the leader.",
+    "has_bullet": true,
+    "word_count": 3971
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Make sure the leader moves slowly enough for everyone to follow! Explore moving different body parts and in different levels.",
+    "has_bullet": true,
+    "word_count": 3991
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "After a while, switch who is leading. Give everyone a chance to lead",
+    "has_bullet": true,
+    "word_count": 4011
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "e8e9efb6-4ad8-4e18-85f1-48ca2669c79b",
+    "bit_id": "99eebdbd-1bfa-4174-91e7-b4529fb3150c",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Try it with no leaders!",
+    "has_bullet": true,
+    "word_count": 4024
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cb97a397-ca1c-459a-9640-3155243af4ce",
+    "bit_id": "62afdc39-fa3a-48de-8a69-642a946b9680",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Freeze dance",
+    "word_count": 4029
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cb97a397-ca1c-459a-9640-3155243af4ce",
+    "bit_id": "62afdc39-fa3a-48de-8a69-642a946b9680",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Play music or someone sings a song, and everyone dances",
+    "has_bullet": true,
+    "word_count": 4031
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cb97a397-ca1c-459a-9640-3155243af4ce",
+    "bit_id": "62afdc39-fa3a-48de-8a69-642a946b9680",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "When the music stops, everyone must freeze",
+    "has_bullet": true,
+    "word_count": 4041
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cb97a397-ca1c-459a-9640-3155243af4ce",
+    "bit_id": "62afdc39-fa3a-48de-8a69-642a946b9680",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Last person still dancing becomes the judge for the next round",
+    "has_bullet": true,
+    "word_count": 4048
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "cb97a397-ca1c-459a-9640-3155243af4ce",
+    "bit_id": "62afdc39-fa3a-48de-8a69-642a946b9680",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Animal dance: Same as above but when the music stops, call out a name of an animal, and everyone has to become that animal",
+    "has_bullet": true,
+    "word_count": 4059
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Run Around and Do This ",
+    "word_count": 4083
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Everyone runs around the room or garden.  Make sure the space is large enough and safe",
+    "has_bullet": true,
+    "word_count": 4089
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "At any time, someone can stop somewhere and say, “When you get over here, you do this!”  ",
+    "has_bullet": true,
+    "word_count": 4106
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "What you do can be anything: push-ups, singing a song, crying, jumping… ",
+    "has_bullet": true,
+    "word_count": 4125
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "The more you play, there are more and more things to do in more and more places.  ",
+    "has_bullet": true,
+    "word_count": 4138
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Each person can decide where to go when.  ",
+    "has_bullet": true,
+    "word_count": 4157
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d71769b-da2c-447c-b595-741ab59e2bd4",
+    "bit_id": "d60fb0f6-c5e1-4b99-85cd-de69bb7a0f38",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "It’s fun to interact with other people who are doing the same thing as you!",
+    "has_bullet": true,
+    "word_count": 4167
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Ship to Shore ",
+    "word_count": 4182
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "A fun active game where children learn different parts of a boat. Everyone must go to the place or activity that you call out",
+    "has_bullet": true,
+    "word_count": 4186
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "“Bow” means run to the front of the boat (room)",
+    "has_bullet": true,
+    "word_count": 4210
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "“Stern” means run to the back of the boat",
+    "has_bullet": true,
+    "word_count": 4220
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "“Starboard” means run to the right side and “Port” means run to the right side",
+    "has_bullet": true,
+    "word_count": 4229
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "“Climb the rigging”: pretend to climb",
+    "has_bullet": true,
+    "word_count": 4244
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "“Clean the deck”: pretend to clean the floor",
+    "has_bullet": true,
+    "word_count": 4250
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "“Lifeboat, [number] people!”: hold hands in a circle with that many people and do knee bends",
+    "has_bullet": true,
+    "word_count": 4258
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0d1e0420-9509-437f-a41c-24f1467da8ce",
+    "bit_id": "72001d28-a148-4bfb-9ff1-c34adfb2a0a7",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "Everyone not in a lifeboat must swim!",
+    "has_bullet": true,
+    "word_count": 4274
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d9d49626-8ca5-41cb-becc-224d6abd4f41",
+    "bit_id": "60cc7880-f935-412c-b0df-f8ffaec0721b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Stage Directions",
+    "word_count": 4281
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d9d49626-8ca5-41cb-becc-224d6abd4f41",
+    "bit_id": "60cc7880-f935-412c-b0df-f8ffaec0721b",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "The same as Ship to Shore but with Stage Directions: “Stage Right, Stage Left, Downstage, Upstage, Centre Stage.” ",
+    "has_bullet": true,
+    "word_count": 4283
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d9d49626-8ca5-41cb-becc-224d6abd4f41",
+    "bit_id": "60cc7880-f935-412c-b0df-f8ffaec0721b",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "You can have fun actions like “Dramatic Death, Take a Bow, Open the Curtain, Clean the Floor,” etc. ",
+    "has_bullet": true,
+    "word_count": 4302
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d9d49626-8ca5-41cb-becc-224d6abd4f41",
+    "bit_id": "60cc7880-f935-412c-b0df-f8ffaec0721b",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Instead of “Lifeboat” you make “Cast of Actors.” Those not in the cast become the director!",
+    "has_bullet": true,
+    "word_count": 4321
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Blind Dragon ",
+    "word_count": 4337
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This game is great if you have at least 4 people",
+    "has_bullet": true,
+    "word_count": 4340
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Tell the story about a ferocious dragon who lived near a village. He would sneak into the village at night and steal people’s treasures – anything they loved.  Anybody who tried to take their treasure back would be eaten alive.  This continued for many years until the dragon became old, fat, and blind from sitting on his treasure and gazing at the glare of the gold coins. Then the townspeople could try and sneak into his lair and steal back their relatives’ treasure. ",
+    "has_bullet": true,
+    "word_count": 4351
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "One person plays the dragon. Dragon sits blindfolded or with eyes closed surrounded by a pile of treasure. ",
+    "has_bullet": true,
+    "word_count": 4437
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Everyone has one piece of treasure that they must steal back. ",
+    "has_bullet": true,
+    "word_count": 4456
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "If the dragon hears you and points at you, you must go back to the starting place. ",
+    "has_bullet": true,
+    "word_count": 4468
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6fe6a896-f5ff-41d5-9c68-d6c69fa80798",
+    "bit_id": "6b3dae69-f44f-4ca0-bd3d-d294e59dfc6a",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Only one person can try to get the treasure at a time. ",
+    "has_bullet": true,
+    "word_count": 4486
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What Are You Doing? ",
+    "word_count": 4499
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This game is best when more than 2 people play",
+    "has_bullet": true,
+    "word_count": 4504
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "One person pretends to be doing something – for example, combing hair or making dinner  ",
+    "has_bullet": true,
+    "word_count": 4514
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Another person asks, “What are you doing?”",
+    "has_bullet": true,
+    "word_count": 4531
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "The first person needs to say something that has nothing to do with combing hair, for example, “Tying my shoes.”  ",
+    "has_bullet": true,
+    "word_count": 4538
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "The second person then starts pretending to tie their shoes until a new person asks, “What are you doing?” ",
+    "has_bullet": true,
+    "word_count": 4560
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ab8da1c-077a-4163-8c44-26b3dabc8cd6",
+    "bit_id": "4d8471e2-d035-4fbd-b60a-a73081be137a",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "The answer must always be something different than what you are actually doing!",
+    "has_bullet": true,
+    "word_count": 4580
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ac6432d-f663-4c38-a319-23c737bed227",
+    "bit_id": "d8750e99-dfd2-4592-8bd9-7eff617946af",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "When I Was Younger",
+    "word_count": 4593
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ac6432d-f663-4c38-a319-23c737bed227",
+    "bit_id": "d8750e99-dfd2-4592-8bd9-7eff617946af",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Children love to hear stories about your own life!",
+    "has_bullet": true,
+    "word_count": 4597
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ac6432d-f663-4c38-a319-23c737bed227",
+    "bit_id": "d8750e99-dfd2-4592-8bd9-7eff617946af",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Think of a time when you were younger when something BIG happened to you",
+    "has_bullet": true,
+    "word_count": 4606
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ac6432d-f663-4c38-a319-23c737bed227",
+    "bit_id": "d8750e99-dfd2-4592-8bd9-7eff617946af",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "It can be an adventure, happy memory, or challenge that you experienced",
+    "has_bullet": true,
+    "word_count": 4620
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1ac6432d-f663-4c38-a319-23c737bed227",
+    "bit_id": "d8750e99-dfd2-4592-8bd9-7eff617946af",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Share it with your child and notice how they listen!",
+    "has_bullet": true,
+    "word_count": 4632
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91e85de7-a90d-4dc5-b148-f6bd12a4dd67",
+    "bit_id": "4855646e-96cb-4d1a-bd65-7c846942c356",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Dancing with Angels",
+    "word_count": 4642
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91e85de7-a90d-4dc5-b148-f6bd12a4dd67",
+    "bit_id": "4855646e-96cb-4d1a-bd65-7c846942c356",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This activity helps children learn how to lead. It also builds trust between you and your child",
+    "has_bullet": true,
+    "word_count": 4645
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91e85de7-a90d-4dc5-b148-f6bd12a4dd67",
+    "bit_id": "4855646e-96cb-4d1a-bd65-7c846942c356",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Play a piece of music that is gentle and relaxed to encourage smooth and calming movement.",
+    "has_bullet": true,
+    "word_count": 4662
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91e85de7-a90d-4dc5-b148-f6bd12a4dd67",
+    "bit_id": "4855646e-96cb-4d1a-bd65-7c846942c356",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "One person goes first and closes their eyes while the other person is the guardian angel or protector",
+    "has_bullet": true,
+    "word_count": 4678
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91e85de7-a90d-4dc5-b148-f6bd12a4dd67",
+    "bit_id": "4855646e-96cb-4d1a-bd65-7c846942c356",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "The guardian angel must protect the person with their eyes closed from harm while gently dancing together",
+    "has_bullet": true,
+    "word_count": 4696
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91e85de7-a90d-4dc5-b148-f6bd12a4dd67",
+    "bit_id": "4855646e-96cb-4d1a-bd65-7c846942c356",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "When the music ends, the dancer can open their eyes before switching roles",
+    "has_bullet": true,
+    "word_count": 4713
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c38ffa30-798b-4052-8d8b-b1a1b770051d",
+    "bit_id": "14084981-e1bc-4e23-93b2-dc2cb65a12ef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "The Interrupter",
+    "word_count": 4726
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c38ffa30-798b-4052-8d8b-b1a1b770051d",
+    "bit_id": "14084981-e1bc-4e23-93b2-dc2cb65a12ef",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Choose a storyteller to start making up a story",
+    "has_bullet": true,
+    "word_count": 4728
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c38ffa30-798b-4052-8d8b-b1a1b770051d",
+    "bit_id": "14084981-e1bc-4e23-93b2-dc2cb65a12ef",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Story listeners can interrupt with a word at any time",
+    "has_bullet": true,
+    "word_count": 4737
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c38ffa30-798b-4052-8d8b-b1a1b770051d",
+    "bit_id": "14084981-e1bc-4e23-93b2-dc2cb65a12ef",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Storyteller needs to fit that word in their story",
+    "has_bullet": true,
+    "word_count": 4747
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c38ffa30-798b-4052-8d8b-b1a1b770051d",
+    "bit_id": "14084981-e1bc-4e23-93b2-dc2cb65a12ef",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Try with a different storyteller! ",
+    "has_bullet": true,
+    "word_count": 4756
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Make Housework Fun",
+    "word_count": 4762
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Household chores aren’t fun… or are they? You can make them into a game, like this. ",
+    "has_bullet": true,
+    "word_count": 4765
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 4782
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 4791
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Touch something red. ",
+    "has_bullet": true,
+    "word_count": 4800
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 4804
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 4813
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Jump up and down ten times.",
+    "has_bullet": true,
+    "word_count": 4822
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 4828
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 4837
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "0aebf55e-0173-41d9-beff-bc546d3f8d68",
+    "bit_id": "4165617b-8fa9-4687-ae82-084fe1a496c5",
+    "bit_type": "text",
+    "type_id": 10,
+    "text": "Put the shoes in the shoe rack. ",
+    "has_bullet": true,
+    "word_count": 4846
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "688f5fc9-bb43-44c3-9c26-19a3257dc18f",
+    "bit_id": "3d2b889c-fe37-4fff-8a15-28e1f2dd612f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "At the End of the Day",
+    "word_count": 4854
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "688f5fc9-bb43-44c3-9c26-19a3257dc18f",
+    "bit_id": "3d2b889c-fe37-4fff-8a15-28e1f2dd612f",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "At the end of each day, take a minute to think about the day.  ",
+    "has_bullet": true,
+    "word_count": 4860
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "688f5fc9-bb43-44c3-9c26-19a3257dc18f",
+    "bit_id": "3d2b889c-fe37-4fff-8a15-28e1f2dd612f",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Talk your child about one positive or fun thing they did.",
+    "has_bullet": true,
+    "word_count": 4876
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "688f5fc9-bb43-44c3-9c26-19a3257dc18f",
+    "bit_id": "3d2b889c-fe37-4fff-8a15-28e1f2dd612f",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Praise yourself for one thing you did well today.",
+    "has_bullet": true,
+    "word_count": 4887
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "688f5fc9-bb43-44c3-9c26-19a3257dc18f",
+    "bit_id": "3d2b889c-fe37-4fff-8a15-28e1f2dd612f",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think of one thing that you are grateful for.  ",
+    "has_bullet": true,
+    "word_count": 4896
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "688f5fc9-bb43-44c3-9c26-19a3257dc18f",
+    "bit_id": "3d2b889c-fe37-4fff-8a15-28e1f2dd612f",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You are a star!",
+    "has_bullet": true,
+    "word_count": 4907
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a12ec5b-3ed8-4664-8a12-189d17a7a382",
+    "bit_id": "ac55540c-3561-4b44-b02f-305a787c64b6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "2 Truths, 1 Lie",
+    "word_count": 4911
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a12ec5b-3ed8-4664-8a12-189d17a7a382",
+    "bit_id": "ac55540c-3561-4b44-b02f-305a787c64b6",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of three statements about yourself. Two must be true and one must be a lie.",
+    "has_bullet": true,
+    "word_count": 4915
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a12ec5b-3ed8-4664-8a12-189d17a7a382",
+    "bit_id": "ac55540c-3561-4b44-b02f-305a787c64b6",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "It might help to think of wishes, dreams, experiences at school, likes or dislikes. For example, I hate bananas, my favourite subject is science, and I really wish I could sing. ",
+    "has_bullet": true,
+    "word_count": 4931
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a12ec5b-3ed8-4664-8a12-189d17a7a382",
+    "bit_id": "ac55540c-3561-4b44-b02f-305a787c64b6",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Say them to your teenager. Ask them to guess which one is a lie. ",
+    "has_bullet": true,
+    "word_count": 4963
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a12ec5b-3ed8-4664-8a12-189d17a7a382",
+    "bit_id": "ac55540c-3561-4b44-b02f-305a787c64b6",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Did they guess correctly? Was it a surprise?",
+    "has_bullet": true,
+    "word_count": 4978
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "2a12ec5b-3ed8-4664-8a12-189d17a7a382",
+    "bit_id": "ac55540c-3561-4b44-b02f-305a787c64b6",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Now ask them to do the same. Did you learn something new about each other?",
+    "has_bullet": true,
+    "word_count": 4986
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5c305ccb-c161-4d18-a15a-7c2423ff8535",
+    "bit_id": "b575edc8-57b6-465d-9e34-ba60cfa1ae10",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Three options",
+    "word_count": 5001
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5c305ccb-c161-4d18-a15a-7c2423ff8535",
+    "bit_id": "b575edc8-57b6-465d-9e34-ba60cfa1ae10",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of three different situations. For example, driving a car, sailing a boat or flying a plane",
+    "has_bullet": true,
+    "word_count": 5003
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5c305ccb-c161-4d18-a15a-7c2423ff8535",
+    "bit_id": "b575edc8-57b6-465d-9e34-ba60cfa1ae10",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Say them to your teen and ask, “Which would you prefer?”",
+    "has_bullet": true,
+    "word_count": 5020
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5c305ccb-c161-4d18-a15a-7c2423ff8535",
+    "bit_id": "b575edc8-57b6-465d-9e34-ba60cfa1ae10",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Ask them why?",
+    "has_bullet": true,
+    "word_count": 5031
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "5c305ccb-c161-4d18-a15a-7c2423ff8535",
+    "bit_id": "b575edc8-57b6-465d-9e34-ba60cfa1ae10",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now think of three more situations or ask your child to do it for you ",
+    "has_bullet": true,
+    "word_count": 5034
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a014e2f7-cf32-40e4-88f8-9a356f04f49a",
+    "bit_id": "76750ed3-43d6-4d4e-b6ab-067a9f644876",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Yes, No or Maybe",
+    "word_count": 5050
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a014e2f7-cf32-40e4-88f8-9a356f04f49a",
+    "bit_id": "76750ed3-43d6-4d4e-b6ab-067a9f644876",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Ask each other questions. They can be any questions about things you like or what you did today.",
+    "has_bullet": true,
+    "word_count": 5054
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a014e2f7-cf32-40e4-88f8-9a356f04f49a",
+    "bit_id": "76750ed3-43d6-4d4e-b6ab-067a9f644876",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "The only rule is that you can’t answer Yes, No or Maybe",
+    "has_bullet": true,
+    "word_count": 5072
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a014e2f7-cf32-40e4-88f8-9a356f04f49a",
+    "bit_id": "76750ed3-43d6-4d4e-b6ab-067a9f644876",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "How long can you last? How creative can you get with your answers?",
+    "has_bullet": true,
+    "word_count": 5084
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "a014e2f7-cf32-40e4-88f8-9a356f04f49a",
+    "bit_id": "76750ed3-43d6-4d4e-b6ab-067a9f644876",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Swap over and play again! ",
+    "has_bullet": true,
+    "word_count": 5097
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "99338517-ff5d-4024-86dc-4dc1872b620a",
+    "bit_id": "ee1d174e-cb47-433e-b530-d6f125df6ef1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "The Interrupter",
+    "word_count": 5103
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "99338517-ff5d-4024-86dc-4dc1872b620a",
+    "bit_id": "ee1d174e-cb47-433e-b530-d6f125df6ef1",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Choose a storyteller to start making up a story",
+    "has_bullet": true,
+    "word_count": 5105
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "99338517-ff5d-4024-86dc-4dc1872b620a",
+    "bit_id": "ee1d174e-cb47-433e-b530-d6f125df6ef1",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Story listeners can interrupt with a word at any time",
+    "has_bullet": true,
+    "word_count": 5114
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "99338517-ff5d-4024-86dc-4dc1872b620a",
+    "bit_id": "ee1d174e-cb47-433e-b530-d6f125df6ef1",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Storyteller needs to fit that word in their story",
+    "has_bullet": true,
+    "word_count": 5124
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "99338517-ff5d-4024-86dc-4dc1872b620a",
+    "bit_id": "ee1d174e-cb47-433e-b530-d6f125df6ef1",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Try with a different storyteller! ",
+    "has_bullet": true,
+    "word_count": 5133
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "23d042f4-4f0d-4fcf-ac26-fbbe29945b35",
+    "bit_id": "c93b444e-0357-457e-857d-adb647376d77",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Superpowers",
+    "word_count": 5139
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "23d042f4-4f0d-4fcf-ac26-fbbe29945b35",
+    "bit_id": "c93b444e-0357-457e-857d-adb647376d77",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of a superpower. For example, going anywhere instantly, travelling in time, reading minds. ",
+    "has_bullet": true,
+    "word_count": 5140
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "23d042f4-4f0d-4fcf-ac26-fbbe29945b35",
+    "bit_id": "c93b444e-0357-457e-857d-adb647376d77",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Ask your teen “If you had the superpower to […] how would you use it?",
+    "has_bullet": true,
+    "word_count": 5155
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "23d042f4-4f0d-4fcf-ac26-fbbe29945b35",
+    "bit_id": "c93b444e-0357-457e-857d-adb647376d77",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Encourage them to give their superhero a name and act it out. ",
+    "has_bullet": true,
+    "word_count": 5170
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "23d042f4-4f0d-4fcf-ac26-fbbe29945b35",
+    "bit_id": "c93b444e-0357-457e-857d-adb647376d77",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now let them choose a super power for you",
+    "has_bullet": true,
+    "word_count": 5183
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "23d042f4-4f0d-4fcf-ac26-fbbe29945b35",
+    "bit_id": "c93b444e-0357-457e-857d-adb647376d77",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Make sure you act it out too!",
+    "has_bullet": true,
+    "word_count": 5192
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6bf0905d-4102-49ae-9cdd-c577f8121b0e",
+    "bit_id": "051f5348-15cb-4ebe-bdc0-f5ca76a29151",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "How was your day?",
+    "word_count": 5199
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6bf0905d-4102-49ae-9cdd-c577f8121b0e",
+    "bit_id": "051f5348-15cb-4ebe-bdc0-f5ca76a29151",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Ask each other, “What made you happy today?”",
+    "has_bullet": true,
+    "word_count": 5203
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6bf0905d-4102-49ae-9cdd-c577f8121b0e",
+    "bit_id": "051f5348-15cb-4ebe-bdc0-f5ca76a29151",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Ask each other, “What was difficult today?”",
+    "has_bullet": true,
+    "word_count": 5211
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6bf0905d-4102-49ae-9cdd-c577f8121b0e",
+    "bit_id": "051f5348-15cb-4ebe-bdc0-f5ca76a29151",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Ask each other, “How can we help you?”",
+    "has_bullet": true,
+    "word_count": 5218
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "6bf0905d-4102-49ae-9cdd-c577f8121b0e",
+    "bit_id": "051f5348-15cb-4ebe-bdc0-f5ca76a29151",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Try to do this together every day, when you are eating together or before bed",
+    "has_bullet": true,
+    "word_count": 5226
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3f663196-550e-4589-b666-cee9ec781f4c",
+    "bit_id": "f6af7f6f-e5ca-4665-af7a-4213ad54a645",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Dream Travel",
+    "word_count": 5241
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3f663196-550e-4589-b666-cee9ec781f4c",
+    "bit_id": "f6af7f6f-e5ca-4665-af7a-4213ad54a645",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "You can’t travel but you can dream! Ask your teen these questions",
+    "has_bullet": true,
+    "word_count": 5243
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3f663196-550e-4589-b666-cee9ec781f4c",
+    "bit_id": "f6af7f6f-e5ca-4665-af7a-4213ad54a645",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Where do you want to travel? How long will you be away? What will you pack? What will you do? What will you see ?",
+    "has_bullet": true,
+    "word_count": 5255
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3f663196-550e-4589-b666-cee9ec781f4c",
+    "bit_id": "f6af7f6f-e5ca-4665-af7a-4213ad54a645",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Look at a map together if you have one.",
+    "has_bullet": true,
+    "word_count": 5280
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "3f663196-550e-4589-b666-cee9ec781f4c",
+    "bit_id": "f6af7f6f-e5ca-4665-af7a-4213ad54a645",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Choose a country that they’ve never heard of and look it up together online.",
+    "has_bullet": true,
+    "word_count": 5289
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4aad043b-8939-4fa3-9df2-ca3ab79229e0",
+    "bit_id": "c7652642-ff40-4e19-ac5e-19e50507b7b8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Get active!",
+    "word_count": 5303
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4aad043b-8939-4fa3-9df2-ca3ab79229e0",
+    "bit_id": "c7652642-ff40-4e19-ac5e-19e50507b7b8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Come up with three types of exercise together. For example, walking, jogging, soccer or dancing",
+    "has_bullet": true,
+    "word_count": 5305
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4aad043b-8939-4fa3-9df2-ca3ab79229e0",
+    "bit_id": "c7652642-ff40-4e19-ac5e-19e50507b7b8",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Pick one together and try it out. ",
+    "has_bullet": true,
+    "word_count": 5320
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4aad043b-8939-4fa3-9df2-ca3ab79229e0",
+    "bit_id": "c7652642-ff40-4e19-ac5e-19e50507b7b8",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "If you both like it, decide how often you are going to do it. Once or twice a week? Every morning?",
+    "has_bullet": true,
+    "word_count": 5328
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "4aad043b-8939-4fa3-9df2-ca3ab79229e0",
+    "bit_id": "c7652642-ff40-4e19-ac5e-19e50507b7b8",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Together think of ways to make it even more fun. Can you jog to a certain point? Take turns in being the coach? Motivate each other with a small free reward? ",
+    "has_bullet": true,
+    "word_count": 5349
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0b3d000-a52e-4006-acb3-d5ea99ee0078",
+    "bit_id": "87d8a653-ae62-412a-9d92-330548fa4ea7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Co-chef",
+    "word_count": 5381
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0b3d000-a52e-4006-acb3-d5ea99ee0078",
+    "bit_id": "87d8a653-ae62-412a-9d92-330548fa4ea7",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Ask your teen what kind of meal they would like to eat.",
+    "has_bullet": true,
+    "word_count": 5382
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0b3d000-a52e-4006-acb3-d5ea99ee0078",
+    "bit_id": "87d8a653-ae62-412a-9d92-330548fa4ea7",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Prepare it together! The first time, you may need to guide them. ",
+    "has_bullet": true,
+    "word_count": 5394
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0b3d000-a52e-4006-acb3-d5ea99ee0078",
+    "bit_id": "87d8a653-ae62-412a-9d92-330548fa4ea7",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Once your teen knows how to prepare the meal, let them take the lead and follow their instructions.",
+    "has_bullet": true,
+    "word_count": 5407
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0b3d000-a52e-4006-acb3-d5ea99ee0078",
+    "bit_id": "87d8a653-ae62-412a-9d92-330548fa4ea7",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": " Let each child and teen in the house have a turn at being the head chef.",
+    "has_bullet": true,
+    "word_count": 5425
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "b0b3d000-a52e-4006-acb3-d5ea99ee0078",
+    "bit_id": "87d8a653-ae62-412a-9d92-330548fa4ea7",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You can even help them make a budget for ingredients!",
+    "has_bullet": true,
+    "word_count": 5442
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8611e974-4e76-406e-9cbc-671cd028f7b7",
+    "bit_id": "b71447b5-9bc3-4b74-b484-f580de05b96b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What’s new?",
+    "word_count": 5452
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8611e974-4e76-406e-9cbc-671cd028f7b7",
+    "bit_id": "b71447b5-9bc3-4b74-b484-f580de05b96b",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think of a new skill you could learn together with your teen. For example, keeping a ball in the air or your foot, juggling, learning a new language, or playing an instrument?",
+    "has_bullet": true,
+    "word_count": 5454
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8611e974-4e76-406e-9cbc-671cd028f7b7",
+    "bit_id": "b71447b5-9bc3-4b74-b484-f580de05b96b",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Take turns in trying the new skill out.",
+    "has_bullet": true,
+    "word_count": 5486
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "8611e974-4e76-406e-9cbc-671cd028f7b7",
+    "bit_id": "b71447b5-9bc3-4b74-b484-f580de05b96b",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Make sure to praise each other, and try to learn and play together!",
+    "has_bullet": true,
+    "word_count": 5494
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d6552754-449f-4b86-a24b-fcc8335f480d",
+    "bit_id": "7bfb8052-258e-46bc-9a48-5ad54a4a1b5d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Dance choreography",
+    "word_count": 5507
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d6552754-449f-4b86-a24b-fcc8335f480d",
+    "bit_id": "7bfb8052-258e-46bc-9a48-5ad54a4a1b5d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Create a dance choreography to your teen's favorite songs",
+    "has_bullet": true,
+    "word_count": 5509
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d6552754-449f-4b86-a24b-fcc8335f480d",
+    "bit_id": "7bfb8052-258e-46bc-9a48-5ad54a4a1b5d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "First person does a dance move and everyone else copies. ",
+    "has_bullet": true,
+    "word_count": 5518
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d6552754-449f-4b86-a24b-fcc8335f480d",
+    "bit_id": "7bfb8052-258e-46bc-9a48-5ad54a4a1b5d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Everyone takes turns being the leader",
+    "has_bullet": true,
+    "word_count": 5529
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "d6552754-449f-4b86-a24b-fcc8335f480d",
+    "bit_id": "7bfb8052-258e-46bc-9a48-5ad54a4a1b5d",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Perform it for the household!",
+    "has_bullet": true,
+    "word_count": 5535
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Mirror",
+    "word_count": 5540
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This game can be played in pairs or even as a group",
+    "has_bullet": true,
+    "word_count": 5541
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Stand facing each other or in a circle  ",
+    "has_bullet": true,
+    "word_count": 5553
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "One person leads first while everyone else must copy, trying to move exactly at the same time as the leader.",
+    "has_bullet": true,
+    "word_count": 5563
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Make sure the leader moves slowly enough for everyone to follow! Explore moving different body parts and in different levels.",
+    "has_bullet": true,
+    "word_count": 5583
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "After a while, switch who is leading. Give everyone a chance to lead",
+    "has_bullet": true,
+    "word_count": 5603
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "00e040f7-c331-4eb5-a91c-7776c453d217",
+    "bit_id": "db3dfc1c-d0a3-444d-a339-8ec8345d0e1a",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Try it with no leaders!",
+    "has_bullet": true,
+    "word_count": 5616
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What Are You Doing? ",
+    "word_count": 5621
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This game is best when more than 2 people play",
+    "has_bullet": true,
+    "word_count": 5626
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "One person pretends to be doing something – for example, combing hair or making dinner  ",
+    "has_bullet": true,
+    "word_count": 5636
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Another person asks, “What are you doing?”",
+    "has_bullet": true,
+    "word_count": 5653
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "The first person needs to say something that has nothing to do with combing hair, for example, “Tying my shoes.”  ",
+    "has_bullet": true,
+    "word_count": 5660
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "The second person then starts pretending to tie their shoes until a new person asks, “What are you doing?” ",
+    "has_bullet": true,
+    "word_count": 5682
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "911ddcf5-d943-442d-ba82-f9486e0f23fd",
+    "bit_id": "aa55a228-3428-4606-929f-c8a1e115b2ac",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "The answer must always be something different than what you are actually doing!",
+    "has_bullet": true,
+    "word_count": 5702
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Make up a story!",
+    "word_count": 5715
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Start the story with “Once upon a time there was a…”",
+    "has_bullet": true,
+    "word_count": 5719
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Let your teen make up the next sentence",
+    "has_bullet": true,
+    "word_count": 5730
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Then you make up a sentence",
+    "has_bullet": true,
+    "word_count": 5738
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Take turns until you have a wonderful new story",
+    "has_bullet": true,
+    "word_count": 5744
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Make sure to end the story on a positive note.",
+    "has_bullet": true,
+    "word_count": 5753
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c76a17eb-9831-4e28-9ad9-ffb6c7532e6b",
+    "bit_id": "b4680607-cd79-4b42-9c2f-48f5492559cb",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Ask your teen what was their favourite part of the story!",
+    "has_bullet": true,
+    "word_count": 5763
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91d35e80-c26d-48ee-93cf-c319f49c4c78",
+    "bit_id": "bd881384-d7d1-4ccc-a021-c62cefcf004e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Crazy Chicken",
+    "word_count": 5774
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91d35e80-c26d-48ee-93cf-c319f49c4c78",
+    "bit_id": "bd881384-d7d1-4ccc-a021-c62cefcf004e",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Shake your left hands in the air 8 times while counting to 8 ",
+    "has_bullet": true,
+    "word_count": 5776
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91d35e80-c26d-48ee-93cf-c319f49c4c78",
+    "bit_id": "bd881384-d7d1-4ccc-a021-c62cefcf004e",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Do it as fast and loud as you can",
+    "has_bullet": true,
+    "word_count": 5790
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91d35e80-c26d-48ee-93cf-c319f49c4c78",
+    "bit_id": "bd881384-d7d1-4ccc-a021-c62cefcf004e",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Repeat with your other hand. Repeat with both feet",
+    "has_bullet": true,
+    "word_count": 5799
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91d35e80-c26d-48ee-93cf-c319f49c4c78",
+    "bit_id": "bd881384-d7d1-4ccc-a021-c62cefcf004e",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Do it 7 times, then 6 times and continue until you get to 1.",
+    "has_bullet": true,
+    "word_count": 5808
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "91d35e80-c26d-48ee-93cf-c319f49c4c78",
+    "bit_id": "bd881384-d7d1-4ccc-a021-c62cefcf004e",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Everyone calls out “Crazy chicken” and does their best crazy chicken dance!",
+    "has_bullet": true,
+    "word_count": 5822
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c303b9b2-39cb-4eb9-b953-0821af5a3af2",
+    "bit_id": "6f3a5043-21ca-485e-bcf5-f8458891200a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Name that tune",
+    "word_count": 5834
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c303b9b2-39cb-4eb9-b953-0821af5a3af2",
+    "bit_id": "6f3a5043-21ca-485e-bcf5-f8458891200a",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "First person gets to choose or sing a song",
+    "has_bullet": true,
+    "word_count": 5837
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c303b9b2-39cb-4eb9-b953-0821af5a3af2",
+    "bit_id": "6f3a5043-21ca-485e-bcf5-f8458891200a",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Everyone else must guess the name of the tune (to make it harder they can guess the singer)",
+    "has_bullet": true,
+    "word_count": 5846
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "c303b9b2-39cb-4eb9-b953-0821af5a3af2",
+    "bit_id": "6f3a5043-21ca-485e-bcf5-f8458891200a",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "The first one to guess it right becomes the next leader",
+    "has_bullet": true,
+    "word_count": 5864
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "256b3af8-1876-4eb9-9b3a-5c89f1aed8f9",
+    "bit_id": "f2a1f5d9-48e6-4ec0-9449-4b55f4a5be72",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Memory game – “When COVID-19 ends…”",
+    "word_count": 5875
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "256b3af8-1876-4eb9-9b3a-5c89f1aed8f9",
+    "bit_id": "f2a1f5d9-48e6-4ec0-9449-4b55f4a5be72",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "First person says, “When COVID-19 ends, I am going to… (e.g., go to the park)”",
+    "has_bullet": true,
+    "word_count": 5881
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "256b3af8-1876-4eb9-9b3a-5c89f1aed8f9",
+    "bit_id": "f2a1f5d9-48e6-4ec0-9449-4b55f4a5be72",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Second person adds to first person, “When COVID-19 ends, I am going to the park and… (e.g., visit my best friend”",
+    "has_bullet": true,
+    "word_count": 5896
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "256b3af8-1876-4eb9-9b3a-5c89f1aed8f9",
+    "bit_id": "f2a1f5d9-48e6-4ec0-9449-4b55f4a5be72",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Each person adds to the previous trying to think of all of the fun things to do when COVID-19 ends",
+    "has_bullet": true,
+    "word_count": 5917
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Pass the Snap  ",
+    "word_count": 5937
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "This game is best with at least 3 people",
+    "has_bullet": true,
+    "word_count": 5942
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Start in a circle and pass one snap around the circle (or clap if you cannot snap)",
+    "has_bullet": true,
+    "word_count": 5951
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "You snap once to throw the snap and once to catch it. Look at the person you are throwing to.  ",
+    "has_bullet": true,
+    "word_count": 5968
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "The direction (up, down, straight, curved, rolling the ground) and force (hard, soft, medium) that you throw the snap should affect how the person catches it.  ",
+    "has_bullet": true,
+    "word_count": 5990
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You can bounce the snap, throw it in the air, and catch it a few times before passing it.  ",
+    "has_bullet": true,
+    "word_count": 6018
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "When everyone gets good at this, you can start moving around the room, still passing the snap.  ",
+    "has_bullet": true,
+    "word_count": 6039
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "423f17df-4434-4c92-ab9a-20d789482767",
+    "bit_id": "c61526d3-f38e-44f5-a231-007fb35c6b11",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Can you throw under the leg?  Behind the back?  Through your head?  Intercept a pass? Have fun with the snap!  ",
+    "has_bullet": true,
+    "word_count": 6058
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ffda2d07-c6cd-4b08-96a5-954327c95af9",
+    "bit_id": "bf31063d-fe1f-4711-b517-9f8c236f6b2d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Just a friendly chat",
+    "word_count": 6083
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ffda2d07-c6cd-4b08-96a5-954327c95af9",
+    "bit_id": "bf31063d-fe1f-4711-b517-9f8c236f6b2d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Have a conversation with your teen about something they like",
+    "has_bullet": true,
+    "word_count": 6087
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ffda2d07-c6cd-4b08-96a5-954327c95af9",
+    "bit_id": "bf31063d-fe1f-4711-b517-9f8c236f6b2d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "It can be about anything they choose to talk about: sports, friends, music, celebrities…",
+    "has_bullet": true,
+    "word_count": 6097
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "ffda2d07-c6cd-4b08-96a5-954327c95af9",
+    "bit_id": "bf31063d-fe1f-4711-b517-9f8c236f6b2d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Try to listen to your teen and give them space to talk",
+    "has_bullet": true,
+    "word_count": 6111
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Make Housework Fun",
+    "word_count": 6123
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Household chores aren’t fun… or are they? You can make them into a game, like this. ",
+    "has_bullet": true,
+    "word_count": 6126
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 6143
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 6152
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Touch something red. ",
+    "has_bullet": true,
+    "word_count": 6161
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 6165
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 6174
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Jump up and down ten times.",
+    "has_bullet": true,
+    "word_count": 6183
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 6189
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "There’s a fire on the mountain! Run, run, run!",
+    "has_bullet": true,
+    "word_count": 6198
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "badcdb9a-05d7-4e1c-b98f-4e8398cacdba",
+    "bit_id": "37dc0f33-cce2-4140-9852-54456933816d",
+    "bit_type": "text",
+    "type_id": 10,
+    "text": "Put the shoes in the shoe rack. ",
+    "has_bullet": true,
+    "word_count": 6207
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "38ecadfc-938a-4438-857f-4a38cc5324a8",
+    "bit_id": "2612223d-e0c7-4335-b69a-b47565ddbe04",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "At the End of the Day",
+    "word_count": 6215
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "38ecadfc-938a-4438-857f-4a38cc5324a8",
+    "bit_id": "2612223d-e0c7-4335-b69a-b47565ddbe04",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "At the end of each day, take a minute to think about the day.  ",
+    "has_bullet": true,
+    "word_count": 6221
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "38ecadfc-938a-4438-857f-4a38cc5324a8",
+    "bit_id": "2612223d-e0c7-4335-b69a-b47565ddbe04",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Talk your child about one positive or fun thing they did.",
+    "has_bullet": true,
+    "word_count": 6237
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "38ecadfc-938a-4438-857f-4a38cc5324a8",
+    "bit_id": "2612223d-e0c7-4335-b69a-b47565ddbe04",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Praise yourself for one thing you did well today.",
+    "has_bullet": true,
+    "word_count": 6248
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "38ecadfc-938a-4438-857f-4a38cc5324a8",
+    "bit_id": "2612223d-e0c7-4335-b69a-b47565ddbe04",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think of one thing that you are grateful for.  ",
+    "has_bullet": true,
+    "word_count": 6257
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "38ecadfc-938a-4438-857f-4a38cc5324a8",
+    "bit_id": "2612223d-e0c7-4335-b69a-b47565ddbe04",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You are a star!",
+    "has_bullet": true,
+    "word_count": 6268
+  }
+]

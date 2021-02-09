@@ -1,0 +1,1605 @@
+[
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hai! Bagaimana perasaan anda? ",
+    "word_count": 0,
+    "source_text": "Hi! How are you feeling? "
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Hebat",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 6,
+    "source_text": "Great"
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Okey",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 7,
+    "source_text": "Okay"
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Teruk",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 8,
+    "source_text": "Bad"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d52796bd-ff4f-4ef2-8881-2d1844873943",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Maaf, saya tidak faham apa yang anda maksudkan.",
+    "word_count": 9,
+    "source_text": "Sorry, I don't understand what you mean."
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "fdab24ad-58d2-4021-b29e-8de87831e7df",
+    "bit_type": "arguments",
+    "text": "bagus",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 16,
+    "source_text": "great"
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "01dc2311-832c-43dc-8b64-78938d42684b",
+    "bit_type": "arguments",
+    "text": "okey ok",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 17,
+    "source_text": "okay ok"
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "230b91af-30a2-4ae0-9735-80604c558ef8",
+    "bit_type": "arguments",
+    "text": "teruk",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 19,
+    "source_text": "bad"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "1f42af15-4b1f-459b-ad77-016cbf915ea1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Gembira mendengar anda melakukannya yang baik. Satu perasaan yang indah!",
+    "word_count": 20,
+    "source_text": "So good to hear that you are doing well. What a wonderful feeling!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "96ddb29c-de48-4803-81ff-940ad117cfcb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Kadangkala kita di atas. Kadangkala kita di bawah. Dan kadangkala kita tidak di atas ataupun  di bawah...dan ianya adalah okey!",
+    "word_count": 33,
+    "source_text": "Sometimes we're up. Sometimes we're down. And sometimes we are neither up nor down...and that's totally okay!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "f3bb92c5-a8aa-4a56-99a9-e54bb4178b97",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hari awak kurang baik saya simpati mendengarnya. Adalah normal untuk melalui masa yang sukar sekarang. Ingat bahawa anda tidak bersendirian. Berikut adalah aktiviti yang mungkin dapat membantu...",
+    "word_count": 50,
+    "source_text": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone. Here is an activity that might also help..."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "142d0644-3226-497f-829f-80388cba71c1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah anak-anak anda pernah membuat anda berasa seperti hendak menjerit? Berikan masa untuk diri sendiri selama 10 saat. Tarik dan hembus nafas perlahan-lahan sebanyak 5 kali. Kemudian cuba beri tindak balas dengan cara yang tenang. Berjuta ibu bapa berkata ini dapat membantu - RAMAI.",
+    "word_count": 87,
+    "source_text": "Do your children ever make you feel like screaming? Give yourself a 10-second pause. Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "29100e70-d744-4084-aefb-c11543e2ec6c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah anda hanya mempunyai 30 saat? Mari kita bersama-sama berhenti seketika dengan pantas. Ia mungkin membantu. ",
+    "word_count": 124,
+    "source_text": "Have you only got 30 seconds? Let's take a quick pause together. It might be helpful. "
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "29100e70-d744-4084-aefb-c11543e2ec6c",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Duduk, tutup mata dan dengarkan nafas anda masuk dan keluar. Cakna apa yang anda rasa. Apabila anda telah bersedia buka mata anda sekali lagi. Cubalah ini apabila anda berasa tertekan dan anda perlu berehat untuk menyambung semula.",
+    "word_count": 141,
+    "source_text": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Try this whenever you are feeling stressed and you need a break reconnect."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Berikut adalah sesuatu yang menyeronokkan untuk membantu anda melepaskan tekanan:",
+    "word_count": 182,
+    "source_text": "Here is something fun to help you let go of stress:"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Pilih satu lagu yang menggambarkan apa yang anda perlukan pada saat ini. Adakah anda memerlukan lagu yang perlahan untuk menenangkan jiwa anda yang lelah atau lagu yang rancak untuk membantu anda menghilangkan tekanan?",
+    "word_count": 193,
+    "source_text": "Choose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Buat ruang dan gerakkan badan mengikut muzik. Ingat untuk bernafas semasa anda bergerak. Biarkan nafas dan pergerakan anda seiring.",
+    "word_count": 226,
+    "source_text": "Make a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together."
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Walaupun dengan beberapa minit pergerakan cukup untuk melepaskan tekanan dan menaikkan mood anda!",
+    "word_count": 250,
+    "source_text": "Even a few minutes of movement can be enough to release stress and lift your mood!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Mari gunakan tiga kuasa ajaib untuk terus kekal berhubung dan relaks. ",
+    "word_count": 266,
+    "source_text": "Let’s use the magic power of three stay present and relax. "
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Namakan tiga bunyi yang boleh anda dengari sekarang.",
+    "word_count": 278,
+    "source_text": "Name three sounds you can hear right now."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Namakan tiga bau yang boleh anda hidu sekarang. ",
+    "word_count": 286,
+    "source_text": "Name three smells you can smell right now. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Namakan tiga makanan kegemaran anda. ",
+    "word_count": 295,
+    "source_text": "Name your three favourite foods. "
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Apakah tiga perkara yang anda boleh syukuri sekarang?",
+    "word_count": 301,
+    "source_text": "What are three things you can be grateful for right now?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Ia tidak perlu menjadi sesuatu yang besar.",
+    "word_count": 312,
+    "source_text": "They don’t have to be big."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": " ",
+    "word_count": 318,
+    "source_text": " "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "Pada penghujung hari yang mencabar, fikirkan tiga perkara yang perlu disyukuri dan boleh membantu kita mencari semangat untuk mencuba sekali lagi keesokannya.  ",
+    "word_count": 320,
+    "source_text": "At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah kadangkala anda berasa seperti semua yang anda buat salah?",
+    "word_count": 347,
+    "source_text": "Do you sometimes feel like you are getting everything wrong?"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Luangkan masa seketika untuk fikirkan tentang hari ini. Fikirkan satu perkara yang anda telah lakukan hari ini yang membuat anda berasa bangga.",
+    "word_count": 357,
+    "source_text": "Take a moment to think over the day. Think of one thing you did today that you are proud of."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Lipat lengan anda ke seluruh badan anda dan peluklah diri sendiri.",
+    "word_count": 377,
+    "source_text": "Wrap your arms around your body and give yourself a hug."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Fikirkan satu perkara yang anda telah lakukan hari ini yang tidak membuatkan anda berasa bangga. Adakah anda akan melakukan sesuatu yang berbeza esok?",
+    "word_count": 388,
+    "source_text": "Think of one thing you did today that you don’t feel proud of. What can you do differently tomorrow?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Dan lipat lengan anda ke seluruh badan dan peluklah diri sendiri.",
+    "word_count": 407,
+    "source_text": "And wrap your arms around your body and give yourself a hug."
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Tidak mengapa. Anda melakukan yang terbaik maka bersikap baik pada diri sendiri. Dapatkan rehat dan cuba lagi esok!",
+    "word_count": 419,
+    "source_text": "It’s ok. You are doing your best so be kind to yourself. Get some rest and try again tomorrow!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Luangkan masa untuk menghentikan apa yang anda sedang lakukan dan hubungkan dengan nafas anda.  ",
+    "word_count": 438,
+    "source_text": "Take a moment to stop what you are doing and connect with your breath.  "
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Apakah satu perkara yang boleh anda syukuri sekarang?",
+    "word_count": 454,
+    "source_text": "What is one thing you can be grateful for right now?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Apakah satu perkara yang membuatkan anda bahagia?",
+    "word_count": 465,
+    "source_text": "What is one thing that brings you happiness?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Apakah satu perkara yang anda sayangi?",
+    "word_count": 473,
+    "source_text": "What is one thing that you love?"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Ia tidak perlu menjadi sesuatu yang besar. Kadangkala perkara kecil dalam kehidupan lebih bermakna!",
+    "word_count": 480,
+    "source_text": "They don't have to be big. Sometimes the small things in life count the most!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah kadangkala anda rasa perasaan anda berlebih-lebihan?",
+    "word_count": 495,
+    "source_text": "Do you sometimes feel your feelings are too much?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Bercakap dengan seseorang. ",
+    "word_count": 504,
+    "source_text": "Talk to someone. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Bercakap dengan seseorang yang anda percaya. Bercakap dengan rakan. Bercakap denga keluarga. Bercakap dengan pokok.",
+    "word_count": 508,
+    "source_text": "Talk to someone you trust. Talk to a friend. Talk to family. Talk to a tree."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Hilangkan kerisauan di dada anda dan kemudian lepaskannya. Walaupun ia hanya untuk seketika. ",
+    "word_count": 524,
+    "source_text": "Get your worries off your chest and then let them go. Even if it’s just for a moment. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Bagaimana anda rasa sekarang?",
+    "word_count": 543,
+    "source_text": "How do you feel now?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Kegembiraan yang dikongsi adalah dua kali ganda kegembiraan. Masalah yang dikongsi adalah separuh daripada masalah.",
+    "word_count": 548,
+    "source_text": "A joy shared is twice the joy. A problem shared is half the problem."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Pada penghujung hari, ambil seminit untuk fikirkan tentang hari ini.  ",
+    "word_count": 562,
+    "source_text": "At the end of the day, take a minute to think about the day.  "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Fikirkan tentang satu perkara positif dan menyeronokkan yang anda telah lakukan.",
+    "word_count": 578,
+    "source_text": "Think about one positive or fun thing you did."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Puji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.",
+    "word_count": 587,
+    "source_text": "Praise yourself for one thing you did well today."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Fikirkan satu perkara lain yang anda akan lakukan esok. ",
+    "word_count": 596,
+    "source_text": "Think of one thing you can do differently tomorrow. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Fikirkan satu perkara yang anda syukuri. ",
+    "word_count": 606,
+    "source_text": "Think of one thing that you are grateful for. "
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Anda adalah bintang!",
+    "word_count": 616,
+    "source_text": "You are a star!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "75450f1c-ca29-4d2f-922e-9419d12eaa22",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tutup mata anda dan fikirkan tentang hari itu. Namakan 1 perkara yang anda syukuri. Namakan satu perkara yang telah anda lakukan dengan baik. Namakan 1 perkara yang anda sayangi. Anda telah mendapat tidur yang baik!",
+    "word_count": 620,
+    "source_text": "Close your eyes and think about the day. Name 1 thing that you are grateful for. Name 1 thing that you did well. Name 1 think that you love. You earned a goodnight of sleep!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Ini adalah aktiviti untuk merehatkan badan anda:",
+    "word_count": 655,
+    "source_text": "Here's an activity to relax your body:"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Duduk dengan selesa dan tutup mata anda jika boleh.",
+    "word_count": 662,
+    "source_text": "Sit comfortably and close your eyes if you can."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Bayangkan cincin emas mengimbas badan anda dari kaki sehingga kepala anda. ",
+    "word_count": 671,
+    "source_text": "Imagine a golden ring scanning your body from your feet to your head. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Tumpukan perhatian apabila ia bergerak ke atas dan ke bawah badan anda. Adakah terdapat kawasan yang berasa tegang? Kebas? Menyakitkan? ",
+    "word_count": 685,
+    "source_text": "Pay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful? "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Fokus pada kawasan-kawasan tersebut buat seketika. Tarik nafas ke kawasan itu dan semasa anda menghembuskan nafas keluar, cuba untuk lepaskan ketegangan atau kesakitan. ",
+    "word_count": 705,
+    "source_text": "Focus on those areas for a moment. Breathe in to the area and when you breathe out, try to let go of any tension or pain. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Lakukan ini selama beberapa nafas. ",
+    "word_count": 732,
+    "source_text": "Do this for a few breaths. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Buka mata anda. Bagaimana rasa badan anda sekarang?",
+    "word_count": 739,
+    "source_text": "Open your eyes. How does your body feel now?"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "Cuba ini lain kali apabila anda dapati diri anda tidak boleh tidur setelah berbaring di atas katil!",
+    "word_count": 748,
+    "source_text": "Try this next time you find yourself lying in bed unable to sleep!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Rasai hubungan anda dengan lantai yang anda pijak.",
+    "word_count": 761,
+    "source_text": "Notice your connection with the ground beneath you."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Bahagian tubuh anda yang manakah menyentuh lantai? Bahagian tubuh badan anda yang tidak?\r ",
+    "word_count": 769,
+    "source_text": "What parts of your body touch the ground? What parts of your body don’t? "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Rasai di mana ia berasa hangat dan di mana ia berasa sejuk.",
+    "word_count": 784,
+    "source_text": "Notice where it feels warm and where it feels cool."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Rasakan lantai yang anda pijak menyokong anda. Biarkan badan anda meresap ke dalam sokongan lantai tersebut. ",
+    "word_count": 794,
+    "source_text": "Feel the ground underneath you supporting you. Let your body sink into the support of the ground. "
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Cuba ini lain kali apabila anda berasa keseorangan atau sedang melakukan aktiviti biasa seperti membasuh. Ia benar-benar dapat membantu!",
+    "word_count": 812,
+    "source_text": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Berikut adalah aktiviti berehat yang pendek untuk anda:",
+    "word_count": 832,
+    "source_text": "Here is a short relaxation activity for you:"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Duduk dan tutup mata anda",
+    "word_count": 840,
+    "source_text": "Sit down and close your eyes"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Berapa banyak bunyi yang anda boleh dengar? ",
+    "word_count": 846,
+    "source_text": "How many sounds can you hear? "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Dengarkan bunyi di dalam dan di luar bilik. Kira bunyi itu dengan jari anda.",
+    "word_count": 853,
+    "source_text": "Listen to the sounds inside and outside the room. Count them on your fingers."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Selepas sepuluh saat, berapakah jari yang anda naikkan? Apakah bunyi yang telah anda dengari?",
+    "word_count": 867,
+    "source_text": "After ten seconds, how many fingers do you have up? What sounds did you hear?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Cuba lagi untuk sepuluh saat. ",
+    "word_count": 882,
+    "source_text": "Try again for another ten seconds. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Adakah anda mendengar sebarang bunyi baharu? Adakah anda mendengar sebarang bunyi di dalam badan anda?",
+    "word_count": 889,
+    "source_text": "Did you hear any new sounds? Did you hear any sounds inside your own body?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "Rasai perasaan anda sekarang.",
+    "word_count": 904,
+    "source_text": "Notice how you feel now."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Gunakan tiga kuasa ajaib untuk kekal berhubung dan relaks.",
+    "word_count": 909,
+    "source_text": "Use the magic power of three to stay connected and relax."
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Tarik nafas dengan kiraan tiga. 1, 2, 3.",
+    "word_count": 920,
+    "source_text": "Breathe in to the count of three. 1, 2, 3."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Hembus nafas dengan kiraan tiga. 1, 2, 3.",
+    "word_count": 930,
+    "source_text": "Breath out to the count of three. 1, 2, 3."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Tarik nafas dengan kiraan tiga. 1, 2, 3.",
+    "word_count": 940,
+    "source_text": "Breathe in to the count of three. 1, 2, 3."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Hembus nafas dengan kiraan tiga. 1, 2, 3.",
+    "word_count": 950,
+    "source_text": "Breath out to the count of three. 1, 2, 3."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Tarik nafas dengan kiraan tiga. 1, 2, 3.",
+    "word_count": 960,
+    "source_text": "Breathe in to the count of three. 1, 2, 3."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Hembus nafas dengan kiraan tiga. 1, 2, 3.",
+    "word_count": 970,
+    "source_text": "Breath out to the count of three. 1, 2, 3."
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "Apa yang anda rasai sekarang? Adakah anda rasa sebarang perbezaan? Bernafas dalam-dalam membantu seluruh tubuh badan dan minda kita untuk tenang. ",
+    "word_count": 980,
+    "source_text": "How do you feel now? Do you feel any different? Deep breathing helps our whole body and mind to calm down. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Pernahkah anda merasakan sesuatu yang sangat kuat sehingga anda ingin lari daripadanya?",
+    "word_count": 1002,
+    "source_text": "Do you ever feel something so strongly that you want to run away from it?"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Daripada menjauhkan diri dari perasaan tersebut, mari kita bergerak ke arahnya buat seketika.",
+    "word_count": 1017,
+    "source_text": "Instead of moving away from the feeling, let’s move towards it for a moment."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Tidak mengapa. Tutup mata anda jika anda berasa selesa. Tarik nafas dalam-dalam.",
+    "word_count": 1031,
+    "source_text": "It’s ok. Close your eyes if you feel comfortable. Take a deep breath."
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Jadi ingin tahu. Di manakah anda dapat merasakannya di dalam badan anda? Adakah panas atau sejuk? Keras atau lembut? Ketat atau longgar?",
+    "word_count": 1044,
+    "source_text": "Become curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Tanya beberapa soalan kepada diri anda sendiri. Apa yang diceritakannya? Apa yang diperlukannya? Bagaimana saya boleh bersikap baik kepada diri saya pada masa ini?",
+    "word_count": 1065,
+    "source_text": "Ask yourself some questions. What is it telling me? What does it need? How can I be kind to myself in this moment?"
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "Jika fikiran anda mula melayang-layang, itu normal. Bawa kembali kepada perasaan itu. Teruskan bernafas dan merasa.",
+    "word_count": 1088,
+    "source_text": "If your mind starts to wander, it’s normal. Just bring it back to the feeling. Keep breathing and feeling."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "Yakinkan diri anda. Tidak mengapa untuk merasa. Perasaan itu menyembuhkan!",
+    "word_count": 1107,
+    "source_text": "Reassure yourself. It’s ok to feel. Feeling is healing!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1997263f-84a1-4ed5-8f5d-064b0f08ab3f",
+    "bit_id": "bc5401d1-9752-42dd-840a-de140a7b224a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hai! Sekiranya anda mahukan sokongan atau petua keibubapaan tambahan, taip \"Tolong\" ",
+    "word_count": 1116,
+    "source_text": "Hi! If you ever want any support or additional parenting tips, type \"Help\" "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "1b84ad14-fd93-4dcc-92b6-cb374aa39949",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana banyak berusaha untuk menjadi ibu bapa yang lebih baik. Anda disayangi dan dihargai!",
+    "word_count": 1130,
+    "source_text": "Thank you for making so much effort to be a better parent. You are loved and appreciated!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "97be57f8-dda7-4a96-a2f7-58c49420d3ff",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tiada ibu bapa yang sempurna atau anak yang sempurna. Kita semua hanya mencuba yang terbaik!",
+    "word_count": 1147,
+    "source_text": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "9de56dd9-1d4e-4779-8709-898d341bc8ff",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana bangun setiap pagi dan terus mencuba lagi. Walaupun anda penat. Itulah keberanian dan dedikasi sebenar! ",
+    "word_count": 1166,
+    "source_text": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a9b8c743-55b9-49d2-821d-135888efd133",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana memberi sinaran positif kepada keluarga anda. Teruskan bersinar!",
+    "word_count": 1188,
+    "source_text": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "beeab132-1207-4d43-9640-44b3cfc311e3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tiada ibu bapa yang sempurna. Bercakaplah dengan baik kepada diri anda sendiri tentang perkara hebat yang anda lakukan. Kami rasa anda hebat!",
+    "word_count": 1202,
+    "source_text": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "338022f0-8508-43b5-b57d-870fc751be34",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah ada yang memberitahu anda betapa luar biasa anda berada di sana untuk anak-anak anda ketika wabak global? Tidak ada buku panduan untuk masa-masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa.",
+    "word_count": 1227,
+    "source_text": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "4408232c-6a88-420c-ab8e-e839b7169727",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana bersabar dengan diri sendiri dan keluarga. Setiap usaha yang sedikit itu membantu! ",
+    "word_count": 1260,
+    "source_text": "Thank you for being patient with yourself and your family. Every little bit helps! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "854568d7-734e-4042-80d6-b882b575eedf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Syabas kerana menjadi lelaki yang menyokong keluarga anda. Anda adalah wira sebenar.",
+    "word_count": 1275,
+    "source_text": "Well done for being a man who supports their family. You are a real hero."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a63a65c3-0ee6-467f-a4ec-22880b8efd72",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda adalah lelaki yang banyak memikirkan semua perkara yang anda lakukan. Kami melihatnya dan menghargainya.",
+    "word_count": 1290,
+    "source_text": "You’re a man who puts a lot of thought into everything you do. We see it and appreciate it."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "7a729be8-e8b6-4f13-bbe0-d7859ada8409",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih atas dedikasi anda! Dunia memerlukan lebih ramai lelaki seperti anda. ",
+    "word_count": 1309,
+    "source_text": "Thank you for your dedication! The world needs more men like you. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "5112ab95-365b-42fe-ad6b-f823e8b12c9f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hore! Wanita lain di seluruh dunia sedang bersorak untuk anda sekarang!",
+    "word_count": 1322,
+    "source_text": "Hooray! Other women around the world are cheering for you right now!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d72fff7a-139b-4d6d-914a-70bcfa03ac75",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tidak mudah untuk menjadi wanita di dunia ini. Tetapi anda sedang mendahuluinya! ",
+    "word_count": 1334,
+    "source_text": "It’s not always easy to be a woman in this world. But you are leading the way! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "7a0b5657-fbf5-4ac0-90f7-4c98fa25fafb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda adalah contoh yang sangat baik untuk semua lelaki! Teruskan buat yang terbaik.",
+    "word_count": 1352,
+    "source_text": "You are such a great example for all men! Keep up the good work."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "88bb4fbd-f273-43f0-8418-4a3eaea89b8e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Komitmen anda adalah inspirasi untuk semua lelaki. Bertenang dan teruskan! ",
+    "word_count": 1366,
+    "source_text": "Your commitment is an inspiration for all men. Keep calm and carry on! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "b0b4167f-ec1a-4867-9610-b373c13fb4bb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih atas dedikasi anda! Dunia memerlukan lebih ramai wanita seperti anda.",
+    "word_count": 1380,
+    "source_text": "Thank you for your dedication! The world needs more women like you."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "ad64cb7b-463f-4fbc-870e-2626ed9bc519",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Palsukan ia sehingga anda berjaya, Mama!",
+    "word_count": 1392,
+    "source_text": "Fake it until you make it, Mama!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "85eeee1b-bcaf-44b2-83c6-f17a91b15095",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana menjadi superman dan berada di sini untuk keluarga anda hari ini! Teruskan!",
+    "word_count": 1399,
+    "source_text": "Thank you for being a superman and being there for your family today! Keep it up!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "c20e13fe-54fb-4ed6-9f00-05d9d6cf0cea",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hai wanita cantik! Terima kasih kerana menunjukkan banyak kekuatan dan berkongsikannya dengan keluarga anda.",
+    "word_count": 1415,
+    "source_text": "Hey beautiful woman! Thank you for showing so much strength and sharing it with your family."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "88f3a7c6-851b-4fb0-a5e7-49a83096975d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana menjadi inspirasi kepada wanita lain. Teruskan sinaran cahaya anda! ",
+    "word_count": 1431,
+    "source_text": "Thank you for being an inspiration to other women. Keep shining that light of yours! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "2ea44795-6bd8-4ff5-b096-0b604a1ebe6c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana hadir untuk keluarga anda hari ini dan melakukan yang terbaik! Anda dihargai!",
+    "word_count": 1447,
+    "source_text": "Thank you for showing up for your family today and doing your best! You are appreciated!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "0e82d119-ec96-4b2f-9b18-87599f8a5add",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Syabas kerana berjaya sampai ke penghujung hari! Kadang-kala hanya itu yang dapat kita lakukan. Berehatlah dan cuba lagi esok!",
+    "word_count": 1463,
+    "source_text": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "cb6db0e9-5d1c-483c-827d-e449d5b38551",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hore! Percayalah bahawa kerja keras anda menghasilkan buah yang manis, walaupun anda belum dapat merasainya!",
+    "word_count": 1486,
+    "source_text": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "63f5d57f-5c08-4f94-bbb9-48bdfe14a3f0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakala senang, adakala tidak. Lepaskan kesilapan dan raikan kejayaan, walaupun kecil!",
+    "word_count": 1503,
+    "source_text": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "136ec242-176d-4167-89d9-78e16e264b5b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Setiap kali anda berhenti seketika adalah tindakan yang baik. Terima kasih kerana bersikap baik kepada diri sendiri dan keluarga anda hari ini!",
+    "word_count": 1520,
+    "source_text": "Every time you take a pause is an act of kindness. Thank you for being kind to yourself and your family today!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "ee669233-423f-4a69-98cd-c3e4b4d0200a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Kini sudah di penghujung hari! Kamu berjaya lakukannya! Sekarang adalah masa anda. Anda layak ",
+    "word_count": 1542,
+    "source_text": "It’s the end of the day! You did it! Now it’s time for you. You deserve "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "e6ca682f-c1d6-4e12-b32d-73ccc72905c4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tahniah! Anda hebat! Ingatlah bahawa perkara-perkara kecil yang membuat perbezaan yang besar.",
+    "word_count": 1559,
+    "source_text": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a6bf2704-e21d-4b7e-9de5-b2eaa5b489c0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Apa sahaja yang anda rasakan ‘salah’ hari ini, lepaskan dan cuba lagi esok. Tidak mengapa! ",
+    "word_count": 1574,
+    "source_text": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "3c5df604-794b-475e-8e8e-dbc1442b0f59",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda membuat perbezaan hari ini dengan memunculkan diri. Waktu berhenti anda bermula sekarang!",
+    "word_count": 1591,
+    "source_text": "You made a difference today by showing up. Your down time starts now!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "b3dbabb5-acac-42a4-8ef3-17f0f1c68eb3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Syabas kerana cuba memahami semuanya. Tiada sesiapa yang mempunyai semua jawapan tetapi anda benar-benar melakukan yang terbaik!",
+    "word_count": 1604,
+    "source_text": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a13abe6b-acdb-47c3-bb47-d7599173b8a9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Menjaga diri anda adalah menjaga anak-anak anda! Syabas kerana berhenti seketika hari ini. Teruskan! ",
+    "word_count": 1623,
+    "source_text": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a3a48b3e-0655-4fab-ba7c-b93ea321a2a8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sepuluh mata untuk anda hari ini! Bersama-sama kita dapat mengatasi sebarang cabaran.",
+    "word_count": 1644,
+    "source_text": "Ten points for you today! Together we can overcome any challenge."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "9a70b79e-f757-4fd0-a21b-701543c146d5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Syabas kerana menghabiskan Masa Seorang-dengan-Seorang dengan keluarga anda! Masa adalah hadiah paling berharga yang anda dapat berikan kepada mereka. ",
+    "word_count": 1655,
+    "source_text": "Well done for spending One-on-One time with your family! Time is the most valuable gift you can give them. "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "265c09bb-63b1-4f4f-a9b8-f3b817c76713",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih atas kebaikan dan kesabaran anda hari ini! Walaupun sukar, kata-kata pujian, senyuman dan perhatian anda bagaikan sinaran matahari untuk anak-anak anda.",
+    "word_count": 1675,
+    "source_text": "Thank you for your kindness and patience today! Even when it’s tough, your words of praise, your smile and your attention are like sunshine for your children."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "147ce4ce-ab04-452b-bdc2-56c67ad20e0c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Rasa ingin tahu dan kreativiti anda berbaloi! Beri pelukan pada diri sendiri!",
+    "word_count": 1702,
+    "source_text": "Your curiosity and creativity are paying off! Give yourself a hug!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a6d06bea-17ac-4251-936d-50a5183454af",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Markah tertinggi untuk usaha! Ia tidak mudah tetapi anda mencuba yang terbaik. Itu sahaja yang boleh anda lakukan!",
+    "word_count": 1713,
+    "source_text": "Top marks for effort! It’s not easy but you tried your best. That’s all you can ever do!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "3ebd9c0d-2d60-46b2-8a9b-d8a96cc20f8e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Gembira, sedih, marah, teruja, risau? Syabas kerana mengetahui perasaan anda dan orang lain hari ini! Ingat, esok adalah hari yang baru.",
+    "word_count": 1731,
+    "source_text": "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hai! Bagaimana keibubapaan anda hari ini? ",
+    "word_count": 1754,
+    "source_text": "Hi! How is your parenting going today? "
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Hebat",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1762,
+    "source_text": "Great"
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Okey",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1763,
+    "source_text": "Okay"
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Teruk",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1764,
+    "source_text": "Bad"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d89689a7-27c9-45c7-981f-3aaa19ab0771",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Maaf, saya tidak faham apa yang anda maksudkan.",
+    "word_count": 1765,
+    "source_text": "Sorry, I don't understand what you mean."
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "22d6cba4-e1e8-4ee9-ab91-55f45d6b0f6e",
+    "bit_type": "arguments",
+    "text": "bagus",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1772,
+    "source_text": "great"
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "16762c7d-c741-4c1e-b72d-8e74034544ad",
+    "bit_type": "arguments",
+    "text": "okey",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1773,
+    "source_text": "okay"
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d4a5b8e3-4612-4720-9716-4dd6ad09ddf3",
+    "bit_type": "arguments",
+    "text": "teruk",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1774,
+    "source_text": "bad"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "311203e0-a245-41f3-92ab-1d70f4ed2a24",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tiada ibu bapa yang sempurna atau anak yang sempurna. Kita semua hanya mencuba yang terbaik!",
+    "word_count": 1775,
+    "source_text": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "2cd89e45-9ffe-4ab8-94a3-c94f44a8b0e3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakala senang, adakala tidak. Lepaskan kesilapan dan raikan kejayaan, walaupun kecil!",
+    "word_count": 1794,
+    "source_text": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "17357e49-e01b-41e7-8fb9-44b047e2e20a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hore! Percayalah bahawa kerja keras anda menghasilkan buah yang manis, walaupun anda belum dapat merasainya!",
+    "word_count": 1811,
+    "source_text": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "73448011-5cac-41ce-ac1d-d5bbf35b906d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tahniah! Anda hebat! Ingatlah bahawa perkara-perkara kecil yang membuat perbezaan yang besar.",
+    "word_count": 1828,
+    "source_text": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "9522b0d9-2db0-478a-964b-3b905bfe43d6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Apa sahaja yang anda rasakan ‘salah’ hari ini, lepaskan dan cuba lagi esok. Tidak mengapa! ",
+    "word_count": 1843,
+    "source_text": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "098a8142-4ff1-46d4-90b4-5910934af798",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah ada yang memberitahu anda betapa luar biasa anda berada di sana untuk anak-anak anda ketika wabak global? Tidak ada buku panduan untuk masa-masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa.",
+    "word_count": 1860,
+    "source_text": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d64df08f-c5ff-40d9-bad0-e54b84333d49",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana memberi sinaran positif kepada keluarga anda. Teruskan bersinar!",
+    "word_count": 1893,
+    "source_text": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "e558c0b3-685d-47b2-a2fb-f7fc3f74c6a0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Terima kasih kerana bangun setiap pagi dan terus mencuba lagi. Walaupun anda penat. Itulah keberanian dan dedikasi sebenar! ",
+    "word_count": 1907,
+    "source_text": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "7e0d5bf4-3555-4f45-9af8-e867b2ee61ef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Syabas kerana berjaya sampai ke penghujung hari! Kadang-kala hanya itu yang dapat kita lakukan. Berehatlah dan cuba lagi esok!",
+    "word_count": 1929,
+    "source_text": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "3674bc0e-ccce-40db-bcc9-a36023611866",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Syabas kerana cuba memahami semuanya. Tiada sesiapa yang mempunyai semua jawapan tetapi anda benar-benar melakukan yang terbaik!",
+    "word_count": 1952,
+    "source_text": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "0cc0467a-80e4-4892-93bd-0946a8164ee2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tiada ibu bapa yang sempurna. Bercakaplah dengan baik kepada diri anda sendiri tentang perkara hebat yang anda lakukan. Kami rasa anda hebat!",
+    "word_count": 1971,
+    "source_text": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "985722db-e2b3-49a3-9fb3-1dadb24a27df",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda membuat perbezaan hari ini dengan memunculkan diri. Waktu berhenti anda bermula sekarang!",
+    "word_count": 1996,
+    "source_text": "You made a difference today by showing up. Your down time starts now!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "0b523c06-96d5-4bb6-957b-c5e46abc919c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Kini sudah di penghujung hari! Kamu berjaya lakukannya! Sekarang adalah masa anda. Anda berhak mendapat rehat!",
+    "word_count": 2009,
+    "source_text": "It’s the end of the day! You did it! Now it’s time for you. You deserve a break!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "c085b3d1-3b55-4cbf-b7b6-5fddcc0dbd03",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Menjaga diri anda adalah menjaga anak-anak anda! Syabas kerana berhenti seketika hari ini. Teruskan! ",
+    "word_count": 2027,
+    "source_text": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "bd23a910-1b8c-4901-adeb-0c9eb21d4f67",
+    "bit_id": "d2cb27da-2da6-4564-a700-d339abc03435",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hai! Jika anda dapati mesej ini bermanfaat, sila berkongsi dengan rakan!",
+    "word_count": 2048,
+    "source_text": "Hi! If you have found these messages helpful, please share with a friend!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "82db61c2-6cde-407f-9b20-3d5f80c283af",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tahniah! Anda berjaya mengharungi minggu pertama anda. Cepatnya masa berlalu! ",
+    "word_count": 2061,
+    "source_text": "Congratulations! You have made it through your first week. How time flies! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "4a18309f-ab3b-4952-9946-a530482d4883",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Tahniah! Anda berjaya mengharungi seminggu lagi!",
+    "word_count": 2074,
+    "source_text": "Congratulations! You have made it through another week!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "8e3c36fb-1bed-4ba4-bc3e-a88b6fd9d38f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda telah menambah satu lagi kemahiran ke dalam Kit Keibubapaan anda:",
+    "word_count": 2082,
+    "source_text": "You have added one skill to your Parenting Toolkit:"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "acf12b21-862a-4455-9cf7-2aeda9747d4e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda telah menambahkan @hasil.n_kemahiran_kemahiran mingguan ke dalam Kit Keibubapaan anda:",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers",
+    "word_count": 2091,
+    "source_text": "You have added @results.n_skills_week skills to your Parenting Toolkit:"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "dac7f5d0-b197-4575-94e8-5e6eb3c21d7e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taip \"Tolong\" sekiranya anda ingin melawati semula untuk mendapatkan lebih sokongan.",
+    "word_count": 2100,
+    "source_text": "Type \"Help\" if you ever want to revisit them for more support."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "93779894-f6e9-4bcf-b8fe-31aace9dfc35",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Anda juga telah melakukan kemajuan dalam kemahiran berikut: ",
+    "word_count": 2112,
+    "source_text": "You also have made progress on the following skills: "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "a20773cb-806b-4de2-8c1b-f70c8dbc9284",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taip \"Tolong\" jika anda mahu kembali dan menyelesaikannya.",
+    "word_count": 2122,
+    "source_text": "Type \"Help\" if you ever want to go back and complete them."
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "969a0b76-44dd-401c-b581-f2e591235ee9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sekiranya anda dapat melihat beberapa perubahan dalam hidup anda atau hubungan dengan anak, itu bagus! ",
+    "word_count": 2134,
+    "source_text": "If you have already noticed some changes in your life or relationship with your children, that's great! "
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "969a0b76-44dd-401c-b581-f2e591235ee9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Sekiranya anda tidak melihat perubahan, teruskannya. Kadang-kala perkara ini memerlukan masa untuk berubah. Kami tahu anda boleh melakukannya!",
+    "word_count": 2152,
+    "source_text": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3a4b473c-0166-4b85-a21e-da07e10c5728",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Adakah anda ingin terus menerima tip ini seperti biasa atau kurang kerap? Anda boleh mengubah waktu hari anda menerima mesej. Ubah tetapan ini dengan menaip \"Tolong\" dan kemudian pilih \"Sokongan Teknikal.\"",
+    "word_count": 2177,
+    "source_text": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.  Change these settings by typing \"Help\" and then selecting \"Technical Support.\""
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3a4b473c-0166-4b85-a21e-da07e10c5728",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Kekerapan yang sama",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2216,
+    "source_text": "Same frequency"
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3a4b473c-0166-4b85-a21e-da07e10c5728",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Jarang sekali",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2218,
+    "source_text": "A little less often"
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "a3af6a9e-11d8-46ca-b0a9-7f7624f499ec",
+    "bit_type": "arguments",
+    "text": "sama ",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2222,
+    "source_text": "same "
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "8b80327c-881b-4661-87e3-832c373491d4",
+    "bit_type": "arguments",
+    "text": "kurang kerap",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2224,
+    "source_text": "less often"
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3667c7de-8b19-4bf8-bbd8-3d037b35a5d3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Maaf, saya tidak faham apa yang anda maksudkan.",
+    "word_count": 2226,
+    "source_text": "Sorry, I don't understand what you mean."
+  }
+]

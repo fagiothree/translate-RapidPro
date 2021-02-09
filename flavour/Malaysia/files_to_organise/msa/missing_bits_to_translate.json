@@ -1,0 +1,2233 @@
+[
+  {
+    "SourceText": "It is hard to find time to have fun with your children. How many days in the past week did you do something fun together? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "It is hard to find time to have fun with your children. How many days in the past week did you do something fun together? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please reply with a number between 0 and 7.",
+    "text": "Sorry, I don't understand what you mean. Please reply with a number between 0 and 7.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for spending time with your child, it makes all the difference!",
+    "text": "Well done for spending time with your child, it makes all the difference!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing that you keep doing fun things with your child. You are the best parent they could wish for! ",
+    "text": "Amazing that you keep doing fun things with your child. You are the best parent they could wish for! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good that you and your child are having fun times together. Your hard work is paying off, you can be proud of yourself! ",
+    "text": "So good that you and your child are having fun times together. Your hard work is paying off, you can be proud of yourself! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for spending time to do something fun with your child! You are making great progress. Keep it up! ",
+    "text": "Well done for spending time to do something fun with your child! You are making great progress. Keep it up! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great that you are setting aside time with your child – it is THE foundation for a happy home! ",
+    "text": "Great that you are setting aside time with your child – it is THE foundation for a happy home! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We know it is hard to find time in our busy lives. Well done for trying your best! ",
+    "text": "We know it is hard to find time in our busy lives. Well done for trying your best! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Finding time to do something fun with your child can be hard, I understand! The great thing is that spending time together will make other things go easier – you will see! ",
+    "text": "Finding time to do something fun with your child can be hard, I understand! The great thing is that spending time together will make other things go easier – you will see! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Give yourself credit for trying. Even 5 minutes a day can make a BIG difference! ",
+    "text": "Give yourself credit for trying. Even 5 minutes a day can make a BIG difference! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that it can be difficult to find time to spend with your child. Well done for trying, you can do it! ",
+    "text": "We understand that it can be difficult to find time to spend with your child. Well done for trying, you can do it! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Life can get so busy sometimes, I know! If you start spending time together doing one small activity, it will get easier over time!",
+    "text": "Life can get so busy sometimes, I know! If you start spending time together doing one small activity, it will get easier over time!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Focusing on the positive will help you see that behaviour more. How many days in the past week have you praised your child? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "Focusing on the positive will help you see that behaviour more. How many days in the past week have you praised your child? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great work! By praising your child, yourself and your other family members, you are making your house a happy home! ",
+    "text": "Great work! By praising your child, yourself and your other family members, you are making your house a happy home! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Wonderful that you are praising your child! This helps them feel seen and loved – your encouragement means a lot.  ",
+    "text": "Wonderful that you are praising your child! This helps them feel seen and loved – your encouragement means a lot.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is great that you are praising your child for things they do well. As you appreciate them, they will also start appreciating you and the others in your family more – you set the best example! ",
+    "text": "It is great that you are praising your child for things they do well. As you appreciate them, they will also start appreciating you and the others in your family more – you set the best example! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all sometimes feel like our children are causing more negativity than positivity. Try to see through negative attitudes and praise any positive behaviour you notice. With time, you will see the change! ",
+    "text": "We all sometimes feel like our children are causing more negativity than positivity. Try to see through negative attitudes and praise any positive behaviour you notice. With time, you will see the change! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry that it has been harder for you to praise your child. Try to find something positive, even if it is small. Over time, they will appreciate that you notice when they do something well.  ",
+    "text": "Sorry that it has been harder for you to praise your child. Try to find something positive, even if it is small. Over time, they will appreciate that you notice when they do something well.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "I understand it can be hard to praise your child sometimes. Remember, your praise makes a big difference, even if you don’t see it right away! ",
+    "text": "I understand it can be hard to praise your child sometimes. Remember, your praise makes a big difference, even if you don’t see it right away! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good to hear you are telling your child when they are doing something well. With time, you will see them do that behaviour more and more. You are doing a great job! ",
+    "text": "So good to hear you are telling your child when they are doing something well. With time, you will see them do that behaviour more and more. You are doing a great job! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometime our children don’t seem to do or say many things that deserve praise. Start praising the small things, you will see your child showing more positive behaviour over time!  ",
+    "text": "Sometime our children don’t seem to do or say many things that deserve praise. Start praising the small things, you will see your child showing more positive behaviour over time!  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for praising your child. Praise will help your child feel good about themselves, and they will show even more positive behaviour! ",
+    "text": "Well done for praising your child. Praise will help your child feel good about themselves, and they will show even more positive behaviour! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "With everything that is going on, it is not always easy to focus on the positive. Try to find 10 minutes to pay attention to what your child is doing – perhaps you can praise them for helping with a chore or for doing their homework? It helps a lot! ",
+    "text": "With everything that is going on, it is not always easy to focus on the positive. Try to find 10 minutes to pay attention to what your child is doing – perhaps you can praise them for helping with a chore or for doing their homework? It helps a lot! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a very stressful time for families. How many days in the past week did you feel very stressed as a parent/caregiver? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "This is a very stressful time for families. How many days in the past week did you feel very stressed as a parent/caregiver? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s wonderful to hear you are feeling less stress than last week. Keep up the good work! ",
+    "text": "It’s wonderful to hear you are feeling less stress than last week. Keep up the good work! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing that you are feeling less stressed! Remember to keep taking a deep breath every time something makes you feel anxious – you are doing a great job! ",
+    "text": "Amazing that you are feeling less stressed! Remember to keep taking a deep breath every time something makes you feel anxious – you are doing a great job! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all feel stressed sometimes, it’s normal. Remember to be kind to yourself and take a minute for yourself when you need it, you are doing a great job!",
+    "text": "We all feel stressed sometimes, it’s normal. Remember to be kind to yourself and take a minute for yourself when you need it, you are doing a great job!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is great you are feeling less stressed. We all have our ups and downs – remember the good times whenever things get challenging! ",
+    "text": "It is great you are feeling less stressed. We all have our ups and downs – remember the good times whenever things get challenging! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for managing your stress! Life can get overwhelming sometimes, but remember you can always take a pause – you are doing amazing.",
+    "text": "Well done for managing your stress! Life can get overwhelming sometimes, but remember you can always take a pause – you are doing amazing.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Life can be overwhelming sometimes. Well done for trying your best, you are valued and appreciated! ",
+    "text": "Life can be overwhelming sometimes. Well done for trying your best, you are valued and appreciated! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like a brief activity to help you with stress?",
+    "text": "Would you like a brief activity to help you with stress?",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be stressful to get through the day sometimes. At the end of each day, remember to praise yourself for doing your best!",
+    "text": "It can be stressful to get through the day sometimes. At the end of each day, remember to praise yourself for doing your best!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is okay to feel overwhelmed from time to time, we all do! Take a deep breath and remember that we are here to help.",
+    "text": "It is okay to feel overwhelmed from time to time, we all do! Take a deep breath and remember that we are here to help.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great to hear that your stress levels are manageable! Whenever you feel stressed, take a deep breath – you are doing amazing.",
+    "text": "Great to hear that your stress levels are manageable! Whenever you feel stressed, take a deep breath – you are doing amazing.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a quick video to help you take a pause!",
+    "text": "Here's a quick video to help you take a pause!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an audio message to help you take a pause!",
+    "text": "Here's an audio message to help you take a pause!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would like a brief relaxing activity now?",
+    "text": "Would like a brief relaxing activity now?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress.",
+    "text": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress.",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Close your eyes. ",
+    "text": "1. Close your eyes. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Listen to your breath as it goes in and out. ",
+    "text": "2. Listen to your breath as it goes in and out. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Notice how you feel.",
+    "text": "3. Notice how you feel.",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. When you are ready open your eyes again. ",
+    "text": "4. When you are ready open your eyes again. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "5. You are in control!",
+    "text": "5. You are in control!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes our children make us really upset. How many days in the past week did you shout, scream, or yell at your children? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "Sometimes our children make us really upset. How many days in the past week did you shout, scream, or yell at your children? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being a parent is not easy. Try to be patient with yourself and your family, and take some space if you need it. By talking about our challenges calmly, we can solve them together!  ",
+    "text": "Being a parent is not easy. Try to be patient with yourself and your family, and take some space if you need it. By talking about our challenges calmly, we can solve them together!  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be difficult to control our anger, especially when they make us really angry. Take a deep breath, and be proud of yourself when you manage to do it! ",
+    "text": "It can be difficult to control our anger, especially when they make us really angry. Take a deep breath, and be proud of yourself when you manage to do it! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry that you are having a difficult time with your child. It happens to all of us. Remember, every day we can make a new choice  ",
+    "text": "Sorry that you are having a difficult time with your child. It happens to all of us. Remember, every day we can make a new choice  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great work! When we respond calmly, our teens are more likely to do the same.  ",
+    "text": "Great work! When we respond calmly, our teens are more likely to do the same.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for keeping calm in difficult situations – that is definitely not easy to do! You are setting a great example for your child.  ",
+    "text": "Well done for keeping calm in difficult situations – that is definitely not easy to do! You are setting a great example for your child.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Our children can really drive us crazy sometimes. By responding calmly, they will learn to do the same when something upsets them at home or outside. Your patience will pay off, you will see! ",
+    "text": "Our children can really drive us crazy sometimes. By responding calmly, they will learn to do the same when something upsets them at home or outside. Your patience will pay off, you will see! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all get overwhelmed sometimes. Next time when you feel angry, try taking a deep breath before responding. This helps a lot! ",
+    "text": "We all get overwhelmed sometimes. Next time when you feel angry, try taking a deep breath before responding. This helps a lot! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "When we get angry, it can be hard to stay calm. Try to recognise your emotions and those of your child, and talk about them later - this helps everyone to understand each other better next time. You can do it! ",
+    "text": "When we get angry, it can be hard to stay calm. Try to recognise your emotions and those of your child, and talk about them later - this helps everyone to understand each other better next time. You can do it! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is great that you can address your child more and more calmly when they upset you. Working through challenges together will help your child so much in life – you are doing amazing! ",
+    "text": "It is great that you can address your child more and more calmly when they upset you. Working through challenges together will help your child so much in life – you are doing amazing! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good that you speak to your child calmly, even when they drive you crazy. You can be proud of yourself! Remember to keep taking deep breaths every time you feel they are testing your patience.  ",
+    "text": "So good that you speak to your child calmly, even when they drive you crazy. You can be proud of yourself! Remember to keep taking deep breaths every time you feel they are testing your patience.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Wonderful to hear that you are managing to stay calm in difficult situations. You can be proud of yourself – keep up the great work! ",
+    "text": "Wonderful to hear that you are managing to stay calm in difficult situations. You can be proud of yourself – keep up the great work! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is so stressful when children misbehave. How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "It is so stressful when children misbehave. How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing! You are setting such a great example for your children on how to respond calmly in difficult situations – keep up the good work! ",
+    "text": "Amazing! You are setting such a great example for your children on how to respond calmly in difficult situations – keep up the good work! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be so difficult to keep calm when things get out of hand. Try again next time – each day is a new opportunity!",
+    "text": "It can be so difficult to keep calm when things get out of hand. Try again next time – each day is a new opportunity!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great to see you are managing to respond calmly to your child, that’s a big accomplishment! Celebrate this win, you are a star. ",
+    "text": "Great to see you are managing to respond calmly to your child, that’s a big accomplishment! Celebrate this win, you are a star. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good! Every time you choose to respond calm but clear, you are showing your child how much you care about them. They will feel heard and loved, and will be more likely to listen to you! ",
+    "text": "So good! Every time you choose to respond calm but clear, you are showing your child how much you care about them. They will feel heard and loved, and will be more likely to listen to you! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes everything gets too much! Remember to recognise when you feel that way and take a few deep breaths before responding. Your child will learn from your good example! ",
+    "text": "Sometimes everything gets too much! Remember to recognise when you feel that way and take a few deep breaths before responding. Your child will learn from your good example! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for managing your emotions! When things get tough, you can always take a pause and address the problem later on when everyone is calm. You are doing a great job.",
+    "text": "Well done for managing your emotions! When things get tough, you can always take a pause and address the problem later on when everyone is calm. You are doing a great job.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is wonderful that you are responding in a calm way when your child does something upsetting. They can learn so much from you! ",
+    "text": "It is wonderful that you are responding in a calm way when your child does something upsetting. They can learn so much from you! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Our children sometimes drive us crazy. Remember, you can always take a pause and address the problem later on when everyone is calm. You can do it! ",
+    "text": "Our children sometimes drive us crazy. Remember, you can always take a pause and address the problem later on when everyone is calm. You can do it! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry that things are not always easy with your child. When they upset you, try to remain calm, That way, you can keep clear boundaries and solve problems together. You can do it! ",
+    "text": "Sorry that things are not always easy with your child. When they upset you, try to remain calm, That way, you can keep clear boundaries and solve problems together. You can do it! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can sometimes be difficult to have a positive relationship with our children. How confident do you feel about your ability as a parent/caregiver to have a positive relationship with your children? (0=not confident to 7=extremely confident)",
+    "text": "It can sometimes be difficult to have a positive relationship with our children. How confident do you feel about your ability as a parent/caregiver to have a positive relationship with your children? (0=not confident to 7=extremely confident)",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all struggle to stay calm sometimes. Take a deep breath and remember that mistakes are human. Talking to your child will help more in the end – you are an awesome parent! ",
+    "text": "We all struggle to stay calm sometimes. Take a deep breath and remember that mistakes are human. Talking to your child will help more in the end – you are an awesome parent! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all want to keep our children safe. How confident do you feel you are to protect your child from sexual abuse online or in-person? (0=not confident to 7=extremely confident)",
+    "text": "We all want to keep our children safe. How confident do you feel you are to protect your child from sexual abuse online or in-person? (0=not confident to 7=extremely confident)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes it can be hard to know what to do to help keep our children safe. Talk to them and get advice from people you can trust, it really helps! ",
+    "text": "Sometimes it can be hard to know what to do to help keep our children safe. Talk to them and get advice from people you can trust, it really helps! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for learning more about how you can keep your child safe. It is not easy, but you are doing a great job – you can be proud of yourself!",
+    "text": "Well done for learning more about how you can keep your child safe. It is not easy, but you are doing a great job – you can be proud of yourself!",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good to hear you are feeling more confident to keep your child safe! Remember, building a positive relationship with your child makes it easier to talk about difficult things, including potential risks. You are doing really well!",
+    "text": "So good to hear you are feeling more confident to keep your child safe! Remember, building a positive relationship with your child makes it easier to talk about difficult things, including potential risks. You are doing really well!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is hard to know how to keep our children safe, especially if they spend time online or outside the house. By spending time with our children, they will feel free to share with us if they have questions or problems. ",
+    "text": "It is hard to know how to keep our children safe, especially if they spend time online or outside the house. By spending time with our children, they will feel free to share with us if they have questions or problems. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for learning more about potential risks and how to protect your child. Knowledge is power – thank you for sharing that power with your child even it makes you feel uncomfortable sometimes! ",
+    "text": "Well done for learning more about potential risks and how to protect your child. Knowledge is power – thank you for sharing that power with your child even it makes you feel uncomfortable sometimes! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Talking about difficult things, including the risks of sexual abuse, can be really hard. Well done for making the effort to talk about these difficult topics and questions – it really helps to keep your child safe!",
+    "text": "Talking about difficult things, including the risks of sexual abuse, can be really hard. Well done for making the effort to talk about these difficult topics and questions – it really helps to keep your child safe!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are not alone! We are all trying to figure out how to best keep our children safe, and nobody has all the answers. We are here to help! ",
+    "text": "You are not alone! We are all trying to figure out how to best keep our children safe, and nobody has all the answers. We are here to help! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great that you are learning more about how to keep your child safe. Nobody has all the answers, but it makes a big difference if you and your child can talk about difficult things together. Keep up the good work! ",
+    "text": "Great that you are learning more about how to keep your child safe. Nobody has all the answers, but it makes a big difference if you and your child can talk about difficult things together. Keep up the good work! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Keeping our children safe is not easy, but by working together we can prevent and prepare for so many things! Ask your children what risks they know of, and fill in any gaps together. You make an amazing team! ",
+    "text": "Keeping our children safe is not easy, but by working together we can prevent and prepare for so many things! Ask your children what risks they know of, and fill in any gaps together. You make an amazing team! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes we can feel overwhelmed by the potential dangers around us. Talk to your children and people you can trust. Together we can come up with a plan to keep everyone safe – well done for putting in the work!  ",
+    "text": "Sometimes we can feel overwhelmed by the potential dangers around us. Talk to your children and people you can trust. Together we can come up with a plan to keep everyone safe – well done for putting in the work!  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Would you like some suggestions for fun or educational activities to do with your children?",
+    "text": "Hi! Would you like some suggestions for fun or educational activities to do with your children?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's okay! You can always get suggestions for activities to do by typing \"Help\". Chat later!",
+    "text": "That's okay! You can always get suggestions for activities to do by typing \"Help\". Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Would you like some suggestions for fun activities to help develop your baby's brain?",
+    "text": "Hi! Would you like some suggestions for fun activities to help develop your baby's brain?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's okay! You can always get suggestions for activities to develop your baby's brain by typing \"Help\". Chat later!",
+    "text": "That's okay! You can always get suggestions for activities to develop your baby's brain by typing \"Help\". Chat later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! We are now spending a lot more time online. Being connected helps reduce the impact of COVID-19 and encourages us to continue with our lives…but it also presents risks and dangers.",
+    "text": "Hello! We are now spending a lot more time online. Being connected helps reduce the impact of COVID-19 and encourages us to continue with our lives…but it also presents risks and dangers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Online Safety",
+    "text": "Video of Online Safety",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn another way to protect yourself online:",
+    "text": "Please select another number if you want to learn another way to protect yourself online:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can also type \"N\" to stop this tip.",
+    "text": "You can also type \"N\" to stop this tip.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you make a budget and save money together as a family.",
+    "text": "Here's a video to help you make a budget and save money together as a family.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video about spending one-on-one time with your teen!",
+    "text": "Here's a video about spending one-on-one time with your teen!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to spend One-on-One Time with your teen:",
+    "text": "Please select another number if you want to learn more about how to spend One-on-One Time with your teen:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can also type \"N\" to move on.",
+    "text": "You can also type \"N\" to move on.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video about spending one-on-one time with your child!",
+    "text": "Here's a video about spending one-on-one time with your child!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to spend One-on-One Time with your child:",
+    "text": "Please select another number if you want to learn more about how to spend One-on-One Time with your child:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Managing anger can be really difficult. Did you know that research shows if you control your anger or do something positive, you increase your child's brain development? Be proud of yourself when you manage to do it!",
+    "text": "Hi! Managing anger can be really difficult. Did you know that research shows if you control your anger or do something positive, you increase your child's brain development? Be proud of yourself when you manage to do it!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you manage your anger!",
+    "text": "Here's a video to help you manage your anger!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an audio message to help you manage your anger!",
+    "text": "Here's an audio message to help you manage your anger!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
+    "text": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video on how you can support your teen when they are experiencing difficult situations.",
+    "text": "Here's a video on how you can support your teen when they are experiencing difficult situations.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can support your child during a crisis.",
+    "text": "Here is a comic that shows how you can support your child during a crisis.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! How are you feeling?",
+    "text": "Hi! How are you feeling?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone.",
+    "text": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone.",
+    "type": "text"
+  },
+  {
+    "SourceText": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+    "text": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an audio message to guide you through a fun physical activity!",
+    "text": "Here's an audio message to guide you through a fun physical activity!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a fun video of a physical activity that can help you release stress and keep healthy!",
+    "text": "Here's a fun video of a physical activity that can help you release stress and keep healthy!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to reflect on your experience.",
+    "text": "Take a moment to reflect on your experience.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for.",
+    "text": "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Child Development",
+    "text": "Video of Child Development",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Child Development - Children (2 - 9 years)",
+    "text": "Video of Child Development - Children (2 - 9 years)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Child Development - Babies & toddlers (0 - 2 years)",
+    "text": "Video of Child Development - Babies & toddlers (0 - 2 years)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Child Development - Teenagers (10 - 17 years)",
+    "text": "Video of Child Development - Teenagers (10 - 17 years)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video on how you can bring more attention to positive behaviour by praising your child!",
+    "text": "Here's a video on how you can bring more attention to positive behaviour by praising your child!",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Be positive",
+    "text": "1. Be positive",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Be specific",
+    "text": "2. Be specific",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Be enthusiastic",
+    "text": "3. Be enthusiastic",
+    "type": "text"
+  },
+  {
+    "SourceText": "To learn more about one of these steps, type \"1\" to \"3\". You can also type \"N\" to stop this tip.",
+    "text": "To learn more about one of these steps, type \"1\" to \"3\". You can also type \"N\" to stop this tip.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 1. Be positive",
+    "text": "Step 1. Be positive",
+    "type": "text"
+  },
+  {
+    "SourceText": "Praise your child or teenager for something they have done well. They may not show it, but you’ll see them doing that good thing again. It will also reassure them that you notice and care.",
+    "text": "Praise your child or teenager for something they have done well. They may not show it, but you’ll see them doing that good thing again. It will also reassure them that you notice and care.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 2. Be specific",
+    "text": "Step 2. Be specific",
+    "type": "text"
+  },
+  {
+    "SourceText": "Praise the behaviour. Use words to describe the behaviour that you are praising. Say, 'Well done for finishing all your chores, Sam,' instead of 'Good job.'",
+    "text": "Praise the behaviour. Use words to describe the behaviour that you are praising. Say, 'Well done for finishing all your chores, Sam,' instead of 'Good job.'",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 3. Be enthusiastic",
+    "text": "Step 3. Be enthusiastic",
+    "type": "text"
+  },
+  {
+    "SourceText": "Really mean it when you say it! The more real you are the better it will feel.",
+    "text": "Really mean it when you say it! The more real you are the better it will feel.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about praise:",
+    "text": "Please select another number if you want to learn more about praise:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video about spending one-on-one time with your baby!",
+    "text": "Here's a video about spending one-on-one time with your baby!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If your child gets frustrated, you can reassure your child by gently stroking their back.",
+    "text": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If your child gets frustrated, you can reassure your child by gently stroking their back.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to spend One-on-One Time with your baby:",
+    "text": "Please select another number if you want to learn more about how to spend One-on-One Time with your baby:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you create daily routines with your children.",
+    "text": "Here's a video to help you create daily routines with your children.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here are 4 simple tips that you can use when establishing routines with your children: ",
+    "text": "Here are 4 simple tips that you can use when establishing routines with your children: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Give one instruction at a time",
+    "text": "1. Give one instruction at a time",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Use transition warnings to help move from one activity to the next one",
+    "text": "2. Use transition warnings to help move from one activity to the next one",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Create regular eating and sleeping times",
+    "text": "3. Create regular eating and sleeping times",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Involve your teen in creating daily routines",
+    "text": "4. Involve your teen in creating daily routines",
+    "type": "text"
+  },
+  {
+    "SourceText": "To learn more about one of these tips, type \"1\" to 4\". You can also type \"N\" to stop this tip.",
+    "text": "To learn more about one of these tips, type \"1\" to 4\". You can also type \"N\" to stop this tip.",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Help your younger children learn routines by taking them through the activity step by step. Give one instruction at a time. Praise them each time they follow!",
+    "text": "1. Help your younger children learn routines by taking them through the activity step by step. Give one instruction at a time. Praise them each time they follow!",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Involve your teen in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax! ",
+    "text": "4. Involve your teen in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Transition warnings can also be very helpful. They give your child some time to prepare for the next activity: \"In 5 minutes it will be time to pack up the toys before bedtime…\"",
+    "text": "2. Transition warnings can also be very helpful. They give your child some time to prepare for the next activity: \"In 5 minutes it will be time to pack up the toys before bedtime…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Regular eating and sleeping times are especially important for babies. Not enough sleep can make your child cranky, irritable, and short tempered.",
+    "text": "3. Regular eating and sleeping times are especially important for babies. Not enough sleep can make your child cranky, irritable, and short tempered.",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Give your child a hug and kiss goodnight before leaving the room. ",
+    "text": "• Give your child a hug and kiss goodnight before leaving the room. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about creating daily routines: ",
+    "text": "Please select another number if you want to learn more about creating daily routines: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "4, Involve your teen in creating daily routines",
+    "text": "4, Involve your teen in creating daily routines",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video that can help you teach your child how to cope with their emotions.",
+    "text": "Here's a video that can help you teach your child how to cope with their emotions.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you…",
+    "text": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you…",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can give your child love and support when they share difficult emotions with you…",
+    "text": "Here is a comic that shows how you can give your child love and support when they share difficult emotions with you…",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about talking about emotions:",
+    "text": "Please select another number if you want to learn more about talking about emotions:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video that helps you redirect your child's behaviour when they misbehave.",
+    "text": "Here's a video that helps you redirect your child's behaviour when they misbehave.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Keep it positive. It is normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\"",
+    "text": "Keep it positive. It is normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you manage your child's temper tantrums.",
+    "text": "Here's a video to help you manage your child's temper tantrums.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to use ignore to reduce tantrums or other difficult behaviours:",
+    "text": "Please select another number if you want to learn more about how to use ignore to reduce tantrums or other difficult behaviours:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video that explains you can use consequences to discipline your child.",
+    "text": "Here's a video that explains you can use consequences to discipline your child.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting. ",
+    "text": "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about using consequences:",
+    "text": "Please select another number if you want to learn more about using consequences:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows a parent giving their child a choice to follow the instruction or receive a consequence.",
+    "text": "Here is a comic that shows a parent giving their child a choice to follow the instruction or receive a consequence.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit! In summary, consequences should be...",
+    "text": "Well done! You have added another skill to your Parenting Toolkit! In summary, consequences should be...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Consequences can help children learn that their actions have an impact on themselves and others. It teaches them about responsibility and respect!",
+    "text": "Consequences can help children learn that their actions have an impact on themselves and others. It teaches them about responsibility and respect!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you teach your child problem-solving skills! ",
+    "text": "Here's a video to help you teach your child problem-solving skills! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's great! How did it go?",
+    "text": "That's great! How did it go?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons parents struggle. Which one is the closest to you?",
+    "text": "We understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons parents struggle. Which one is the closest to you?",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can make you feel bad if your children do not want to spend One-on-One Time with you. Think to yourself: When are they more open to you? Maybe in the morning or right before bedtime.",
+    "text": "It can make you feel bad if your children do not want to spend One-on-One Time with you. Think to yourself: When are they more open to you? Maybe in the morning or right before bedtime.",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Listening to your favourite music",
+    "text": "• Listening to your favourite music",
+    "type": "text"
+  },
+  {
+    "SourceText": "Let's take a pause together! Take a deep breath and ask yourself, \"What am I thinking?\"",
+    "text": "Let's take a pause together! Take a deep breath and ask yourself, \"What am I thinking?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice if your thoughts are positive or negative. Notice if your emotions are pleasant or unpleasant. Whatever you are feeling, it is okay. Notice how your body feels. Notice anything that hurts or is tense. ",
+    "text": "Notice if your thoughts are positive or negative. Notice if your emotions are pleasant or unpleasant. Whatever you are feeling, it is okay. Notice how your body feels. Notice anything that hurts or is tense. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Focus on your breath as it goes in and out. Do this for about 10 breaths. ",
+    "text": "Focus on your breath as it goes in and out. Do this for about 10 breaths. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Now, expand your awareness to your whole body. Listen to the sounds in the room. ",
+    "text": "Now, expand your awareness to your whole body. Listen to the sounds in the room. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to reflect on whether you feel any different. ",
+    "text": "Take a moment to reflect on whether you feel any different. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video about how to keep calm and manage stress in our busy lives.",
+    "text": "Here's a video about how to keep calm and manage stress in our busy lives.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic to remind you of taking a pause!",
+    "text": "Here is a comic to remind you of taking a pause!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! Taking care of children can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
+    "text": "Hello! Taking care of children can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video on how you can help your child behave more positively!",
+    "text": "Here's a video on how you can help your child behave more positively!",
+    "type": "text"
+  },
+  {
+    "SourceText": "There are 2 main ways that we can do to help our children behave positively more often.",
+    "text": "There are 2 main ways that we can do to help our children behave positively more often.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another tool to your Parenting Toolkit. ",
+    "text": "Well done! You have added another tool to your Parenting Toolkit. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "These suggestions are from over 50 years of research on what works. Instead of taking our word for it, try them out and decide for yourself. ",
+    "text": "These suggestions are from over 50 years of research on what works. Instead of taking our word for it, try them out and decide for yourself. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "And remember...practice makes perfect!",
+    "text": "And remember...practice makes perfect!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Was this advice helpful?",
+    "text": "Was this advice helpful?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's is a video on how you can involve your children in establishing household rules",
+    "text": "Here's is a video on how you can involve your children in establishing household rules",
+    "type": "text"
+  },
+  {
+    "SourceText": "Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+    "text": "Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to take you through the shared book reading activity!",
+    "text": "Here's a video to take you through the shared book reading activity!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another tool to your Parenting Toolbox! Sharing books with your child will help them to learn to speak, think and focus better. It will also help them to get along with others better, by helping them understand about feelings. Chat to you later!",
+    "text": "Well done! You have added another tool to your Parenting Toolbox! Sharing books with your child will help them to learn to speak, think and focus better. It will also help them to get along with others better, by helping them understand about feelings. Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about sharing books with your child:",
+    "text": "Please select another number if you want to learn more about sharing books with your child:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video on how you can help protect your child.",
+    "text": "Here's a video on how you can help protect your child.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to protect your child from abuse:",
+    "text": "Please select another number if you want to learn more about how to protect your child from abuse:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay.",
+    "text": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a positive video to help you get your children to follow your instructions more often!",
+    "text": "Here's a positive video to help you get your children to follow your instructions more often!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to get your children to follow instructions more often:",
+    "text": "Please select another number if you want to learn more about how to get your children to follow instructions more often:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video that might help you when your baby cries.",
+    "text": "Here's a video that might help you when your baby cries.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about what to do when your baby is crying:",
+    "text": "Please select another number if you want to learn more about what to do when your baby is crying:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do your children ever make you feel like screaming? Give yourself a 10-second pause.",
+    "text": "Do your children ever make you feel like screaming? Give yourself a 10-second pause.",
+    "type": "text"
+  },
+  {
+    "SourceText": "AUDIO",
+    "text": "AUDIO",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT.",
+    "text": "Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you ever feel something so strongly that you want to run away from it? Here's a short activity that might help!",
+    "text": "Do you ever feel something so strongly that you want to run away from it? Here's a short activity that might help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a quick relaxation activity...",
+    "text": "Here is a quick relaxation activity...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down and close your eyes.",
+    "text": "Sit down and close your eyes.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many sounds can you hear? Listen to the sounds inside and outside the room. Count them on your fingers.",
+    "text": "How many sounds can you hear? Listen to the sounds inside and outside the room. Count them on your fingers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try again for another ten seconds. Did you hear any new sounds? Did you hear any sounds inside your own body? Notice how you feel now.",
+    "text": "Try again for another ten seconds. Did you hear any new sounds? Did you hear any sounds inside your own body? Notice how you feel now.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Let’s use the magic power of three stay present and relax. At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  ",
+    "text": "Let’s use the magic power of three stay present and relax. At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a short relaxation activity to end the day:",
+    "text": "Here's a short relaxation activity to end the day:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you sometimes feel like you are getting everything wrong?  Here's a short activity that might help!",
+    "text": "Do you sometimes feel like you are getting everything wrong?  Here's a short activity that might help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Let's take a moment to stop what you are doing and connect with your breath.  ",
+    "text": "Let's take a moment to stop what you are doing and connect with your breath.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was crying a lot. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was crying a lot. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems sleeping. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems sleeping. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was whining for things. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was whining for things. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was acting clingy. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was acting clingy. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being bad tempered or moody. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being bad tempered or moody. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems eating. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems eating. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being stubborn or fussy. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being stubborn or fussy. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was naughty behaviour. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was naughty behaviour. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was temper tantrums. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was temper tantrums. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was refusing to obey instructions. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was refusing to obey instructions. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hyperactivity. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hyperactivity. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being disrespectful. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being disrespectful. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hitting others. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hitting others. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was breaking things. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was breaking things. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting into fights. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting into fights. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was teasing or bothering others. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was teasing or bothering others. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting angry a lot. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting angry a lot. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was rudeness, disrespectful behaviour. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was rudeness, disrespectful behaviour. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being irritable, having frequent mood changes. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being irritable, having frequent mood changes. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was not following rules. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was not following rules. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was stubbornness. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was stubbornness. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "Thank you for your dedication! The world needs more men like you.",
+    "text": "Thank you for your dedication! The world needs more men like you.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Every time you take a pause is an act of kindness. Be kind to yourself and your family today!",
+    "text": "Every time you take a pause is an act of kindness. Be kind to yourself and your family today!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s not always easy to be a woman in this world. But you are leading the way!",
+    "text": "It’s not always easy to be a woman in this world. But you are leading the way!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your commitment is an inspiration. Keep calm and carry on! ",
+    "text": "Your commitment is an inspiration. Keep calm and carry on! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You made it to the end of the day! Now it’s time for you. You deserve a break!",
+    "text": "You made it to the end of the day! Now it’s time for you. You deserve a break!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You made a difference today just by showing up. Your down time starts now!",
+    "text": "You made a difference today just by showing up. Your down time starts now!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Taking care of yourself is taking care of your kids! Keep it up!",
+    "text": "Taking care of yourself is taking care of your kids! Keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for showing up for your family today and try your best! Your effort is appreciated!",
+    "text": "Thank you for showing up for your family today and try your best! Your effort is appreciated!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are struggling. It is perfectly normal to have difficult days, especially during these stressful times. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that you are struggling. It is perfectly normal to have difficult days, especially during these stressful times. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that things are difficult between you and your children. I know it can be really tough. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that things are difficult between you and your children. I know it can be really tough. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that things are difficult between you and your children. You deserve a star just for trying. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that things are difficult between you and your children. You deserve a star just for trying. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are going through a tough time. You are not alone. Reach out to a friend or someone you can talk to for support. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that you are going through a tough time. You are not alone. Reach out to a friend or someone you can talk to for support. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are struggling. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that you are struggling. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are struggling. Take a moment to reflect on one thing that went well for you today. Even the smallest things can help. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that you are struggling. Take a moment to reflect on one thing that went well for you today. Even the smallest things can help. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are having a tough time with your child. These things take time and patience to change. Be kind to yourself and know that you are not alone. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that you are having a tough time with your child. These things take time and patience to change. Be kind to yourself and know that you are not alone. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear you are struggling. Give yourself a big hug for trying. Tomorrow is another day. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear you are struggling. Give yourself a big hug for trying. Tomorrow is another day. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that things are difficult between you and your children. There’s no such thing as a perfect parent or the perfect child. We are all just trying our best! Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that things are difficult between you and your children. There’s no such thing as a perfect parent or the perfect child. We are all just trying our best! Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are struggling. Parenting can be very difficult at times. Take a pause and remind yourself that you are trying your best. Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that you are struggling. Parenting can be very difficult at times. Take a pause and remind yourself that you are trying your best. Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that things are difficult between you and your children. Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small! Remember you can always get extra support by typing \"Help\".",
+    "text": "Sorry to hear that things are difficult between you and your children. Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small! Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that things are difficult. Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "text": "Sorry to hear that things are difficult. Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember you can always get extra support by typing \"Help\".",
+    "text": "Remember you can always get extra support by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a parent/caregiver of a child living with disabilities?",
+    "text": "Are you a parent/caregiver of a child living with disabilities?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How challenging is this problem on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "text": "How challenging is this problem on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. Please type a number between 0 and 7.",
+    "text": "Sorry, I don't understand what you mean. Please type a number between 0 and 7.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to learn more about how you could support children with disabilities?",
+    "text": "Would you like to learn more about how you could support children with disabilities?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Children with Disabilities",
+    "text": "Video of Children with Disabilities",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to support children living with disabilities:",
+    "text": "Please select another number if you want to learn more about how to support children living with disabilities:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them.",
+    "text": "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you get through the day!",
+    "text": "Here's a video to help you get through the day!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an audio message to help you get through the day!",
+    "text": "Here's an audio message to help you get through the day!",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you ever need additional support to help you cope with any stress or other emotional difficulties, type \"Help\". Chat to you later!",
+    "text": "If you ever need additional support to help you cope with any stress or other emotional difficulties, type \"Help\". Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?",
+    "text": "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to reflect on your experience. Notice if you feel any different.",
+    "text": "Take a moment to reflect on your experience. Notice if you feel any different.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an audio message to guide you through this activity!",
+    "text": "Here's an audio message to guide you through this activity!",
+    "type": "text"
+  },
+  {
+    "SourceText": "What are your three favourite foods? Can you name three things you can see right now? ",
+    "text": "What are your three favourite foods? Can you name three things you can see right now? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you hear three sounds you can hear right now? ",
+    "text": "Can you hear three sounds you can hear right now? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What are the three things you are grateful for right now?",
+    "text": "What are the three things you are grateful for right now?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? ",
+    "text": "Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Three is a magical number! ",
+    "text": "Three is a magical number! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to guide through this activity!",
+    "text": "Here's a video to guide through this activity!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+    "text": "Hello! Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type \"STOP MESSAGES.\"",
+    "text": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type \"STOP MESSAGES.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Stress from caregiving can make us angry. Here is how we can maintain control and keep calm.",
+    "text": "Stress from caregiving can make us angry. Here is how we can maintain control and keep calm.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you maintain control and keep calm when you get angry.",
+    "text": "Here's a video to help you maintain control and keep calm when you get angry.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about what makes you angry? When does it happen? How do you normally react?",
+    "text": "Think about what makes you angry? When does it happen? How do you normally react?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an audio message to help you maintain control and keep calm when you get angry.",
+    "text": "Here's an audio message to help you maintain control and keep calm when you get angry.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here are some things that can prevent bad things from happening when you are angry: ",
+    "text": "Here are some things that can prevent bad things from happening when you are angry: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Do you have weapons or things that can be used to hurt others? Lock them up, hide them or take them out of the home.",
+    "text": "2. Do you have weapons or things that can be used to hurt others? Lock them up, hide them or take them out of the home.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you keep your children safe online!",
+    "text": "Here's a video to help you keep your children safe online!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn another way to protect your child online:",
+    "text": "Please select another number if you want to learn another way to protect your child online:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's a video to help you support positive family relationships at home.",
+    "text": "Here's a video to help you support positive family relationships at home.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to support family harmony at home:",
+    "text": "Please select another number if you want to learn more about how to support family harmony at home:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Talking about COVID19",
+    "text": "Video of Talking about COVID19",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to talk about COVID-19 with your children:",
+    "text": "Please select another number if you want to learn more about how to talk about COVID-19 with your children:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Video of Supporting Your Child's Learning",
+    "text": "Video of Supporting Your Child's Learning",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please select another number if you want to learn more about how to support your child's learning:",
+    "text": "Please select another number if you want to learn more about how to support your child's learning:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much! How would you like to receive your messages? You can always change this choice through the settings later:",
+    "text": "Thanks so much! How would you like to receive your messages? You can always change this choice through the settings later:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can we ask you a few questions to help these messages work better for you?  If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
+    "text": "Can we ask you a few questions to help these messages work better for you?  If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
+    "type": "text"
+  },
+  {
+    "SourceText": "@results.count Keeping it positive",
+    "text": "@results.count Keeping it positive",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "Good morning! We are so happy to be sharing these parenting tips with you. ",
+    "text": "Good morning! We are so happy to be sharing these parenting tips with you. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Good morning! We are so happy to be  sharing these parenting tips with you. They were developed by Parenting for Lifelong Health (PLH) with the WHO and UNICEF for YOU. They include advice on parenting and reducing stress, as well as lots of fun activities to do with your children.",
+    "text": "Good morning! We are so happy to be  sharing these parenting tips with you. They were developed by Parenting for Lifelong Health (PLH) with the WHO and UNICEF for YOU. They include advice on parenting and reducing stress, as well as lots of fun activities to do with your children.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can also come back to any topic at any time by typing \"Help\".",
+    "text": "You can also come back to any topic at any time by typing \"Help\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can always choose to stop receiving messages by typing \"Help\" and then selecting \"Technical support\".",
+    "text": "You can always choose to stop receiving messages by typing \"Help\" and then selecting \"Technical support\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Did you praise your child during one-on-one time or any other time during the day? ",
+    "text": "Did you praise your child during one-on-one time or any other time during the day? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be hard sometime to remember. Next time you spend one-on-one time, try and think of one thing you can praise them for. You can even say “thank you for spending time with me!”.",
+    "text": "It can be hard sometime to remember. Next time you spend one-on-one time, try and think of one thing you can praise them for. You can even say “thank you for spending time with me!”.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done, great job for remembering. How did your child or teen respond?",
+    "text": "Well done, great job for remembering. How did your child or teen respond?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember, it takes some time for your child or teen to get used to you praising them. The more time you spend with them, the better it will go!",
+    "text": "Remember, it takes some time for your child or teen to get used to you praising them. The more time you spend with them, the better it will go!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for noticing how your child or teen felt, keep it up!",
+    "text": "Well done for noticing how your child or teen felt, keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "No problem, try to notice how they respond next time!",
+    "text": "No problem, try to notice how they respond next time!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It happens, just be patient. Make sure to keep spending time with your child or teen, so they will value your opinion more and more. When your praise is genuine, you will see the benefits soon!",
+    "text": "It happens, just be patient. Make sure to keep spending time with your child or teen, so they will value your opinion more and more. When your praise is genuine, you will see the benefits soon!",
+    "type": "text"
+  },
+  {
+    "SourceText": "How are you doing with giving your child or teen instructions?",
+    "text": "How are you doing with giving your child or teen instructions?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great to hear it went well, you are a star!",
+    "text": "Great to hear it went well, you are a star!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear it was difficult for you. Well done for trying!",
+    "text": "Sorry to hear it was difficult for you. Well done for trying!",
+    "type": "text"
+  },
+  {
+    "SourceText": "What was your main challenge?",
+    "text": "What was your main challenge?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know, our children need time to learn to follow instructions. Be patient, try again, and remember to praise them every time they follow an instruction!",
+    "text": "I know, our children need time to learn to follow instructions. Be patient, try again, and remember to praise them every time they follow an instruction!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know, it takes some time to get used to giving positive instructions – it’s really worth trying again! Think about behaviour you would love to see your teen do more, and think of positive ways to give that instruction!",
+    "text": "I know, it takes some time to get used to giving positive instructions – it’s really worth trying again! Think about behaviour you would love to see your teen do more, and think of positive ways to give that instruction!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know, it is hard to remember to give one instruction at a time. When we do it, our child is more likely to listen – so we can praise them even more!",
+    "text": "I know, it is hard to remember to give one instruction at a time. When we do it, our child is more likely to listen – so we can praise them even more!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes we just expect our children to do what we want them. But when we praise them for it, they feel encouraged to listen again next time!",
+    "text": "Sometimes we just expect our children to do what we want them. But when we praise them for it, they feel encouraged to listen again next time!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is hard to remember to give realistic instructions. Try to make sure that your child or teen can physically do what you want them to do. Be specific!",
+    "text": "It is hard to remember to give realistic instructions. Try to make sure that your child or teen can physically do what you want them to do. Be specific!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have you noticed and shared emotions with your child or teen recently? How did it make you feel?",
+    "text": "Have you noticed and shared emotions with your child or teen recently? How did it make you feel?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing to hear it made you feel good, keep up the great work. Your child is learning so much from you!",
+    "text": "Amazing to hear it made you feel good, keep up the great work. Your child is learning so much from you!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Noticing and sharing emotions can be difficult at first, but you and your child or teen will get used to it. Keep trying and you will see the positive change!",
+    "text": "Noticing and sharing emotions can be difficult at first, but you and your child or teen will get used to it. Keep trying and you will see the positive change!",
+    "type": "text"
+  },
+  {
+    "SourceText": "What was difficult for you about sharing emotions with your child or teen?",
+    "text": "What was difficult for you about sharing emotions with your child or teen?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sharing emotions – especially the difficult ones – sets an important example for your child or teen! It actually makes everyone in the family stronger, because you can understand and support each other better. ",
+    "text": "Sharing emotions – especially the difficult ones – sets an important example for your child or teen! It actually makes everyone in the family stronger, because you can understand and support each other better. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Starting a new thing is always difficult at first. Give yourselves some time to get used to it, and keep giving the good example by noticing and sharing emotions. Over time, your child or teen will learn to do the same – and they will feel even more loved and cared for.",
+    "text": "Starting a new thing is always difficult at first. Give yourselves some time to get used to it, and keep giving the good example by noticing and sharing emotions. Over time, your child or teen will learn to do the same – and they will feel even more loved and cared for.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sharing emotions is about explaining how you are feeling so your child or teen is aware and learns to do the same. You can choose how much detail you want to share about the situation. It’s up to you! You can also choose to answer questions later: “I am feeling angry/stressed now, can you please give me some time? We can talk about this more tonight”.",
+    "text": "Sharing emotions is about explaining how you are feeling so your child or teen is aware and learns to do the same. You can choose how much detail you want to share about the situation. It’s up to you! You can also choose to answer questions later: “I am feeling angry/stressed now, can you please give me some time? We can talk about this more tonight”.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s okay to not want to share at that time. Find some time later on when you feel calmer to explain so that everyone can understand.  ",
+    "text": "It’s okay to not want to share at that time. Find some time later on when you feel calmer to explain so that everyone can understand.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being specific is not rude or insensitive, it really helps others understand you clearly and prevents confusion in the family. Emotions like anger and stress are part of our lives. All we need to do when we feel angry and stressed is know how to handle it by taking a few deep breaths before responding. ",
+    "text": "Being specific is not rude or insensitive, it really helps others understand you clearly and prevents confusion in the family. Emotions like anger and stress are part of our lives. All we need to do when we feel angry and stressed is know how to handle it by taking a few deep breaths before responding. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Did you manage to establish ONE rule or daily routine together with your child or teen?",
+    "text": "Did you manage to establish ONE rule or daily routine together with your child or teen?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great to hear it this! Remember, the more we involve our children in setting rules, the more our children will be likely to follow them!",
+    "text": "Great to hear it this! Remember, the more we involve our children in setting rules, the more our children will be likely to follow them!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Did you have any challenges when trying to establish a rule or routine together?",
+    "text": "Did you have any challenges when trying to establish a rule or routine together?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry you did not manage to do this yet. Sit down with your child or teen and try again today - involving your children will make them want to follow the rule more often! ",
+    "text": "Sorry you did not manage to do this yet. Sit down with your child or teen and try again today - involving your children will make them want to follow the rule more often! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What was difficult for you about establishing a rule or routine with your child or teen?",
+    "text": "What was difficult for you about establishing a rule or routine with your child or teen?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing! Consistent rules and routines help make your child or teen feel secure. They also keep them safe!",
+    "text": "Amazing! Consistent rules and routines help make your child or teen feel secure. They also keep them safe!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is always important when establishing rules and routines  as a family to consider the age of each child, so you can come up with age-appropriate routines. This is most important for bedtime, time to come home/play, household chores. ",
+    "text": "It is always important when establishing rules and routines  as a family to consider the age of each child, so you can come up with age-appropriate routines. This is most important for bedtime, time to come home/play, household chores. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We should always remember that children learn best from us. The more we follow the rules, they more they will follow the rules too. You can adjust the rule to make sure that it is realistic for everyone to follow it, considering their responsibilities (for example school or work activities).",
+    "text": "We should always remember that children learn best from us. The more we follow the rules, they more they will follow the rules too. You can adjust the rule to make sure that it is realistic for everyone to follow it, considering their responsibilities (for example school or work activities).",
+    "type": "text"
+  },
+  {
+    "SourceText": "When we establish rules together with our children or teens, that helps the family to understand each other better. The rules will be more realistic and our children will be more willing and able to follow the rule.",
+    "text": "When we establish rules together with our children or teens, that helps the family to understand each other better. The rules will be more realistic and our children will be more willing and able to follow the rule.",
+    "type": "text"
+  },
+  {
+    "SourceText": "When we establish rules together with our children, that helps the family to understand each other better. The rules will be more realistic and our children will be more willing and able to follow the rule.",
+    "text": "When we establish rules together with our children, that helps the family to understand each other better. The rules will be more realistic and our children will be more willing and able to follow the rule.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have you been able to use consequences for not following instructions or forgetting household rules with your child or teen? How has it been?",
+    "text": "Have you been able to use consequences for not following instructions or forgetting household rules with your child or teen? How has it been?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Wonderful! When you are able to stay calm, give your child a choice to follow an instruction, and follow through with fair a consequence, you teach your child responsibilities for their actions. Keep it up!",
+    "text": "Wonderful! When you are able to stay calm, give your child a choice to follow an instruction, and follow through with fair a consequence, you teach your child responsibilities for their actions. Keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry you did not manage well. This can be really difficult so be patient with yourself.",
+    "text": "Sorry you did not manage well. This can be really difficult so be patient with yourself.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What was difficult about using consequences?",
+    "text": "What was difficult about using consequences?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all make mistakes! The more consistent we are with our consequences, the more likely our children will choose to behave positively in the future.",
+    "text": "We all make mistakes! The more consistent we are with our consequences, the more likely our children will choose to behave positively in the future.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is hard to remember! When you give your child a choice, you teach your child decision making skills. It does not always work, but when it does, it helps avoid having to give a consequence and a difficult situation later!",
+    "text": "This is hard to remember! When you give your child a choice, you teach your child decision making skills. It does not always work, but when it does, it helps avoid having to give a consequence and a difficult situation later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Check to make sure your consequence is fair and reasonable. For example, if your child refuses to help put away their toys, try prohibiting playing with them for an evening instead of threatening to throw them away.",
+    "text": "Check to make sure your consequence is fair and reasonable. For example, if your child refuses to help put away their toys, try prohibiting playing with them for an evening instead of threatening to throw them away.",
+    "type": "text"
+  },
+  {
+    "SourceText": "When we take a pause before responding, it helps us to calm down and respond better. Next time your child or teen makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!",
+    "text": "When we take a pause before responding, it helps us to calm down and respond better. Next time your child or teen makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes our children will react in a negative way when receiving a consequence. If your child is younger than 9 and throws a tantrum, you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. ",
+    "text": "Sometimes our children will react in a negative way when receiving a consequence. If your child is younger than 9 and throws a tantrum, you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you find yourself always having to give consequences to your children for behaving badly, you might need to spend more positive time with them. It will help them feel more loved and secure...and you less stressed! ",
+    "text": "If you find yourself always having to give consequences to your children for behaving badly, you might need to spend more positive time with them. It will help them feel more loved and secure...and you less stressed! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have you been able to ignore your child's tantrums or other negative demanding behaviours? How has it been?",
+    "text": "Have you been able to ignore your child's tantrums or other negative demanding behaviours? How has it been?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! Ignoring negative attention seeking and demanding behaviours is not easy. Good for you for giving it a try and being consistent!",
+    "text": "Well done! Ignoring negative attention seeking and demanding behaviours is not easy. Good for you for giving it a try and being consistent!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry you did not manage well. Ignoring our children's whining or tantrums is really hard. Please be patient with yourself.",
+    "text": "Sorry you did not manage well. Ignoring our children's whining or tantrums is really hard. Please be patient with yourself.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What was difficult about using ignore?",
+    "text": "What was difficult about using ignore?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know, it can be really difficult to stay calm when our children are whining or having a tantrum. Try to think of something that you can do to help like taking a pause. You can do this!",
+    "text": "I know, it can be really difficult to stay calm when our children are whining or having a tantrum. Try to think of something that you can do to help like taking a pause. You can do this!",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you are finding that you are ignoring your child's behaviour a lot, then your child is probably not getting enough positive attention at other times. Try to spend more One-on-One Time with your child!",
+    "text": "If you are finding that you are ignoring your child's behaviour a lot, then your child is probably not getting enough positive attention at other times. Try to spend more One-on-One Time with your child!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes, our children can have very violent tantrums when they do not get their way, especially if they are used to it. Try to move your child to a place where they will not hurt themselves or others. You may need to firmly hold your child while ignoring their behaviour - but only do this if you can remain calm and  make sure you are not hurting them! Eventually, your child will calm down.",
+    "text": "Sometimes, our children can have very violent tantrums when they do not get their way, especially if they are used to it. Try to move your child to a place where they will not hurt themselves or others. You may need to firmly hold your child while ignoring their behaviour - but only do this if you can remain calm and  make sure you are not hurting them! Eventually, your child will calm down.",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know, it is hard to be consistent! If you ignore a behaviour only some of the time, your child will think it might help them get their way. The more consistent you are, the less they will do it.",
+    "text": "I know, it is hard to be consistent! If you ignore a behaviour only some of the time, your child will think it might help them get their way. The more consistent you are, the less they will do it.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Could you be spending more time with your children and less time on your phone? Put it down and do something fun together!",
+    "text": "Hi! Could you be spending more time with your children and less time on your phone? Put it down and do something fun together!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like a suggestion for an activity to do with your children?",
+    "text": "Would you like a suggestion for an activity to do with your children?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ok",
+    "text": "Ok",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not enough time",
+    "text": "Not enough time",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child did not want to spend time with me",
+    "text": "My child did not want to spend time with me",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my child wanted to do is watch T.V. or play with a gadget",
+    "text": "All my child wanted to do is watch T.V. or play with a gadget",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do things I felt uncomfortable about",
+    "text": "My child wanted to do things I felt uncomfortable about",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do activities that I could not do",
+    "text": "My child wanted to do activities that I could not do",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child chose a competitive activity. I won and then they got angry",
+    "text": "My child chose a competitive activity. I won and then they got angry",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child had a tantrum at the end of One-on-One Time",
+    "text": "My child had a tantrum at the end of One-on-One Time",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do too many things at once",
+    "text": "My child wanted to do too many things at once",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted One-on-One Time at the same time",
+    "text": "All my children wanted One-on-One Time at the same time",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Things to do with my child",
+    "text": "Things to do with my child",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Managing challenging behaviour",
+    "text": "Managing challenging behaviour",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Supporting your child emotionally",
+    "text": "Supporting your child emotionally",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Supporting children with disabilities",
+    "text": "Supporting children with disabilities",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Managing difficult child behaviour",
+    "text": "Managing difficult child behaviour",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Keeping children safe",
+    "text": "Keeping children safe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Surprised",
+    "text": "Surprised",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Happy",
+    "text": "Happy",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child did not like it",
+    "text": "My child did not like it",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I don't know",
+    "text": "I don't know",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Neutral",
+    "text": "Neutral",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen did not want to follow the instruction",
+    "text": "My child or teen did not want to follow the instruction",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I gave a negative instead of a positive instruction",
+    "text": "I gave a negative instead of a positive instruction",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I gave too many instructions at once",
+    "text": "I gave too many instructions at once",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen could not do what I asked them",
+    "text": "My child or teen could not do what I asked them",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I forgot to praise my child or teen for following my instruction",
+    "text": "I forgot to praise my child or teen for following my instruction",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am afraid my child or teen will think I am weak",
+    "text": "I am afraid my child or teen will think I am weak",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I felt uncomfortable to name specific difficult emotions",
+    "text": "I felt uncomfortable to name specific difficult emotions",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen felt uncomfortable when I shared my emotions",
+    "text": "My child or teen felt uncomfortable when I shared my emotions",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen asked many questions when I shared my emotions, which made me uncomfortable",
+    "text": "My child or teen asked many questions when I shared my emotions, which made me uncomfortable",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that",
+    "text": "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen could not agree on one specific rule or routine",
+    "text": "My child or teen could not agree on one specific rule or routine",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My children felt it was unfair that they have to follow the rule while I don’t have to follow it",
+    "text": "My children felt it was unfair that they have to follow the rule while I don’t have to follow it",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I felt uncomfortable because I feel I should be the one establishing the rule not my child or teen",
+    "text": "I felt uncomfortable because I feel I should be the one establishing the rule not my child or teen",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
+    "text": "My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I got very angry with my child or teen and yelled at them",
+    "text": "I got very angry with my child or teen and yelled at them",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I forgot to give my child or teen a choice to comply before giving the consequence",
+    "text": "I forgot to give my child or teen a choice to comply before giving the consequence",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen got very angry with me after I gave the consequence",
+    "text": "My child or teen got very angry with me after I gave the consequence",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child or teen complained that the consequence was not fair",
+    "text": "My child or teen complained that the consequence was not fair",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I forgot to follow through with the consequence",
+    "text": "I forgot to follow through with the consequence",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am giving too many consequences all the time",
+    "text": "I am giving too many consequences all the time",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It was hard to stay calm while ignoring my child's tantrum",
+    "text": "It was hard to stay calm while ignoring my child's tantrum",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I struggled to be consistent and gave into their demands",
+    "text": "I struggled to be consistent and gave into their demands",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am concerned about my child or someone else getting hurt",
+    "text": "I am concerned about my child or someone else getting hurt",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am having to ignore my child's behaviour all the time",
+    "text": "I am having to ignore my child's behaviour all the time",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "99",
+    "text": "99",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "ok okay",
+    "text": "ok okay",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "n",
+    "text": "n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "ok",
+    "text": "ok",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "enough",
+    "text": "enough",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "did not want to spend ",
+    "text": "did not want to spend ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "t.v. gadget",
+    "text": "t.v. gadget",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "uncomfortable",
+    "text": "uncomfortable",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "activities that i could not do",
+    "text": "activities that i could not do",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "competitive",
+    "text": "competitive",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "tantrum",
+    "text": "tantrum",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": " too many things at once",
+    "text": " too many things at once",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children",
+    "text": "all my children",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "emotionally",
+    "text": "emotionally",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "schoolwork",
+    "text": "schoolwork",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "surprised",
+    "text": "surprised",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "happy",
+    "text": "happy",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child did not like it",
+    "text": "my child did not like it",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i don't know",
+    "text": "i don't know",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "neutral bad",
+    "text": "neutral bad",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen did not want to follow the instruction",
+    "text": "my child or teen did not want to follow the instruction",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i gave a negative instead of a positive instruction",
+    "text": "i gave a negative instead of a positive instruction",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i gave too many instructions at once",
+    "text": "i gave too many instructions at once",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen could not do what i asked them",
+    "text": "my child or teen could not do what i asked them",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i forgot to praise my child or teen for following my instruction",
+    "text": "i forgot to praise my child or teen for following my instruction",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i am afraid my child or teen will think i am weak",
+    "text": "i am afraid my child or teen will think i am weak",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i felt uncomfortable to name specific difficult emotions",
+    "text": "i felt uncomfortable to name specific difficult emotions",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen felt uncomfortable when i shared my emotions",
+    "text": "my child or teen felt uncomfortable when i shared my emotions",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen asked many questions when i shared my emotions, which made me uncomfortable",
+    "text": "my child or teen asked many questions when i shared my emotions, which made me uncomfortable",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i was too stressed or angry to try sharing my emotions – i prefer to be alone when i feel like that",
+    "text": "i was too stressed or angry to try sharing my emotions – i prefer to be alone when i feel like that",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen could not agree on one specific rule or routine",
+    "text": "my child or teen could not agree on one specific rule or routine",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my children felt it was unfair that they have to follow the rule while i don’t have to follow it",
+    "text": "my children felt it was unfair that they have to follow the rule while i don’t have to follow it",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i felt uncomfortable because i feel i should be the one establishing the rule not my child or teen",
+    "text": "i felt uncomfortable because i feel i should be the one establishing the rule not my child or teen",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
+    "text": "my partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i got very angry with my child or teen and yelled at them",
+    "text": "i got very angry with my child or teen and yelled at them",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i forgot to give my child or teen a choice to comply before giving the consequence",
+    "text": "i forgot to give my child or teen a choice to comply before giving the consequence",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen got very angry with me after i gave the consequence",
+    "text": "my child or teen got very angry with me after i gave the consequence",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child or teen complained that the consequence was not fair",
+    "text": "my child or teen complained that the consequence was not fair",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i forgot to follow through with the consequence",
+    "text": "i forgot to follow through with the consequence",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i am giving too many consequences all the time",
+    "text": "i am giving too many consequences all the time",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it was hard to stay calm while ignoring my child's tantrum",
+    "text": "it was hard to stay calm while ignoring my child's tantrum",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i struggled to be consistent and gave into their demands",
+    "text": "i struggled to be consistent and gave into their demands",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i am concerned about my child or someone else getting hurt",
+    "text": "i am concerned about my child or someone else getting hurt",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i am having to ignore my child's behaviour all the time",
+    "text": "i am having to ignore my child's behaviour all the time",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

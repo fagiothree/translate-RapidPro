@@ -1,0 +1,699 @@
+[
+  {
+    "SourceText": "Hi! How are you feeling? ",
+    "text": "Hi! How are you feeling? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Sorry, I don't understand what you mean.",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good to hear that you are doing well. What a wonderful feeling!",
+    "text": "So good to hear that you are doing well. What a wonderful feeling!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes we're up. Sometimes we're down. And sometimes we are neither up nor down...and that's totally okay!",
+    "text": "Sometimes we're up. Sometimes we're down. And sometimes we are neither up nor down...and that's totally okay!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone. Here is an activity that might also help...",
+    "text": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone. Here is an activity that might also help...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do your children ever make you feel like screaming? Give yourself a 10-second pause. Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT.",
+    "text": "Do your children ever make you feel like screaming? Give yourself a 10-second pause. Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have you only got 30 seconds? Let's take a quick pause together. It might be helpful. ",
+    "text": "Have you only got 30 seconds? Let's take a quick pause together. It might be helpful. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Try this whenever you are feeling stressed and you need a break reconnect.",
+    "text": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Try this whenever you are feeling stressed and you need a break reconnect.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is something fun to help you let go of stress:",
+    "text": "Here is something fun to help you let go of stress:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Choose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?",
+    "text": "Choose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Make a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together.",
+    "text": "Make a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Even a few minutes of movement can be enough to release stress and lift your mood!",
+    "text": "Even a few minutes of movement can be enough to release stress and lift your mood!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Let’s use the magic power of three stay present and relax. ",
+    "text": "Let’s use the magic power of three stay present and relax. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Name three sounds you can hear right now.",
+    "text": "Name three sounds you can hear right now.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Name three smells you can smell right now. ",
+    "text": "Name three smells you can smell right now. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Name your three favourite foods. ",
+    "text": "Name your three favourite foods. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What are three things you can be grateful for right now?",
+    "text": "What are three things you can be grateful for right now?",
+    "type": "text"
+  },
+  {
+    "SourceText": "They don’t have to be big.",
+    "text": "They don’t have to be big.",
+    "type": "text"
+  },
+  {
+    "SourceText": " ",
+    "text": " ",
+    "type": "text"
+  },
+  {
+    "SourceText": "At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  ",
+    "text": "At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you sometimes feel like you are getting everything wrong?",
+    "text": "Do you sometimes feel like you are getting everything wrong?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to think over the day. Think of one thing you did today that you are proud of.",
+    "text": "Take a moment to think over the day. Think of one thing you did today that you are proud of.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Wrap your arms around your body and give yourself a hug.",
+    "text": "Wrap your arms around your body and give yourself a hug.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of one thing you did today that you don’t feel proud of. What can you do differently tomorrow?",
+    "text": "Think of one thing you did today that you don’t feel proud of. What can you do differently tomorrow?",
+    "type": "text"
+  },
+  {
+    "SourceText": "And wrap your arms around your body and give yourself a hug.",
+    "text": "And wrap your arms around your body and give yourself a hug.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s ok. You are doing your best so be kind to yourself. Get some rest and try again tomorrow!",
+    "text": "It’s ok. You are doing your best so be kind to yourself. Get some rest and try again tomorrow!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to stop what you are doing and connect with your breath.  ",
+    "text": "Take a moment to stop what you are doing and connect with your breath.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is one thing you can be grateful for right now?",
+    "text": "What is one thing you can be grateful for right now?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is one thing that brings you happiness?",
+    "text": "What is one thing that brings you happiness?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is one thing that you love?",
+    "text": "What is one thing that you love?",
+    "type": "text"
+  },
+  {
+    "SourceText": "They don't have to be big. Sometimes the small things in life count the most!",
+    "text": "They don't have to be big. Sometimes the small things in life count the most!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you sometimes feel your feelings are too much?",
+    "text": "Do you sometimes feel your feelings are too much?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Talk to someone. ",
+    "text": "Talk to someone. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Talk to someone you trust. Talk to a friend. Talk to family. Talk to a tree.",
+    "text": "Talk to someone you trust. Talk to a friend. Talk to family. Talk to a tree.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Get your worries off your chest and then let them go. Even if it’s just for a moment. ",
+    "text": "Get your worries off your chest and then let them go. Even if it’s just for a moment. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How do you feel now?",
+    "text": "How do you feel now?",
+    "type": "text"
+  },
+  {
+    "SourceText": "A joy shared is twice the joy. A problem shared is half the problem.",
+    "text": "A joy shared is twice the joy. A problem shared is half the problem.",
+    "type": "text"
+  },
+  {
+    "SourceText": "At the end of the day, take a minute to think about the day.  ",
+    "text": "At the end of the day, take a minute to think about the day.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about one positive or fun thing you did.",
+    "text": "Think about one positive or fun thing you did.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Praise yourself for one thing you did well today.",
+    "text": "Praise yourself for one thing you did well today.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of one thing you can do differently tomorrow. ",
+    "text": "Think of one thing you can do differently tomorrow. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of one thing that you are grateful for. ",
+    "text": "Think of one thing that you are grateful for. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are a star!",
+    "text": "You are a star!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Close your eyes and think about the day. Name 1 thing that you are grateful for. Name 1 thing that you did well. Name 1 think that you love. You earned a goodnight of sleep!",
+    "text": "Close your eyes and think about the day. Name 1 thing that you are grateful for. Name 1 thing that you did well. Name 1 think that you love. You earned a goodnight of sleep!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an activity to relax your body:",
+    "text": "Here's an activity to relax your body:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit comfortably and close your eyes if you can.",
+    "text": "Sit comfortably and close your eyes if you can.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Imagine a golden ring scanning your body from your feet to your head. ",
+    "text": "Imagine a golden ring scanning your body from your feet to your head. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful? ",
+    "text": "Pay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Focus on those areas for a moment. Breathe in to the area and when you breathe out, try to let go of any tension or pain. ",
+    "text": "Focus on those areas for a moment. Breathe in to the area and when you breathe out, try to let go of any tension or pain. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do this for a few breaths. ",
+    "text": "Do this for a few breaths. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Open your eyes. How does your body feel now?",
+    "text": "Open your eyes. How does your body feel now?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try this next time you find yourself lying in bed unable to sleep!",
+    "text": "Try this next time you find yourself lying in bed unable to sleep!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice your connection with the ground beneath you.",
+    "text": "Notice your connection with the ground beneath you.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What parts of your body touch the ground? What parts of your body don’t? ",
+    "text": "What parts of your body touch the ground? What parts of your body don’t? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice where it feels warm and where it feels cool.",
+    "text": "Notice where it feels warm and where it feels cool.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Feel the ground underneath you supporting you. Let your body sink into the support of the ground. ",
+    "text": "Feel the ground underneath you supporting you. Let your body sink into the support of the ground. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+    "text": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a short relaxation activity for you:",
+    "text": "Here is a short relaxation activity for you:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down and close your eyes",
+    "text": "Sit down and close your eyes",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many sounds can you hear? ",
+    "text": "How many sounds can you hear? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Listen to the sounds inside and outside the room. Count them on your fingers.",
+    "text": "Listen to the sounds inside and outside the room. Count them on your fingers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+    "text": "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try again for another ten seconds. ",
+    "text": "Try again for another ten seconds. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Did you hear any new sounds? Did you hear any sounds inside your own body?",
+    "text": "Did you hear any new sounds? Did you hear any sounds inside your own body?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice how you feel now.",
+    "text": "Notice how you feel now.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Use the magic power of three to stay connected and relax.",
+    "text": "Use the magic power of three to stay connected and relax.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breathe in to the count of three. 1, 2, 3.",
+    "text": "Breathe in to the count of three. 1, 2, 3.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breath out to the count of three. 1, 2, 3.",
+    "text": "Breath out to the count of three. 1, 2, 3.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How do you feel now? Do you feel any different? Deep breathing helps our whole body and mind to calm down. ",
+    "text": "How do you feel now? Do you feel any different? Deep breathing helps our whole body and mind to calm down. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you ever feel something so strongly that you want to run away from it?",
+    "text": "Do you ever feel something so strongly that you want to run away from it?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Instead of moving away from the feeling, let’s move towards it for a moment.",
+    "text": "Instead of moving away from the feeling, let’s move towards it for a moment.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s ok. Close your eyes if you feel comfortable. Take a deep breath.",
+    "text": "It’s ok. Close your eyes if you feel comfortable. Take a deep breath.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Become curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?",
+    "text": "Become curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ask yourself some questions. What is it telling me? What does it need? How can I be kind to myself in this moment?",
+    "text": "Ask yourself some questions. What is it telling me? What does it need? How can I be kind to myself in this moment?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If your mind starts to wander, it’s normal. Just bring it back to the feeling. Keep breathing and feeling.",
+    "text": "If your mind starts to wander, it’s normal. Just bring it back to the feeling. Keep breathing and feeling.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Reassure yourself. It’s ok to feel. Feeling is healing!",
+    "text": "Reassure yourself. It’s ok to feel. Feeling is healing!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+    "text": "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for making so much effort to be a better parent. You are loved and appreciated!",
+    "text": "Thank you for making so much effort to be a better parent. You are loved and appreciated!",
+    "type": "text"
+  },
+  {
+    "SourceText": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!",
+    "text": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! ",
+    "text": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!",
+    "text": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!",
+    "type": "text"
+  },
+  {
+    "SourceText": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!",
+    "text": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing.",
+    "text": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for being patient with yourself and your family. Every little bit helps! ",
+    "text": "Thank you for being patient with yourself and your family. Every little bit helps! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for being a man who supports their family. You are a real hero.",
+    "text": "Well done for being a man who supports their family. You are a real hero.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You’re a man who puts a lot of thought into everything you do. We see it and appreciate it.",
+    "text": "You’re a man who puts a lot of thought into everything you do. We see it and appreciate it.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for your dedication! The world needs more men like you. ",
+    "text": "Thank you for your dedication! The world needs more men like you. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hooray! Other women around the world are cheering for you right now!",
+    "text": "Hooray! Other women around the world are cheering for you right now!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s not always easy to be a woman in this world. But you are leading the way! ",
+    "text": "It’s not always easy to be a woman in this world. But you are leading the way! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are such a great example for all men! Keep up the good work.",
+    "text": "You are such a great example for all men! Keep up the good work.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your commitment is an inspiration for all men. Keep calm and carry on! ",
+    "text": "Your commitment is an inspiration for all men. Keep calm and carry on! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for your dedication! The world needs more women like you.",
+    "text": "Thank you for your dedication! The world needs more women like you.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Fake it until you make it, Mama!",
+    "text": "Fake it until you make it, Mama!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for being a superman and being there for your family today! Keep it up!",
+    "text": "Thank you for being a superman and being there for your family today! Keep it up!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hey beautiful woman! Thank you for showing so much strength and sharing it with your family.",
+    "text": "Hey beautiful woman! Thank you for showing so much strength and sharing it with your family.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for being an inspiration to other women. Keep shining that light of yours! ",
+    "text": "Thank you for being an inspiration to other women. Keep shining that light of yours! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for showing up for your family today and doing your best! You are appreciated!",
+    "text": "Thank you for showing up for your family today and doing your best! You are appreciated!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!",
+    "text": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!",
+    "text": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!",
+    "text": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Every time you take a pause is an act of kindness. Thank you for being kind to yourself and your family today!",
+    "text": "Every time you take a pause is an act of kindness. Thank you for being kind to yourself and your family today!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s the end of the day! You did it! Now it’s time for you. You deserve ",
+    "text": "It’s the end of the day! You did it! Now it’s time for you. You deserve ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference.",
+    "text": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "text": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You made a difference today by showing up. Your down time starts now!",
+    "text": "You made a difference today by showing up. Your down time starts now!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+    "text": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! ",
+    "text": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ten points for you today! Together we can overcome any challenge.",
+    "text": "Ten points for you today! Together we can overcome any challenge.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for spending One-on-One time with your family! Time is the most valuable gift you can give them. ",
+    "text": "Well done for spending One-on-One time with your family! Time is the most valuable gift you can give them. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for your kindness and patience today! Even when it’s tough, your words of praise, your smile and your attention are like sunshine for your children.",
+    "text": "Thank you for your kindness and patience today! Even when it’s tough, your words of praise, your smile and your attention are like sunshine for your children.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your curiosity and creativity are paying off! Give yourself a hug!",
+    "text": "Your curiosity and creativity are paying off! Give yourself a hug!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Top marks for effort! It’s not easy but you tried your best. That’s all you can ever do!",
+    "text": "Top marks for effort! It’s not easy but you tried your best. That’s all you can ever do!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day.",
+    "text": "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! How is your parenting going today? ",
+    "text": "Hi! How is your parenting going today? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s the end of the day! You did it! Now it’s time for you. You deserve a break!",
+    "text": "It’s the end of the day! You did it! Now it’s time for you. You deserve a break!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! If you have found these messages helpful, please share with a friend!",
+    "text": "Hi! If you have found these messages helpful, please share with a friend!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have made it through your first week. How time flies! ",
+    "text": "Congratulations! You have made it through your first week. How time flies! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have made it through another week!",
+    "text": "Congratulations! You have made it through another week!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have added one skill to your Parenting Toolkit:",
+    "text": "You have added one skill to your Parenting Toolkit:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have added @results.n_skills_week skills to your Parenting Toolkit:",
+    "text": "You have added @results.n_skills_week skills to your Parenting Toolkit:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+  },
+  {
+    "SourceText": "Type \"Help\" if you ever want to revisit them for more support.",
+    "text": "Type \"Help\" if you ever want to revisit them for more support.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You also have made progress on the following skills: ",
+    "text": "You also have made progress on the following skills: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"Help\" if you ever want to go back and complete them.",
+    "text": "Type \"Help\" if you ever want to go back and complete them.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+    "text": "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+    "text": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.  Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
+    "text": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.  Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great",
+    "text": "Great",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Okay",
+    "text": "Okay",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bad",
+    "text": "Bad",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Same frequency",
+    "text": "Same frequency",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A little less often",
+    "text": "A little less often",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "great",
+    "text": "great",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "okay ok",
+    "text": "okay ok",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bad",
+    "text": "bad",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "okay",
+    "text": "okay",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "same ",
+    "text": "same ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "less often",
+    "text": "less often",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

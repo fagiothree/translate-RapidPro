@@ -1,0 +1,2878 @@
+[
+  {
+    "SourceText": "Betapa bergunanya petua ini?",
+    "text": "Betapa bergunanya petua ini?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah aktiviti-aktiviti santai ini membantu mengurangkan tekanan dalam hidup anda?",
+    "text": "Adakah aktiviti-aktiviti santai ini membantu mengurangkan tekanan dalam hidup anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Betapa bergunanya aktiviti ini?",
+    "text": "Betapa bergunanya aktiviti ini?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda.",
+    "text": "Maaf, saya tidak faham maksud anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih atas maklum balas anda!",
+    "text": "Terima kasih atas maklum balas anda!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Untuk siapakah anda mahu dapatkan aktiviti?",
+    "text": "Untuk siapakah anda mahu dapatkan aktiviti?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda.",
+    "text": "Maaf, saya tidak faham maksud anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu memilih aktiviti yang lain?",
+    "text": "Adakah anda mahu memilih aktiviti yang lain?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tidak mengapa! Sumber menarik dari LEGO ini menyediakan lebih banyak aktiviti yang boleh dibuat dengan anak-anak anda!",
+    "text": "Tidak mengapa! Sumber menarik dari LEGO ini menyediakan lebih banyak aktiviti yang boleh dibuat dengan anak-anak anda!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "https://playlist.legofoundation.com/all-activities/",
+    "text": "https://playlist.legofoundation.com/all-activities/",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berbual dengan anda nanti!",
+    "text": "Berbual dengan anda nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apa jenis aktiviti yang anda mahu?",
+    "text": "Apa jenis aktiviti yang anda mahu?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apa jenis aktiviti yang anda mahu untuk bayi anda?",
+    "text": "Apa jenis aktiviti yang anda mahu untuk bayi anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apa jenis aktiviti yang anda mahu untuk anak remaja anda?",
+    "text": "Apa jenis aktiviti yang anda mahu untuk anak remaja anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apa jenis aktiviti yang anda mahu untuk anak anda?",
+    "text": "Apa jenis aktiviti yang anda mahu untuk anak anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Nampaknya, anda sedang sibuk sekarang ini. Sila taip “Pergi Balik” untuk menerima mesej-mesej yang terkini sekali lagi.",
+    "text": "Nampaknya, anda sedang sibuk sekarang ini. Sila taip “Pergi Balik” untuk menerima mesej-mesej yang terkini sekali lagi.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Nampaknya, anda sedang sibuk sekarang ini. Anda boleh sahaja taip \"Pergi Balik\" untuk memulakan semula petua mengasuh ini atau \"Bantuan\" untuk sokongan lain.",
+    "text": "Nampaknya, anda sedang sibuk sekarang ini. Anda boleh sahaja taip \"Pergi Balik\" untuk memulakan semula petua mengasuh ini atau \"Bantuan\" untuk sokongan lain.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah topik mengasuh yang anda mahu lihat semula?",
+    "text": "Apakah topik mengasuh yang anda mahu lihat semula?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Taip \"kembali\" jika anda mahu kembali kepada menu Bantuan.",
+    "text": "Taip \"kembali\" jika anda mahu kembali kepada menu Bantuan.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda mempunyai kemahiran lengkap yang berikut dalam Set Alat Mengasuh anda:",
+    "text": "Anda mempunyai kemahiran lengkap yang berikut dalam Set Alat Mengasuh anda:",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda telah membuat kemajuan dalam kemahiran berikut:",
+    "text": "Anda telah membuat kemajuan dalam kemahiran berikut:",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda tidak mempunyai apa-apa kemahiran yang tidak lengkap.",
+    "text": "Anda tidak mempunyai apa-apa kemahiran yang tidak lengkap.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda tidak mempunyai sebarang kemahiran lengkap dalam set alat mengasuh anda.",
+    "text": "Anda tidak mempunyai sebarang kemahiran lengkap dalam set alat mengasuh anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Taip nombor yang sepadan dengan kemahiran tersebut untuk menerima mesej tentang topik ini sekali lagi. ",
+    "text": "Taip nombor yang sepadan dengan kemahiran tersebut untuk menerima mesej tentang topik ini sekali lagi. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Taip \"kembali\" jika anda mahu kembali kepada pilihan sebelumnya.",
+    "text": "Taip \"kembali\" jika anda mahu kembali kepada pilihan sebelumnya.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 1 dan @results.n_skills untuk menerima mesej tentang topik tersebut sekali lagi. ",
+    "text": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 1 dan @results.n_skills untuk menerima mesej tentang topik tersebut sekali lagi. ",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.n_skills_week dan results.n_skills adalah nombor"
+  },
+  {
+    "SourceText": "Taip nombor yang sepadan dengan kemahiran untuk melengkapkannya bagi Set Alat Mengasuh anda. ",
+    "text": "Taip nombor yang sepadan dengan kemahiran untuk melengkapkannya bagi Set Alat Mengasuh anda. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 1 dan @results.n_skills untuk melengkapkan kemahiran yang sepadan.",
+    "text": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 1 dan @results.n_skills untuk melengkapkan kemahiran yang sepadan.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.n_skills_week dan results.n_skills adalah nombor"
+  },
+  {
+    "SourceText": " ",
+    "text": " ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu kembali kepada menu Bantuan?",
+    "text": "Adakah anda mahu kembali kepada menu Bantuan?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagaimana kami boleh membantu anda menjaga anak-anak anda?",
+    "text": "Bagaimana kami boleh membantu anda menjaga anak-anak anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagaimana kami boleh membantu anda menjaga keselamatan anak-anak anda?",
+    "text": "Bagaimana kami boleh membantu anda menjaga keselamatan anak-anak anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berikut adalah nombor-nombor yang berguna di Malaysia:",
+    "text": "Berikut adalah nombor-nombor yang berguna di Malaysia:",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Polis: 999",
+    "text": "Polis: 999",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ambulans: 999",
+    "text": "Ambulans: 999",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Keganasan di rumah: Talian Bantuan WAO 03-7956 3488 atau WhatsApp ke 018 988 8058 atau Talian Kasih 15999",
+    "text": "Keganasan di rumah: Talian Bantuan WAO 03-7956 3488 atau WhatsApp ke 018 988 8058 atau Talian Kasih 15999",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Dadah: Talian Bantuan AADK: 03 8911 2233 / 019 626 2233 www.adk.gov.my",
+    "text": "Dadah: Talian Bantuan AADK: 03 8911 2233 / 019 626 2233 www.adk.gov.my",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Talian Kanak-kanak: Talian Kasih 15999",
+    "text": "Talian Kanak-kanak: Talian Kasih 15999",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Talian Hayat (Kaunseling): Talian Kasih 15999",
+    "text": "Talian Hayat (Kaunseling): Talian Kasih 15999",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sila taip \"kembali\" jika anda mahu kembali kepada pilihan sebelumnya.",
+    "text": "Sila taip \"kembali\" jika anda mahu kembali kepada pilihan sebelumnya.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah perkara yang anda perlu dibantu?",
+    "text": "Apakah perkara yang anda perlu dibantu?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. ",
+    "text": "Maaf, saya tidak faham maksud anda. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah yang anda mahu tukar?",
+    "text": "Apakah yang anda mahu tukar?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Taip \"KELUAR\" untuk berhenti menerima mesej.",
+    "text": "Taip \"KELUAR\" untuk berhenti menerima mesej.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu kembali kepada sokongan teknikal? ",
+    "text": "Adakah anda mahu kembali kepada sokongan teknikal? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu kembali kepada Bantuan?",
+    "text": "Adakah anda mahu kembali kepada Bantuan?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Baik, terima kasih. Berbual dengan anda nanti!",
+    "text": "Baik, terima kasih. Berbual dengan anda nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagaimana kami boleh membantu anda?",
+    "text": "Bagaimana kami boleh membantu anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu terus menerima petua-petua ini pada kekerapan yang sama atau kurang kerap? Anda juga boleh menukar waktu pada mana anda akan menerima mesej anda.",
+    "text": "Adakah anda mahu terus menerima petua-petua ini pada kekerapan yang sama atau kurang kerap? Anda juga boleh menukar waktu pada mana anda akan menerima mesej anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tukar tetapan ini dengan menaip \"Bantuan\" dan kemudian pilih \"Sokongan Teknikal.\"",
+    "text": "Tukar tetapan ini dengan menaip \"Bantuan\" dan kemudian pilih \"Sokongan Teknikal.\"",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan) dan remaja (10 hingga 17 tahun).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan) dan remaja (10 hingga 17 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi remaja (10 hingga 17 tahun).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi remaja (10 hingga 17 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi anak kecil (2 hingga 9 tahun).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi anak kecil (2 hingga 9 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi anak kecil (2 hingga 9 tahun) dan remaja (10 hingga 17 tahun).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi anak kecil (2 hingga 9 tahun) dan remaja (10 hingga 17 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan) dan anak kecil (2 hingga 9 tahun).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan) dan anak kecil (2 hingga 9 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan), anak kecil (2 hingga 9 tahun) dan remaja (10 hingga 17 tahun).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan), anak kecil (2 hingga 9 tahun) dan remaja (10 hingga 17 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "@results.count  Masa satu-dengan-satu",
+    "text": "@results.count  Masa satu-dengan-satu",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Berhenti Sejenak",
+    "text": "@results.count  Berhenti Sejenak",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menguruskan rasa marah",
+    "text": "@results.count  Menguruskan rasa marah",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Memberikan arahan positif",
+    "text": "@results.count  Memberikan arahan positif",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Memuji anak-anak anda",
+    "text": "@results.count  Memuji anak-anak anda",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menetapkan rutin harian",
+    "text": "@results.count  Menetapkan rutin harian",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menetapkan peraturan di rumah",
+    "text": "@results.count  Menetapkan peraturan di rumah",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Mengubah hala kelakuan",
+    "text": "@results.count  Mengubah hala kelakuan",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menggunakan kesudahan yang sesuai",
+    "text": "@results.count  Menggunakan kesudahan yang sesuai",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Bacaan bersama",
+    "text": "@results.count  Bacaan bersama",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Tidak mempedulikan kelakuan mendesak",
+    "text": "@results.count  Tidak mempedulikan kelakuan mendesak",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menyelesaikan masalah dengan anak remaja anda",
+    "text": "@results.count  Menyelesaikan masalah dengan anak remaja anda",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menjaga keselamatan anak anda dalam talian",
+    "text": "@results.count  Menjaga keselamatan anak anda dalam talian",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Mengawal tangisan",
+    "text": "@results.count  Mengawal tangisan",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Memberikan sokongan emosi",
+    "text": "@results.count  Memberikan sokongan emosi",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Bertindak terhadap krisis",
+    "text": "@results.count  Bertindak terhadap krisis",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Memahami sentuhan yang selamat/tidak selamat",
+    "text": "@results.count  Memahami sentuhan yang selamat/tidak selamat",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Membina keluarga bahagia dan aman",
+    "text": "@results.count  Membina keluarga bahagia dan aman",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Belanjawan keluarga",
+    "text": "@results.count  Belanjawan keluarga",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Bercakap tentang COVID19",
+    "text": "@results.count  Bercakap tentang COVID19",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menyokong kanak-kanak tidak berupaya",
+    "text": "@results.count  Menyokong kanak-kanak tidak berupaya",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Perkembangan Kanak-kanak",
+    "text": "@results.count  Perkembangan Kanak-kanak",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Membantu anak-anak anda belajar",
+    "text": "@results.count  Membantu anak-anak anda belajar",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "@results.count  Menjaga kesihatan",
+    "text": "@results.count  Menjaga kesihatan",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.count adalah nombor (pengira bagi senarai)"
+  },
+  {
+    "SourceText": "Maaf, tiada apa benda untuk anda kembalikan! Jika anda mahu melihat semula mana-mana petua mengasuh, sila taip \"Bantuan\". ",
+    "text": "Maaf, tiada apa benda untuk anda kembalikan! Jika anda mahu melihat semula mana-mana petua mengasuh, sila taip \"Bantuan\". ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anak mana satu yang anda mahu dapatkan petua untuknya?",
+    "text": "Anak mana satu yang anda mahu dapatkan petua untuknya?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kumpulan umur bagi petua mengasuh yang diterima sekarang ini adalah: Bayi (0 hingga 23 bulan).",
+    "text": "Kumpulan umur bagi petua mengasuh yang diterima sekarang ini adalah: Bayi (0 hingga 23 bulan).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kumpulan umur bagi petua mengasuh yang diterima sekarang ini adalah: Remaja (10 hingga 17 tahun).",
+    "text": "Kumpulan umur bagi petua mengasuh yang diterima sekarang ini adalah: Remaja (10 hingga 17 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kumpulan umur bagi petua mengasuh yang diterima sekarang ini adalah: Anak kecil (2 hingga 9 tahun).",
+    "text": "Kumpulan umur bagi petua mengasuh yang diterima sekarang ini adalah: Anak kecil (2 hingga 9 tahun).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu menerima petua mengasuh untuk kumpulan umur yang lain? ",
+    "text": "Adakah anda mahu menerima petua mengasuh untuk kumpulan umur yang lain? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah kumpulan umur bagi petua mengasuh yang mahu diterima oleh anda? ",
+    "text": "Apakah kumpulan umur bagi petua mengasuh yang mahu diterima oleh anda? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda sekarang ini menerima mesej dalam \"Bahasa Inggeris\".",
+    "text": "Anda sekarang ini menerima mesej dalam \"Bahasa Inggeris\".",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu menukarnya?",
+    "text": "Adakah anda mahu menukarnya?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah bahasa yang anda mahu gunakan?",
+    "text": "Apakah bahasa yang anda mahu gunakan?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda pasti anda mahu Keluar? Jika anda tidak lagi mahu menerima mesej, sila taip \"HENTIKAN MESEJ.\"",
+    "text": "Adakah anda pasti anda mahu Keluar? Jika anda tidak lagi mahu menerima mesej, sila taip \"HENTIKAN MESEJ.\"",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Jika anda telah membuat kesilapan, sila taip \"kembali\" dan pilih pilihan yang lain.",
+    "text": "Jika anda telah membuat kesilapan, sila taip \"kembali\" dan pilih pilihan yang lain.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Baik, terima kasih! Jika anda mahu mendaftar untuk menerima mesej mengasuh, taip \"Lagi Petua\". Kami sedia membantu!",
+    "text": "Baik, terima kasih! Jika anda mahu mendaftar untuk menerima mesej mengasuh, taip \"Lagi Petua\". Kami sedia membantu!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maklumat siapakah yang anda mahu menukar?",
+    "text": "Maklumat siapakah yang anda mahu menukar?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda tidak memberitahu umur anak-anak anda. ",
+    "text": "Anda tidak memberitahu umur anak-anak anda. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda belum memilih kumpulan umur bagi petua mengasuh yang mahu diterima oleh anda.",
+    "text": "Anda belum memilih kumpulan umur bagi petua mengasuh yang mahu diterima oleh anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah yang anda mahu lakukan?",
+    "text": "Apakah yang anda mahu lakukan?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah kumpulan umur bagi petua mengasuh yang mahu diterima oleh anda? Sila taip",
+    "text": "Apakah kumpulan umur bagi petua mengasuh yang mahu diterima oleh anda? Sila taip",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda berumur @fields.age tahun.",
+    "text": "Anda memberitahu kami anda berumur @fields.age tahun.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. "
+  },
+  {
+    "SourceText": "Anda tidak memberitahu kami umur anda.",
+    "text": "Anda tidak memberitahu kami umur anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah lelaki.",
+    "text": "Anda memberitahu kami anda adalah lelaki.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda tidak memberitahu kami jantina anda.",
+    "text": "Anda tidak memberitahu kami jantina anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda telah menandakan jantina \"lain\".",
+    "text": "Anda telah menandakan jantina \"lain\".",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda memberitahu kami anda adalah perempuan.",
+    "text": "Anda memberitahu kami anda adalah perempuan.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah yang anda mahu mengemas kini?",
+    "text": "Apakah yang anda mahu mengemas kini?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Saya adalah seorang...",
+    "text": "Saya adalah seorang...",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berapakah umur anda? Sila jawab dengan nombor sahaja. Contoh: 28",
+    "text": "Berapakah umur anda? Sila jawab dengan nombor sahaja. Contoh: 28",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tidak mengapa jika anda tidak mahu memberitahu kami umur anda. Sila taip \"N\"",
+    "text": "Tidak mengapa jika anda tidak mahu memberitahu kami umur anda. Sila taip \"N\"",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ini nampaknya terlalu tua. Sila jawab dengan nombor sahaja. Contoh: 28.",
+    "text": "Ini nampaknya terlalu tua. Sila jawab dengan nombor sahaja. Contoh: 28.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila jawab dengan nombor sahaja. Contoh: 28. ",
+    "text": "Maaf, saya tidak faham maksud anda. Sila jawab dengan nombor sahaja. Contoh: 28. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ini nampaknya terlalu muda. Sila jawab dengan nombor sahaja. Contoh: 28.",
+    "text": "Ini nampaknya terlalu muda. Sila jawab dengan nombor sahaja. Contoh: 28.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda sekarang ini menerima mesej setiap hari di @fields.morning_time_of_day, @fields.main_time_of_day dan @fields.evening_time_of_day.",
+    "text": "Anda sekarang ini menerima mesej setiap hari di @fields.morning_time_of_day, @fields.main_time_of_day dan @fields.evening_time_of_day.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. "
+  },
+  {
+    "SourceText": "Anda menerima petua mengasuh baharu setiap hari pada @fields.main_time_of_day.",
+    "text": "Anda menerima petua mengasuh baharu setiap hari pada @fields.main_time_of_day.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. "
+  },
+  {
+    "SourceText": "Anda menerima petua mengasuh baharu setiap selang sehari pada @fields.main_time_of_day.",
+    "text": "Anda menerima petua mengasuh baharu setiap selang sehari pada @fields.main_time_of_day.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. "
+  },
+  {
+    "SourceText": "*tertinggal*",
+    "text": "*tertinggal*",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tetapan semasa anda untuk menerima kandungan media adalah: Tinggi - teks, audio, imej, video (data tinggi).",
+    "text": "Tetapan semasa anda untuk menerima kandungan media adalah: Tinggi - teks, audio, imej, video (data tinggi).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu menukarnya? ",
+    "text": "Adakah anda mahu menukarnya? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tetapan semasa anda untuk menerima kandungan media adalah: Sederhana - teks, audio, imej (data rendah).",
+    "text": "Tetapan semasa anda untuk menerima kandungan media adalah: Sederhana - teks, audio, imej (data rendah).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tetapan semasa anda untuk menerima kandungan media adalah: Rendah - teks sahaja (hampir tiada data langsung).",
+    "text": "Tetapan semasa anda untuk menerima kandungan media adalah: Rendah - teks sahaja (hampir tiada data langsung).",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda mahu menukarnya?  ",
+    "text": "Adakah anda mahu menukarnya?  ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagaimana anda mahu menerima mesej anda?",
+    "text": "Bagaimana anda mahu menerima mesej anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Adakah anda mahu tahu lagi tentang cara untuk bercakap dengan anak-anak anda mengenai COVID-19?",
+    "text": "Salam! Adakah anda mahu tahu lagi tentang cara untuk bercakap dengan anak-anak anda mengenai COVID-19?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tidak mengapa! Anda boleh sahaja dapatkan maklumat lanjut dengan menaip \"Bantuan\". Kita berbual nanti!",
+    "text": "Tidak mengapa! Anda boleh sahaja dapatkan maklumat lanjut dengan menaip \"Bantuan\". Kita berbual nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Adakah anda mahu tahu lagi tentang perkembangan anak-anak anda?",
+    "text": "Salam! Adakah anda mahu tahu lagi tentang perkembangan anak-anak anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Adakah anda mahu tahu lagi tentang cara anda boleh menyokong kanak-kanak tidak berupaya?",
+    "text": "Salam! Adakah anda mahu tahu lagi tentang cara anda boleh menyokong kanak-kanak tidak berupaya?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Adakah anda mahu tahu lagi tentang cara untuk menyelesaikan konflik dalam keluarga?",
+    "text": "Salam! Adakah anda mahu tahu lagi tentang cara untuk menyelesaikan konflik dalam keluarga?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Jika anda perlukan sebarang sokongan atau petua mengasuh tambahan, taip \"Bantuan\" ",
+    "text": "Salam! Jika anda perlukan sebarang sokongan atau petua mengasuh tambahan, taip \"Bantuan\" ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berkongsi sesuatu dengan orang lain adalah lebih seronok daripada melakukannya sendiri.  ",
+    "text": "Berkongsi sesuatu dengan orang lain adalah lebih seronok daripada melakukannya sendiri.  ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berikut adalah pautan kepada mesej-mesej yang boleh dikongsikan dengan kawan anda!",
+    "text": "Berikut adalah pautan kepada mesej-mesej yang boleh dikongsikan dengan kawan anda!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "*masukkan pautan*",
+    "text": "*masukkan pautan*",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tahniah! Anda telah berjaya melalui minggu yang pertama. Betapa cepatnya masa berlalu! ",
+    "text": "Tahniah! Anda telah berjaya melalui minggu yang pertama. Betapa cepatnya masa berlalu! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tahniah! Anda telah berjaya melalui satu lagi minggu!",
+    "text": "Tahniah! Anda telah berjaya melalui satu lagi minggu!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tahniah kerana telah melengkapkan program ParenText! ",
+    "text": "Tahniah kerana telah melengkapkan program ParenText! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda boleh sahaja melihat semula petua mengasuh dengan menaip \"Bantuan\". Jika anda mahu berhenti menerima mesej, pergi ke \"Sokongan Teknikal\" dan kemudian, pilih \"Pengalaman Pengguna\".",
+    "text": "Anda boleh sahaja melihat semula petua mengasuh dengan menaip \"Bantuan\". Jika anda mahu berhenti menerima mesej, pergi ke \"Sokongan Teknikal\" dan kemudian, pilih \"Pengalaman Pengguna\".",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda telah menambahkan satu kemahiran kepada Set Alat Mengasuh anda pada minggu ini:",
+    "text": "Anda telah menambahkan satu kemahiran kepada Set Alat Mengasuh anda pada minggu ini:",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda telah menambahkan @results.n_skills_week kemahiran kepada Set Alat Mengasuh anda pada minggu ini:",
+    "text": "Anda telah menambahkan @results.n_skills_week kemahiran kepada Set Alat Mengasuh anda pada minggu ini:",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @results.n_skills_week dan results.n_skills adalah nombor"
+  },
+  {
+    "SourceText": "Anda juga telah membuat kemajuan dalam kemahiran berikut: ",
+    "text": "Anda juga telah membuat kemajuan dalam kemahiran berikut: ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Taip \"Set alat\" jika anda mahu kembali dan melihat semula mana-mana petua ini.",
+    "text": "Taip \"Set alat\" jika anda mahu kembali dan melihat semula mana-mana petua ini.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Jika anda mula melihat sedikit perubahan dalam hidup atau hubungan anda dengan anak-anak anda, bagus! ",
+    "text": "Jika anda mula melihat sedikit perubahan dalam hidup atau hubungan anda dengan anak-anak anda, bagus! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Jika anda belum melihat sebarang perubahan, sila teruskannya. Kadang-kadang, benda seperti ini akan mengambil masa.  Kami yakin anda boleh melakukannya!",
+    "text": "Jika anda belum melihat sebarang perubahan, sila teruskannya. Kadang-kadang, benda seperti ini akan mengambil masa.  Kami yakin anda boleh melakukannya!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Boleh kami tanya beberapa soalan ringkas tentang kelakuan anak-anak anda?",
+    "text": "Boleh kami tanya beberapa soalan ringkas tentang kelakuan anak-anak anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Semua kanak-kanak berkelakuan nakal kadang-kadang. Sila beritahu kami nama atau nama panggilan anak anda yang paling sukar diasuh, supaya kami dapat berikan anda maklumat yang betul.",
+    "text": "Semua kanak-kanak berkelakuan nakal kadang-kadang. Sila beritahu kami nama atau nama panggilan anak anda yang paling sukar diasuh, supaya kami dapat berikan anda maklumat yang betul.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita boleh cuba sekali lagi pada hari esok. Kita berbual nanti!",
+    "text": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita boleh cuba sekali lagi pada hari esok. Kita berbual nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita berbual nanti!",
+    "text": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita berbual nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah @fields.survey_behave_name lelaki atau perempuan?",
+    "text": "Adakah @fields.survey_behave_name lelaki atau perempuan?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Berapa umur @fields.survey_behave_name dalam tahun? Sila jawab dengan satu nombor antara 0 dan 17.",
+    "text": "Berapa umur @fields.survey_behave_name dalam tahun? Sila jawab dengan satu nombor antara 0 dan 17.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Ini nampaknya terlalu tua. ",
+    "text": "Ini nampaknya terlalu tua. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berapa bulan umur @fields.survey_behave_name? Sila masukkan satu nombor antara 0 dan 23.",
+    "text": "Berapa bulan umur @fields.survey_behave_name? Sila masukkan satu nombor antara 0 dan 23.",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Apakah hubungan anda dengan @fields.survey_behave_name?",
+    "text": "Apakah hubungan anda dengan @fields.survey_behave_name?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Semua kanak-kanak berkelakuan nakal kadang-kadang. Berikut adalah senarai kelakuan biasa yang boleh mencabar kesabaran ibu bapa:",
+    "text": "Semua kanak-kanak berkelakuan nakal kadang-kadang. Berikut adalah senarai kelakuan biasa yang boleh mencabar kesabaran ibu bapa:",
+    "type": "teks"
+  },
+  {
+    "SourceText": "1. Kuat menangis",
+    "text": "1. Kuat menangis",
+    "type": "teks"
+  },
+  {
+    "SourceText": "2. Susah tidur",
+    "text": "2. Susah tidur",
+    "type": "teks"
+  },
+  {
+    "SourceText": "3. Sukar berenggang",
+    "text": "3. Sukar berenggang",
+    "type": "teks"
+  },
+  {
+    "SourceText": "4. Merengek meminta barang",
+    "text": "4. Merengek meminta barang",
+    "type": "teks"
+  },
+  {
+    "SourceText": "5. Cepat marah atau meragam",
+    "text": "5. Cepat marah atau meragam",
+    "type": "teks"
+  },
+  {
+    "SourceText": "6. Susah makan",
+    "text": "6. Susah makan",
+    "type": "teks"
+  },
+  {
+    "SourceText": "7. Degil atau cerewet.",
+    "text": "7. Degil atau cerewet.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "8. Berkelakuan nakal",
+    "text": "8. Berkelakuan nakal",
+    "type": "teks"
+  },
+  {
+    "SourceText": "9. Buat perangai",
+    "text": "9. Buat perangai",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sila taip angka yang menerangkan kelakuan paling mencabar yang perlu ditangani bagi @fields.survey_behave_name. Anda juga boleh menaip \"N\" jika anda tidak mahu menjawab. ",
+    "text": "Sila taip angka yang menerangkan kelakuan paling mencabar yang perlu ditangani bagi @fields.survey_behave_name. Anda juga boleh menaip \"N\" jika anda tidak mahu menjawab. ",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "1. Enggan mengikut arahan",
+    "text": "1. Enggan mengikut arahan",
+    "type": "teks"
+  },
+  {
+    "SourceText": "2. Kerap marah",
+    "text": "2. Kerap marah",
+    "type": "teks"
+  },
+  {
+    "SourceText": "3. Kelakuan biadap, dan tidak hormat",
+    "text": "3. Kelakuan biadap, dan tidak hormat",
+    "type": "teks"
+  },
+  {
+    "SourceText": "4. Meragam, kerap bertukar angin",
+    "text": "4. Meragam, kerap bertukar angin",
+    "type": "teks"
+  },
+  {
+    "SourceText": "5. Tidak mengikut peraturan",
+    "text": "5. Tidak mengikut peraturan",
+    "type": "teks"
+  },
+  {
+    "SourceText": "6. Degil",
+    "text": "6. Degil",
+    "type": "teks"
+  },
+  {
+    "SourceText": "7. Memecahkan barang",
+    "text": "7. Memecahkan barang",
+    "type": "teks"
+  },
+  {
+    "SourceText": "8. Suka bergaduh",
+    "text": "8. Suka bergaduh",
+    "type": "teks"
+  },
+  {
+    "SourceText": "9. Mengejek atau mengacau orang lain",
+    "text": "9. Mengejek atau mengacau orang lain",
+    "type": "teks"
+  },
+  {
+    "SourceText": "2. Buat perangai",
+    "text": "2. Buat perangai",
+    "type": "teks"
+  },
+  {
+    "SourceText": "3. Kelakuan tidak hormat",
+    "text": "3. Kelakuan tidak hormat",
+    "type": "teks"
+  },
+  {
+    "SourceText": "5. Terlampau aktif, tidak boleh duduk diam",
+    "text": "5. Terlampau aktif, tidak boleh duduk diam",
+    "type": "teks"
+  },
+  {
+    "SourceText": "6. Memukul orang lain",
+    "text": "6. Memukul orang lain",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila taip satu nombor antara 1 dan 9.  Anda juga boleh menaip \"N\" jika anda tidak mahu menjawab. ",
+    "text": "Maaf, saya tidak faham maksud anda. Sila taip satu nombor antara 1 dan 9.  Anda juga boleh menaip \"N\" jika anda tidak mahu menjawab. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Betapa mencabar masalah ini pada skala 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Betapa mencabar masalah ini pada skala 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila taip satu nombor antara 0 dan 8.",
+    "text": "Maaf, saya tidak faham maksud anda. Sila taip satu nombor antara 0 dan 8.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani kelakuan ini?",
+    "text": "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani kelakuan ini?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Usaha anda adalah jauh lebih baik berbanding kebanyakan orang lain. Teruskan Masa Satu-dengan-Satu dengan anak anda!",
+    "text": "Usaha anda adalah jauh lebih baik berbanding kebanyakan orang lain. Teruskan Masa Satu-dengan-Satu dengan anak anda!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih kerana menjawab soalan-soalan ini. ",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Jangan terlalu kasar dengan diri anda. Jika sesuatu perkara tidak berjalan lancar hari ini, atau anda kehilangan sabar, ini tidak menggambarkan identiti anda sebagai ibu bapa. Ingatkan diri anda tentang perkara-perkara yang berjaya dilakukan dengan baik hari ini, walaupun kecil.",
+    "text": "Jangan terlalu kasar dengan diri anda. Jika sesuatu perkara tidak berjalan lancar hari ini, atau anda kehilangan sabar, ini tidak menggambarkan identiti anda sebagai ibu bapa. Ingatkan diri anda tentang perkara-perkara yang berjaya dilakukan dengan baik hari ini, walaupun kecil.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ingat, kami sedia membantu. Taip \"Bantuan\" jika anda mahu dapatkan banyak lagi petua mengasuh atau bantuan lain. Kita berbual nanti!",
+    "text": "Ingat, kami sedia membantu. Taip \"Bantuan\" jika anda mahu dapatkan banyak lagi petua mengasuh atau bantuan lain. Kita berbual nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan)? ",
+    "text": "Adakah anda ibu bapa/pengasuh bagi bayi (0 hingga 23 bulan)? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda ibu bapa/pengasuh bagi anak kecil (2 hingga 9 tahun)?",
+    "text": "Adakah anda ibu bapa/pengasuh bagi anak kecil (2 hingga 9 tahun)?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anda ibu bapa/pengasuh bagi remaja (10 hingga 17 tahun)? ",
+    "text": "Adakah anda ibu bapa/pengasuh bagi remaja (10 hingga 17 tahun)? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Kami bersukacita dengan pendaftaran anda untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat!",
+    "text": "Salam! Kami bersukacita dengan pendaftaran anda untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Boleh kami tanya anda 2 soalan ringkas tentang COVID-19 di kawasan anda?",
+    "text": "Boleh kami tanya anda 2 soalan ringkas tentang COVID-19 di kawasan anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Yang mana satu adalah paling serupa dengan pengalaman anda?",
+    "text": "Yang mana satu adalah paling serupa dengan pengalaman anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih! ",
+    "text": "Terima kasih! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagaimana COVID-19 telah mempengaruhi keluarga anda? Anda boleh pilih berbilang pilihan dan tinggalkan ruang antara setiap satu (cth., 1 2 5):",
+    "text": "Bagaimana COVID-19 telah mempengaruhi keluarga anda? Anda boleh pilih berbilang pilihan dan tinggalkan ruang antara setiap satu (cth., 1 2 5):",
+    "type": "teks"
+  },
+  {
+    "SourceText": "1. Seorang ahli keluarga saya ada simptom-simptom COVID-19 (cth., batuk kering, lesu, sakit kepala, suhu tinggi, hilang deria bau atau rasa)",
+    "text": "1. Seorang ahli keluarga saya ada simptom-simptom COVID-19 (cth., batuk kering, lesu, sakit kepala, suhu tinggi, hilang deria bau atau rasa)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "2. Seorang ahli keluarga saya telah meninggal dunia akibat COVID-19",
+    "text": "2. Seorang ahli keluarga saya telah meninggal dunia akibat COVID-19",
+    "type": "teks"
+  },
+  {
+    "SourceText": "3. Keluarga saya mengalami tekanan kewangan akibat COVID19",
+    "text": "3. Keluarga saya mengalami tekanan kewangan akibat COVID19",
+    "type": "teks"
+  },
+  {
+    "SourceText": "4. Keluarga saya mengalami tekanan emosi akibat COVID19",
+    "text": "4. Keluarga saya mengalami tekanan emosi akibat COVID19",
+    "type": "teks"
+  },
+  {
+    "SourceText": "5. Keluarga saya tidak terjejas secara negatif oleh COVID-19",
+    "text": "5. Keluarga saya tidak terjejas secara negatif oleh COVID-19",
+    "type": "teks"
+  },
+  {
+    "SourceText": "6. Lain-lain",
+    "text": "6. Lain-lain",
+    "type": "teks"
+  },
+  {
+    "SourceText": "0. Memilih untuk tidak menjawab",
+    "text": "0. Memilih untuk tidak menjawab",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih kerana menjawab soalan-soalan ini. Kami benar-benar menghargainya, terutamanya kerana banyak keluarga kini sedang susah akibat COVID-19. ",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini. Kami benar-benar menghargainya, terutamanya kerana banyak keluarga kini sedang susah akibat COVID-19. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ingat, anda tidak keseorangan dan kami sedia membantu. Taip sahaja \"Bantuan\" pada bila-bila masa.",
+    "text": "Ingat, anda tidak keseorangan dan kami sedia membantu. Taip sahaja \"Bantuan\" pada bila-bila masa.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Adakah anak-anak anda pergi ke sekolah/tadika sekarang ini? ",
+    "text": "Adakah anak-anak anda pergi ke sekolah/tadika sekarang ini? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Rasa terbeban atau tertekan tentang pendidikan anak-anak anda pada waktu ini adalah perkara biasa. Adakah anda mahu tahu lagi tentang cara untuk menyokong anak-anak anda dalam pendidikan jarak jauh dan membantu mereka kembali ke sekolah?",
+    "text": "Rasa terbeban atau tertekan tentang pendidikan anak-anak anda pada waktu ini adalah perkara biasa. Adakah anda mahu tahu lagi tentang cara untuk menyokong anak-anak anda dalam pendidikan jarak jauh dan membantu mereka kembali ke sekolah?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tidak mengapa! Anda boleh sahaja taip \"Bantuan\" pada bila-bila masa jika anda perlukan sokongan untuk anak-anak anda. Berbual dengan anda nanti!",
+    "text": "Tidak mengapa! Anda boleh sahaja taip \"Bantuan\" pada bila-bila masa jika anda perlukan sokongan untuk anak-anak anda. Berbual dengan anda nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Boleh kami tanya anda beberapa soalan? Tidak mengapa jika anda tidak mahu menjawab mana-mana soalan. Ingat, semua benda yang anda cakap akan dirahsiakan sepenuhnya.",
+    "text": "Boleh kami tanya anda beberapa soalan? Tidak mengapa jika anda tidak mahu menjawab mana-mana soalan. Ingat, semua benda yang anda cakap akan dirahsiakan sepenuhnya.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih!",
+    "text": "Terima kasih!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya.",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kami juga ingin bertanya tentang perkembangan anda dengan @fields.survey_behave_name. ",
+    "text": "Kami juga ingin bertanya tentang perkembangan anda dengan @fields.survey_behave_name. ",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kuat menangis. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kuat menangis. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda bagi adalah dia susah tidur. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda bagi adalah dia susah tidur. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka merengek meminta barang. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka merengek meminta barang. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sukar berenggang. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sukar berenggang. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia cepat marah atau meragam. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia cepat marah atau meragam. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia susah makan. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia susah makan. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil atau cerewet. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil atau cerewet. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia nakal. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia nakal. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka buat perangai. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka buat perangai. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia enggan mengikut arahan. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia enggan mengikut arahan. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia terlampau aktif. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia terlampau aktif. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia tidak berkelakuan hormat. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia tidak berkelakuan hormat. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pukul orang lain. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pukul orang lain. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pecahkan barang. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pecahkan barang. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka bergaduh. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka bergaduh. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka mengejek atau mengacau orang lain. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka mengejek atau mengacau orang lain. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kerap marah. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kerap marah. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia biadap, dan tidak berkelakuan hormat. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia biadap, dan tidak berkelakuan hormat. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sering meragam dan kerap bertukar angin. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sering meragam dan kerap bertukar angin. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia tidak ikut peraturan. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia tidak ikut peraturan. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata kelakuan @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil. Bagaimana anda tarafkan masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "type": "teks",
+    "note": "Rentetan seperti @fields.xxx dan @results.yyy tidak perlu diterjemahkan. @fields.survey_behave_name adalah nama anak tersebut"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 0 dan 8.",
+    "text": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 0 dan 8.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagus! Nampaknya, anda dapat menangani kelakuan ini, walaupun ianya sukar. Teruskannya!",
+    "text": "Bagus! Nampaknya, anda dapat menangani kelakuan ini, walaupun ianya sukar. Teruskannya!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani kelakuan ini? ",
+    "text": "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani kelakuan ini? ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagus! Ini adalah lebih baik daripada minggu lepas! Anda sedang membuat kemajuan yang baik. Teruskannya!",
+    "text": "Bagus! Ini adalah lebih baik daripada minggu lepas! Anda sedang membuat kemajuan yang baik. Teruskannya!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah petua mengasuh yang didapati paling berguna untuk anda?",
+    "text": "Apakah petua mengasuh yang didapati paling berguna untuk anda?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya. Ingat, anda boleh sahaja dapatkan banyak lagi petua atau bantuan tambahan dengan menaip \"Bantuan\". Kita berbual nanti!",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya. Ingat, anda boleh sahaja dapatkan banyak lagi petua atau bantuan tambahan dengan menaip \"Bantuan\". Kita berbual nanti!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sekarang ini, banyak keluarga sedang tertekan. Pada minggu lepas, berapa kali anda rasa sangat tertekan sebagai ibu bapa/pengasuh? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "text": "Sekarang ini, banyak keluarga sedang tertekan. Pada minggu lepas, berapa kali anda rasa sangat tertekan sebagai ibu bapa/pengasuh? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Jika anda tidak mahu menjawab, sila taip 99.",
+    "text": "Jika anda tidak mahu menjawab, sila taip 99.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 0 dan 8.",
+    "text": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 0 dan 8.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kami faham keadaan sedang tertekan pada masa ini. Ingat, anda tidak keseorangan. Kami sedia membantu!",
+    "text": "Kami faham keadaan sedang tertekan pada masa ini. Ingat, anda tidak keseorangan. Kami sedia membantu!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tahukah anda bahawa anda kurang tertekan sekarang ini berbanding minggu lepas? Hebat!",
+    "text": "Tahukah anda bahawa anda kurang tertekan sekarang ini berbanding minggu lepas? Hebat!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Mencari masa untuk berseronok dengan anak-anak anda adalah agak susah. Pada minggu lepas, berapa kali anda lakukan aktiviti yang seronok bersama-sama? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "text": "Mencari masa untuk berseronok dengan anak-anak anda adalah agak susah. Pada minggu lepas, berapa kali anda lakukan aktiviti yang seronok bersama-sama? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagus! Meluangkan masa dengan anak anda adalah hadiah paling berharga yang boleh diberikan kepada mereka. Teruskannya!",
+    "text": "Bagus! Meluangkan masa dengan anak anda adalah hadiah paling berharga yang boleh diberikan kepada mereka. Teruskannya!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Nampaknya anda benar-benar sibuk, tetapi sekurang-kurangnya anda ada mencuba. 5 minit sehari pun akan membawa perubahan BESAR!",
+    "text": "Nampaknya anda benar-benar sibuk, tetapi sekurang-kurangnya anda ada mencuba. 5 minit sehari pun akan membawa perubahan BESAR!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda boleh rasa amat tertekan apabila anak-anak berkelakuan nakal. Pada minggu lepas, berapa kali anda mendisiplinkan anak-anak anda dengan memukul, membantai, atau menampar dengan tangan atau objek seperti kayu atau tali pinggang? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "text": "Anda boleh rasa amat tertekan apabila anak-anak berkelakuan nakal. Pada minggu lepas, berapa kali anda mendisiplinkan anak-anak anda dengan memukul, membantai, atau menampar dengan tangan atau objek seperti kayu atau tali pinggang? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bunyinya seperti anda mempunyai masalah untuk mengasuh anak anda. Masalah ini boleh menjadi amat sukar jadi, banyakkan bersabar. Cuba berhenti sejenak (tarik nafas panjang!) lain kali, dan bertindak dalam cara lain. Anda boleh melakukannya!",
+    "text": "Bunyinya seperti anda mempunyai masalah untuk mengasuh anak anda. Masalah ini boleh menjadi amat sukar jadi, banyakkan bersabar. Cuba berhenti sejenak (tarik nafas panjang!) lain kali, dan bertindak dalam cara lain. Anda boleh melakukannya!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagus! Mempelajari cara baharu untuk menangani kelakuan nakal anak-anak anda akan membawa perubahan BESAR dalam cara mereka belajar menyelesaikan konflik semakin mereka membesar.",
+    "text": "Bagus! Mempelajari cara baharu untuk menangani kelakuan nakal anak-anak anda akan membawa perubahan BESAR dalam cara mereka belajar menyelesaikan konflik semakin mereka membesar.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kadang-kadang, anak-anak kita boleh membuat kita benar-benar marah. Pada minggu lepas, berapa kali anda bertempik, menjerit, atau memekik pada anak-anak anda? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "text": "Kadang-kadang, anak-anak kita boleh membuat kita benar-benar marah. Pada minggu lepas, berapa kali anda bertempik, menjerit, atau memekik pada anak-anak anda? (0, 1, 2, 3, 4, 5, 6, 7, 8 atau lebih)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bagus! Menurut sains otak, mengawal kemarahan anda apabila anak anda sedang berkelakuan nakal akan meningkatkan perkembangan otak anak anda. Berbangga dengan diri anda jika anda dapat melakukannya! ",
+    "text": "Bagus! Menurut sains otak, mengawal kemarahan anda apabila anak anda sedang berkelakuan nakal akan meningkatkan perkembangan otak anak anda. Berbangga dengan diri anda jika anda dapat melakukannya! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Memang susah untuk kita kawal kemarahan kita, terutamanya jika mereka membuat kita benar-benar marah. Cuba berhenti sejenak (tarik nafas panjang!) lain kali, dan bertindak dalam cara lain. Anda boleh melakukannya!",
+    "text": "Memang susah untuk kita kawal kemarahan kita, terutamanya jika mereka membuat kita benar-benar marah. Cuba berhenti sejenak (tarik nafas panjang!) lain kali, dan bertindak dalam cara lain. Anda boleh melakukannya!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kadang-kadang, sukar untuk kita kekalkan hubungan yang positif dengan anak-anak kita. Betapa yakinnya anda terhadap keupayaan anda sebagai ibu bapa/pengasuh untuk mengekalkan hubungan yang positif dengan anak-anak anda? (0=tidak yakin hingga 8=teramat yakin)",
+    "text": "Kadang-kadang, sukar untuk kita kekalkan hubungan yang positif dengan anak-anak kita. Betapa yakinnya anda terhadap keupayaan anda sebagai ibu bapa/pengasuh untuk mengekalkan hubungan yang positif dengan anak-anak anda? (0=tidak yakin hingga 8=teramat yakin)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kita semua mahu menjaga keselamatan anak-anak kita. Betapa yakinnya anda rasa anda dapat melindungi anak anda daripada penderaan seksual dalam talian atau dalam hidup nyata? (0=tidak yakin kepada 8=teramat yakin)",
+    "text": "Kita semua mahu menjaga keselamatan anak-anak kita. Betapa yakinnya anda rasa anda dapat melindungi anak anda daripada penderaan seksual dalam talian atau dalam hidup nyata? (0=tidak yakin kepada 8=teramat yakin)",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kami gembira untuk mengetahui anda mempunyai hubungan yang positif dengan anak-anak anda. Mereka benar-benar bertuah kerana mendapat kasih sayang dan sokongan anda dalam hidup mereka.",
+    "text": "Kami gembira untuk mengetahui anda mempunyai hubungan yang positif dengan anak-anak anda. Mereka benar-benar bertuah kerana mendapat kasih sayang dan sokongan anda dalam hidup mereka.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Mengekalkan hubungan positif dengan anak-anak kita boleh menjadi sukar, terutamanya pada waktu-waktu tertekan. Anda boleh cuba luangkan lagi masa satu-dengan-satu bersama dengan anak anda. Ini akan membuat mereka rasa dihargai dan disayangi.",
+    "text": "Mengekalkan hubungan positif dengan anak-anak kita boleh menjadi sukar, terutamanya pada waktu-waktu tertekan. Anda boleh cuba luangkan lagi masa satu-dengan-satu bersama dengan anak anda. Ini akan membuat mereka rasa dihargai dan disayangi.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tugas ibu bapa bukannya mudah dan penuh dengan tekanan dan tanggungjawab. Memang susah untuk kita tahu bagaimana kita boleh menjaga keselamatan anak-anak kita. Kami sedia menyokong anda!",
+    "text": "Tugas ibu bapa bukannya mudah dan penuh dengan tekanan dan tanggungjawab. Memang susah untuk kita tahu bagaimana kita boleh menjaga keselamatan anak-anak kita. Kami sedia menyokong anda!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tugas ibu bapa bukannya mudah dan penuh dengan tekanan dan tanggungjawab. Bagus yang anda mengambil masa untuk belajar cara untuk menjaga keselamatan anak anda!",
+    "text": "Tugas ibu bapa bukannya mudah dan penuh dengan tekanan dan tanggungjawab. Bagus yang anda mengambil masa untuk belajar cara untuk menjaga keselamatan anak anda!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Saya harap mesej-mesej ini adalah berguna untuk anda. Sila taip “Lagi Petua” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Salam! Saya harap mesej-mesej ini adalah berguna untuk anda. Sila taip “Lagi Petua” jika anda mahu menerima mesej anda yang seterusnya.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sila pilih satu kumpulan umur bagi petua-petua mengasuh ini. Anda mungkin mahu memilih anak yang paling dibimbangkan keadaannya. ",
+    "text": "Sila pilih satu kumpulan umur bagi petua-petua mengasuh ini. Anda mungkin mahu memilih anak yang paling dibimbangkan keadaannya. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda boleh sahaja menukar ini nanti dengan menaip \"Bantuan\" dan memilih \"Sokongan teknikal\"",
+    "text": "Anda boleh sahaja menukar ini nanti dengan menaip \"Bantuan\" dan memilih \"Sokongan teknikal\"",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sila pilih satu kumpulan umur bagi petua-petua mengasuh ini. Anda mungkin mahu memilih anak yang paling dibimbangkan keadaannya.",
+    "text": "Sila pilih satu kumpulan umur bagi petua-petua mengasuh ini. Anda mungkin mahu memilih anak yang paling dibimbangkan keadaannya.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda boleh sahaja menukar ini nanti dengan menaip \"Bantuan\" dan memilih \"Sokongan teknikal\".",
+    "text": "Anda boleh sahaja menukar ini nanti dengan menaip \"Bantuan\" dan memilih \"Sokongan teknikal\".",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Salam! Terima kasih kerana mendaftar untuk menerima petua-petua mengasuh ini. Sila beritahu kami bahasa pilihan anda:",
+    "text": "Salam! Terima kasih kerana mendaftar untuk menerima petua-petua mengasuh ini. Sila beritahu kami bahasa pilihan anda:",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Menjaga anak adalah susah, dan tiada sesiapa yang dapat melakukannya dengan sempurna. Berhenti sejenak untuk memuji diri anda kerana masih bertahan. ",
+    "text": "Menjaga anak adalah susah, dan tiada sesiapa yang dapat melakukannya dengan sempurna. Berhenti sejenak untuk memuji diri anda kerana masih bertahan. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda benar-benar hebat!",
+    "text": "Anda benar-benar hebat!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Penglibatan anda dan sebarang maklumat yang diberikan akan digunakan secara anonim oleh penyelidik untuk membantu menyokong keluarga-keluarga seperti keluarga anda. ",
+    "text": "Penglibatan anda dan sebarang maklumat yang diberikan akan digunakan secara anonim oleh penyelidik untuk membantu menyokong keluarga-keluarga seperti keluarga anda. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Taip \"Ya\" jika anda bersetuju dengan ini. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian. Klik di sini untuk maklumat lanjut [insert link]",
+    "text": "Taip \"Ya\" jika anda bersetuju dengan ini. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian. Klik di sini untuk maklumat lanjut [insert link]",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham. Sila taip \"Ya\" jika anda bersetuju dengan ini. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian.",
+    "text": "Maaf, saya tidak faham. Sila taip \"Ya\" jika anda bersetuju dengan ini. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih banyak! Bagaimana anda mahu menerima mesej anda? Anda boleh sahaja menukar pilihan ini melalui tetapan nanti. ",
+    "text": "Terima kasih banyak! Bagaimana anda mahu menerima mesej anda? Anda boleh sahaja menukar pilihan ini melalui tetapan nanti. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sila beritahu kami jika anda lelaki atau perempuan supaya kami dapat berikan maklumat yang betul.",
+    "text": "Sila beritahu kami jika anda lelaki atau perempuan supaya kami dapat berikan maklumat yang betul.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bolehkah anda memberitahu kami umur anda? Sila jawab dengan nombor sahaja. Contoh: 28",
+    "text": "Bolehkah anda memberitahu kami umur anda? Sila jawab dengan nombor sahaja. Contoh: 28",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ini nampaknya terlalu muda. ",
+    "text": "Ini nampaknya terlalu muda. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Maaf, saya tidak faham maksud anda. ",
+    "text": "Maaf, saya tidak faham maksud anda. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Terima kasih banyak! Menjaga anak-anak boleh menjadi susah, walaupun pada waktu-waktu senang. Kami sedia membantu!",
+    "text": "Terima kasih banyak! Menjaga anak-anak boleh menjadi susah, walaupun pada waktu-waktu senang. Kami sedia membantu!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Apakah situasi paling sukar yang anda hadapi baru-baru ini sebagai ibu bapa?",
+    "text": "Apakah situasi paling sukar yang anda hadapi baru-baru ini sebagai ibu bapa?",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Semua kanak-kanak berkelakuan nakal. Ini adalah perkara biasa apabila kanak-kanak rasa letih, lapar, takut, atau sedang belajar berdikari.",
+    "text": "Semua kanak-kanak berkelakuan nakal. Ini adalah perkara biasa apabila kanak-kanak rasa letih, lapar, takut, atau sedang belajar berdikari.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Anda boleh cuba untuk mengesan awal kelakuan nakal mereka dan alihkan perhatian mereka kepada sesuatu yang positif. Ini benar-benar berkesan! ",
+    "text": "Anda boleh cuba untuk mengesan awal kelakuan nakal mereka dan alihkan perhatian mereka kepada sesuatu yang positif. Ini benar-benar berkesan! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Rasa tertekan, takut, marah, dan murung sekarang ini adalah perkara yang normal. Anda tidak keseorangan. Petua-petua ini akan membantu anda menjaga diri anda supaya anda boleh menjaga anak-anak anda.",
+    "text": "Rasa tertekan, takut, marah, dan murung sekarang ini adalah perkara yang normal. Anda tidak keseorangan. Petua-petua ini akan membantu anda menjaga diri anda supaya anda boleh menjaga anak-anak anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Membantu anak-anak kita meneruskan pendidikan mereka semasa sekolah ditutup atau separa dibuka sememangnya amat sukar. ",
+    "text": "Membantu anak-anak kita meneruskan pendidikan mereka semasa sekolah ditutup atau separa dibuka sememangnya amat sukar. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Satu perkara berguna yang boleh dicuba adalah menyediakan jadual harian yang termasuk masa untuk membuat kerja sekolah dan masa untuk bermain.",
+    "text": "Satu perkara berguna yang boleh dicuba adalah menyediakan jadual harian yang termasuk masa untuk membuat kerja sekolah dan masa untuk bermain.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Bercakap tentang COVID-19 dengan anak-anak kita mungkin adalah sukar, terutamanya kerana kita pun masih sedang belajar mengenainya. ",
+    "text": "Bercakap tentang COVID-19 dengan anak-anak kita mungkin adalah sukar, terutamanya kerana kita pun masih sedang belajar mengenainya. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Perkara paling penting adalah bersikap terbuka dan mendengar anak-anak anda. Bersikap jujur dan berikan sokongan. Tunjuk kepada mereka yang anda mengambil berat.",
+    "text": "Perkara paling penting adalah bersikap terbuka dan mendengar anak-anak anda. Bersikap jujur dan berikan sokongan. Tunjuk kepada mereka yang anda mengambil berat.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Mengasuh anak adalah amat susah. Namun, ada benda yang kita boleh lakukan untuk memudahkannya. Kami sedia membantu!",
+    "text": "Mengasuh anak adalah amat susah. Namun, ada benda yang kita boleh lakukan untuk memudahkannya. Kami sedia membantu!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Berjuta-juta orang sedang tertekan tentang duit akibat COVID-19. Kanak-kanak atau remaja yang meminta sesuatu barang boleh menyebabkan pertengkaran.  Melibatkan mereka dalam belanjawan keluarga boleh membantu mereka memahami keadaan.",
+    "text": "Berjuta-juta orang sedang tertekan tentang duit akibat COVID-19. Kanak-kanak atau remaja yang meminta sesuatu barang boleh menyebabkan pertengkaran.  Melibatkan mereka dalam belanjawan keluarga boleh membantu mereka memahami keadaan.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ada banyak risiko kepada kanak-kanak dalam talian. Anda boleh membantu melindungi anak-anak anda dengan memasang tetapan teknikal mudah, dan mengajar mereka tabiat dalam talian yang sihat dan selamat.",
+    "text": "Ada banyak risiko kepada kanak-kanak dalam talian. Anda boleh membantu melindungi anak-anak anda dengan memasang tetapan teknikal mudah, dan mengajar mereka tabiat dalam talian yang sihat dan selamat.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Sekarang ini semua orang sedang tertekan. Semakin rapat kita bekerjasama dan menunjukkan contoh yang sihat kepada anak-anak, semakin selamat dan disayangi mereka rasai.",
+    "text": "Sekarang ini semua orang sedang tertekan. Semakin rapat kita bekerjasama dan menunjukkan contoh yang sihat kepada anak-anak, semakin selamat dan disayangi mereka rasai.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Meluangkan hanya beberapa minit sehari untuk berseronok dengan anak-anak anda akan membantu hubungan anda. Jika anda benar-benar sibuk, anda boleh sahaja mengemas atau membersihkan rumah bersama-sama - asalkan seronok!",
+    "text": "Meluangkan hanya beberapa minit sehari untuk berseronok dengan anak-anak anda akan membantu hubungan anda. Jika anda benar-benar sibuk, anda boleh sahaja mengemas atau membersihkan rumah bersama-sama - asalkan seronok!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Kami luangkan banyak masa di rumah dengan bayi kecil, dan Covid-19 menyusahkan lagi keadaan ini.  Perasaan terasing, terbeban, resah, dan takut untuk anda dan bayi anda adalah perkara yang biasa.",
+    "text": "Kami luangkan banyak masa di rumah dengan bayi kecil, dan Covid-19 menyusahkan lagi keadaan ini.  Perasaan terasing, terbeban, resah, dan takut untuk anda dan bayi anda adalah perkara yang biasa.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Tahniah! Anda telah menambahkan kemahiran mengasuh pertama anda kepada Set Alat Mengasuh anda.",
+    "text": "Tahniah! Anda telah menambahkan kemahiran mengasuh pertama anda kepada Set Alat Mengasuh anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Setiap hari, anda akan mempelajari satu kemahiran baharu untuk membina kehidupan yang bahagia bagi anda dan keluarga anda.",
+    "text": "Setiap hari, anda akan mempelajari satu kemahiran baharu untuk membina kehidupan yang bahagia bagi anda dan keluarga anda.",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Lagu ini kami ciptakan khas untuk ibu bapa seperti anda! ",
+    "text": "Lagu ini kami ciptakan khas untuk ibu bapa seperti anda! ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Ingat, anda boleh sahaja dapatkan banyak lagi petua dengan menaip \"Bantuan\".",
+    "text": "Ingat, anda boleh sahaja dapatkan banyak lagi petua dengan menaip \"Bantuan\".",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Semoga hari anda ceria!",
+    "text": "Semoga hari anda ceria!",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Helo! Apa khabar? Kami bersukacita dengan pendaftaran anda untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat. ",
+    "text": "Helo! Apa khabar? Kami bersukacita dengan pendaftaran anda untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat. ",
+    "type": "teks"
+  },
+  {
+    "SourceText": "Teramat berguna",
+    "text": "Teramat berguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Sangat berguna",
+    "text": "Sangat berguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Berguna",
+    "text": "Berguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Sedikit berguna",
+    "text": "Sedikit berguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tidak berguna",
+    "text": "Tidak berguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Memilih untuk tidak menjawab",
+    "text": "Memilih untuk tidak menjawab",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bayi (0-23 bulan)",
+    "text": "Bayi (0-23 bulan)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Anak kecil (2-9 tahun)",
+    "text": "Anak kecil (2-9 tahun)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Remaja (10-17 tahun)",
+    "text": "Remaja (10-17 tahun)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Dewasa (18+ tahun)",
+    "text": "Dewasa (18+ tahun)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Ya",
+    "text": "Ya",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tidak",
+    "text": "Tidak",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Aktif",
+    "text": "Aktif",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tenang",
+    "text": "Tenang",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Seronok",
+    "text": "Seronok",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kemahiran dalam set alat",
+    "text": "Kemahiran dalam set alat",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kemahiran tidak lengkap",
+    "text": "Kemahiran tidak lengkap",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Aktiviti-aktiviti seronok",
+    "text": "Aktiviti-aktiviti seronok",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kelakuan mencabar",
+    "text": "Kelakuan mencabar",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Sokongan emosi",
+    "text": "Sokongan emosi",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Menjaga keselamatan anak anda",
+    "text": "Menjaga keselamatan anak anda",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pendidikan jarak jauh dan sekolah",
+    "text": "Pendidikan jarak jauh dan sekolah",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bercakap tentang COVID19",
+    "text": "Bercakap tentang COVID19",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bagaimana untuk bertindak terhadap krisis",
+    "text": "Bagaimana untuk bertindak terhadap krisis",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kanak-kanak tidak berupaya",
+    "text": "Kanak-kanak tidak berupaya",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Maklumat tentang perkembangan kanak-kanak",
+    "text": "Maklumat tentang perkembangan kanak-kanak",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pergi balik ke pilihan sebelumnya",
+    "text": "Pergi balik ke pilihan sebelumnya",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Keselamatan dalam talian",
+    "text": "Keselamatan dalam talian",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pencegahan penderaan seksual",
+    "text": "Pencegahan penderaan seksual",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bertindak terhadap krisis",
+    "text": "Bertindak terhadap krisis",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bantuan dengan kanak-kanak",
+    "text": "Bantuan dengan kanak-kanak",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Melegakan tekanan",
+    "text": "Melegakan tekanan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Sokongan lain",
+    "text": "Sokongan lain",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Semak kemahiran sebelum ini",
+    "text": "Semak kemahiran sebelum ini",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Sokongan teknikal",
+    "text": "Sokongan teknikal",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Maklumat peribadi",
+    "text": "Maklumat peribadi",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pengalaman pengguna",
+    "text": "Pengalaman pengguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pemasaan mesej",
+    "text": "Pemasaan mesej",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Jenis kandungan media",
+    "text": "Jenis kandungan media",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kumpulan umur bagi petua",
+    "text": "Kumpulan umur bagi petua",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bahasa",
+    "text": "Bahasa",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bersantai dan mengurangkan stres",
+    "text": "Bersantai dan mengurangkan stres",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Menangani tekanan kewangan",
+    "text": "Menangani tekanan kewangan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Hubungan keluarga",
+    "text": "Hubungan keluarga",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kekerapan sama",
+    "text": "Kekerapan sama",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kurang kerap",
+    "text": "Kurang kerap",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "bayi",
+    "text": "bayi",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "remaja",
+    "text": "remaja",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "dewasa",
+    "text": "dewasa",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "lain-lain",
+    "text": "lain-lain",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "remaja",
+    "text": "remaja",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "anak kecil",
+    "text": "anak kecil",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bayi",
+    "text": "Bayi",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Lain-lain",
+    "text": "Lain-lain",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Remaja",
+    "text": "Remaja",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Anak kecil",
+    "text": "Anak kecil",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bayi (0 hingga 23 bulan)",
+    "text": "Bayi (0 hingga 23 bulan)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Anak kecil (2 hingga 9 tahun)",
+    "text": "Anak kecil (2 hingga 9 tahun)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Remaja (10 hingga 17 tahun)",
+    "text": "Remaja (10 hingga 17 tahun)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bahasa Inggeris",
+    "text": "Bahasa Inggeris",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bahasa Melayu",
+    "text": "Bahasa Melayu",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bahasa Cina",
+    "text": "Bahasa Cina",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Diri anda",
+    "text": "Diri anda",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Anak-anak anda",
+    "text": "Anak-anak anda",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kemas kini umur anak-anak anda",
+    "text": "Kemas kini umur anak-anak anda",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kemas kini kumpulan umur bagi petua yang anda terima",
+    "text": "Kemas kini kumpulan umur bagi petua yang anda terima",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Umur",
+    "text": "Umur",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Jantina",
+    "text": "Jantina",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Lelaki",
+    "text": "Lelaki",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Perempuan",
+    "text": "Perempuan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Saya memilih untuk tidak menjawab",
+    "text": "Saya memilih untuk tidak menjawab",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Menukar waktu dalam hari",
+    "text": "Menukar waktu dalam hari",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Dapatkan petua lebih kerap",
+    "text": "Dapatkan petua lebih kerap",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Dapatkan petua kurang kerap (selang sehari)",
+    "text": "Dapatkan petua kurang kerap (selang sehari)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Teks sahaja (hampir tiada data langsung)",
+    "text": "Teks sahaja (hampir tiada data langsung)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Teks, audio, imej, (data rendah)",
+    "text": "Teks, audio, imej, (data rendah)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Teks, audio, imej, video (data tinggi)",
+    "text": "Teks, audio, imej, video (data tinggi)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Berikan saya maklumat lanjut",
+    "text": "Berikan saya maklumat lanjut",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Saya tidak berminat",
+    "text": "Saya tidak berminat",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Lelaki",
+    "text": "Lelaki",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Perempuan",
+    "text": "Perempuan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Memilih untuk tidak menjawab",
+    "text": "Memilih untuk tidak menjawab",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Ibu bapa",
+    "text": "Ibu bapa",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Datuk dan nenek",
+    "text": "Datuk dan nenek",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Ibu saudara/Bapa saudara",
+    "text": "Ibu saudara/Bapa saudara",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Ibu Bapa Angkat",
+    "text": "Ibu Bapa Angkat",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Perintah berkurung",
+    "text": "Perintah berkurung",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kedai-kedai bukan keperluan utama ditutup",
+    "text": "Kedai-kedai bukan keperluan utama ditutup",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pengeluaran bukan keperluan utama ditutup",
+    "text": "Pengeluaran bukan keperluan utama ditutup",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Pembatalan tempat-tempat rekreasi dan penutupan tempat-tempat awam seperti taman",
+    "text": "Pembatalan tempat-tempat rekreasi dan penutupan tempat-tempat awam seperti taman",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Arahan duduk di rumah dan kawalan pergerakan penuh",
+    "text": "Arahan duduk di rumah dan kawalan pergerakan penuh",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Penjarakan sosial dan sekatan pergerakan",
+    "text": "Penjarakan sosial dan sekatan pergerakan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tiada sekatan",
+    "text": "Tiada sekatan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tidak berkenaan",
+    "text": "Tidak berkenaan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Aktiviti-aktiviti",
+    "text": "Aktiviti-aktiviti",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Mengurangkan tekanan",
+    "text": "Mengurangkan tekanan",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kelakuan anak",
+    "text": "Kelakuan anak",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tiada satu pun petua mengasuh yang berguna",
+    "text": "Tiada satu pun petua mengasuh yang berguna",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Memilih untuk tidak menjawab",
+    "text": "Memilih untuk tidak menjawab",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bayi (0 hingga 23 bulan)",
+    "text": "Bayi (0 hingga 23 bulan)",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Aktiviti yang boleh dibuat dengan anak-anak saya",
+    "text": "Aktiviti yang boleh dibuat dengan anak-anak saya",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Kelakuan anak sukar diasuh",
+    "text": "Kelakuan anak sukar diasuh",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Tekanan, kesunyian, marah",
+    "text": "Tekanan, kesunyian, marah",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Masalah duit",
+    "text": "Masalah duit",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Bantuan dengan kerja sekolah",
+    "text": "Bantuan dengan kerja sekolah",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Menjaga keselamatan kanak-kanak dalam talian",
+    "text": "Menjaga keselamatan kanak-kanak dalam talian",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Konflik dalam keluarga",
+    "text": "Konflik dalam keluarga",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "Isu lain",
+    "text": "Isu lain",
+    "type": "jawapan-jawapan_ringkas",
+    "note": "Ini adalah jawapan ringkas dan terjemahannya harus dapat dikenal pasti secara khusus menurut hujah yang sepadan"
+  },
+  {
+    "SourceText": "tidak ",
+    "text": "tidak ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "sedikit",
+    "text": "sedikit",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "berguna",
+    "text": "berguna",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "sangat",
+    "text": "sangat",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "teramat",
+    "text": "teramat",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "memilih",
+    "text": "memilih",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "bayi",
+    "text": "bayi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "anak kecil",
+    "text": "anak kecil",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "remaja",
+    "text": "remaja",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "dewasa",
+    "text": "dewasa",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ya y",
+    "text": "ya y",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak t",
+    "text": "tidak t",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "aktif",
+    "text": "aktif",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tenang",
+    "text": "tenang",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "seronok",
+    "text": "seronok",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "set alat",
+    "text": "set alat",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak lengkap",
+    "text": "tidak lengkap",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kembali",
+    "text": "kembali",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ya y kembali",
+    "text": "ya y kembali",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "aktiviti-aktiviti",
+    "text": "aktiviti-aktiviti",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kelakuan",
+    "text": "kelakuan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "emosi",
+    "text": "emosi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "selamat",
+    "text": "selamat",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "covid covid19 covid-19",
+    "text": "covid covid19 covid-19",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "krisis",
+    "text": "krisis",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak berupaya",
+    "text": "tidak berupaya",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "perkembangan",
+    "text": "perkembangan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "pendidikan jarak jauh sekolah ",
+    "text": "pendidikan jarak jauh sekolah ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "dalam talian",
+    "text": "dalam talian",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "penderaan seksual",
+    "text": "penderaan seksual",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kanak-kanak ",
+    "text": "kanak-kanak ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "melegakan tekanan",
+    "text": "melegakan tekanan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lain-lain",
+    "text": "lain-lain",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "teknikal tek",
+    "text": "teknikal tek",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "semak kemahiran",
+    "text": "semak kemahiran",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "peribadi",
+    "text": "peribadi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "pengguna",
+    "text": "pengguna",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "masa pemasaan ",
+    "text": "masa pemasaan ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "media",
+    "text": "media",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "bahasa ",
+    "text": "bahasa ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kumpulan umur",
+    "text": "kumpulan umur",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "keluar",
+    "text": "keluar",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ya y ",
+    "text": "ya y ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak tidak t ",
+    "text": "tidak tidak t ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak t kembali",
+    "text": "tidak t kembali",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ketenangan pengurangan",
+    "text": "ketenangan pengurangan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kewangan",
+    "text": "kewangan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "hubungan keluarga",
+    "text": "hubungan keluarga",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "sama ",
+    "text": "sama ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kurang kerap",
+    "text": "kurang kerap",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "anak remaja",
+    "text": "anak remaja",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "anak kecil ",
+    "text": "anak kecil ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "anak kecil",
+    "text": "anak kecil",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "anak kecil ",
+    "text": "anak kecil ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "i inggeris",
+    "text": "i inggeris",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "m melayu",
+    "text": "m melayu",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "c cina",
+    "text": "c cina",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "hentikan mesej",
+    "text": "hentikan mesej",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak t tidak kembali",
+    "text": "tidak t tidak kembali",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "diri anda",
+    "text": "diri anda",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kanak-kanak",
+    "text": "kanak-kanak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "petua-petua",
+    "text": "petua-petua",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "umur",
+    "text": "umur",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "jantina",
+    "text": "jantina",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kembali tidak t",
+    "text": "kembali tidak t",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lelaki",
+    "text": "lelaki",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "perempuan",
+    "text": "perempuan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "memilih tidak t tidak",
+    "text": "memilih tidak t tidak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "t tidak",
+    "text": "t tidak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "waktu hari",
+    "text": "waktu hari",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lebih kerap",
+    "text": "lebih kerap",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "waktu hari ",
+    "text": "waktu hari ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kurang kerap ",
+    "text": "kurang kerap ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "video tinggi",
+    "text": "video tinggi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "rendah",
+    "text": "rendah",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "hanya",
+    "text": "hanya",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "maklumat lanjut",
+    "text": "maklumat lanjut",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak tidak berminat",
+    "text": "tidak tidak berminat",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lelaki",
+    "text": "lelaki",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "perempuan",
+    "text": "perempuan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak memilih menjawab",
+    "text": "tidak memilih menjawab",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ibu bapa",
+    "text": "ibu bapa",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "datuk dan nenek",
+    "text": "datuk dan nenek",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ibu saudara bapa saudara ibu saudara/bapa saudara",
+    "text": "ibu saudara bapa saudara ibu saudara/bapa saudara",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "angkat",
+    "text": "angkat",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "memilih  tidak menjawab",
+    "text": "memilih  tidak menjawab",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ya ya ya y",
+    "text": "ya ya ya y",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak tidak tidak t",
+    "text": "tidak tidak tidak t",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak tidak t tidak",
+    "text": "tidak tidak t tidak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "ya ya ya pasti y",
+    "text": "ya ya ya pasti y",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "perintah berkurung",
+    "text": "perintah berkurung",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kedai-kedai",
+    "text": "kedai-kedai",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "pengeluaran",
+    "text": "pengeluaran",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tempat-tempat rekreasi",
+    "text": "tempat-tempat rekreasi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "arahan duduk di rumah",
+    "text": "arahan duduk di rumah",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "penjarakan",
+    "text": "penjarakan",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak",
+    "text": "tidak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "guna",
+    "text": "guna",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "aktiviti aktiviti-aktiviti",
+    "text": "aktiviti aktiviti-aktiviti",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tekanan ",
+    "text": "tekanan ",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tiada",
+    "text": "tiada",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lagi",
+    "text": "lagi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "2 bahasa inggeris",
+    "text": "2 bahasa inggeris",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "1 bahasa melayu",
+    "text": "1 bahasa melayu",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "4 中文",
+    "text": "4 中文",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "3 தமிழ்",
+    "text": "3 தமிழ்",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "video tinggi",
+    "text": "video tinggi",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "perempuan p",
+    "text": "perempuan p",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lelaki l",
+    "text": "lelaki l",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "lain-lain ln",
+    "text": "lain-lain ln",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "memilih t tidak",
+    "text": "memilih t tidak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tidak t tidak tidak",
+    "text": "tidak t tidak tidak",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "kelakuan sukar diasuh",
+    "text": "kelakuan sukar diasuh",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "konflik keluarga",
+    "text": "konflik keluarga",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "tekanan kesunyian marah",
+    "text": "tekanan kesunyian marah",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "duit",
+    "text": "duit",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "membantu kerja sekolah",
+    "text": "membantu kerja sekolah",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "menjaga keselamatan dalam talian",
+    "text": "menjaga keselamatan dalam talian",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "bercakap tentang covid",
+    "text": "bercakap tentang covid",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  },
+  {
+    "SourceText": "perkara",
+    "text": "perkara",
+    "type": "hujah-hujah",
+    "note": "Ini adalah hujah dan ia boleh digunakan untuk mengenal pasti jawapan ringkas yang sepadan"
+  }
+]

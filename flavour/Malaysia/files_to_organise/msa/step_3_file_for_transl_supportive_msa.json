@@ -1,0 +1,699 @@
+[
+  {
+    "SourceText": "Hi! How are you feeling? ",
+    "text": "Hai! Bagaimana perasaan anda? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Maaf, saya tidak faham apa yang anda maksudkan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "So good to hear that you are doing well. What a wonderful feeling!",
+    "text": "Gembira mendengar anda melakukannya yang baik. Satu perasaan yang indah!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes we're up. Sometimes we're down. And sometimes we are neither up nor down...and that's totally okay!",
+    "text": "Kadangkala kita di atas. Kadangkala kita di bawah. Dan kadangkala kita tidak di atas ataupun  di bawah...dan ianya adalah okey!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone. Here is an activity that might also help...",
+    "text": "Hari awak kurang baik saya simpati mendengarnya. Adalah normal untuk melalui masa yang sukar sekarang. Ingat bahawa anda tidak bersendirian. Berikut adalah aktiviti yang mungkin dapat membantu...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do your children ever make you feel like screaming? Give yourself a 10-second pause. Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT.",
+    "text": "Adakah anak-anak anda pernah membuat anda berasa seperti hendak menjerit? Berikan masa untuk diri sendiri selama 10 saat. Tarik dan hembus nafas perlahan-lahan sebanyak 5 kali. Kemudian cuba beri tindak balas dengan cara yang tenang. Berjuta ibu bapa berkata ini dapat membantu - RAMAI.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have you only got 30 seconds? Let's take a quick pause together. It might be helpful. ",
+    "text": "Adakah anda hanya mempunyai 30 saat? Mari kita bersama-sama berhenti seketika dengan pantas. Ia mungkin membantu. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Try this whenever you are feeling stressed and you need a break to reconnect.",
+    "text": "Duduk, tutup mata dan dengarkan nafas anda masuk dan keluar. Cakna apa yang anda rasa. Apabila anda telah bersedia buka mata anda sekali lagi. Cubalah ini apabila anda berasa tertekan dan anda perlu berehat untuk menyambung semula.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is something fun to help you let go of stress:",
+    "text": "Berikut adalah sesuatu yang menyeronokkan untuk membantu anda melepaskan tekanan:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Choose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?",
+    "text": "Pilih satu lagu yang menggambarkan apa yang anda perlukan pada saat ini. Adakah anda memerlukan lagu yang perlahan untuk menenangkan jiwa anda yang lelah atau lagu yang rancak untuk membantu anda menghilangkan tekanan?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Make a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together.",
+    "text": "Buat ruang dan gerakkan badan mengikut muzik. Ingat untuk bernafas semasa anda bergerak. Biarkan nafas dan pergerakan anda seiring.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Even a few minutes of movement can be enough to release stress and lift your mood!",
+    "text": "Walaupun dengan beberapa minit pergerakan cukup untuk melepaskan tekanan dan menaikkan mood anda!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Let’s use the magic power of three to stay present and relax. ",
+    "text": "Mari gunakan tiga kuasa ajaib untuk terus kekal berhubung dan relaks. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Name three sounds you can hear right now.",
+    "text": "Namakan tiga bunyi yang boleh anda dengari sekarang.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Name three smells you can smell right now. ",
+    "text": "Namakan tiga bau yang boleh anda hidu sekarang. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Name your three favourite foods. ",
+    "text": "Namakan tiga makanan kegemaran anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What are three things you can be grateful for right now?",
+    "text": "Apakah tiga perkara yang anda boleh syukuri sekarang?",
+    "type": "text"
+  },
+  {
+    "SourceText": "They don’t have to be big.",
+    "text": "Ia tidak perlu menjadi sesuatu yang besar.",
+    "type": "text"
+  },
+  {
+    "SourceText": " ",
+    "text": " ",
+    "type": "text"
+  },
+  {
+    "SourceText": "At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  ",
+    "text": "Pada penghujung hari yang mencabar, fikirkan tiga perkara yang perlu disyukuri dan boleh membantu kita mencari semangat untuk mencuba sekali lagi keesokannya.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you sometimes feel like you are getting everything wrong?",
+    "text": "Adakah kadangkala anda berasa seperti semua yang anda buat salah?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to think over the day. Think of one thing you did today that you are proud of.",
+    "text": "Luangkan masa seketika untuk fikirkan tentang hari ini. Fikirkan satu perkara yang anda telah lakukan hari ini yang membuat anda berasa bangga.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Wrap your arms around your body and give yourself a hug.",
+    "text": "Lipat lengan anda ke seluruh badan anda dan peluklah diri sendiri.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of one thing you did today that you don’t feel proud of. What can you do differently tomorrow?",
+    "text": "Fikirkan satu perkara yang anda telah lakukan hari ini yang tidak membuatkan anda berasa bangga. Adakah anda akan melakukan sesuatu yang berbeza esok?",
+    "type": "text"
+  },
+  {
+    "SourceText": "And wrap your arms around your body and give yourself a hug.",
+    "text": "Dan lipat lengan anda ke seluruh badan dan peluklah diri sendiri.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s ok. You are doing your best so be kind to yourself. Get some rest and try again tomorrow!",
+    "text": "Tidak mengapa. Anda melakukan yang terbaik maka bersikap baik pada diri sendiri. Dapatkan rehat dan cuba lagi esok!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to stop what you are doing and connect with your breath.  ",
+    "text": "Luangkan masa untuk menghentikan apa yang anda sedang lakukan dan hubungkan dengan nafas anda.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is one thing you can be grateful for right now?",
+    "text": "Apakah satu perkara yang boleh anda syukuri sekarang?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is one thing that brings you happiness?",
+    "text": "Apakah satu perkara yang membuatkan anda bahagia?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is one thing that you love?",
+    "text": "Apakah satu perkara yang anda sayangi?",
+    "type": "text"
+  },
+  {
+    "SourceText": "They don't have to be big. Sometimes the small things in life count the most!",
+    "text": "Ia tidak perlu menjadi sesuatu yang besar. Kadangkala perkara kecil dalam kehidupan lebih bermakna!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you sometimes feel your feelings are too much?",
+    "text": "Adakah kadangkala anda rasa perasaan anda berlebih-lebihan?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Talk to someone. ",
+    "text": "Bercakap dengan seseorang. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Talk to someone you trust. Talk to a friend. Talk to family. Talk to a tree.",
+    "text": "Bercakap dengan seseorang yang anda percaya. Bercakap dengan rakan. Bercakap denga keluarga. Bercakap dengan pokok.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Get your worries off your chest and then let them go. Even if it’s just for a moment. ",
+    "text": "Hilangkan kerisauan di dada anda dan kemudian lepaskannya. Walaupun ia hanya untuk seketika. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How do you feel now?",
+    "text": "Bagaimana anda rasa sekarang?",
+    "type": "text"
+  },
+  {
+    "SourceText": "A joy shared is twice the joy. A problem shared is half the problem.",
+    "text": "Kegembiraan yang dikongsi adalah dua kali ganda kegembiraan. Masalah yang dikongsi adalah separuh daripada masalah.",
+    "type": "text"
+  },
+  {
+    "SourceText": "At the end of the day, take a minute to think about the day.  ",
+    "text": "Pada penghujung hari, ambil seminit untuk fikirkan tentang hari ini.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about one positive or fun thing you did.",
+    "text": "Fikirkan tentang satu perkara positif dan menyeronokkan yang anda telah lakukan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Praise yourself for one thing you did well today.",
+    "text": "Puji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of one thing you can do differently tomorrow. ",
+    "text": "Fikirkan satu perkara lain yang anda akan lakukan esok. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of one thing that you are grateful for. ",
+    "text": "Fikirkan satu perkara yang anda syukuri. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are a star!",
+    "text": "Anda adalah bintang!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Close your eyes and think about the day. Name 1 thing that you are grateful for. Name 1 thing that you did well. Name 1 think that you love. You earned a goodnight of sleep!",
+    "text": "Tutup mata anda dan fikirkan tentang hari itu. Namakan 1 perkara yang anda syukuri. Namakan satu perkara yang telah anda lakukan dengan baik. Namakan 1 perkara yang anda sayangi. Anda telah mendapat tidur yang baik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here's an activity to relax your body:",
+    "text": "Ini adalah aktiviti untuk merehatkan badan anda:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit comfortably and close your eyes if you can.",
+    "text": "Duduk dengan selesa dan tutup mata anda jika boleh.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Imagine a golden ring scanning your body from your feet to your head. ",
+    "text": "Bayangkan cincin emas mengimbas badan anda dari kaki sehingga kepala anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful? ",
+    "text": "Tumpukan perhatian apabila ia bergerak ke atas dan ke bawah badan anda. Adakah terdapat kawasan yang berasa tegang? Kebas? Menyakitkan? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Focus on those areas for a moment. Breathe in to the area and when you breathe out, try to let go of any tension or pain. ",
+    "text": "Fokus pada kawasan-kawasan tersebut buat seketika. Tarik nafas ke kawasan itu dan semasa anda menghembuskan nafas keluar, cuba untuk lepaskan ketegangan atau kesakitan. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do this for a few breaths. ",
+    "text": "Lakukan ini selama beberapa nafas. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Open your eyes. How does your body feel now?",
+    "text": "Buka mata anda. Bagaimana rasa badan anda sekarang?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try this next time you find yourself lying in bed unable to sleep!",
+    "text": "Cuba ini lain kali apabila anda dapati diri anda tidak boleh tidur setelah berbaring di atas katil!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice your connection with the ground beneath you.",
+    "text": "Rasai hubungan anda dengan lantai yang anda pijak.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What parts of your body touch the ground? What parts of your body don’t? ",
+    "text": "Bahagian tubuh anda yang manakah menyentuh lantai? Bahagian tubuh badan anda yang tidak?\r ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice where it feels warm and where it feels cool.",
+    "text": "Rasai di mana ia berasa hangat dan di mana ia berasa sejuk.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Feel the ground underneath you supporting you. Let your body sink into the support of the ground. ",
+    "text": "Rasakan lantai yang anda pijak menyokong anda. Biarkan badan anda meresap ke dalam sokongan lantai tersebut. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+    "text": "Cuba ini lain kali apabila anda berasa keseorangan atau sedang melakukan aktiviti biasa seperti membasuh. Ia benar-benar dapat membantu!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a short relaxation activity for you:",
+    "text": "Berikut adalah aktiviti berehat yang pendek untuk anda:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down and close your eyes",
+    "text": "Duduk dan tutup mata anda",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many sounds can you hear? ",
+    "text": "Berapa banyak bunyi yang anda boleh dengar? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Listen to the sounds inside and outside the room. Count them on your fingers.",
+    "text": "Dengarkan bunyi di dalam dan di luar bilik. Kira bunyi itu dengan jari anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+    "text": "Selepas sepuluh saat, berapakah jari yang anda naikkan? Apakah bunyi yang telah anda dengari?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try again for another ten seconds. ",
+    "text": "Cuba lagi untuk sepuluh saat. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Did you hear any new sounds? Did you hear any sounds inside your own body?",
+    "text": "Adakah anda mendengar sebarang bunyi baharu? Adakah anda mendengar sebarang bunyi di dalam badan anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Notice how you feel now.",
+    "text": "Rasai perasaan anda sekarang.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Use the magic power of three to stay connected and relax.",
+    "text": "Gunakan tiga kuasa ajaib untuk kekal berhubung dan relaks.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breathe in to the count of three. 1, 2, 3.",
+    "text": "Tarik nafas dengan kiraan tiga. 1, 2, 3.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breath out to the count of three. 1, 2, 3.",
+    "text": "Hembus nafas dengan kiraan tiga. 1, 2, 3.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How do you feel now? Do you feel any different? Deep breathing helps our whole body and mind to calm down. ",
+    "text": "Apa yang anda rasai sekarang? Adakah anda rasa sebarang perbezaan? Bernafas dalam-dalam membantu seluruh tubuh badan dan minda kita untuk tenang. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you ever feel something so strongly that you want to run away from it?",
+    "text": "Pernahkah anda merasakan sesuatu yang sangat kuat sehingga anda ingin lari daripadanya?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Instead of moving away from the feeling, let’s move towards it for a moment.",
+    "text": "Daripada menjauhkan diri dari perasaan tersebut, mari kita bergerak ke arahnya buat seketika.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s ok. Close your eyes if you feel comfortable. Take a deep breath.",
+    "text": "Tidak mengapa. Tutup mata anda jika anda berasa selesa. Tarik nafas dalam-dalam.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Become curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?",
+    "text": "Jadi ingin tahu. Di manakah anda dapat merasakannya di dalam badan anda? Adakah panas atau sejuk? Keras atau lembut? Ketat atau longgar?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ask yourself some questions. What is it telling me? What does it need? How can I be kind to myself in this moment?",
+    "text": "Tanya beberapa soalan kepada diri anda sendiri. Apa yang diceritakannya? Apa yang diperlukannya? Bagaimana saya boleh bersikap baik kepada diri saya pada masa ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If your mind starts to wander, it’s normal. Just bring it back to the feeling. Keep breathing and feeling.",
+    "text": "Jika fikiran anda mula melayang-layang, itu normal. Bawa kembali kepada perasaan itu. Teruskan bernafas dan merasa.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Reassure yourself. It’s ok to feel. Feeling is healing!",
+    "text": "Yakinkan diri anda. Tidak mengapa untuk merasa. Perasaan itu menyembuhkan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+    "text": "Hai! Sekiranya anda mahukan sokongan atau petua keibubapaan tambahan, taip \"Tolong\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for making so much effort to be a better parent. You are loved and appreciated!",
+    "text": "Terima kasih kerana banyak berusaha untuk menjadi ibu bapa yang lebih baik. Anda disayangi dan dihargai!",
+    "type": "text"
+  },
+  {
+    "SourceText": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!",
+    "text": "Tiada ibu bapa yang sempurna atau anak yang sempurna. Kita semua hanya mencuba yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! ",
+    "text": "Terima kasih kerana bangun setiap pagi dan terus mencuba lagi. Walaupun anda penat. Itulah keberanian dan dedikasi sebenar! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!",
+    "text": "Terima kasih kerana memberi sinaran positif kepada keluarga anda. Teruskan bersinar!",
+    "type": "text"
+  },
+  {
+    "SourceText": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!",
+    "text": "Tiada ibu bapa yang sempurna. Bercakaplah dengan baik kepada diri anda sendiri tentang perkara hebat yang anda lakukan. Kami rasa anda hebat!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing.",
+    "text": "Adakah ada yang memberitahu anda betapa luar biasa anda berada di sana untuk anak-anak anda ketika wabak global? Tidak ada buku panduan untuk masa-masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for being patient with yourself and your family. Every little bit helps! ",
+    "text": "Terima kasih kerana bersabar dengan diri sendiri dan keluarga. Setiap usaha yang sedikit itu membantu! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for being a man who supports their family. You are a real hero.",
+    "text": "Syabas kerana menjadi lelaki yang menyokong keluarga anda. Anda adalah wira sebenar.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You’re a man who puts a lot of thought into everything you do. We see it and appreciate it.",
+    "text": "Anda adalah lelaki yang banyak memikirkan semua perkara yang anda lakukan. Kami melihatnya dan menghargainya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for your dedication! The world needs more men like you. ",
+    "text": "Terima kasih atas dedikasi anda! Dunia memerlukan lebih ramai lelaki seperti anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hooray! Other women around the world are cheering for you right now!",
+    "text": "Hore! Wanita lain di seluruh dunia sedang bersorak untuk anda sekarang!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s not always easy to be a woman in this world. But you are leading the way! ",
+    "text": "Tidak mudah untuk menjadi wanita di dunia ini. Tetapi anda sedang mendahuluinya! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You are such a great example for all men! Keep up the good work.",
+    "text": "Anda adalah contoh yang sangat baik untuk semua lelaki! Teruskan buat yang terbaik.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your commitment is an inspiration for all men. Keep calm and carry on! ",
+    "text": "Komitmen anda adalah inspirasi untuk semua lelaki. Bertenang dan teruskan! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for your dedication! The world needs more women like you.",
+    "text": "Terima kasih atas dedikasi anda! Dunia memerlukan lebih ramai wanita seperti anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Fake it until you make it, Mama!",
+    "text": "Palsukan ia sehingga anda berjaya, Mama!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for being a superman and being there for your family today! Keep it up!",
+    "text": "Terima kasih kerana menjadi superman dan berada di sini untuk keluarga anda hari ini! Teruskan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hey beautiful woman! Thank you for showing so much strength and sharing it with your family.",
+    "text": "Hai wanita cantik! Terima kasih kerana menunjukkan banyak kekuatan dan berkongsikannya dengan keluarga anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for being an inspiration to other women. Keep shining that light of yours! ",
+    "text": "Terima kasih kerana menjadi inspirasi kepada wanita lain. Teruskan sinaran cahaya anda! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for showing up for your family today and doing your best! You are appreciated!",
+    "text": "Terima kasih kerana hadir untuk keluarga anda hari ini dan melakukan yang terbaik! Anda dihargai!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!",
+    "text": "Syabas kerana berjaya sampai ke penghujung hari! Kadang-kala hanya itu yang dapat kita lakukan. Berehatlah dan cuba lagi esok!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!",
+    "text": "Hore! Percayalah bahawa kerja keras anda menghasilkan buah yang manis, walaupun anda belum dapat merasainya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!",
+    "text": "Adakala senang, adakala tidak. Lepaskan kesilapan dan raikan kejayaan, walaupun kecil!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Every time you take a pause is an act of kindness. Thank you for being kind to yourself and your family today!",
+    "text": "Setiap kali anda berhenti seketika adalah tindakan yang baik. Terima kasih kerana bersikap baik kepada diri sendiri dan keluarga anda hari ini!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s the end of the day! You did it! Now it’s time for you. You deserve ",
+    "text": "Kini sudah di penghujung hari! Kamu berjaya lakukannya! Sekarang adalah masa anda. Anda layak ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference.",
+    "text": "Tahniah! Anda hebat! Ingatlah bahawa perkara-perkara kecil yang membuat perbezaan yang besar.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "text": "Apa sahaja yang anda rasakan ‘salah’ hari ini, lepaskan dan cuba lagi esok. Tidak mengapa! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You made a difference today by showing up. Your down time starts now!",
+    "text": "Anda membuat perbezaan hari ini dengan memunculkan diri. Waktu berhenti anda bermula sekarang!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+    "text": "Syabas kerana cuba memahami semuanya. Tiada sesiapa yang mempunyai semua jawapan tetapi anda benar-benar melakukan yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! ",
+    "text": "Menjaga diri anda adalah menjaga anak-anak anda! Syabas kerana berhenti seketika hari ini. Teruskan! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ten points for you today! Together we can overcome any challenge.",
+    "text": "Sepuluh mata untuk anda hari ini! Bersama-sama kita dapat mengatasi sebarang cabaran.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for spending One-on-One time with your family! Time is the most valuable gift you can give them. ",
+    "text": "Syabas kerana menghabiskan Masa Seorang-dengan-Seorang dengan keluarga anda! Masa adalah hadiah paling berharga yang anda dapat berikan kepada mereka. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for your kindness and patience today! Even when it’s tough, your words of praise, your smile and your attention are like sunshine for your children.",
+    "text": "Terima kasih atas kebaikan dan kesabaran anda hari ini! Walaupun sukar, kata-kata pujian, senyuman dan perhatian anda bagaikan sinaran matahari untuk anak-anak anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your curiosity and creativity are paying off! Give yourself a hug!",
+    "text": "Rasa ingin tahu dan kreativiti anda berbaloi! Beri pelukan pada diri sendiri!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Top marks for effort! It’s not easy but you tried your best. That’s all you can ever do!",
+    "text": "Markah tertinggi untuk usaha! Ia tidak mudah tetapi anda mencuba yang terbaik. Itu sahaja yang boleh anda lakukan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day.",
+    "text": "Gembira, sedih, marah, teruja, risau? Syabas kerana mengetahui perasaan anda dan orang lain hari ini! Ingat, esok adalah hari yang baru.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! How is your parenting going today? ",
+    "text": "Hai! Bagaimana keibubapaan anda hari ini? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It’s the end of the day! You did it! Now it’s time for you. You deserve a break!",
+    "text": "Kini sudah di penghujung hari! Kamu berjaya lakukannya! Sekarang adalah masa anda. Anda berhak mendapat rehat!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! If you have found these messages helpful, please share with a friend!",
+    "text": "Hai! Jika anda dapati mesej ini bermanfaat, sila berkongsi dengan rakan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have made it through your first week. How time flies! ",
+    "text": "Tahniah! Anda berjaya mengharungi minggu pertama anda. Cepatnya masa berlalu! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have made it through another week!",
+    "text": "Tahniah! Anda berjaya mengharungi seminggu lagi!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have added one skill to your Parenting Toolkit:",
+    "text": "Anda telah menambah satu lagi kemahiran ke dalam Kit Keibubapaan anda:",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have added @results.n_skills_week skills to your Parenting Toolkit:",
+    "text": "Anda telah menambahkan @hasil.n_kemahiran_kemahiran mingguan ke dalam Kit Keibubapaan anda:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+  },
+  {
+    "SourceText": "Type \"Help\" if you ever want to revisit them for more support.",
+    "text": "Taip \"Tolong\" sekiranya anda ingin melawati semula untuk mendapatkan lebih sokongan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You also have made progress on the following skills: ",
+    "text": "Anda juga telah melakukan kemajuan dalam kemahiran berikut: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"Help\" if you ever want to go back and complete them.",
+    "text": "Taip \"Tolong\" jika anda mahu kembali dan menyelesaikannya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+    "text": "Sekiranya anda dapat melihat beberapa perubahan dalam hidup anda atau hubungan dengan anak, itu bagus! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+    "text": "Sekiranya anda tidak melihat perubahan, teruskannya. Kadang-kala perkara ini memerlukan masa untuk berubah. Kami tahu anda boleh melakukannya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.  Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
+    "text": "Adakah anda ingin terus menerima tip ini seperti biasa atau kurang kerap? Anda boleh mengubah waktu hari anda menerima mesej. Ubah tetapan ini dengan menaip \"Tolong\" dan kemudian pilih \"Sokongan Teknikal.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great",
+    "text": "Hebat",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Okay",
+    "text": "Okey",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bad",
+    "text": "Teruk",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Same frequency",
+    "text": "Kekerapan yang sama",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A little less often",
+    "text": "Jarang sekali",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "great",
+    "text": "bagus",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "okay ok",
+    "text": "okey ok",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bad",
+    "text": "teruk",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "okay",
+    "text": "okey",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "same ",
+    "text": "sama ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "less often",
+    "text": "kurang kerap",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

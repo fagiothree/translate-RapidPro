@@ -1,0 +1,2548 @@
+
+
+PLH - Activity - Teen - Active - Co chef*************************************
+
+
+PLH - Internal - Frequency*************************************
+
+Adakah anda mahu terus menerima tip-tip ini pada kekerapan yang sama atau kurang kerap? Anda juga boleh menukar waktu untuk anda menerima mesej.
+
+Tukar tetapan ini dengan menaip "Bantuan" dan kemudian pilih "Sokongan Teknikal."
+
+Sila pilih nombor untuk pilihan berikut:
+1. Kekerapan yang sama
+2. Kurang kerap
+arg list: sama
+arg: sama
+sama,1,
+arg list: kurang,kerap
+arg: kurang
+kurang,kerap,2,
+arg: kerap
+kurang,kerap,2,2,
+
+
+PLH - Content - Positive - Budget adults - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Time - One on one time baby - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Time - One on one time child - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Child - Active - What are you doing*************************************
+
+
+PLH - Timed - 24h timeout alert*************************************
+
+
+PLH - Supportive - Disabilities*************************************
+
+Hai! Adakah anda mahu tahu lagi tentang cara anda boleh menyokong kanak-kanak kurang upaya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Berikan saya maklumat lanjut
+2. Saya tidak berminat
+arg list: maklumat,lanjut
+arg: maklumat
+maklumat,lanjut,1,
+arg: lanjut
+maklumat,lanjut,1,1,
+arg list: tidak,tidak,berminat
+arg: tidak
+tidak,tidak,berminat,2,
+arg: tidak
+tidak,tidak,berminat,2,2,
+arg: berminat
+tidak,tidak,berminat,2,2,2,
+
+
+PLH - Supportive - Development*************************************
+
+Hai! Adakah anda mahu tahu lagi tentang perkembangan anak-anak anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Berikan saya maklumat lanjut
+2. Saya tidak berminat
+arg list: maklumat,lanjut
+arg: maklumat
+maklumat,lanjut,1,
+arg: lanjut
+maklumat,lanjut,1,1,
+arg list: tidak,tidak,berminat
+arg: tidak
+tidak,tidak,berminat,2,
+arg: tidak
+tidak,tidak,berminat,2,2,
+arg: berminat
+tidak,tidak,berminat,2,2,2,
+
+
+PLH - Supportive - Family*************************************
+
+Hai! Adakah anda mahu tahu lagi tentang cara untuk menyelesaikan konflik dalam keluarga?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Berikan saya maklumat lanjut
+2. Saya tidak berminat
+arg list: maklumat,lanjut
+arg: maklumat
+maklumat,lanjut,1,
+arg: lanjut
+maklumat,lanjut,1,1,
+arg list: tidak,tidak,berminat
+arg: tidak
+tidak,tidak,berminat,2,
+arg: tidak
+tidak,tidak,berminat,2,2,
+arg: berminat
+tidak,tidak,berminat,2,2,2,
+
+
+PLH - Supportive - Covid*************************************
+
+Hai! Adakah anda mahu tahu lagi tentang cara untuk bercakap dengan anak-anak anda mengenai COVID-19?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Berikan saya maklumat lanjut
+2. Saya tidak berminat
+arg list: maklumat,lanjut
+arg: maklumat
+maklumat,lanjut,1,
+arg: lanjut
+maklumat,lanjut,1,1,
+arg list: tidak,tidak,berminat
+arg: tidak
+tidak,tidak,berminat,2,
+arg: tidak
+tidak,tidak,berminat,2,2,
+arg: berminat
+tidak,tidak,berminat,2,2,2,
+
+
+PLH - Internal - Restart campaign for WA*************************************
+
+
+PLH - Content - Positive - Education - Timed intro*************************************
+
+Adakah anda ingin belajar bagaimana cara membantu anak anda untuk kembali ke sekolah dan pembelajaran jarak jauh?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Kami tahu bahawa anda telah menerima tip ini (terbaik!). Ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Child - Calm - At the end of the day*************************************
+
+
+PLH - Internal - Restart expired flow*************************************
+
+
+PLH - Activity - Teen - Calm - Superpowers*************************************
+
+
+PLH - Timed - Campaign*************************************
+
+
+PLH - Internal - Define next campaign event*************************************
+
+
+PLH - Internal - Initialise time variables*************************************
+
+
+PLH - Internal - Update time counters*************************************
+
+
+PLH - Supportive - Share*************************************
+
+
+PLH - Supportive - Help reminder*************************************
+
+
+PLH - Activity - Child - Active - See it be it*************************************
+
+
+PLH - Activity - Child - Calm - Story time*************************************
+
+
+PLH - Activity - Child - Active - Superpowers*************************************
+
+
+PLH - Activity - Child - Calm - Three options*************************************
+
+
+PLH - Activity - Child - Active - Worms go home*************************************
+
+
+PLH - Content - Relax - CheckIn - Notice how you feel*************************************
+
+
+PLH - Activity - Child - Active - Dance choreography*************************************
+
+
+PLH - Activity - Child - Active - Mirror*************************************
+
+
+PLH - Activity - Child - Active - Freeze dance*************************************
+
+
+PLH - Activity - Child - Active - Run around and do this*************************************
+
+
+PLH - Activity - Child - Active - Stage Directions*************************************
+
+
+PLH - Activity - Child - Calm - Blind Dragon*************************************
+
+
+PLH - Activity - Child - Calm - When I was younger*************************************
+
+
+PLH - Activity - Child - Calm - Dancing with Angels*************************************
+
+
+PLH - Activity - Child - Calm - The Interrupter*************************************
+
+
+PLH - Activity - Child - Active - Make housework fun*************************************
+
+
+PLH - Activity - Teen - Calm - Dream travel*************************************
+
+
+PLH - Activity - Teen - Active - Get Active*************************************
+
+
+PLH - Help - Settings - Manage information children*************************************
+
+Apakah yang anda mahu lakukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Kemas kini umur anak-anak anda
+2. Kemas kini kumpulan umur bagi tip yang anda terima
+0. Kembali ke pilihan sebelumnya
+arg list: kanak-kanak
+arg: kanak-kanak
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: tip
+arg: tip
+tip,2,
+arg list: kembali
+arg: kembali
+kembali,0,
+
+Apakah kumpulan umur bagi tip keibubapaan yang mahu diterima oleh anda? Sila taip
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bayi (0 hingga 23 bulan)
+2. Anak kecil (2 hingga 9 tahun)
+3. Remaja (10 hingga 17 tahun)
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: anak,remaja
+arg: anak
+anak,remaja,2,
+arg: remaja
+anak,remaja,2,3,
+NO MATCHING SELECTORS 
+
+
+PLH - Activity - Teen - Active - What is new*************************************
+
+
+PLH - Activity - Teen - Active - Dance Choreography*************************************
+
+
+PLH - Activity - Teen - Active - What are you doing*************************************
+
+
+PLH - Content - Positive - Behave - Routines - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Teen - Calm - Make up a story*************************************
+
+
+PLH - Activity - Teen - Active - Crazy chicken*************************************
+
+
+PLH - Content - Time - One on one time teen - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Teen - Active - Pass the snap*************************************
+
+
+PLH - Activity - Teen - Calm - Just a friendly chat*************************************
+
+
+PLH - Content - Relax - Take a pause - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Teen - Calm - At the end of the day*************************************
+
+
+PLH - Activity - Adult - Active - 2 truths 1 lie*************************************
+
+
+PLH - Activity - Adult - Active - Family work out*************************************
+
+
+PLH - Activity - Adult - Active - Crazy chicken*************************************
+
+
+PLH - Content - Positive - Behave - Praise - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Adult - Active - Relax*************************************
+
+
+PLH - Activity - Adult - Calm - Magical number*************************************
+
+
+PLH - Activity - Adult - Active - Stop and listen*************************************
+
+
+PLH - Activity - Adult - Calm - Release some energy*************************************
+
+
+PLH - Activity - Adult - Calm - Give yourself a hug*************************************
+
+
+PLH - Activity - Adult - Calm - Taking care of yourself*************************************
+
+
+PLH - Content - Positive - Behave - Redirect - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Positive - Behave - Consequences - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Positive - Behave - Ignore - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Positive - Behave - ProblemSolving - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Positive - Behave - Crying - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Picker - Age group for activity*************************************
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. remaja
+3. dewasa
+4. lain-lain
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,remaja
+arg: anak
+arg: remaja
+anak,remaja,2,
+arg list: dewasa
+arg: dewasa
+dewasa,3,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,4,
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. dewasa
+3. lain-lain
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: dewasa
+arg: dewasa
+dewasa,2,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. remaja
+2. dewasa
+3. lain-lain
+arg list: anak,remaja
+arg: anak
+arg: remaja
+anak,remaja,1,
+arg list: dewasa
+arg: dewasa
+dewasa,2,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. anak kecil
+2. dewasa
+3. lain-lain
+arg list: anak,kecil
+arg: anak
+anak,kecil,1,
+arg: kecil
+anak,kecil,1,1,
+arg list: dewasa
+arg: dewasa
+dewasa,2,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. anak kecil
+3. dewasa
+4. lain-lain
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: dewasa
+arg: dewasa
+dewasa,3,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,4,
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. anak kecil
+3. remaja
+4. dewasa
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: anak,remaja
+arg: anak
+anak,remaja,2,
+arg: remaja
+anak,remaja,2,3,
+NO MATCHING SELECTORS 
+arg list: dewasa
+arg: dewasa
+dewasa,4,
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. anak kecil
+2. remaja
+3. dewasa
+4. lain-lain
+arg list: anak,kecil
+arg: anak
+anak,kecil,1,
+arg: kecil
+anak,kecil,1,1,
+arg list: anak,remaja
+arg: anak
+anak,remaja,1,
+arg: remaja
+anak,remaja,1,2,
+NO MATCHING SELECTORS 
+arg list: dewasa
+arg: dewasa
+dewasa,3,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,4,
+
+
+PLH - Survey - Behave - Tips for difficult behaviours*************************************
+
+Inginkan cadangan untuk melakukan perkara yang aktif dan tenang bersama anak anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin belajar lagi?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: y,ya
+arg: y
+arg: ya
+y,ya,1,
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin belajar lagi?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: y,ya
+arg: y
+arg: ya
+y,ya,1,
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+
+PLH - Content - Positive - Online children - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Supportive - Behave reminder*************************************
+
+
+PLH - Welcome - Age group for tips*************************************
+
+Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda. 
+
+Anda boleh sahaja menukar ini nanti dengan menaip "Bantuan" dan memilih "Sokongan teknikal"
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. anak kecil
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+
+Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda.
+
+Anda boleh sahaja menukar ini nanti dengan menaip "Bantuan" dan memilih "Sokongan teknikal".
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. remaja
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,remaja
+arg: anak
+arg: remaja
+anak,remaja,2,
+
+Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda.
+
+Anda boleh sahaja menukar ini nanti dengan menaip "Bantuan" dan memilih "Sokongan teknikal".
+
+Sila pilih nombor untuk pilihan berikut:
+1. anak kecil
+2. remaja
+arg list: anak,kecil
+arg: anak
+anak,kecil,1,
+arg: kecil
+anak,kecil,1,1,
+arg list: anak,remaja
+arg: anak
+anak,remaja,1,
+arg: remaja
+anak,remaja,1,2,
+NO MATCHING SELECTORS 
+
+Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda.
+
+Anda boleh sahaja menukar ini nanti dengan menaip "Bantuan" dan memilih "Sokongan teknikal".
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. anak kecil
+3. remaja
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: anak,remaja
+arg: anak
+anak,remaja,2,
+arg: remaja
+anak,remaja,2,3,
+NO MATCHING SELECTORS 
+
+
+PLH - Help - Settings - Change age group for tips*************************************
+
+Adakah anda mahu menerima tip keibubapaan untuk kumpulan umur yang lain? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Apakah kumpulan umur bagi tip keibubapaan yang anda mahukan? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bayi (0 hingga 23 bulan)
+2. Anak kecil (2 hingga 9 tahun)
+3. Remaja (10 hingga 17 tahun)
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: anak,remaja
+arg: anak
+anak,remaja,2,
+arg: remaja
+anak,remaja,2,3,
+NO MATCHING SELECTORS 
+
+
+PLH - Content - Positive - Behave - Crisis - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda mahukan beberapa petua yang dapat membantu anda bertindak balas dengan cara yang lebih menyokong?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Positive - CheckIn - Routines with song*************************************
+
+
+PLH - Content - Positive - CheckIn - Routines*************************************
+
+
+PLH - Content - Positive - Behave - Emotion - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Help - Entry*************************************
+
+Apakah perkara yang anda perlukan bantuan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bantuan untuk mengendali anak-anak
+2. Melegakan tekanan
+3. Sokongan lain
+4. Semak kemahiran sebelum ini
+5. Sokongan teknikal
+arg list: kanak-kanak
+arg: kanak-kanak
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: melegakan,tekanan
+arg: melegakan
+melegakan,tekanan,2,
+arg: tekanan
+melegakan,tekanan,2,2,
+arg list: lain-lain
+arg: lain-lain
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: teknikal,tek
+arg: teknikal
+teknikal,tek,5,
+arg: tek
+arg list: semak,kemahiran
+arg: semak
+semak,kemahiran,4,
+arg: kemahiran
+semak,kemahiran,4,4,
+
+
+PLH - Help - Emergency*************************************
+
+
+PLH - Help - Stress*************************************
+
+Bagaimana kami boleh membantu anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bersantai dan mengurangkan stres
+2. Menangani tekanan kewangan
+3. Hubungan keluarga
+0. Kembali ke pilihan sebelumnya
+arg list: pengurangan,ketenangan
+arg: pengurangan
+arg: ketenangan
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: kewangan
+arg: kewangan
+kewangan,2,
+arg list: hubungan,keluarga
+arg: hubungan
+hubungan,keluarga,3,
+arg: keluarga
+hubungan,keluarga,3,3,
+arg list: kembali
+arg: kembali
+kembali,0,
+
+
+PLH - Handler - Activity - Babies*************************************
+
+Apa jenis aktiviti yang anda mahu untuk bayi anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Aktif
+2. Tenang
+3. Seronok
+arg list: aktif
+arg: aktif
+aktif,1,
+arg list: tenang
+arg: tenang
+tenang,2,
+arg list: seronok
+arg: seronok
+seronok,3,
+
+
+PLH - Handler - Activity - Young children*************************************
+
+Apa jenis aktiviti yang anda mahu untuk anak anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Aktif
+2. Tenang
+3. Seronok
+arg list: aktif
+arg: aktif
+aktif,1,
+arg list: tenang
+arg: tenang
+tenang,2,
+arg list: seronok
+arg: seronok
+seronok,3,
+
+
+PLH - Handler - Activity - Teenagers*************************************
+
+Apa jenis aktiviti yang anda mahu untuk anak remaja anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Aktif
+2. Tenang
+3. Seronok
+arg list: aktif
+arg: aktif
+aktif,1,
+arg list: tenang
+arg: tenang
+tenang,2,
+arg list: seronok
+arg: seronok
+seronok,3,
+
+
+PLH - Handler - Activity - Adults*************************************
+
+Apa jenis aktiviti yang anda mahu?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Aktif
+2. Tenang
+3. Seronok
+arg list: aktif
+arg: aktif
+aktif,1,
+arg list: tenang
+arg: tenang
+tenang,2,
+arg list: seronok
+arg: seronok
+seronok,3,
+
+
+PLH - Activity - Child - Active - Crazy chicken*************************************
+
+
+PLH - Activity - Child - Calm - Drawing*************************************
+
+
+PLH - Survey - Behaviour - Children age groups*************************************
+
+Adakah anda ibu bapa/penjaga bagi bayi (0 hingga 23 bulan)? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,ya,ya,y
+arg: ya
+ya,ya,ya,y,1,
+arg: ya
+ya,ya,ya,y,1,1,
+arg: ya
+ya,ya,ya,y,1,1,1,
+arg: y
+arg list: tidak,tidak,tidak,t
+arg: tidak
+tidak,tidak,tidak,t,0,
+arg: tidak
+tidak,tidak,tidak,t,0,0,
+arg: tidak
+tidak,tidak,tidak,t,0,0,0,
+arg: t
+
+Adakah anda ibu bapa/penjaga bagi anak kecil (2 hingga 9 tahun)?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,ya,ya,y
+arg: ya
+ya,ya,ya,y,1,
+arg: ya
+ya,ya,ya,y,1,1,
+arg: ya
+ya,ya,ya,y,1,1,1,
+arg: y
+arg list: tidak,tidak,t,tidak
+arg: tidak
+tidak,tidak,t,tidak,0,
+arg: tidak
+tidak,tidak,t,tidak,0,0,
+arg: t
+arg: tidak
+tidak,tidak,t,tidak,0,0,0,
+
+Adakah anda ibu bapa/penjaga bagi remaja (10 hingga 17 tahun)? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,ya,ya,pasti,y
+arg: ya
+ya,ya,ya,pasti,y,1,
+arg: ya
+ya,ya,ya,pasti,y,1,1,
+arg: ya
+ya,ya,ya,pasti,y,1,1,1,
+arg: pasti
+arg: y
+arg list: tidak,tidak,tidak,t
+arg: tidak
+tidak,tidak,tidak,t,0,
+arg: tidak
+tidak,tidak,tidak,t,0,0,
+arg: tidak
+tidak,tidak,tidak,t,0,0,0,
+arg: t
+
+
+PLH - Activity - Child - Calm - Self portrait*************************************
+
+
+PLH - Activity - Child - Active - Transform the object*************************************
+
+
+PLH - Activity - Child - Active - Name that tune*************************************
+
+
+PLH - Activity - Child - Calm - Memory game*************************************
+
+
+PLH - Welcome - Initial registration*************************************
+
+Sila beritahu kami jika anda lelaki atau perempuan supaya kami dapat berikan maklumat yang betul.
+
+Sila pilih nombor untuk pilihan berikut:
+1. Lelaki
+2. Perempuan
+3. lain-lain
+0. Memilih untuk tidak menjawab
+arg list: perempuan,p
+arg: perempuan
+perempuan,p,2,
+arg: p
+arg list: lelaki,l
+arg: lelaki
+lelaki,l,1,
+arg: l
+arg list: lain-lain,ln
+arg: lain-lain
+lain-lain,ln,3,
+arg: ln
+arg list: memilih,t,tidak
+arg: memilih
+memilih,t,tidak,0,
+arg: t
+arg: tidak
+memilih,t,tidak,0,0,
+
+Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda.
+
+Anda boleh sahaja menukar ini nanti dengan menaip "Bantuan" dan memilih "Sokongan teknikal".
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bayi (0 hingga 23 bulan)
+2. Anak kecil (2 hingga 9 tahun)
+3. Remaja (10 hingga 17 tahun)
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: remaja
+arg: remaja
+remaja,3,
+
+
+PLH - Supportive - Weekly congratulations*************************************
+
+
+PLH - Activity - Child - Active - Ship to shore*************************************
+
+
+PLH - Handler - Content - Main - Time*************************************
+
+
+PLH - Handler - Content - Main - Relax*************************************
+
+
+PLH - Handler - Content - Main - Positive*************************************
+
+
+PLH - Handler - Survey*************************************
+
+
+PLH - Activity - Teen - Calm - 2 Truths 1 Lie*************************************
+
+
+PLH - Survey - COVID19 Experience*************************************
+
+Hai! Kami gembira kerana anda telah mendaftar untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat!
+
+Boleh kami tanya anda 2 soalan ringkas tentang COVID-19 di kawasan anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Yang mana satu adalah paling menyerupai dengan pengalaman anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Perintah berkurung
+2. Kedai-kedai bukan keperluan utama ditutup
+3. Pengeluaran bukan keperluan utama ditutup
+4. Pembatalan tempat-tempat rekreasi dan penutupan tempat-tempat awam seperti taman
+5. Arahan duduk di rumah dan kawalan pergerakan penuh
+6. Penjarakan sosial dan sekatan pergerakan
+7. Tiada sekatan
+0. Tidak berkenaan
+arg list: perintah,berkurung
+arg: perintah
+perintah,berkurung,1,
+arg: berkurung
+perintah,berkurung,1,1,
+arg list: kedai-kedai
+arg: kedai-kedai
+kedai-kedai,2,
+arg list: pengeluaran
+arg: pengeluaran
+pengeluaran,3,
+arg list: tempat-tempat,rekreasi
+arg: tempat-tempat
+tempat-tempat,rekreasi,4,
+arg: rekreasi
+tempat-tempat,rekreasi,4,4,
+arg list: arahan,duduk,di,rumah
+arg: arahan
+arahan,duduk,di,rumah,5,
+arg: duduk
+arahan,duduk,di,rumah,5,5,
+arg: di
+arahan,duduk,di,rumah,5,5,5,
+arg: rumah
+arahan,duduk,di,rumah,5,5,5,5,
+arg list: penjarakan
+arg: penjarakan
+penjarakan,6,
+arg list: tidak
+arg: tidak
+tidak,0,
+NO MATCHING SELECTORS 
+arg list: guna
+arg: guna
+NO MATCH 
+NO MATCHING SELECTORS 
+
+Adakah anak-anak anda pergi ke sekolah/tadika sekarang ini? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adalah normal untuk merasa terbeban atau tertekan tentang pendidikan anak-anak anda pada waktu ini. Adakah anda mahu tahu lagi tentang cara untuk menyokong anak-anak anda dalam pendidikan jarak jauh dan membantu mereka kembali ke sekolah?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+
+PLH - Internal - Set up default contact fields*************************************
+
+
+PLH - Activity - Teen - Calm - Three options*************************************
+
+
+PLH - Activity - Teen - Calm - Yes No or Maybe*************************************
+
+
+PLH - Activity - Teen - Calm - The Interrupter*************************************
+
+
+PLH - Activity - Teen - Calm - How was your day*************************************
+
+
+PLH - Introductory - First received tip*************************************
+
+
+PLH - Help - Settings - Manage information user*************************************
+
+Apakah yang anda mahu kemas kini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Umur
+2. Jantina
+0. Kembali ke pilihan sebelumnya
+arg list: umur
+arg: umur
+umur,1,
+arg list: jantina
+arg: jantina
+jantina,2,
+arg list: kembali,tidak,t
+arg: kembali
+kembali,tidak,t,0,
+arg: tidak
+arg: t
+
+Saya adalah seorang...
+
+Sila pilih nombor untuk pilihan berikut:
+1. Lelaki
+2. Perempuan
+3. lain-lain
+0. Saya memilih untuk tidak menjawab
+arg list: lelaki
+arg: lelaki
+lelaki,1,
+arg list: perempuan
+arg: perempuan
+perempuan,2,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+arg list: memilih,tidak,t,tidak
+arg: memilih
+memilih,tidak,t,tidak,0,
+arg: tidak
+memilih,tidak,t,tidak,0,0,
+arg: t
+arg: tidak
+memilih,tidak,t,tidak,0,0,0,
+
+
+PLH - Content - Positive - Safe or unsafe touch - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (terbaik!). Ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mempelajari dengan lebih lanjut tentang bagaimana untuk melindungi anak anda daripada penderaan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Help - Settings - Message timing*************************************
+
+Apakah yang anda mahu lakukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Menukar waktu dalam hari
+2. Dapatkan tip dengan lebih kerap
+0. Kembali ke pilihan sebelumnya
+arg list: waktu,hari
+arg: waktu
+waktu,hari,1,
+arg: hari
+waktu,hari,1,1,
+arg list: lebih,kerap
+arg: lebih
+lebih,kerap,2,
+arg: kerap
+lebih,kerap,2,2,
+arg list: kembali
+arg: kembali
+kembali,0,
+
+Apakah yang anda mahu lakukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Menukar waktu dalam hari
+2. Dapatkan tip kurang kerap (selang sehari)
+0. Kembali ke pilihan sebelumnya
+arg list: waktu,hari
+arg: waktu
+waktu,hari,1,
+arg: hari
+waktu,hari,1,1,
+NO MATCHING SELECTORS 
+arg list: kurang,kerap
+arg: kurang
+kurang,kerap,2,
+arg: kerap
+kurang,kerap,2,2,
+arg list: kembali
+arg: kembali
+kembali,0,
+
+
+PLH - Timed - Morning*************************************
+
+
+PLH - Timed - Main*************************************
+
+
+PLH - Timed - Evening*************************************
+
+
+PLH - Handler - Content - Evening*************************************
+
+
+PLH - Handler - Content - Morning*************************************
+
+
+PLH - Activity - Teen - Calm - Mirror*************************************
+
+
+PLH - Help - Settings - Type of media content*************************************
+
+Tetapan semasa anda untuk menerima kandungan media adalah: Tinggi - teks, audio, imej, video (data tinggi).
+Adakah anda mahu menukarnya? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t,kembali
+arg: tidak
+tidak,t,kembali,0,
+arg: t
+arg: kembali
+
+Tetapan semasa anda untuk menerima kandungan media adalah: Sederhana - teks, audio, imej (data rendah).
+Adakah anda mahu menukarnya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,kembali,0
+arg: tidak
+tidak,t,kembali,0,0,
+arg: t
+arg: kembali
+arg: 0
+
+Tetapan semasa anda untuk menerima kandungan media adalah: Rendah - teks sahaja (hampir tiada data langsung).
+Adakah anda mahu menukarnya?  
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1,1
+arg: ya
+ya,y,1,1,1,
+arg: y
+arg: 1
+arg: 1
+arg list: tidak,t,kembali,0,0
+arg: tidak
+tidak,t,kembali,0,0,0,
+arg: t
+arg: kembali
+arg: 0
+arg: 0
+
+Bagaimana anda mahu menerima mesej anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Teks sahaja (hampir tiada data langsung)
+2. Teks, audio, imej, (data rendah)
+3. Teks, audio, imej, video (data tinggi)
+0. Kembali ke pilihan sebelumnya
+arg list: video,tinggi
+arg: video
+video,tinggi,3,
+arg: tinggi
+video,tinggi,3,3,
+arg list: rendah
+arg: rendah
+rendah,2,
+arg list: hanya
+arg: hanya
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: kembali
+arg: kembali
+kembali,0,
+
+
+PLH - Activity - Teen - Active - Name that tune*************************************
+
+
+PLH - Content - Positive - Family - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Content - Positive - Budget with children - Timed intro*************************************
+
+Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,1
+arg: ya
+ya,y,1,1,
+arg: y
+arg: 1
+arg list: tidak,t,0
+arg: tidak
+tidak,t,0,0,
+arg: t
+arg: 0
+
+
+PLH - Activity - Teen - Calm - When COVID19 ends*************************************
+
+
+PLH - Picker - Choose difficult age*************************************
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. lain-lain
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,2,
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. remaja
+3. lain-lain
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,remaja
+arg: anak
+arg: remaja
+anak,remaja,2,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. remaja
+2. lain-lain
+arg list: anak,remaja
+arg: anak
+arg: remaja
+anak,remaja,1,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,2,
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. anak kecil
+2. lain-lain
+arg list: anak,kecil
+arg: anak
+anak,kecil,1,
+arg: kecil
+anak,kecil,1,1,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,2,
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. anak kecil
+2. remaja
+3. lain-lain
+arg list: anak,kecil
+arg: anak
+anak,kecil,1,
+arg: kecil
+anak,kecil,1,1,
+arg list: anak,remaja
+arg: anak
+anak,remaja,1,
+arg: remaja
+anak,remaja,1,2,
+NO MATCHING SELECTORS 
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. anak kecil
+3. remaja
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: anak,remaja
+arg: anak
+anak,remaja,2,
+arg: remaja
+anak,remaja,2,3,
+NO MATCHING SELECTORS 
+
+Anak mana satu yang anda mahu dapatkan tip untuknya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. bayi
+2. anak kecil
+3. lain-lain
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: lain-lain
+arg: lain-lain
+lain-lain,3,
+
+
+PLH - Help - Settings - Manage information*************************************
+
+Maklumat siapakah yang anda mahu menukar?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Diri anda
+2. Anak-anak anda
+0. Kembali ke pilihan sebelumnya
+arg list: diri,anda
+arg: diri
+diri,anda,1,
+arg: anda
+diri,anda,1,1,
+diri,anda,1,1,2,
+NO MATCHING SELECTORS 
+arg list: kanak-kanak
+arg: kanak-kanak
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: kembali
+arg: kembali
+kembali,0,
+
+
+PLH - Activity - Teen - Active - Make housework fun*************************************
+
+
+PLH - Activity - Adult - Calm - A short pause*************************************
+
+
+test - PLH - Handler - Welcome*************************************
+
+
+PLH - Handler - Activity*************************************
+
+Untuk siapakah anda mahukan aktiviti?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bayi (0-23 bulan)
+2. Anak kecil (2-9 tahun)
+3. Remaja (10-17 tahun)
+4. Dewasa (18+ tahun)
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: remaja
+arg: remaja
+remaja,3,
+arg list: dewasa
+arg: dewasa
+dewasa,4,
+
+Adakah anda mahu memilih aktiviti yang lain?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+
+PLH - Content - Relax - Feedback*************************************
+
+
+PLH - Help - Settings - Language*************************************
+
+Anda sekarang ini menerima mesej dalam "Bahasa Inggeris".
+Adakah anda mahu menukarnya?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t,kembali
+arg: tidak
+tidak,t,kembali,0,
+arg: t
+arg: kembali
+
+Apakah bahasa yang anda mahu gunakan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bahasa Inggeris
+2. Bahasa Melayu
+3. Bahasa Cina
+arg list: i,inggeris
+arg: i
+arg: inggeris
+i,inggeris,1,
+arg list: m,melayu
+arg: m
+arg: melayu
+m,melayu,2,
+arg list: c,cina
+arg: c
+arg: cina
+c,cina,3,
+
+
+PLH - Help - Access toolkit*************************************
+
+Apakah topik keibubapaan yang anda mahu lihat semula?
+
+Taip "kembali" jika anda mahu kembali kepada menu Bantuan.
+
+Sila pilih nombor untuk pilihan berikut:
+1. Kemahiran dalam Kit Keibubapaan
+2. Kemahiran tidak lengkap
+arg list: Kit,Keibubapaan
+arg: Kit
+Kit,Keibubapaan,1,
+arg: Keibubapaan
+Kit,Keibubapaan,1,1,
+arg list: tidak,lengkap
+arg: tidak
+tidak,lengkap,2,
+arg: lengkap
+tidak,lengkap,2,2,
+arg list: kembali
+arg: kembali
+NO MATCH 
+
+Adakah anda mahu kembali kepada menu Bantuan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y,kembali
+arg: ya
+ya,y,kembali,1,
+arg: y
+arg: kembali
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+
+PLH - Content - Extra - Behave*************************************
+
+Untuk anak mana yang anda mahukan tip?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Bayi
+2. Anak kecil
+3. Remaja
+arg list: bayi
+arg: bayi
+bayi,1,
+arg list: anak,kecil
+arg: anak
+anak,kecil,2,
+arg: kecil
+anak,kecil,2,2,
+arg list: remaja
+arg: remaja
+remaja,3,
+
+Tingkah laku mana yang paling anda mahukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Enggan untuk mematuhi
+2. Mengamuk
+3. Tingkah laku tidak menghormati
+4. Merengek
+5. Hiperaktif, tidak boleh duduk diam
+6. Memukul orang lain
+7. Memecahkan sesuatu
+8. Bergaduh dengan orang lain
+9. Mengusik atau mengganggu orang lain
+0. Tidak boleh diterima pakai
+arg list: patuh,marah,mengamuk,tidak,menghormati,merengek
+arg: patuh
+arg: marah
+arg: mengamuk
+patuh,marah,mengamuk,tidak,menghormati,merengek,2,
+arg: tidak
+patuh,marah,mengamuk,tidak,menghormati,merengek,2,3,
+patuh,marah,mengamuk,tidak,menghormati,merengek,2,3,5,
+patuh,marah,mengamuk,tidak,menghormati,merengek,2,3,5,0,
+arg: menghormati
+patuh,marah,mengamuk,tidak,menghormati,merengek,2,3,5,0,3,
+arg: merengek
+patuh,marah,mengamuk,tidak,menghormati,merengek,2,3,5,0,3,4,
+NO MATCHING SELECTORS 
+arg list: hiperaktif,kaku
+arg: hiperaktif
+hiperaktif,kaku,5,
+arg: kaku
+arg list: memukul,memecahkan,bergaduh,mengusik,mengganggu
+arg: memukul
+memukul,memecahkan,bergaduh,mengusik,mengganggu,6,
+arg: memecahkan
+memukul,memecahkan,bergaduh,mengusik,mengganggu,6,7,
+arg: bergaduh
+memukul,memecahkan,bergaduh,mengusik,mengganggu,6,7,8,
+arg: mengusik
+memukul,memecahkan,bergaduh,mengusik,mengganggu,6,7,8,9,
+arg: mengganggu
+memukul,memecahkan,bergaduh,mengusik,mengganggu,6,7,8,9,9,
+arg list: guna
+arg: guna
+NO MATCH 
+NO MATCHING SELECTORS 
+
+Tingkah laku mana yang paling anda mahukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Enggan untuk mematuhi
+2. Selalu menjadi marah
+3. Kasar, tingkah laku tidak menghormati
+4. Cepat marah atau perubahan emosi yang kerap
+5. Tidak mengikut peraturan
+6. Kedegilan
+7. Memecahkan sesuatu
+8. Bergaduh dengan orang lain
+9. Mengusik atau mengganggu orang lain
+0. Tidak boleh diterima pakai
+arg list: menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu
+arg: menolak
+arg: patuh
+arg: marah
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,
+arg: kasar
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,
+arg: tidak
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,
+arg: menghormati
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,3,
+arg: peraturan
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,3,5,
+arg: degil
+arg: memecahkan
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,3,5,7,
+arg: bergaduh
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,3,5,7,8,
+arg: mengusik
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,3,5,7,8,9,
+arg: mengganggu
+menolak,patuh,marah,kasar,tidak,menghormati,peraturan,degil,memecahkan,bergaduh,mengusik,mengganggu,2,4,3,3,5,0,3,5,7,8,9,9,
+NO MATCHING SELECTORS 
+arg list: cepat,marah,perasaan
+arg: cepat
+cepat,marah,perasaan,4,
+arg: marah
+cepat,marah,perasaan,4,2,
+cepat,marah,perasaan,4,2,4,
+arg: perasaan
+NO MATCHING SELECTORS 
+arg list: guna
+arg: guna
+NO MATCH 
+NO MATCHING SELECTORS 
+
+Tingkah laku mana yang paling anda mahukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Banyak menangis
+2. Masalah tidur
+3. Lekat
+4. Merengek
+5. Pemarah atau angin tidak baik
+6. Masalah pemakanan
+7. Degil atau cerewet
+0. Tidak boleh diterima pakai
+arg list: menangis
+arg: menangis
+menangis,1,
+arg list: tidur
+arg: tidur
+tidur,2,
+arg list: lekat
+arg: lekat
+lekat,3,
+arg list: merengek
+arg: merengek
+merengek,4,
+arg list: perasaan,marah
+arg: perasaan
+arg: marah
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: makan
+arg: makan
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: degil,cerewet
+arg: degil
+degil,cerewet,7,
+arg: cerewet
+degil,cerewet,7,7,
+arg list: guna
+arg: guna
+NO MATCH 
+NO MATCHING SELECTORS 
+
+Tingkah laku mana yang paling anda mahukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Banyak menangis
+2. Masalah tidur
+3. Lekat
+4. Merengek
+5. Pemarah atau angin tidak baik
+6. Masalah pemakanan
+7. Degil atau cerewet
+8. Tingkah laku nakal
+9. Mengamuk
+0. Tidak boleh diterima pakai
+arg list: menangis
+arg: menangis
+menangis,1,
+arg list: tidur
+arg: tidur
+tidur,2,
+arg list: lekat
+arg: lekat
+lekat,3,
+arg list: merengek
+arg: merengek
+merengek,4,
+arg list: perasaan,marah
+arg: perasaan
+arg: marah
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: makan
+arg: makan
+NO MATCH 
+NO MATCHING SELECTORS 
+arg list: degil,cerewet
+arg: degil
+degil,cerewet,7,
+arg: cerewet
+degil,cerewet,7,7,
+arg list: nakal
+arg: nakal
+nakal,8,
+arg list: mengamuk
+arg: mengamuk
+mengamuk,9,
+arg list: guna
+arg: guna
+NO MATCH 
+NO MATCHING SELECTORS 
+
+Tingkah laku mana yang paling anda mahukan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Banyak menangis
+2. Masalah tidur
+3. Lekat
+0. Tidak boleh diterima pakai
+arg list: menangis
+arg: menangis
+menangis,1,
+arg list: tidur
+arg: tidur
+tidur,2,
+arg list: lekat
+arg: lekat
+lekat,3,
+arg list: guna
+arg: guna
+NO MATCH 
+NO MATCHING SELECTORS 
+
+Adakah anda mahukan cadangan untuk melakukan perkara yang aktif dan tenang dengan anak anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: y,ya
+arg: y
+arg: ya
+y,ya,1,
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda memerlukan beberapa idea tentang apa yang boleh anda lakukan dengan anak anda?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: y,ya
+arg: y
+arg: ya
+y,ya,1,
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: y,ya
+arg: y
+arg: ya
+y,ya,1,
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: y,ya
+arg: y
+arg: ya
+y,ya,1,
+arg list: tidak,t
+arg: tidak
+tidak,t,0,
+arg: t
+
+
+PLH - Help - Settings - Entry*************************************
+
+Apakah yang anda mahu tukar?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Maklumat peribadi
+2. Pengalaman pengguna
+0. Kembali ke pilihan sebelumnya
+arg list: peribadi
+arg: peribadi
+peribadi,1,
+arg list: pengguna
+arg: pengguna
+pengguna,2,
+arg list: kembali
+arg: kembali
+kembali,0,
+
+Apakah yang anda mahu tukar?
+Taip "KELUAR" untuk berhenti menerima mesej.
+
+Sila pilih nombor untuk pilihan berikut:
+1. Jangka masa mesej
+2. Jenis kandungan media
+3. Kumpulan umur bagi tip
+4. Bahasa
+0. Kembali ke pilihan sebelumnya
+arg list: masa,jangka,masa
+arg: masa
+masa,jangka,masa,1,
+arg: jangka
+masa,jangka,masa,1,1,
+arg: masa
+masa,jangka,masa,1,1,1,
+arg list: media
+arg: media
+media,2,
+arg list: bahasa
+arg: bahasa
+bahasa,4,
+arg list: kumpulan,umur
+arg: kumpulan
+kumpulan,umur,3,
+arg: umur
+kumpulan,umur,3,3,
+arg list: kembali
+arg: kembali
+kembali,0,
+arg list: keluar
+arg: keluar
+NO MATCH 
+
+Adakah anda mahu kembali kepada sokongan teknikal? 
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,tidak,t
+arg: tidak
+tidak,tidak,t,0,
+arg: tidak
+tidak,tidak,t,0,0,
+arg: t
+
+Adakah anda mahu kembali kepada Bantuan?
+
+Sila pilih nombor untuk pilihan berikut:
+1. Ya
+0. Tidak
+arg list: ya,y
+arg: ya
+ya,y,1,
+arg: y
+arg list: tidak,t,kembali
+arg: tidak
+tidak,t,kembali,0,
+arg: t
+arg: kembali
+
+
+PLH - Activity - Baby - Active - Peek a boo*************************************
+
+
+PLH - Activity - Baby - Active - Funny faces*************************************
+
+
+PLH - Activity - Baby - Active - Mirror game*************************************
+
+
+PLH - Activity - Baby - Active - The sun is coming*************************************
+
+
+PLH - Activity - Baby - Active - Shakers*************************************
+
+
+PLH - Activity - Baby - Active - Down in a ditch*************************************
+
+
+PLH - Activity - Baby - Active - Musical Toes*************************************
+
+
+PLH - Activity - Baby - Calm - Lullaby*************************************
+
+
+PLH - Activity - Baby - Active - See it Be it*************************************
+
+
+PLH - Activity - Baby - Active - Dance party*************************************
+
+
+PLH - Activity - Baby - Active - Cooking together*************************************
+
+
+PLH - Handler - Content - Main*************************************
+
+
+PLH - Activity - Baby - Calm - At the end of the day*************************************
+
+
+PLH - Activity - Child - Active - Rain on the mountain*************************************
+
+
+PLH - Activity - Child - Active - Dance party*************************************
+
+
+PLH - Activity - Child - Calm - Listening to sounds*************************************
+
+
+PLH - Timed - Periodic - Congratulations*************************************
+
+
+PLH - Internal - Update toolkits*************************************
+
+
+PLH - Internal - Update incomplete toolkits*************************************
+
+
+PLH - Internal - Update survey counters*************************************
+
+
+PLH - Internal - Print children age group string*************************************
+
+
+PLH - Handler - Welcome*************************************
+
+
+PLH - Feedback - Feedback for checkIn*************************************

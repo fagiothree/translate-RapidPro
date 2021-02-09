@@ -1,0 +1,1444 @@
+[
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hi! How are you feeling? ",
+    "word_count": 0
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Great",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 6
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Okay",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 7
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "00167667-1b33-40c6-ab6c-b50d7a16b2cb",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Bad",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 8
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d52796bd-ff4f-4ef2-8881-2d1844873943",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 9
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "fdab24ad-58d2-4021-b29e-8de87831e7df",
+    "bit_type": "arguments",
+    "text": "great",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 16
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "01dc2311-832c-43dc-8b64-78938d42684b",
+    "bit_type": "arguments",
+    "text": "okay ok",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 17
+  },
+  {
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "230b91af-30a2-4ae0-9735-80604c558ef8",
+    "bit_type": "arguments",
+    "text": "bad",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 19
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "1f42af15-4b1f-459b-ad77-016cbf915ea1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "So good to hear that you are doing well. What a wonderful feeling!",
+    "word_count": 20
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "96ddb29c-de48-4803-81ff-940ad117cfcb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sometimes we're up. Sometimes we're down. And sometimes we are neither up nor down...and that's totally okay!",
+    "word_count": 33
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "f3bb92c5-a8aa-4a56-99a9-e54bb4178b97",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry to hear that you are not having a good day. It is completely normal to be going through a difficult time now. Remember that you are not alone. Here is an activity that might also help...",
+    "word_count": 50
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "142d0644-3226-497f-829f-80388cba71c1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do your children ever make you feel like screaming? Give yourself a 10-second pause. Breath in and out slowly 5 times. Then try responding in a calmer way. Millions of parents say this helps - A LOT.",
+    "word_count": 87
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "29100e70-d744-4084-aefb-c11543e2ec6c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Have you only got 30 seconds? Let's take a quick pause together. It might be helpful. ",
+    "word_count": 124
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "29100e70-d744-4084-aefb-c11543e2ec6c",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Try this whenever you are feeling stressed and you need a break reconnect.",
+    "word_count": 141
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here is something fun to help you let go of stress:",
+    "word_count": 182
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Choose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?",
+    "word_count": 193
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Make a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together.",
+    "word_count": 226
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d3df8a2b-10ff-4e7e-8a17-0e7a25217290",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Even a few minutes of movement can be enough to release stress and lift your mood!",
+    "word_count": 250
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Let’s use the magic power of three stay present and relax. ",
+    "word_count": 266
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Name three sounds you can hear right now.",
+    "word_count": 278
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Name three smells you can smell right now. ",
+    "word_count": 286
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Name your three favourite foods. ",
+    "word_count": 295
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "What are three things you can be grateful for right now?",
+    "word_count": 301
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "They don’t have to be big.",
+    "word_count": 312
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": " ",
+    "word_count": 318
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "c9f969ce-7dba-4ef6-b0d7-454cb794abec",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  ",
+    "word_count": 320
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do you sometimes feel like you are getting everything wrong?",
+    "word_count": 347
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Take a moment to think over the day. Think of one thing you did today that you are proud of.",
+    "word_count": 357
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Wrap your arms around your body and give yourself a hug.",
+    "word_count": 377
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think of one thing you did today that you don’t feel proud of. What can you do differently tomorrow?",
+    "word_count": 388
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "And wrap your arms around your body and give yourself a hug.",
+    "word_count": 407
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "d573c72f-916c-49c0-b68f-1688e8ac8c35",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "It’s ok. You are doing your best so be kind to yourself. Get some rest and try again tomorrow!",
+    "word_count": 419
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Take a moment to stop what you are doing and connect with your breath.  ",
+    "word_count": 438
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "What is one thing you can be grateful for right now?",
+    "word_count": 454
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "What is one thing that brings you happiness?",
+    "word_count": 465
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "What is one thing that you love?",
+    "word_count": 473
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f80165f-6177-4bbf-8123-87e0dd98fd28",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "They don't have to be big. Sometimes the small things in life count the most!",
+    "word_count": 480
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do you sometimes feel your feelings are too much?",
+    "word_count": 495
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Talk to someone. ",
+    "word_count": 504
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Talk to someone you trust. Talk to a friend. Talk to family. Talk to a tree.",
+    "word_count": 508
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Get your worries off your chest and then let them go. Even if it’s just for a moment. ",
+    "word_count": 524
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "How do you feel now?",
+    "word_count": 543
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "3d39e5ae-08bd-496b-87fd-540487dffbba",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "A joy shared is twice the joy. A problem shared is half the problem.",
+    "word_count": 548
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "At the end of the day, take a minute to think about the day.  ",
+    "word_count": 562
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Think about one positive or fun thing you did.",
+    "word_count": 578
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Praise yourself for one thing you did well today.",
+    "word_count": 587
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Think of one thing you can do differently tomorrow. ",
+    "word_count": 596
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Think of one thing that you are grateful for. ",
+    "word_count": 606
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6f36176b-c6e9-4300-86ce-e8805d2f17d1",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "You are a star!",
+    "word_count": 616
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "75450f1c-ca29-4d2f-922e-9419d12eaa22",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Close your eyes and think about the day. Name 1 thing that you are grateful for. Name 1 thing that you did well. Name 1 think that you love. You earned a goodnight of sleep!",
+    "word_count": 620
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here's an activity to relax your body:",
+    "word_count": 655
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Sit comfortably and close your eyes if you can.",
+    "word_count": 662
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Imagine a golden ring scanning your body from your feet to your head. ",
+    "word_count": 671
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Pay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful? ",
+    "word_count": 685
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Focus on those areas for a moment. Breathe in to the area and when you breathe out, try to let go of any tension or pain. ",
+    "word_count": 705
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Do this for a few breaths. ",
+    "word_count": 732
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Open your eyes. How does your body feel now?",
+    "word_count": 739
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "9db61829-5092-4845-9e7b-cf2e1f714de4",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "Try this next time you find yourself lying in bed unable to sleep!",
+    "word_count": 748
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Notice your connection with the ground beneath you.",
+    "word_count": 761
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "What parts of your body touch the ground? What parts of your body don’t? ",
+    "word_count": 769
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Notice where it feels warm and where it feels cool.",
+    "word_count": 784
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Feel the ground underneath you supporting you. Let your body sink into the support of the ground. ",
+    "word_count": 794
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "56e4a2e9-9296-4c5b-898f-54e1ff7c4bd3",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+    "word_count": 812
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here is a short relaxation activity for you:",
+    "word_count": 832
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Sit down and close your eyes",
+    "word_count": 840
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "How many sounds can you hear? ",
+    "word_count": 846
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Listen to the sounds inside and outside the room. Count them on your fingers.",
+    "word_count": 853
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+    "word_count": 867
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Try again for another ten seconds. ",
+    "word_count": 882
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Did you hear any new sounds? Did you hear any sounds inside your own body?",
+    "word_count": 889
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "6d3435f9-dd3d-44e8-8d04-b847566c7979",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "Notice how you feel now.",
+    "word_count": 904
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Use the magic power of three to stay connected and relax.",
+    "word_count": 909
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Breathe in to the count of three. 1, 2, 3.",
+    "word_count": 920
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Breath out to the count of three. 1, 2, 3.",
+    "word_count": 930
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Breathe in to the count of three. 1, 2, 3.",
+    "word_count": 940
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Breath out to the count of three. 1, 2, 3.",
+    "word_count": 950
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Breathe in to the count of three. 1, 2, 3.",
+    "word_count": 960
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Breath out to the count of three. 1, 2, 3.",
+    "word_count": 970
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "348bb16e-d3c5-4086-a9ec-d66f6a55ad71",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "How do you feel now? Do you feel any different? Deep breathing helps our whole body and mind to calm down. ",
+    "word_count": 980
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do you ever feel something so strongly that you want to run away from it?",
+    "word_count": 1002
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Instead of moving away from the feeling, let’s move towards it for a moment.",
+    "word_count": 1017
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "It’s ok. Close your eyes if you feel comfortable. Take a deep breath.",
+    "word_count": 1031
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Become curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?",
+    "word_count": 1044
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Ask yourself some questions. What is it telling me? What does it need? How can I be kind to myself in this moment?",
+    "word_count": 1065
+  },
+  {
+    "has_extraline": 1,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "If your mind starts to wander, it’s normal. Just bring it back to the feeling. Keep breathing and feeling.",
+    "word_count": 1088
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f959cd92-9e63-4477-8339-81cf32dda757",
+    "bit_id": "ed6397bf-6b5f-48ee-bdd8-777b33222fb7",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "Reassure yourself. It’s ok to feel. Feeling is healing!",
+    "word_count": 1107
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "1997263f-84a1-4ed5-8f5d-064b0f08ab3f",
+    "bit_id": "bc5401d1-9752-42dd-840a-de140a7b224a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+    "word_count": 1116
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "1b84ad14-fd93-4dcc-92b6-cb374aa39949",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for making so much effort to be a better parent. You are loved and appreciated!",
+    "word_count": 1130
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "97be57f8-dda7-4a96-a2f7-58c49420d3ff",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!",
+    "word_count": 1147
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "9de56dd9-1d4e-4779-8709-898d341bc8ff",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! ",
+    "word_count": 1166
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a9b8c743-55b9-49d2-821d-135888efd133",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!",
+    "word_count": 1188
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "beeab132-1207-4d43-9640-44b3cfc311e3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!",
+    "word_count": 1202
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "338022f0-8508-43b5-b57d-870fc751be34",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing.",
+    "word_count": 1227
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "4408232c-6a88-420c-ab8e-e839b7169727",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for being patient with yourself and your family. Every little bit helps! ",
+    "word_count": 1260
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "854568d7-734e-4042-80d6-b882b575eedf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for being a man who supports their family. You are a real hero.",
+    "word_count": 1275
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a63a65c3-0ee6-467f-a4ec-22880b8efd72",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You’re a man who puts a lot of thought into everything you do. We see it and appreciate it.",
+    "word_count": 1290
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "7a729be8-e8b6-4f13-bbe0-d7859ada8409",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for your dedication! The world needs more men like you. ",
+    "word_count": 1309
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "5112ab95-365b-42fe-ad6b-f823e8b12c9f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hooray! Other women around the world are cheering for you right now!",
+    "word_count": 1322
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d72fff7a-139b-4d6d-914a-70bcfa03ac75",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "It’s not always easy to be a woman in this world. But you are leading the way! ",
+    "word_count": 1334
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "7a0b5657-fbf5-4ac0-90f7-4c98fa25fafb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You are such a great example for all men! Keep up the good work.",
+    "word_count": 1352
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "88bb4fbd-f273-43f0-8418-4a3eaea89b8e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Your commitment is an inspiration for all men. Keep calm and carry on! ",
+    "word_count": 1366
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "b0b4167f-ec1a-4867-9610-b373c13fb4bb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for your dedication! The world needs more women like you.",
+    "word_count": 1380
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "ad64cb7b-463f-4fbc-870e-2626ed9bc519",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Fake it until you make it, Mama!",
+    "word_count": 1392
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "85eeee1b-bcaf-44b2-83c6-f17a91b15095",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for being a superman and being there for your family today! Keep it up!",
+    "word_count": 1399
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "c20e13fe-54fb-4ed6-9f00-05d9d6cf0cea",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hey beautiful woman! Thank you for showing so much strength and sharing it with your family.",
+    "word_count": 1415
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "88f3a7c6-851b-4fb0-a5e7-49a83096975d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for being an inspiration to other women. Keep shining that light of yours! ",
+    "word_count": 1431
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "2ea44795-6bd8-4ff5-b096-0b604a1ebe6c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for showing up for your family today and doing your best! You are appreciated!",
+    "word_count": 1447
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "0e82d119-ec96-4b2f-9b18-87599f8a5add",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!",
+    "word_count": 1463
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "cb6db0e9-5d1c-483c-827d-e449d5b38551",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!",
+    "word_count": 1486
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "63f5d57f-5c08-4f94-bbb9-48bdfe14a3f0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!",
+    "word_count": 1503
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "136ec242-176d-4167-89d9-78e16e264b5b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Every time you take a pause is an act of kindness. Thank you for being kind to yourself and your family today!",
+    "word_count": 1520
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "ee669233-423f-4a69-98cd-c3e4b4d0200a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "It’s the end of the day! You did it! Now it’s time for you. You deserve ",
+    "word_count": 1542
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "e6ca682f-c1d6-4e12-b32d-73ccc72905c4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference.",
+    "word_count": 1559
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a6bf2704-e21d-4b7e-9de5-b2eaa5b489c0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "word_count": 1574
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "3c5df604-794b-475e-8e8e-dbc1442b0f59",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You made a difference today by showing up. Your down time starts now!",
+    "word_count": 1591
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "b3dbabb5-acac-42a4-8ef3-17f0f1c68eb3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+    "word_count": 1604
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a13abe6b-acdb-47c3-bb47-d7599173b8a9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! ",
+    "word_count": 1623
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a3a48b3e-0655-4fab-ba7c-b93ea321a2a8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Ten points for you today! Together we can overcome any challenge.",
+    "word_count": 1644
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "9a70b79e-f757-4fd0-a21b-701543c146d5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for spending One-on-One time with your family! Time is the most valuable gift you can give them. ",
+    "word_count": 1655
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "265c09bb-63b1-4f4f-a9b8-f3b817c76713",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for your kindness and patience today! Even when it’s tough, your words of praise, your smile and your attention are like sunshine for your children.",
+    "word_count": 1675
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "147ce4ce-ab04-452b-bdc2-56c67ad20e0c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Your curiosity and creativity are paying off! Give yourself a hug!",
+    "word_count": 1702
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "a6d06bea-17ac-4251-936d-50a5183454af",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Top marks for effort! It’s not easy but you tried your best. That’s all you can ever do!",
+    "word_count": 1713
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "3ebd9c0d-2d60-46b2-8a9b-d8a96cc20f8e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day.",
+    "word_count": 1731
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hi! How is your parenting going today? ",
+    "word_count": 1754
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Great",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1762
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Okay",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1763
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d8acf636-db42-4d06-a796-c1723b53ed3c",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Bad",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1764
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d89689a7-27c9-45c7-981f-3aaa19ab0771",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 1765
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "22d6cba4-e1e8-4ee9-ab91-55f45d6b0f6e",
+    "bit_type": "arguments",
+    "text": "great",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1772
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "16762c7d-c741-4c1e-b72d-8e74034544ad",
+    "bit_type": "arguments",
+    "text": "okay",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1773
+  },
+  {
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d4a5b8e3-4612-4720-9716-4dd6ad09ddf3",
+    "bit_type": "arguments",
+    "text": "bad",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1774
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "311203e0-a245-41f3-92ab-1d70f4ed2a24",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "There’s no such thing as a perfect parent or the perfect child. We are all just trying our best!",
+    "word_count": 1775
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "2cd89e45-9ffe-4ab8-94a3-c94f44a8b0e3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sometimes it’s easy, sometimes it’s not. Let go of the mistakes and celebrate the wins, however small!",
+    "word_count": 1794
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "17357e49-e01b-41e7-8fb9-44b047e2e20a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hooray! Trust that your hard work is bearing sweet fruits, even if you can’t taste them yet!",
+    "word_count": 1811
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "73448011-5cac-41ce-ac1d-d5bbf35b906d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Congratulations! You are doing amazing! Remember it’s the small things that make the big difference.",
+    "word_count": 1828
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "9522b0d9-2db0-478a-964b-3b905bfe43d6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Whatever you feel you did ‘wrong’ today, let it go and try again tomorrow. It’s ok! ",
+    "word_count": 1843
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "098a8142-4ff1-46d4-90b4-5910934af798",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing.",
+    "word_count": 1860
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "d64df08f-c5ff-40d9-bad0-e54b84333d49",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for bringing the sunshine of positive attention into your family. Keep shining!",
+    "word_count": 1893
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "e558c0b3-685d-47b2-a2fb-f7fc3f74c6a0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Thank you for getting up every morning and trying again. Even when you are tired. That is real courage and dedication! ",
+    "word_count": 1907
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "7e0d5bf4-3555-4f45-9af8-e867b2ee61ef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for getting to the end of the day! Sometimes that’s all we can do. Get some rest and try again tomorrow!",
+    "word_count": 1929
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "3674bc0e-ccce-40db-bcc9-a36023611866",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+    "word_count": 1952
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "0cc0467a-80e4-4892-93bd-0946a8164ee2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "There’s no such thing as a perfect parent. Speak kindly to yourself about what a great job you are doing. We think you’re doing great!",
+    "word_count": 1971
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "985722db-e2b3-49a3-9fb3-1dadb24a27df",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You made a difference today by showing up. Your down time starts now!",
+    "word_count": 1996
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "0b523c06-96d5-4bb6-957b-c5e46abc919c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "It’s the end of the day! You did it! Now it’s time for you. You deserve a break!",
+    "word_count": 2009
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "96855761-2471-45f5-8ca4-a30c3329a1ef",
+    "bit_id": "c085b3d1-3b55-4cbf-b7b6-5fddcc0dbd03",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taking care of yourself is taking care of your kids! Well done for taking a pause today. Keep it up! ",
+    "word_count": 2027
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "bd23a910-1b8c-4901-adeb-0c9eb21d4f67",
+    "bit_id": "d2cb27da-2da6-4564-a700-d339abc03435",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hi! If you have found these messages helpful, please share with a friend!",
+    "word_count": 2048
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "82db61c2-6cde-407f-9b20-3d5f80c283af",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Congratulations! You have made it through your first week. How time flies! ",
+    "word_count": 2061
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "4a18309f-ab3b-4952-9946-a530482d4883",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Congratulations! You have made it through another week!",
+    "word_count": 2074
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "8e3c36fb-1bed-4ba4-bc3e-a88b6fd9d38f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You have added one skill to your Parenting Toolkit:",
+    "word_count": 2082
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "acf12b21-862a-4455-9cf7-2aeda9747d4e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You have added @results.n_skills_week skills to your Parenting Toolkit:",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers",
+    "word_count": 2091
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "dac7f5d0-b197-4575-94e8-5e6eb3c21d7e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Type \"Help\" if you ever want to revisit them for more support.",
+    "word_count": 2100
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "93779894-f6e9-4bcf-b8fe-31aace9dfc35",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "You also have made progress on the following skills: ",
+    "word_count": 2112
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "a20773cb-806b-4de2-8c1b-f70c8dbc9284",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Type \"Help\" if you ever want to go back and complete them.",
+    "word_count": 2122
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "969a0b76-44dd-401c-b581-f2e591235ee9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+    "word_count": 2134
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "969a0b76-44dd-401c-b581-f2e591235ee9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+    "word_count": 2152
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3a4b473c-0166-4b85-a21e-da07e10c5728",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to continue receiving these tips at the same frequency or less often? You can also change the time of day that you receive messages.  Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
+    "word_count": 2177
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3a4b473c-0166-4b85-a21e-da07e10c5728",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Same frequency",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2216
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3a4b473c-0166-4b85-a21e-da07e10c5728",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "A little less often",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 2218
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "a3af6a9e-11d8-46ca-b0a9-7f7624f499ec",
+    "bit_type": "arguments",
+    "text": "same ",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2222
+  },
+  {
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "8b80327c-881b-4661-87e3-832c373491d4",
+    "bit_type": "arguments",
+    "text": "less often",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 2224
+  },
+  {
+    "has_extraline": 0,
+    "flow_id": "f8947d0f-dc7c-4702-8015-a6cf35fe9987",
+    "bit_id": "3667c7de-8b19-4bf8-bbd8-3d037b35a5d3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 2226
+  }
+]

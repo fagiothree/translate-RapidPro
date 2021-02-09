@@ -1,0 +1,464 @@
+[
+  {
+    "SourceText": "Do you want to go back and learn more about talking about emotions?",
+    "text": "Adakah anda ingin kembali dan belajar lebih lanjut mengenai emosi?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting.",
+    "text": "Memberikan akibat yang menenangkan membantu anak-anak kita bertanggungjawab terhadap apa yang mereka lakukan. Tindakan ini juga menjadikan disiplin yang terkawal. Ini adalah lebih berkesan berbanding memukul atau menjerit.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about using consequences?",
+    "text": "Adakah anda ingin kembali dan belajar dengan lebih lanjut tentang penggunaan akibat?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some examples of ways you could use consequences? ",
+    "text": "Adakah anda memerlukan beberapa contoh cara menggunakan akibat? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Okay! Here are some behaviours and possible consequences you could use:",
+    "text": "Okey! Di sini terdapat sebahagian tingkah laku dan akibat yang anda mungkin boleh gunakan:",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Realistic: Consider the age of your child",
+    "text": "• Realistik: Pertimbangkan umur anak anda",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Immediate: Give them as soon as possible",
+    "text": "• Segera: Berikan dengan secepat mungkin kepada mereka",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Fair: Make sure the consequence is not too harsh",
+    "text": "• Adil: Pastikan akibat tidak terlalu kasar",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Consistent: Make sure you can follow through if you have to",
+    "text": "• Konsisten: Pastikan anda boleh melaluinya jika perlu",
+    "type": "text"
+  },
+  {
+    "SourceText": "• The last resort: Try to encourage the positive behaviour to happen more often!",
+    "text": "• Penyelesaian yang terakhir: Cuba galakkan tingkah laku yang positif untuk dilakukan dengan lebih kerap!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit! ",
+    "text": "Tahniah! Anda telah menambah satu lagi kemahiran dalam Kit Keibubapaan anda! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Using consequences can help children learn that their actions have an impact on themselves and others. It is an important step to prepare them for their life outside of the family as they get older.",
+    "text": "Menggunakan akibat dapat membantu anak-anak belajar bahawa tindakan mereka memberi kesan kepada diri mereka dan orang lain. Ia merupakan satu langkah yang penting untuk mereka membuat persediaan sebelum hidup berasingan dengan keluarga apabila mereka dewasa.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about what to do when your baby is crying?",
+    "text": "Adakah anda mahu kembali dan belajar dengan lebih lanjut mengenai apa yang perlu dilakukan apabila bayi anda menangis?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to use ignore to reduce tantrums or other difficult behaviours?",
+    "text": "Adakah anda ingin kembali dan mengetahui lebih lanjut mengenai cara menggunakan pengabaian untuk mengurangkan amukan atau tingkah laku sukar yang lain?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If your child gets frustrated, you can gently reassure your child by",
+    "text": "Berikan bantuan yang mencukupi untuk anak berjaya. Bermain bersama dan meniru apa yang mereka lakukan adalah baik tetapi cuba biarkan mereka terus berusaha Sekiranya anak anda berasa kecewa, anda boleh menenangkannya dengan lembut dengan",
+    "type": "text"
+  },
+  {
+    "SourceText": "gently stroke their back.",
+    "text": "mengusap belakang anak secara perlahan-lahan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to spend One-on-One Time with your child?",
+    "text": "Adakah anda ingin mengulang dan mempelajari lebih banyak lagi cara bagaimana untuk meluangkan Masa Bersama Seorang-Dengan-Seorang bersama anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to spend One-on-One Time with your teen?",
+    "text": "Adakah anda ingin mengulang dan mempelajari lebih banyak lagi cara bagaimana untuk meluangkan Masa Bersama Seorang-Dengan-Seorang bersama anak remaja anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to spend One-on-One Time with your baby?",
+    "text": "Adakah anda ingin mengulang dan mempelajari lebih banyak lagi cara bagaimana untuk meluangkan Masa Bersama Seorang-Dengan-Seorang bersama bayi anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 1. Praise your child or teenager for something they have done well. They may not show it, but you’ll see them doing that good thing again. It will also reassure them that you notice and care.",
+    "text": "Langkah 1. Puji anak anda atau remaja untuk sesuatu yang telah mereka lakukan dengan baik. Mereka mungkin tidak menunjukkannya, tetapi anda akan melihat mereka mengulangi perkara yang baik itu. Perkara ini akan meyakinkan mereka bahawa anda memerhati dan mengambil berat.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 2. Praise the behaviour. Use words to describe the behaviour that you are praising. Say, 'Well done for finishing all your chores, Sam,' instead of 'Good job.'",
+    "text": "Langkah 2. Puji tingkah laku. Gunakan perkataan untuk menggambarkan tingkah laku yang anda puji. Katakan, 'Tahniah kerana menyelesaikan semua tugas anda, Sam,' bukannya 'Kerja yang bagus.'",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 3. Praise with enthusiasm. Really mean it when you say it!",
+    "text": "Langkah 3. Puji dengan penuh semangat. Anda benar-benar memaksudkannya apabila anda mengatakannya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Keep it positive. It normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\"",
+    "text": "Sentiasa positif. Adalah normal untuk berkata tingkah laku negatif anak anda, contohnya \"Jangan merengek,\" atau \"Berhenti berlari di dalam rumah.\" Sebaliknya, cuma nyatakan apa yang anda mahu anak anda lakukan, contohnya \"Cakap dengan suara yang tenang,\" atau \"Ingat untuk berjalan di dalam rumah.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Help your younger children learn routines by taking them through the activity step by step. Give one instruction at a time. Praise them each time they follow! ",
+    "text": "Bantulah anak-anak kecil anda untuk belajar rutin dengan melakukan aktiviti secara langkah demi langkah. Beri satu arahan pada satu masa. Beri pujian setiap kali mereka ikut! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Involve your teen in creating daily plans. Set goals and rewards together. They can plan when they do schoolwork and when they relax! ",
+    "text": "Libatkan anak remaja anda dalam menyediakan rancangan harian. Tentukan matlamat dan ganjaran bersama-sama. Mereka boleh rancang waktu untuk membuat kerja sekolah dan bila untuk bersantai! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Transition warnings can also be very helpful. They give your child some time to prepare for the next activity: \"In 5 minutes it will be time to pack up the toys before bedtime…\"",
+    "text": "Amaran peralihan juga boleh jadi sangat membantu. Ia memberikan anak anda masa untuk bersedia bagi aktiviti selanjutnya: \"Lagi 5 minit adalah masa untuk kemaskan barang-barang mainan sebelum makan malam...\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Regular eating and sleeping times are especially important for babies. Not enough sleep can make your child cranky, irritable, and short tempered.",
+    "text": "Masa makan dan tidur yang teratur adalah penting terutamanya untuk bayi. Tidur yang tidak cukup boleh menyebabkan anak anda resah, cepat marah, dan mudah mengamuk.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Regular eating and sleeping times are especially important for young babies. Not enough sleep can make your child cranky, irritable, and short tempered.",
+    "text": "Masa makan dan tidur yang teratur adalah penting terutamanya untuk bayi. Tidur yang tidak cukup boleh menyebabkan anak anda resah, cepat marah, dan mudah mengamuk.",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Give your child a hug and kiss goodnight before leaving the room.  ",
+    "text": "• Peluk dan cium anak anda sebelum meninggalkan bilik.  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Involve your teen in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax! ",
+    "text": "Libatkan anak remaja anda dalam merangka rancangan harian. Tetapkan matlamat dan ganjaran secara bersama. Biarkan mereka merancang bila untuk membuat kerja sekolah dan bila mereka boleh berehat! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to go back and learn more about how to talk about COVID-19 with your children?",
+    "text": "Adakah anda mahu berpatah balik dan belajar lebih lagi tentang bagaimana hendak bercakap tentang COVID-19 dengan anak-anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for. ",
+    "text": "Kadang kala kita berasa kecewa dengan anak-anak kerana kita mengharapkan mereka bertingkah laku dengan cara yang mereka belum bersedia. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to support children living with disabilities?",
+    "text": "Adakah anda mahu kembali dan belajar lebih lanjut mengenai kaedah untuk membantu kanak-kanak kurang upaya?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to support your child's learning?",
+    "text": "Adakah anda ingin kembali dan mengetahui lebih lanjut mengenai cara menyokong pembelajaran anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more?",
+    "text": "Adakah anda ingin kembali dan mengetahui lebih lanjut lagi?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Involve your teen in creating family tech agreements about healthy device use.",
+    "text": "Libatkan remaja anda dalam membina perjanjian teknologi keluarga mengenai penggunaan peranti sihat.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Involve your child in creating family tech agreements about healthy device use.",
+    "text": "Libatkan anak anda dalam membina perjanjian teknologi keluarga mengenai penggunaan peranti sihat.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn about another way to protect your child online? ",
+    "text": "Adakah anda ingin kembali dan mengetahui cara lain untuk melindungi anak anda dalam talian? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn about another way to protect yourself online?",
+    "text": "Adakah anda ingin kembali dan mengetahui cara lain untuk melindungi diri anda dalam talian?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Every child has challenging behaviour sometimes. If you would like some tips, type \"Help\".",
+    "text": "Hai! Setiap kanak-kanak kadang-kadang mempunyai tingkah laku yang mencabar. Sekiranya anda mahukan beberapa petua, taip \"Tolong\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember that One-on-One time, praise for being good, and consistent routines will also help reduce difficult behaviours.",
+    "text": "Ingat tentang Masa Bersama Seorang-Dengan-Seorang, puji apabila anak bertingkah laku baik, dan rutin yang konsisten juga akan membantu mengurangkan tingkah laku yang sukar.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+    "text": "Helo! Perkongsian buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat anda dan anak anda nikmati.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to learn 3 steps to get it right?",
+    "text": "Adakah anda ingin mempelajari 3 langkah untuk memperbaikinya?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to get your children to follow instructions more often?",
+    "text": "Adakah anda ingin kembali dan mengetahui lebih lanjut mengenai cara membuat anak-anak anda mengikuti arahan lebih kerap?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! Managing our children's behaviour can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
+    "text": "Helo! Mengurus tingkah laku anak-anak kita merupakan satu cabaran… walaupun pada masa-masa terbaik. Kita kadang-kadang tidak menyedari ketika anak-anak berkelakuan baik. Tetapi apabila mereka nakal, ia boleh menjadi satu mimpi buruk!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Today's Tip is all about Child Behaviour. There are 2 main ways that we can do to help our children behave positively more often.",
+    "text": "Tip hari ini adalah mengenai Tingkah Laku Anak. Terdapat 2 cara utama untuk membantu anak-anak bersikap positif dengan lebih kerap.",
+    "type": "text"
+  },
+  {
+    "SourceText": "These suggestions are from over 50 years of research on what works. But don't take our word for it, try them out and decide for yourself. And remember...practice makes perfect!",
+    "text": "Cadangan-cadangan ini adalah hasil daripada penyelidikan lebih daripada 50 tahun mengenai pendekatan yang berkesan. Tetapi jangan terus percayakan kami, cubalah dan tentukannya sendiri. Dan ingat... latihan menjadikan ianya sempurna!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Do you want to go back and learn more about how to protect your child from abuse?",
+    "text": "Adakah awak mahu kembali dan mempelajari tentang bagaimana untuk melindungi anak anda daripada penderaan?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Stop the river at the source. The same things usually make us get stressed and angry every time. What makes you angry? When does it happen? How do you normally react?",
+    "text": "Berhentikan masalah daripada punca. Perkara yang sama selalunya membuatkan kita tertekan dan marah. Apa yang menyebabkan anda marah? Bila ianya berlaku? Bagaimana anda biasanya bertindak balas?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here are some things that can help make it less likely that bad things happen when you are angry: ",
+    "text": "Berikut adalah beberapa perkara yang boleh membantu mengurangkan kecenderungan perkara buruk berlaku apabila anda marah: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Do you have weapons or things  that can be used to hurt others?  Lock them up, hide them or take them out of the home.",
+    "text": "2. Adakah anda mempunyai senjata atau sesuatu yang boleh digunakan untuk mencederakan orang lain? Simpan di tempat yang berkunci, sembunyikan atau keluarkan daripada rumah.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some other relaxation activities?",
+    "text": "Adakah anda mahu aktiviti santai yang lain?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some suggestions for other relaxation activities?",
+    "text": "Adakah anda mahukan beberapa cadangan untuk aktiviti santai yang lain?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+    "text": "Hai! Apabila anda menjaga diri sendiri, anda juga menjaga anak anda. Kita semua perlu berhubung. Cuba bercakap dengan rakan, keluarga, dan rangkaian sokongan lain setiap hari. Sekiranya sudah lama anda tidak menghubungi seseorang, lakukan sekarang!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! How are you doing? If you are feeling overwhelmed or stressed, take a break!  When your children are asleep, do something fun or relaxing for yourself. You deserve it!",
+    "text": "Hai! Apa khabar? Sekiranya anda berasa gelisah atau tertekan, berehatlah! Ketika anak anda sedang tidur, lakukan sesuatu yang menyeronokkan atau bersantai. Anda layak mendapatkannya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Listening to your favourite music",
+    "text": "Mendengar muzik kegemaran anda",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here is a short activity that can help when you are feeling like needing some more support to get through the day.",
+    "text": "Helo! Apakah perasaan anda? Jika anda berasa gelisah atau tertekan, di sini ada beberapa aktiviti pendek yang boleh membantu apabila anda berasa seperti memerlukan sokongan untuk meneruskan hari ini.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? ",
+    "text": "Kenal pasti apa yang sedang berlaku kepada anda pada masa ini. Apa yang anda sedang fikir? Adakah fikiran anda positif atau negatif. Bagaimana perasaan anda? Adakah anda rasa seronok atau tidak seronok? Apa yang badan anda rasa? Adakah anda rasa tegang atau santai? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Before you open your eyes, take a moment to reflect on your experience. Notice if you feel any different.",
+    "text": "Sebelum anda membuka mata, ambil masa seketika untuk refleksi pengalaman anda. Perhatikan jika anda rasa sebarang perbezaan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a link other support that may help you cope with any stress or other emotional difficulties that you may be experiencing. If you ever need this link, type \"Help\". Chat to you later!",
+    "text": "Berikut adalah pautan sokongan lain yang dapat membantu anda mengatasi tekanan atau kesukaran emosi lain yang mungkin anda alami. Sekiranya anda memerlukan pautan ini, taip \"Tolong\". Berbual dengan anda kemudian!",
+    "type": "text"
+  },
+  {
+    "SourceText": "*Referral to local mental health services hotline in country*",
+    "text": "*Rujukan hotline perkhidmatan kesihatan mental tempatan di negara ini*",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a moment to reflect on your experience. ",
+    "text": "Ambil masa sebentar untuk refleksi pengalaman anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay. ",
+    "text": "Duduk, tutup mata anda dan dengar nafas anda masuk dan keluar. Perhatikan apa yang anda rasa. Apabila telah bersedia, buka mata anda sekali lagi. Semuanya ok sahaja. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like other relaxation activities?",
+    "text": "Adakah anda mahu aktiviti santai yang lain?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? ",
+    "text": "Apakah tiga makanan kegemaran anda? Bolehkah anda namakan tiga benda yang anda nampak sekarang? Adakah anda boleh mendengar tiga bunyi sekarang? Apakah tiga perkara yang anda syukuri sekarang? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!",
+    "text": "Tarik nafas ke dalam dengan kiraan tiga dan hembus nafas keluar dengan kiraan tiga. Bagaimana anda rasa sekarang? Adakah anda rasa sebarang perbezaan? Tiga adalah nombor yang ajaib!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons parents struggle. Please choose the closest to you.",
+    "text": "Kami faham bahawa meluangkan Masa Seorang-bersama-Seorang kadangkala boleh menjadi sukar. Inilah adalah beberapa sebab utama kepada kesukaran ibu bapa. Pilih yang paling dekat dengan anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "1 Not enough time",
+    "text": "1 Tidak cukup masa",
+    "type": "text"
+  },
+  {
+    "SourceText": "2 My child did not want to spend time with me",
+    "text": "2 Anak saya tidak mahu meluangkan masa dengan saya",
+    "type": "text"
+  },
+  {
+    "SourceText": "3 All my child wanted to do is watch T.V. or play with a gadget",
+    "text": "3 Semua yang anak saya ingin lakukan adalah menonton T.V. atau bermain dengan gajet",
+    "type": "text"
+  },
+  {
+    "SourceText": "4 My child wanted to do things I felt uncomfortable about",
+    "text": "4 Anak saya ingin lakukan perkara yang saya rasa tidak selesa",
+    "type": "text"
+  },
+  {
+    "SourceText": "5 My child wanted to do activities that I could not do",
+    "text": "5 Anak saya ingin lakukan aktiviti yang saya tidak dapat melakukannya",
+    "type": "text"
+  },
+  {
+    "SourceText": "6 My child chose a competitive activity. I won and then they got angry",
+    "text": "6 Anak saya memilih aktiviti yang kompetitif. Saya menang dan mereka menjadi marah",
+    "type": "text"
+  },
+  {
+    "SourceText": "7 My child had a tantrum at the end of One-on-One Time",
+    "text": "7 Anak saya mengamuk pada akhir Masa Bersama Seorang-dengan-Seorang",
+    "type": "text"
+  },
+  {
+    "SourceText": "8 My child wanted to do too many things at once",
+    "text": "8 Anak saya ingin melakukan terlalu banyak perkara sekaligus",
+    "type": "text"
+  },
+  {
+    "SourceText": "9 All my children wanted One-on-One Time at the same time",
+    "text": "9 Semua anak saya ingin Masa Bersama Seorang-dengan-Seorang pada masa yang sama",
+    "type": "text"
+  },
+  {
+    "SourceText": "111 Other",
+    "text": "111 Yang lain",
+    "type": "text"
+  },
+  {
+    "SourceText": "999 Prefer not to say",
+    "text": "999 Lebih suka untuk tidak bercakap",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can make you feel bad if your children do not want to spend One-on-One Time you. Think to yourself: When are they more open to you? Maybe in the morning or right before bedtime.",
+    "text": "Ini boleh membuatkan anda berasa tidak seronok jika anak anda tidak ingin meluangkan Masa Bersama Seorang-dengan-Seorang bersama anda. Fikirkan sendiri: Bilakah mereka lebih terbuka untuk anda? Mungkin pada waktu pagi atau sebelum tidur.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are glad to hear that. Remember, if you ever have any challenges, you can always type \"Help\" and we will try our best to help you out. Chat to you later!",
+    "text": "Kami gembira mendengarnya. Ingat, jika anda pernah menghadapi sebarang cabaran, anda selalu boleh menaip \"Tolong\" dan kami akan cuba sebaik mungkin untuk membantu anda. Berbual dengan anda kemudian!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear that this has not been helpful. Not all solutions work for everyone. Here are 6 steps that you can try to find a solution by yourself or with someone else:",
+    "text": "Kami mohon maaf kerana perkara ini tidak dapat membantu. Tidak semua penyelesaian berkesan untuk semua orang. Di sini terdapat 6 langkah yang boleh anda cuba untuk mencari penyelesaian secara sendiri atau bersama orang lain:",
+    "type": "text"
+  },
+  {
+    "SourceText": "1. Take a deep breath.",
+    "text": "1. Tarik nafas dalam-dalam.",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Explore the challenge. ",
+    "text": "2. Terokai cabaran. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Think of possible solutions. ",
+    "text": "3. Fikirkan jalan penyelesaian yang munasabah. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Choose a solution ",
+    "text": "4. Pilih jalan penyelesaian ",
+    "type": "text"
+  },
+  {
+    "SourceText": "6. Reflect on whether it worked. ",
+    "text": "6. Renungkan sama ada ia berkesan. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You should also praise yourself for trying. Parenting is not easy. You are a star just for showing up and caring. You can do it!",
+    "text": "Anda juga harus memuji diri sendiri kerana mencuba. Keibubapaan adalah tidak mudah. Anda adalah bintang hanya untuk muncul dan mengambil berat. Anda boleh lakukannya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember, if you ever have any challenges, you can always type \"Help\" and we will try our best to help you out. Chat to you later!",
+    "text": "Ingat, jika anda pernah menghadapi sebarang cabaran, anda selalu boleh menaip \"Tolong\" dan kami akan cuba sebaik mungkin untuk membantu anda. Berbual dengan anda kemudian!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. ",
+    "text": "Helo! Apa khabar? Kami sangat gembira kerana anda telah mendaftar untuk menerima mesej ini. Ini menunjukkan anda mengambil berat. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would like suggestions for active and calm things to do with your child?",
+    "text": "Inginkan cadangan untuk melakukan perkara yang aktif dan tenang bersama anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "111",
+    "text": "111",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "999",
+    "text": "999",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

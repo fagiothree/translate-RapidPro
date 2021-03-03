@@ -4035,11 +4035,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Would you like suggestions for active and calm things to do with your child?",
-    "text": "Inginkan cadangan untuk melakukan perkara yang aktif dan tenang bersama anak anda?",
-    "type": "text"
-  },
-  {
     "SourceText": "Baby",
     "text": "Bayi",
     "type": "quick_replies",

@@ -1,0 +1,3689 @@
+{
+  "version": "13",
+  "site": "https://rapidpro.idems.international",
+  "flows": [
+    {
+      "_ui": {
+        "nodes": {
+          "0216261c-4c69-43f4-8fa7-e3a06b9cf7b4": {
+            "position": {
+              "left": 280,
+              "top": 1240
+            },
+            "type": "execute_actions"
+          },
+          "22df30c2-c7d3-40a1-bb7c-a2552f268c74": {
+            "position": {
+              "left": 480,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "2df49e87-7903-4fdf-be45-d2483001bdaf": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 1100
+            },
+            "type": "wait_for_response"
+          },
+          "342633f6-e37d-4bc1-9332-228c6ab29755": {
+            "position": {
+              "left": 480,
+              "top": 1500
+            },
+            "type": "execute_actions"
+          },
+          "358e4222-ec1f-4ab9-bb35-18ecfa7c55ff": {
+            "config": {},
+            "position": {
+              "left": 1320,
+              "top": 1700
+            },
+            "type": "split_by_subflow"
+          },
+          "655439cb-1162-4079-ac13-d523da02e798": {
+            "position": {
+              "left": 960,
+              "top": 1280
+            },
+            "type": "execute_actions"
+          },
+          "6cd6bdb7-45d6-4a4f-8c5c-467ad8dc5c57": {
+            "position": {
+              "left": 520,
+              "top": 1240
+            },
+            "type": "execute_actions"
+          },
+          "7e7d9225-5b88-4258-a9f4-52789a0b1f88": {
+            "position": {
+              "left": 920,
+              "top": 140
+            },
+            "type": "execute_actions"
+          },
+          "a64438b6-a924-405a-be8a-efb10e223b2f": {
+            "position": {
+              "left": 40,
+              "top": 1220
+            },
+            "type": "execute_actions"
+          },
+          "a8d487e1-4147-488a-a281-5b7b363bada8": {
+            "position": {
+              "left": 980,
+              "top": 720
+            },
+            "type": "execute_actions"
+          },
+          "af940d4e-3a4b-4ee5-a945-4242d0ad017c": {
+            "position": {
+              "left": 480,
+              "top": 80
+            },
+            "type": "execute_actions"
+          },
+          "b1f56b53-e566-4bb1-b79a-61f900a84446": {
+            "position": {
+              "left": 180,
+              "top": 640
+            },
+            "type": "execute_actions"
+          },
+          "b8574a31-b043-4a37-b274-e598c7992489": {
+            "position": {
+              "left": 140,
+              "top": 1500
+            },
+            "type": "execute_actions"
+          },
+          "c2f904ad-9089-4c43-a60d-fb8529391b8c": {
+            "position": {
+              "left": 920,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
+          "d4702890-8fda-4d38-ae45-59c27d170927": {
+            "position": {
+              "left": 200,
+              "top": 420
+            },
+            "type": "execute_actions"
+          },
+          "d9bdfa1a-8ec7-4d75-b170-e67e3de3f56c": {
+            "position": {
+              "left": 480,
+              "top": 560
+            },
+            "type": "execute_actions"
+          },
+          "ec97c6e9-0154-454f-80b9-30c812ef4f2d": {
+            "position": {
+              "left": 740,
+              "top": 1280
+            },
+            "type": "execute_actions"
+          },
+          "f133e3d8-3ba1-443b-8896-703b5197e72e": {
+            "position": {
+              "left": 1220,
+              "top": 1600
+            },
+            "type": "execute_actions"
+          },
+          "f3158de2-7214-4431-81e6-f912d11eb368": {
+            "position": {
+              "left": 560,
+              "top": 820
+            },
+            "type": "execute_actions"
+          },
+          "fb3d2676-d568-4f36-a7e5-c91a72383963": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 320
+            },
+            "type": "wait_for_response"
+          }
+        }
+      },
+      "expire_after_minutes": 60,
+      "language": "base",
+      "localization": {},
+      "metadata": {
+        "revision": 40
+      },
+      "name": "PLH - Content - Positive - CheckIn - IPV 3",
+      "nodes": [
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "Great",
+                "Neutral",
+                "Bad"
+              ],
+              "text": "How are you doing with sharing family responsibilities at home? ",
+              "type": "send_msg",
+              "uuid": "713f4fdb-6c6d-4b18-8cc9-e0fb961714a2"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "fb3d2676-d568-4f36-a7e5-c91a72383963",
+              "uuid": "b5f92284-ba85-47c3-80d4-869d6a0225bb"
+            }
+          ],
+          "uuid": "af940d4e-3a4b-4ee5-a945-4242d0ad017c"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "86759c37-6613-434d-a716-bad47be88afc"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "c2f904ad-9089-4c43-a60d-fb8529391b8c",
+              "uuid": "56aa727d-acfe-48c5-b714-4019db496433"
+            }
+          ],
+          "uuid": "7e7d9225-5b88-4258-a9f4-52789a0b1f88"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "6d286be2-1369-4465-aac9-9a89c6bb1694",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "af940d4e-3a4b-4ee5-a945-4242d0ad017c",
+              "uuid": "3a9ca773-6f5d-40fa-90f8-b031fab73d07"
+            }
+          ],
+          "uuid": "c2f904ad-9089-4c43-a60d-fb8529391b8c"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "d4702890-8fda-4d38-ae45-59c27d170927",
+              "uuid": "102180c9-2f81-411b-b5a6-c395a064ce5c"
+            },
+            {
+              "destination_uuid": "22df30c2-c7d3-40a1-bb7c-a2552f268c74",
+              "uuid": "1ba155ad-d842-4172-a27b-a5ae15685bd7"
+            },
+            {
+              "destination_uuid": "7e7d9225-5b88-4258-a9f4-52789a0b1f88",
+              "uuid": "4e86ad2b-cb08-4132-bdad-ddded21551ae"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "great"
+                ],
+                "category_uuid": "17e9855b-5988-461d-bc26-5fc22757cfd8",
+                "type": "has_any_word",
+                "uuid": "751118a2-1efe-43f9-9f4f-8d34e1d27454"
+              },
+              {
+                "arguments": [
+                  "neutral bad"
+                ],
+                "category_uuid": "2f230b4c-c8c7-4904-a3fb-92eb751f5e3c",
+                "type": "has_any_word",
+                "uuid": "b9f71168-08d7-4a75-9aea-7b0ba4878460"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "102180c9-2f81-411b-b5a6-c395a064ce5c",
+                "name": "Great",
+                "uuid": "17e9855b-5988-461d-bc26-5fc22757cfd8"
+              },
+              {
+                "exit_uuid": "1ba155ad-d842-4172-a27b-a5ae15685bd7",
+                "name": "Neutral bad",
+                "uuid": "2f230b4c-c8c7-4904-a3fb-92eb751f5e3c"
+              },
+              {
+                "exit_uuid": "4e86ad2b-cb08-4132-bdad-ddded21551ae",
+                "name": "Other",
+                "uuid": "33a6dc07-5863-410d-8341-fc378577a40b"
+              }
+            ],
+            "default_category_uuid": "33a6dc07-5863-410d-8341-fc378577a40b",
+            "operand": "@input.text",
+            "result_name": "Result 2",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "fb3d2676-d568-4f36-a7e5-c91a72383963"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Excellent job! Sharing the workload benefits both the whole family. You are a star!",
+              "type": "send_msg",
+              "uuid": "234d75f1-9de2-43ad-8784-e5028b91ecf5"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "b1f56b53-e566-4bb1-b79a-61f900a84446",
+              "uuid": "0b8fddd4-98ad-4e73-a75d-34341065fbab"
+            }
+          ],
+          "uuid": "d4702890-8fda-4d38-ae45-59c27d170927"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "7f8393f7-e912-4a8a-9d5f-77a625548eb3",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "d9bdfa1a-8ec7-4d75-b170-e67e3de3f56c",
+              "uuid": "a74c57c8-96e8-4b7a-8b95-4211af130598"
+            }
+          ],
+          "uuid": "22df30c2-c7d3-40a1-bb7c-a2552f268c74"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry to hear it was difficult for you. Good job for trying!",
+              "type": "send_msg",
+              "uuid": "1cc6bafa-7a16-439f-b4a3-0f5b0fe98d90"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "f3158de2-7214-4431-81e6-f912d11eb368",
+              "uuid": "ceb2ef6b-36fc-4687-a87d-8edddacde910"
+            }
+          ],
+          "uuid": "d9bdfa1a-8ec7-4d75-b170-e67e3de3f56c"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "7baf9df9-3cee-47a5-af14-d4d94a9e4ed1",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "3e0f9909-8f5d-470e-b045-389b01fe34f3"
+            }
+          ],
+          "uuid": "b1f56b53-e566-4bb1-b79a-61f900a84446"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "3760ddb0-dafc-4ad5-988f-2fdc5f6952be"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "f3158de2-7214-4431-81e6-f912d11eb368",
+              "uuid": "126e5849-ca0e-4310-9c3d-7de834e0ca30"
+            }
+          ],
+          "uuid": "a8d487e1-4147-488a-a281-5b7b363bada8"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [
+                "I forgot to ask my partner if they needed help",
+                "I didn\u2019t know how to ask my partner if they needed help",
+                "I forgot to ask for help",
+                "I didn\u2019t know how to ask for help",
+                "I didn\u2019t know how to help",
+                "My partner didn\u2019t have time to help",
+                "I felt uncomfortable doing tasks I don\u2019t normally do"
+              ],
+              "text": "What was difficult for you about sharing family responsibilities? ",
+              "type": "send_msg",
+              "uuid": "72989449-a1ca-496b-b618-e409a6a753c8"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "2df49e87-7903-4fdf-be45-d2483001bdaf",
+              "uuid": "3ba19ea9-f642-4a89-9852-7414f95804d8"
+            }
+          ],
+          "uuid": "f3158de2-7214-4431-81e6-f912d11eb368"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "a64438b6-a924-405a-be8a-efb10e223b2f",
+              "uuid": "ed45e509-207d-4374-af7f-1c110613b241"
+            },
+            {
+              "destination_uuid": "0216261c-4c69-43f4-8fa7-e3a06b9cf7b4",
+              "uuid": "ac577bbd-f71a-4e87-a78f-e047c8501369"
+            },
+            {
+              "destination_uuid": "6cd6bdb7-45d6-4a4f-8c5c-467ad8dc5c57",
+              "uuid": "d643f95b-9e00-43d4-a0b7-1162bd69f6d3"
+            },
+            {
+              "destination_uuid": "ec97c6e9-0154-454f-80b9-30c812ef4f2d",
+              "uuid": "9cb8731f-acaf-4877-bb78-b0b1a7f4d73b"
+            },
+            {
+              "destination_uuid": "655439cb-1162-4079-ac13-d523da02e798",
+              "uuid": "182a3bb2-caeb-4a0a-a715-8e098ac494af"
+            },
+            {
+              "destination_uuid": "b8574a31-b043-4a37-b274-e598c7992489",
+              "uuid": "c63dd00c-5c6c-4729-9ea2-9b0e50b058fd"
+            },
+            {
+              "destination_uuid": "342633f6-e37d-4bc1-9332-228c6ab29755",
+              "uuid": "3bae840f-3489-4287-8c1a-68902ab1e69f"
+            },
+            {
+              "destination_uuid": "a8d487e1-4147-488a-a281-5b7b363bada8",
+              "uuid": "f7a64075-6804-4abc-8b98-65c98319e437"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "I forgot to ask my partner if they needed help"
+                ],
+                "category_uuid": "733745b2-f4f3-4b42-bf89-a679c63b5699",
+                "type": "has_phrase",
+                "uuid": "ad8dea97-dd91-411f-b76c-2986aaa82f91"
+              },
+              {
+                "arguments": [
+                  "I didn\u2019t know how to ask my partner if they needed help"
+                ],
+                "category_uuid": "f1dcf648-f525-4d2d-b240-badf28d17286",
+                "type": "has_phrase",
+                "uuid": "9a773ffd-c561-41c8-b563-e4826e9893cf"
+              },
+              {
+                "arguments": [
+                  "I forgot to ask for help"
+                ],
+                "category_uuid": "0ede9285-fc68-459a-9233-79d94e587285",
+                "type": "has_phrase",
+                "uuid": "2cd1c7c5-880e-49b4-915a-495301c564eb"
+              },
+              {
+                "arguments": [
+                  "I didn\u2019t know how to ask for help"
+                ],
+                "category_uuid": "9a761859-72df-401c-860c-55b14de44be1",
+                "type": "has_phrase",
+                "uuid": "51fe1c4b-ab94-42ac-b093-fd8c43f9da66"
+              },
+              {
+                "arguments": [
+                  "I didn\u2019t know how to help"
+                ],
+                "category_uuid": "5b270316-9599-4e21-8bb4-fb713043b7d0",
+                "type": "has_phrase",
+                "uuid": "09d1c841-65c4-406d-b25b-0d02af286794"
+              },
+              {
+                "arguments": [
+                  "My partner didn\u2019t have time to help"
+                ],
+                "category_uuid": "6f627640-accf-4163-bc89-be9a806353c0",
+                "type": "has_phrase",
+                "uuid": "1ab79d2c-5ea1-4944-b310-36b62dabf679"
+              },
+              {
+                "arguments": [
+                  "I felt uncomfortable doing tasks I don\u2019t normally do"
+                ],
+                "category_uuid": "765df552-b6f6-4edf-bf18-a398a754a6a1",
+                "type": "has_phrase",
+                "uuid": "d3ee1c6c-3c04-4a3d-a68e-6ddd10f8d614"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "ed45e509-207d-4374-af7f-1c110613b241",
+                "name": "1",
+                "uuid": "733745b2-f4f3-4b42-bf89-a679c63b5699"
+              },
+              {
+                "exit_uuid": "ac577bbd-f71a-4e87-a78f-e047c8501369",
+                "name": "2",
+                "uuid": "f1dcf648-f525-4d2d-b240-badf28d17286"
+              },
+              {
+                "exit_uuid": "d643f95b-9e00-43d4-a0b7-1162bd69f6d3",
+                "name": "3",
+                "uuid": "0ede9285-fc68-459a-9233-79d94e587285"
+              },
+              {
+                "exit_uuid": "9cb8731f-acaf-4877-bb78-b0b1a7f4d73b",
+                "name": "4",
+                "uuid": "9a761859-72df-401c-860c-55b14de44be1"
+              },
+              {
+                "exit_uuid": "182a3bb2-caeb-4a0a-a715-8e098ac494af",
+                "name": "5",
+                "uuid": "5b270316-9599-4e21-8bb4-fb713043b7d0"
+              },
+              {
+                "exit_uuid": "c63dd00c-5c6c-4729-9ea2-9b0e50b058fd",
+                "name": "6",
+                "uuid": "6f627640-accf-4163-bc89-be9a806353c0"
+              },
+              {
+                "exit_uuid": "3bae840f-3489-4287-8c1a-68902ab1e69f",
+                "name": "7",
+                "uuid": "765df552-b6f6-4edf-bf18-a398a754a6a1"
+              },
+              {
+                "exit_uuid": "f7a64075-6804-4abc-8b98-65c98319e437",
+                "name": "Other",
+                "uuid": "1c68cf0c-a23c-495c-b8a4-668c401712f0"
+              }
+            ],
+            "default_category_uuid": "1c68cf0c-a23c-495c-b8a4-668c401712f0",
+            "operand": "@input.text",
+            "result_name": "Result 3",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "2df49e87-7903-4fdf-be45-d2483001bdaf"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "This can be hard to remember! Establishing a routine around caregiving or housework tasks can sometimes be helpful. This also lets you talk to your partner or other adults about how to share the workload.",
+              "type": "send_msg",
+              "uuid": "21140df1-c8b1-485f-adad-f83b77ff0a47"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "bbdbc62b-b784-499b-a2e4-5da3e57f55ec"
+            }
+          ],
+          "uuid": "a64438b6-a924-405a-be8a-efb10e223b2f"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Talk to them! Talking with your partner about how you can share family responsibilities helps both of you understand each other better. It also shows that you care!",
+              "type": "send_msg",
+              "uuid": "04ca4d41-8fb2-41c6-9a11-ece5dfb59fd5"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "6576c69c-8b67-4b49-ac70-4f896e588091"
+            }
+          ],
+          "uuid": "0216261c-4c69-43f4-8fa7-e3a06b9cf7b4"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It is hard to remember to ask for help. Be kind to yourself if you forget to ask and try again another time. Asking for help and sharing family responsibilities benefits the whole family!",
+              "type": "send_msg",
+              "uuid": "73276b36-5dcd-4d9f-b8d7-d2e725ba7265"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "4c832fc6-137c-44fe-a47e-e56570d9263d"
+            }
+          ],
+          "uuid": "6cd6bdb7-45d6-4a4f-8c5c-467ad8dc5c57"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be difficult to know how to ask for help. Try starting off with suggesting a task you would like help with. Being specific gives your partner a clearer idea of what they can support you with.",
+              "type": "send_msg",
+              "uuid": "9a0e9eb8-c9d5-420a-ab5d-434e86936b16"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "f1ce90a4-bbab-4c19-9662-95bb4063c0fa"
+            }
+          ],
+          "uuid": "ec97c6e9-0154-454f-80b9-30c812ef4f2d"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Trying something new can be hard! To make it easier, ask your partner to do it together with you the first few times. Soon you\u2019ll feel more confident doing it on your own!",
+              "type": "send_msg",
+              "uuid": "35fded69-bf6c-4a15-a2ad-6d58f2862323"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "21f8e954-125b-4be5-8b56-9ec525957588"
+            }
+          ],
+          "uuid": "655439cb-1162-4079-ac13-d523da02e798"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be difficult to find time during the day sometimes! Can you think of a time when your partner might be less busy, such as early in the morning or later in the evening? Creating a routine around housework can also be helpful.",
+              "type": "send_msg",
+              "uuid": "1d858262-bd81-4bde-a9ec-7e0dca37061c"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "fcb69b0b-e7a1-49b4-828b-300b2a224eed"
+            }
+          ],
+          "uuid": "b8574a31-b043-4a37-b274-e598c7992489"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sharing responsibilities in the home benefits everyone! While trying something new can feel hard at first, soon you will start to feel more comfortable. If it helps, ask your partner to join you in the beginning!",
+              "type": "send_msg",
+              "uuid": "53097cc0-01bb-44b2-b740-3e3b9cf7cc9b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "e675e6e8-fe20-49b7-a3a5-236bddf88632"
+            }
+          ],
+          "uuid": "342633f6-e37d-4bc1-9332-228c6ab29755"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "want_feedback_checkin",
+                "name": "want feedback checkin"
+              },
+              "type": "set_contact_field",
+              "uuid": "1647d2d7-bf61-4341-967e-97605dc0282c",
+              "value": "yes"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "358e4222-ec1f-4ab9-bb35-18ecfa7c55ff",
+              "uuid": "2267577e-206c-482f-93ba-67b2747df37d"
+            }
+          ],
+          "uuid": "f133e3d8-3ba1-443b-8896-703b5197e72e"
+        },
+        {
+          "actions": [
+            {
+              "flow": {
+                "name": "PLH - Feedback - Feedback for checkIn",
+                "uuid": "8a461ecd-92c1-408e-bd05-7fc23a0488b6"
+              },
+              "type": "enter_flow",
+              "uuid": "2be902b8-56db-44f7-b758-f1f91b452f8b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "34a4b377-73ad-40f1-9792-2d5da7ee8e31"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "4a5feb6f-6948-4d77-a4fd-45dd79333f4e"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "completed"
+                ],
+                "category_uuid": "d0dfda87-4c16-4737-84d7-235dff3509de",
+                "type": "has_only_text",
+                "uuid": "f291d03f-3185-48c5-b945-212a0a864529"
+              },
+              {
+                "arguments": [
+                  "expired"
+                ],
+                "category_uuid": "fdbc8524-4f83-407b-89e3-56542b32aa8a",
+                "type": "has_only_text",
+                "uuid": "37e90abc-680d-4a65-8503-3776548edf0c"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "34a4b377-73ad-40f1-9792-2d5da7ee8e31",
+                "name": "Complete",
+                "uuid": "d0dfda87-4c16-4737-84d7-235dff3509de"
+              },
+              {
+                "exit_uuid": "4a5feb6f-6948-4d77-a4fd-45dd79333f4e",
+                "name": "Expired",
+                "uuid": "fdbc8524-4f83-407b-89e3-56542b32aa8a"
+              }
+            ],
+            "default_category_uuid": "fdbc8524-4f83-407b-89e3-56542b32aa8a",
+            "operand": "@child.run.status",
+            "type": "switch"
+          },
+          "uuid": "358e4222-ec1f-4ab9-bb35-18ecfa7c55ff"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "1f60ca16-5d8e-4aa2-9c58-61b4441e1d1c",
+      "revision": 1
+    },
+    {
+      "_ui": {
+        "nodes": {
+          "02732350-5376-46c3-8ba1-c502f49aa24e": {
+            "position": {
+              "left": 980,
+              "top": 720
+            },
+            "type": "execute_actions"
+          },
+          "03e8c20e-7480-438d-b2d8-d0634e8cb951": {
+            "position": {
+              "left": 200,
+              "top": 420
+            },
+            "type": "execute_actions"
+          },
+          "190e040a-eec4-4ff3-9fa4-152d68b6a922": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 480,
+              "top": 1000
+            },
+            "type": "wait_for_response"
+          },
+          "23f61438-c270-45e2-ba46-fcdadcd2e2ef": {
+            "position": {
+              "left": 180,
+              "top": 640
+            },
+            "type": "execute_actions"
+          },
+          "2d099207-4199-4da3-a52e-9fa814c8a66e": {
+            "position": {
+              "left": 420,
+              "top": 1140
+            },
+            "type": "execute_actions"
+          },
+          "2eef8a84-5a5a-43d3-a4dd-9a947b7af92b": {
+            "position": {
+              "left": 920,
+              "top": 140
+            },
+            "type": "execute_actions"
+          },
+          "5b486d6b-f44c-4d12-bad5-a69efe908399": {
+            "position": {
+              "left": 920,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
+          "5fe1f7d5-c972-4e1d-ae63-aa18b0d29cad": {
+            "position": {
+              "left": 920,
+              "top": 1160
+            },
+            "type": "execute_actions"
+          },
+          "61170dc3-7a29-4701-9185-f2de8efc085d": {
+            "position": {
+              "left": 500,
+              "top": 700
+            },
+            "type": "execute_actions"
+          },
+          "63b275ac-1a79-4b90-99d8-3dbe58ecba1d": {
+            "position": {
+              "left": 200,
+              "top": 1080
+            },
+            "type": "execute_actions"
+          },
+          "67c29cd3-1690-42da-b397-e161346a2eb1": {
+            "config": {},
+            "position": {
+              "left": 1320,
+              "top": 1700
+            },
+            "type": "split_by_subflow"
+          },
+          "6aca6259-4eda-4f77-a7e2-f0fc7a723167": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 320
+            },
+            "type": "wait_for_response"
+          },
+          "7e8fe3fc-8b40-430b-a4b3-2d9439686f32": {
+            "position": {
+              "left": 480,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "b052ed83-cb02-43dd-8bd2-0c589a2c155c": {
+            "position": {
+              "left": 640,
+              "top": 1180
+            },
+            "type": "execute_actions"
+          },
+          "bd36b1cf-df80-4240-9e75-470094597807": {
+            "position": {
+              "left": 480,
+              "top": 80
+            },
+            "type": "execute_actions"
+          },
+          "d9e054a4-0156-4ffd-9021-9bcc42c36d4f": {
+            "position": {
+              "left": 1220,
+              "top": 1600
+            },
+            "type": "execute_actions"
+          },
+          "daa90a4e-2b26-455d-87e8-e2c0989a820a": {
+            "position": {
+              "left": 480,
+              "top": 560
+            },
+            "type": "execute_actions"
+          }
+        }
+      },
+      "expire_after_minutes": 60,
+      "language": "base",
+      "localization": {},
+      "metadata": {
+        "revision": 25
+      },
+      "name": "PLH - Content - Positive - CheckIn - IPV 4",
+      "nodes": [
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "Great",
+                "Neutral",
+                "Bad"
+              ],
+              "text": "How are you doing with trying to resolve conflict in a calm way even when you feel frustrated?",
+              "type": "send_msg",
+              "uuid": "f7c9bcac-f886-407a-b47a-6372c72e4d0f"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "6aca6259-4eda-4f77-a7e2-f0fc7a723167",
+              "uuid": "65545392-8b77-4e12-aada-5a10ea66567c"
+            }
+          ],
+          "uuid": "bd36b1cf-df80-4240-9e75-470094597807"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "ba51b7a3-e79d-4121-bcd8-2c088ce96d5b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "5b486d6b-f44c-4d12-bad5-a69efe908399",
+              "uuid": "48369ec8-1cf7-4062-9652-f4aad5ae2ce1"
+            }
+          ],
+          "uuid": "2eef8a84-5a5a-43d3-a4dd-9a947b7af92b"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "2169435c-3ae1-435c-8169-5b8a82af46d4",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "bd36b1cf-df80-4240-9e75-470094597807",
+              "uuid": "cd8bed32-05a4-4478-8b2d-704f36ac5ea4"
+            }
+          ],
+          "uuid": "5b486d6b-f44c-4d12-bad5-a69efe908399"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "03e8c20e-7480-438d-b2d8-d0634e8cb951",
+              "uuid": "8c9fe846-eeaf-49f9-b71d-e9478ee19713"
+            },
+            {
+              "destination_uuid": "7e8fe3fc-8b40-430b-a4b3-2d9439686f32",
+              "uuid": "521afd12-dbc4-4228-a02b-ff2f2ac443ea"
+            },
+            {
+              "destination_uuid": "2eef8a84-5a5a-43d3-a4dd-9a947b7af92b",
+              "uuid": "978877da-479a-4455-b1e2-15a99425d9db"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "great"
+                ],
+                "category_uuid": "5b3b832e-58a3-4226-b45b-a2209e7c978b",
+                "type": "has_any_word",
+                "uuid": "e92bf35f-1f14-4220-9806-59e75d27ba1e"
+              },
+              {
+                "arguments": [
+                  "neutral bad"
+                ],
+                "category_uuid": "055235b7-ca1c-42ab-8b44-af70fd33cc8e",
+                "type": "has_any_word",
+                "uuid": "dff9d988-4f37-4901-b657-b4faebe88c28"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "8c9fe846-eeaf-49f9-b71d-e9478ee19713",
+                "name": "Great",
+                "uuid": "5b3b832e-58a3-4226-b45b-a2209e7c978b"
+              },
+              {
+                "exit_uuid": "521afd12-dbc4-4228-a02b-ff2f2ac443ea",
+                "name": "Neutral bad",
+                "uuid": "055235b7-ca1c-42ab-8b44-af70fd33cc8e"
+              },
+              {
+                "exit_uuid": "978877da-479a-4455-b1e2-15a99425d9db",
+                "name": "Other",
+                "uuid": "512c6837-b7a6-4967-afa7-e3702eadb859"
+              }
+            ],
+            "default_category_uuid": "512c6837-b7a6-4967-afa7-e3702eadb859",
+            "operand": "@input.text",
+            "result_name": "Result 2",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "6aca6259-4eda-4f77-a7e2-f0fc7a723167"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Good job! Resolving conflicts isn\u2019t always easy. Great to hear it went well!",
+              "type": "send_msg",
+              "uuid": "8783d214-3afd-4fc3-97b3-933b3fc5467a"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "23f61438-c270-45e2-ba46-fcdadcd2e2ef",
+              "uuid": "c937a4d3-7bdf-44aa-9d96-e9e5f4adee61"
+            }
+          ],
+          "uuid": "03e8c20e-7480-438d-b2d8-d0634e8cb951"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "429c36ed-20e9-4771-98eb-9cdc48fff91b",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "daa90a4e-2b26-455d-87e8-e2c0989a820a",
+              "uuid": "e2b09ec4-88b0-4f5d-8157-beed036f799f"
+            }
+          ],
+          "uuid": "7e8fe3fc-8b40-430b-a4b3-2d9439686f32"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry to hear it was challenging. Well done for trying!",
+              "type": "send_msg",
+              "uuid": "4d2cc8df-969a-4099-bf4a-33affaf4cfee"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "61170dc3-7a29-4701-9185-f2de8efc085d",
+              "uuid": "6f406d5c-7c6a-4b22-98c1-369d008e556b"
+            }
+          ],
+          "uuid": "daa90a4e-2b26-455d-87e8-e2c0989a820a"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "97d88e5d-3852-4d6a-820e-6ff4e22a6404",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "72af8b04-21ee-4bc2-a1bc-d5b17e9ee124"
+            }
+          ],
+          "uuid": "23f61438-c270-45e2-ba46-fcdadcd2e2ef"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [
+                "I didn\u2019t stay calm during a disagreement",
+                "I got angry and yelled at my partner",
+                "My partner got angry and yelled at me",
+                "I forgot to take a pause when I started feeling angry"
+              ],
+              "text": "What was difficult for you about resolving conflict peacefully?",
+              "type": "send_msg",
+              "uuid": "bc3a16a0-b4cb-4638-a7f9-f50457627abf"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "190e040a-eec4-4ff3-9fa4-152d68b6a922",
+              "uuid": "35ab4b5a-e22e-4eca-88b8-e36e467a6ecf"
+            }
+          ],
+          "uuid": "61170dc3-7a29-4701-9185-f2de8efc085d"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "1e4f1954-21d5-42b1-bfc5-fcf6adba57b6"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "61170dc3-7a29-4701-9185-f2de8efc085d",
+              "uuid": "a2f6645e-af0e-48db-ae50-bf094a1da938"
+            }
+          ],
+          "uuid": "02732350-5376-46c3-8ba1-c502f49aa24e"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "63b275ac-1a79-4b90-99d8-3dbe58ecba1d",
+              "uuid": "95d7641e-e543-4b3c-a659-1b4ee161bccc"
+            },
+            {
+              "destination_uuid": "2d099207-4199-4da3-a52e-9fa814c8a66e",
+              "uuid": "a38c3f19-d7b1-4155-bbd6-9f190240d846"
+            },
+            {
+              "destination_uuid": "b052ed83-cb02-43dd-8bd2-0c589a2c155c",
+              "uuid": "8848ea9e-ee33-4cdc-880b-efb7ce36e7b6"
+            },
+            {
+              "destination_uuid": "5fe1f7d5-c972-4e1d-ae63-aa18b0d29cad",
+              "uuid": "399c4d2b-e133-4e6d-b0f3-002232ea8924"
+            },
+            {
+              "destination_uuid": "02732350-5376-46c3-8ba1-c502f49aa24e",
+              "uuid": "7036eab8-5d1e-40f5-a8a6-86aa4da02bda"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "I didn\u2019t stay calm during a disagreement"
+                ],
+                "category_uuid": "30cb5780-8dda-4912-b892-b3c0b46b9171",
+                "type": "has_phrase",
+                "uuid": "ac53861e-f7be-4f5d-92d1-1d475e29b657"
+              },
+              {
+                "arguments": [
+                  "I got angry and yelled at my partner"
+                ],
+                "category_uuid": "d5b01ce5-b569-4f21-9cd3-55f966c15dab",
+                "type": "has_phrase",
+                "uuid": "34c25f0e-b721-4428-9882-2755b8052006"
+              },
+              {
+                "arguments": [
+                  "My partner got angry and yelled at me"
+                ],
+                "category_uuid": "9a65502d-99c3-4d77-9de4-a7f64a4da5cf",
+                "type": "has_phrase",
+                "uuid": "ab77fd54-dc11-483c-8ec7-f9c2bd3aacd6"
+              },
+              {
+                "arguments": [
+                  "I forgot to take a pause when I started feeling angry"
+                ],
+                "category_uuid": "02ae31e4-d7e2-4adf-b6a8-0e3b1ce331e8",
+                "type": "has_phrase",
+                "uuid": "52e3ea21-6145-4a58-ae4a-2650a43d5e99"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "95d7641e-e543-4b3c-a659-1b4ee161bccc",
+                "name": "1",
+                "uuid": "30cb5780-8dda-4912-b892-b3c0b46b9171"
+              },
+              {
+                "exit_uuid": "a38c3f19-d7b1-4155-bbd6-9f190240d846",
+                "name": "2",
+                "uuid": "d5b01ce5-b569-4f21-9cd3-55f966c15dab"
+              },
+              {
+                "exit_uuid": "8848ea9e-ee33-4cdc-880b-efb7ce36e7b6",
+                "name": "3",
+                "uuid": "9a65502d-99c3-4d77-9de4-a7f64a4da5cf"
+              },
+              {
+                "exit_uuid": "399c4d2b-e133-4e6d-b0f3-002232ea8924",
+                "name": "4",
+                "uuid": "02ae31e4-d7e2-4adf-b6a8-0e3b1ce331e8"
+              },
+              {
+                "exit_uuid": "7036eab8-5d1e-40f5-a8a6-86aa4da02bda",
+                "name": "Other",
+                "uuid": "b2794e4e-956e-407d-a246-7f5e6b8f5c1a"
+              }
+            ],
+            "default_category_uuid": "b2794e4e-956e-407d-a246-7f5e6b8f5c1a",
+            "operand": "@input.text",
+            "result_name": "Result 3",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "190e040a-eec4-4ff3-9fa4-152d68b6a922"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be really hard to stay calm when we\u2019re having a disagreement with others. Try to think of something that you can do that might help like taking a couple deep breaths.",
+              "type": "send_msg",
+              "uuid": "30699211-4880-4efe-81cf-f5118548fd5c"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "55fc7b62-b00b-4c18-9d99-384bfd4abfb8"
+            }
+          ],
+          "uuid": "63b275ac-1a79-4b90-99d8-3dbe58ecba1d"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "By taking a pause before responding, it can help us stay calm and respond better. When you feel yourself getting angry, try taking a pause. You can do this!",
+              "type": "send_msg",
+              "uuid": "4738779d-011c-4093-8c36-1508c4e69085"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "bc2acbce-b54a-4a87-927d-9602767ac6e0"
+            }
+          ],
+          "uuid": "2d099207-4199-4da3-a52e-9fa814c8a66e"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be easy to forget, but don\u2019t give up! Next time when you start feeling angry, try taking a deep breath before responding. You can also try walking away for a bit if you start feeling frustrated.",
+              "type": "send_msg",
+              "uuid": "5259623a-a89b-4a0a-8e8a-dc0e84077b13"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "923df2d8-663a-4774-99fc-cb06bca41f90"
+            }
+          ],
+          "uuid": "5fe1f7d5-c972-4e1d-ae63-aa18b0d29cad"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sometimes others respond to us negatively when we\u2019re having a disagreement. In these situations, it is sometimes best to walk away for a bit until those involved have calmed down.",
+              "type": "send_msg",
+              "uuid": "648621ad-2be6-4f5b-a46a-ad7fae3c74e9"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "c5f80bdf-f0b0-4306-8f7f-94d7a4e60b2a"
+            }
+          ],
+          "uuid": "b052ed83-cb02-43dd-8bd2-0c589a2c155c"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "want_feedback_checkin",
+                "name": "want feedback checkin"
+              },
+              "type": "set_contact_field",
+              "uuid": "8133ec3c-f25b-4d63-92a9-a9a7ce1e41d5",
+              "value": "yes"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "67c29cd3-1690-42da-b397-e161346a2eb1",
+              "uuid": "7fef64b8-8aaf-49c6-a3ab-0a3a875dc136"
+            }
+          ],
+          "uuid": "d9e054a4-0156-4ffd-9021-9bcc42c36d4f"
+        },
+        {
+          "actions": [
+            {
+              "flow": {
+                "name": "PLH - Feedback - Feedback for checkIn",
+                "uuid": "8a461ecd-92c1-408e-bd05-7fc23a0488b6"
+              },
+              "type": "enter_flow",
+              "uuid": "74a13cc4-1923-421c-872e-01b8e60d3aa8"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "877cba5c-1e43-4a11-adf1-258a5a632994"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "ccdf0d58-d446-459e-9737-b48add1e0005"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "completed"
+                ],
+                "category_uuid": "a9ea6cf9-1cc2-4b50-b11e-13eef93428bb",
+                "type": "has_only_text",
+                "uuid": "972f26de-c40a-4eb9-9307-5886cd4043bd"
+              },
+              {
+                "arguments": [
+                  "expired"
+                ],
+                "category_uuid": "cd61e68c-4353-4f69-9c00-0e134b7e9500",
+                "type": "has_only_text",
+                "uuid": "21249f03-9357-4c36-bb1e-dd095f496dca"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "877cba5c-1e43-4a11-adf1-258a5a632994",
+                "name": "Complete",
+                "uuid": "a9ea6cf9-1cc2-4b50-b11e-13eef93428bb"
+              },
+              {
+                "exit_uuid": "ccdf0d58-d446-459e-9737-b48add1e0005",
+                "name": "Expired",
+                "uuid": "cd61e68c-4353-4f69-9c00-0e134b7e9500"
+              }
+            ],
+            "default_category_uuid": "cd61e68c-4353-4f69-9c00-0e134b7e9500",
+            "operand": "@child.run.status",
+            "type": "switch"
+          },
+          "uuid": "67c29cd3-1690-42da-b397-e161346a2eb1"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "95b3d752-3c99-40f3-83b6-6e6c551bc395",
+      "revision": 1
+    },
+    {
+      "_ui": {
+        "nodes": {
+          "163466aa-f7fd-4e47-8117-1fa83be4240f": {
+            "position": {
+              "left": 980,
+              "top": 720
+            },
+            "type": "execute_actions"
+          },
+          "16b00ef0-c2b3-439d-b85a-091dd293e0c0": {
+            "position": {
+              "left": 480,
+              "top": 560
+            },
+            "type": "execute_actions"
+          },
+          "18ba93bf-b925-43a7-b545-77b3a11f900e": {
+            "position": {
+              "left": 200,
+              "top": 1140
+            },
+            "type": "execute_actions"
+          },
+          "1ba136e4-a9ab-4791-8164-35e2dc6f4494": {
+            "position": {
+              "left": 180,
+              "top": 640
+            },
+            "type": "execute_actions"
+          },
+          "23acf076-b55e-45ff-ae3a-4f03760e3c32": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 480,
+              "top": 1000
+            },
+            "type": "wait_for_response"
+          },
+          "27b31611-951f-4945-bf21-52c80fdbda58": {
+            "position": {
+              "left": 920,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
+          "462bb165-620f-4fc1-bcdf-4befc7423e7f": {
+            "position": {
+              "left": 1220,
+              "top": 1600
+            },
+            "type": "execute_actions"
+          },
+          "50dff276-9476-46ab-9cc5-4a828097b2fd": {
+            "position": {
+              "left": 880,
+              "top": 1160
+            },
+            "type": "execute_actions"
+          },
+          "51643399-2082-4ee5-b3e5-df0405bf84e6": {
+            "position": {
+              "left": 480,
+              "top": 80
+            },
+            "type": "execute_actions"
+          },
+          "8fe5b7a6-c860-41fb-9de1-0182426d9265": {
+            "position": {
+              "left": 920,
+              "top": 140
+            },
+            "type": "execute_actions"
+          },
+          "9cd86743-8720-4d7e-a18a-9c3b38acabda": {
+            "position": {
+              "left": 660,
+              "top": 1160
+            },
+            "type": "execute_actions"
+          },
+          "9d41d6ff-1069-4950-91d3-acfb61fe29ac": {
+            "position": {
+              "left": 480,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "aec63e06-643e-4aba-9a4d-be986e4bbef7": {
+            "position": {
+              "left": 1160,
+              "top": 1160
+            },
+            "type": "execute_actions"
+          },
+          "e3f3f0cf-ed71-4edb-ac55-f46560259260": {
+            "config": {},
+            "position": {
+              "left": 1320,
+              "top": 1700
+            },
+            "type": "split_by_subflow"
+          },
+          "f7ea415e-9c79-43ea-aa8e-7fe3d814e1ba": {
+            "position": {
+              "left": 420,
+              "top": 1180
+            },
+            "type": "execute_actions"
+          },
+          "f9080e5f-09f8-442f-b6f2-2914349041aa": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 320
+            },
+            "type": "wait_for_response"
+          },
+          "fa6548fd-9de3-4252-bdc6-1cf2611dc08a": {
+            "position": {
+              "left": 200,
+              "top": 420
+            },
+            "type": "execute_actions"
+          },
+          "fbf8b8c9-f9c3-4f1f-adaf-060fd369b8a9": {
+            "position": {
+              "left": 500,
+              "top": 700
+            },
+            "type": "execute_actions"
+          }
+        }
+      },
+      "expire_after_minutes": 60,
+      "language": "base",
+      "localization": {},
+      "metadata": {
+        "revision": 22
+      },
+      "name": "PLH - Content - Positive - CheckIn - IPV 5",
+      "nodes": [
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "Great",
+                "Neutral",
+                "Bad"
+              ],
+              "text": "How are you doing with trying to talk to your partner about your feelings and any difficulties you\u2019re facing?",
+              "type": "send_msg",
+              "uuid": "6029f1bd-5f66-4e56-8091-41f95843d0d5"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "f9080e5f-09f8-442f-b6f2-2914349041aa",
+              "uuid": "05d623f4-66d2-462f-82e3-f3a1600c7ba3"
+            }
+          ],
+          "uuid": "51643399-2082-4ee5-b3e5-df0405bf84e6"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "a790dd78-ad76-4cec-8e31-93bb791ca729"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "27b31611-951f-4945-bf21-52c80fdbda58",
+              "uuid": "71fa30fc-80da-41a2-8e1b-e7c5ff337ae9"
+            }
+          ],
+          "uuid": "8fe5b7a6-c860-41fb-9de1-0182426d9265"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "cf11fd1f-3512-49aa-8f78-1ef330e10f27",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "51643399-2082-4ee5-b3e5-df0405bf84e6",
+              "uuid": "69135cd6-c9d9-4851-b9d7-d2d2345a02c6"
+            }
+          ],
+          "uuid": "27b31611-951f-4945-bf21-52c80fdbda58"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "fa6548fd-9de3-4252-bdc6-1cf2611dc08a",
+              "uuid": "838b8045-2799-48c2-885c-8efc5c4643dc"
+            },
+            {
+              "destination_uuid": "9d41d6ff-1069-4950-91d3-acfb61fe29ac",
+              "uuid": "51b936bc-3e6a-47b8-a32c-1324b97bf537"
+            },
+            {
+              "destination_uuid": "8fe5b7a6-c860-41fb-9de1-0182426d9265",
+              "uuid": "26286ace-d1d2-4471-9c59-4e24f04ff657"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "great"
+                ],
+                "category_uuid": "973a2e49-8991-4696-9f81-7d09952e430c",
+                "type": "has_any_word",
+                "uuid": "d9b95b8c-0ee8-4204-a938-e9c098e3317e"
+              },
+              {
+                "arguments": [
+                  "neutral bad"
+                ],
+                "category_uuid": "596cb0de-68a1-47ec-8b58-1efad60a74e1",
+                "type": "has_any_word",
+                "uuid": "6bc4fa13-d946-4530-a016-ed2885123c79"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "838b8045-2799-48c2-885c-8efc5c4643dc",
+                "name": "Great",
+                "uuid": "973a2e49-8991-4696-9f81-7d09952e430c"
+              },
+              {
+                "exit_uuid": "51b936bc-3e6a-47b8-a32c-1324b97bf537",
+                "name": "Neutral bad",
+                "uuid": "596cb0de-68a1-47ec-8b58-1efad60a74e1"
+              },
+              {
+                "exit_uuid": "26286ace-d1d2-4471-9c59-4e24f04ff657",
+                "name": "Other",
+                "uuid": "e9030e40-f072-483d-85a8-9e1f72ba6042"
+              }
+            ],
+            "default_category_uuid": "e9030e40-f072-483d-85a8-9e1f72ba6042",
+            "operand": "@input.text",
+            "result_name": "Result 2",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "f9080e5f-09f8-442f-b6f2-2914349041aa"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Good for you! Talking about challenges and our emotions can be hard. You are doing great!",
+              "type": "send_msg",
+              "uuid": "4901b8f8-c148-49f4-a8d4-670857ac34e6"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "1ba136e4-a9ab-4791-8164-35e2dc6f4494",
+              "uuid": "7fcacd90-7586-4608-8ac3-f19d87760684"
+            }
+          ],
+          "uuid": "fa6548fd-9de3-4252-bdc6-1cf2611dc08a"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "3c4b99e4-da27-45b3-946d-dfdb2c2933f4",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "16b00ef0-c2b3-439d-b85a-091dd293e0c0",
+              "uuid": "d140cf41-51a5-48bb-9931-89f4db1554e5"
+            }
+          ],
+          "uuid": "9d41d6ff-1069-4950-91d3-acfb61fe29ac"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry to hear it was difficult for you. Good job for trying!",
+              "type": "send_msg",
+              "uuid": "47df7a55-3ef5-42fd-ae67-9034fd60ab42"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "fbf8b8c9-f9c3-4f1f-adaf-060fd369b8a9",
+              "uuid": "a222f55c-a444-4c75-bb2f-391ae5f06d35"
+            }
+          ],
+          "uuid": "16b00ef0-c2b3-439d-b85a-091dd293e0c0"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "1a11d8fc-4559-441c-8010-aef869060336",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "860c61a9-384c-458c-9339-661d2db100a2"
+            }
+          ],
+          "uuid": "1ba136e4-a9ab-4791-8164-35e2dc6f4494"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [
+                "I am afraid my partner will think I am weak",
+                "I felt uncomfortable talking about it",
+                "My partner felt uncomfortable when I talked about it",
+                "My partner asked many questions, which made me uncomfortable",
+                "I felt too stressed or angry to talk about it"
+              ],
+              "text": "What was hard for you when talking about your feelings and challenges you are facing?",
+              "type": "send_msg",
+              "uuid": "7306ae23-318c-4a49-bd90-8eee64d63fae"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "23acf076-b55e-45ff-ae3a-4f03760e3c32",
+              "uuid": "f295292b-5907-4e13-8ece-106d67df8587"
+            }
+          ],
+          "uuid": "fbf8b8c9-f9c3-4f1f-adaf-060fd369b8a9"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "db475672-d59c-41c8-936b-015ef183df9b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "fbf8b8c9-f9c3-4f1f-adaf-060fd369b8a9",
+              "uuid": "f5df9968-181d-4e5f-b2cb-b85b7fe42f2c"
+            }
+          ],
+          "uuid": "163466aa-f7fd-4e47-8117-1fa83be4240f"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "18ba93bf-b925-43a7-b545-77b3a11f900e",
+              "uuid": "a191017b-196d-49a0-a9b2-3680c23d94d7"
+            },
+            {
+              "destination_uuid": "f7ea415e-9c79-43ea-aa8e-7fe3d814e1ba",
+              "uuid": "53734727-e5bd-4f01-b4ce-f6108b0eb49d"
+            },
+            {
+              "destination_uuid": "9cd86743-8720-4d7e-a18a-9c3b38acabda",
+              "uuid": "5f592d15-85a8-472a-8d91-81e6940aadbb"
+            },
+            {
+              "destination_uuid": "50dff276-9476-46ab-9cc5-4a828097b2fd",
+              "uuid": "15bfeaa7-2576-4b19-a2ef-b8aab28a62ac"
+            },
+            {
+              "destination_uuid": "aec63e06-643e-4aba-9a4d-be986e4bbef7",
+              "uuid": "5f61a10a-5afb-40dd-b550-f3bf0da473d7"
+            },
+            {
+              "destination_uuid": "163466aa-f7fd-4e47-8117-1fa83be4240f",
+              "uuid": "74a423bf-1b10-400e-b465-0b2abc0d7401"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "I am afraid my partner will think I am weak"
+                ],
+                "category_uuid": "67b170c3-b07a-4582-93a9-1f10fab0aa84",
+                "type": "has_phrase",
+                "uuid": "ac9d822f-8a02-4f9c-92c4-a03f64d4559b"
+              },
+              {
+                "arguments": [
+                  "I felt uncomfortable talking about it"
+                ],
+                "category_uuid": "6eae9d4e-0465-4ba0-82c7-14170b4afb6e",
+                "type": "has_phrase",
+                "uuid": "aa203129-3110-4efe-a099-e90757c9ad99"
+              },
+              {
+                "arguments": [
+                  "My partner felt uncomfortable when I talked about it"
+                ],
+                "category_uuid": "862cb3f7-60a2-4a9c-9f90-a5a18331af7d",
+                "type": "has_phrase",
+                "uuid": "c8da2b08-3ac7-48d5-82df-976fe55168c3"
+              },
+              {
+                "arguments": [
+                  "My partner asked many questions, which made me uncomfortable"
+                ],
+                "category_uuid": "beaf9115-103d-4436-b381-f150b42d19d3",
+                "type": "has_phrase",
+                "uuid": "6f4ff114-f7f4-4bd3-9eac-a320361ee986"
+              },
+              {
+                "arguments": [
+                  "I felt too stressed or angry to talk about it"
+                ],
+                "category_uuid": "daebb2e7-1c24-475e-83f8-4a10d0a749d7",
+                "type": "has_phrase",
+                "uuid": "c8f302c3-35a1-424c-ae26-225ce483135e"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "a191017b-196d-49a0-a9b2-3680c23d94d7",
+                "name": "1",
+                "uuid": "67b170c3-b07a-4582-93a9-1f10fab0aa84"
+              },
+              {
+                "exit_uuid": "53734727-e5bd-4f01-b4ce-f6108b0eb49d",
+                "name": "2",
+                "uuid": "6eae9d4e-0465-4ba0-82c7-14170b4afb6e"
+              },
+              {
+                "exit_uuid": "5f592d15-85a8-472a-8d91-81e6940aadbb",
+                "name": "3",
+                "uuid": "862cb3f7-60a2-4a9c-9f90-a5a18331af7d"
+              },
+              {
+                "exit_uuid": "15bfeaa7-2576-4b19-a2ef-b8aab28a62ac",
+                "name": "4",
+                "uuid": "beaf9115-103d-4436-b381-f150b42d19d3"
+              },
+              {
+                "exit_uuid": "5f61a10a-5afb-40dd-b550-f3bf0da473d7",
+                "name": "5",
+                "uuid": "daebb2e7-1c24-475e-83f8-4a10d0a749d7"
+              },
+              {
+                "exit_uuid": "74a423bf-1b10-400e-b465-0b2abc0d7401",
+                "name": "Other",
+                "uuid": "32d6f4d1-7eaa-437b-b853-d715152cf2b5"
+              }
+            ],
+            "default_category_uuid": "32d6f4d1-7eaa-437b-b853-d715152cf2b5",
+            "operand": "@input.text",
+            "result_name": "Result 3",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "23acf076-b55e-45ff-ae3a-4f03760e3c32"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sharing how we feel and talking about the difficulties we\u2019re facing actually makes everyone in the family stronger! By sharing emotions you can better understand and support each other.",
+              "type": "send_msg",
+              "uuid": "873d5d22-1dd8-405b-85b3-7b9933d2fd64"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "e426e9d6-1f4f-45f0-a1da-7c97856d7bb4"
+            }
+          ],
+          "uuid": "18ba93bf-b925-43a7-b545-77b3a11f900e"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Starting something new can be difficult. Give yourself and others time to get used to it. By setting a good example by sharing your emotions and challenges you\u2019re facing, others will feel start to feel more comfortable sharing too.",
+              "type": "send_msg",
+              "uuid": "911b4427-ad3a-4048-afdb-0ea5c054086f"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "b65f7430-49b1-4c43-b0fc-745f4b17140a"
+            }
+          ],
+          "uuid": "9cd86743-8720-4d7e-a18a-9c3b38acabda"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sharing your emotions or difficulties you are facing is about making others more aware of how you are feeling. You get to decide how much you want to share. You can also choose to share more at a later time.",
+              "type": "send_msg",
+              "uuid": "0c42faca-79ce-459b-8e01-b575fee35496"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "ec1817b9-0689-44de-a40b-b416d142f55d"
+            }
+          ],
+          "uuid": "50dff276-9476-46ab-9cc5-4a828097b2fd"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It\u2019s okay if you don\u2019t want to share at that time. You can choose to share how you\u2019re feeling at a later time once you feel calmer.",
+              "type": "send_msg",
+              "uuid": "c801ce56-fab8-402e-8d4c-6c30f199a6de"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "0e042fce-6d98-49ab-9dc2-0742c2516df6"
+            }
+          ],
+          "uuid": "aec63e06-643e-4aba-9a4d-be986e4bbef7"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Talking about our feelings or challenges we\u2019re facing, can help others understand and support you better. Emotions and challenges are a part of life, and learning how to handle these, can help you avoid conflict with loved ones and make life less stressful.",
+              "type": "send_msg",
+              "uuid": "a018c5d3-9548-4275-8650-e99640fd4f63"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "f50a3954-8889-44e6-84de-95533bbe3ac3"
+            }
+          ],
+          "uuid": "f7ea415e-9c79-43ea-aa8e-7fe3d814e1ba"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "want_feedback_checkin",
+                "name": "want feedback checkin"
+              },
+              "type": "set_contact_field",
+              "uuid": "65b1f2d0-e862-47a1-9eea-c8653a0a9855",
+              "value": "yes"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "e3f3f0cf-ed71-4edb-ac55-f46560259260",
+              "uuid": "d01622a8-3b4b-49cb-8aaf-f6ea2acc46d5"
+            }
+          ],
+          "uuid": "462bb165-620f-4fc1-bcdf-4befc7423e7f"
+        },
+        {
+          "actions": [
+            {
+              "flow": {
+                "name": "PLH - Feedback - Feedback for checkIn",
+                "uuid": "8a461ecd-92c1-408e-bd05-7fc23a0488b6"
+              },
+              "type": "enter_flow",
+              "uuid": "3c72daf0-bf9b-4526-a305-d01ad5a0a8c5"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "819b4291-6782-4541-9879-6098e3a3081c"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "7ccf3d2f-442d-4045-b43c-9e7aec0d48a8"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "completed"
+                ],
+                "category_uuid": "c669be7c-a1aa-4120-88e1-13e40f011906",
+                "type": "has_only_text",
+                "uuid": "fc6fe392-4226-4732-a937-4bc9207dd623"
+              },
+              {
+                "arguments": [
+                  "expired"
+                ],
+                "category_uuid": "f4bf3a03-bb1b-4d58-8816-04759094c0fa",
+                "type": "has_only_text",
+                "uuid": "584bc7c5-d7f2-4086-9c22-3c33c4eb5c87"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "819b4291-6782-4541-9879-6098e3a3081c",
+                "name": "Complete",
+                "uuid": "c669be7c-a1aa-4120-88e1-13e40f011906"
+              },
+              {
+                "exit_uuid": "7ccf3d2f-442d-4045-b43c-9e7aec0d48a8",
+                "name": "Expired",
+                "uuid": "f4bf3a03-bb1b-4d58-8816-04759094c0fa"
+              }
+            ],
+            "default_category_uuid": "f4bf3a03-bb1b-4d58-8816-04759094c0fa",
+            "operand": "@child.run.status",
+            "type": "switch"
+          },
+          "uuid": "e3f3f0cf-ed71-4edb-ac55-f46560259260"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "b7a0b0d5-0e3c-4ab4-b703-8248efcad4ad",
+      "revision": 1
+    },
+    {
+      "_ui": {
+        "nodes": {
+          "040007c2-702d-42d7-8d32-ae5723759ba3": {
+            "position": {
+              "left": 200,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "0fa642ff-6d31-4fe7-bb97-eeb7acfb1dd4": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 480,
+              "top": 1000
+            },
+            "type": "wait_for_response"
+          },
+          "15d62653-dc08-4b41-9e7f-89c0d701a97e": {
+            "position": {
+              "left": 480,
+              "top": 560
+            },
+            "type": "execute_actions"
+          },
+          "15f7424a-a7a5-430c-8458-9bcdec097b2c": {
+            "position": {
+              "left": 480,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "25c2fa34-3a1e-4fd3-9eac-e9ef7be1fbc5": {
+            "position": {
+              "left": 80,
+              "top": 1100
+            },
+            "type": "execute_actions"
+          },
+          "3fa6cb8d-fa2b-432e-aed8-60c7977b94d4": {
+            "position": {
+              "left": 300,
+              "top": 1320
+            },
+            "type": "execute_actions"
+          },
+          "4460839d-6b21-476b-8247-00fbbd04e525": {
+            "position": {
+              "left": 500,
+              "top": 740
+            },
+            "type": "execute_actions"
+          },
+          "702b8c36-243f-4cee-b8ea-c4c968f4e87e": {
+            "position": {
+              "left": 920,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
+          "873e15cd-dd59-4719-8467-7ef658422f44": {
+            "config": {},
+            "position": {
+              "left": 1320,
+              "top": 1700
+            },
+            "type": "split_by_subflow"
+          },
+          "9b226331-1dbf-455f-be3d-d08530df478f": {
+            "position": {
+              "left": 180,
+              "top": 640
+            },
+            "type": "execute_actions"
+          },
+          "9e69de6f-315d-4b38-8024-b58f4b5d86d0": {
+            "position": {
+              "left": 1220,
+              "top": 1600
+            },
+            "type": "execute_actions"
+          },
+          "a2d8f7a7-d9e3-4e45-a12e-386caa9d509a": {
+            "position": {
+              "left": 440,
+              "top": 40
+            },
+            "type": "execute_actions"
+          },
+          "a56d8188-05bf-4b59-9a78-238df10d0135": {
+            "position": {
+              "left": 920,
+              "top": 140
+            },
+            "type": "execute_actions"
+          },
+          "b2207fe7-a145-4e71-95a3-f69530b13eea": {
+            "position": {
+              "left": 520,
+              "top": 1260
+            },
+            "type": "execute_actions"
+          },
+          "cd963d19-2060-4ce4-ab61-2a4ec38c9dbe": {
+            "position": {
+              "left": 980,
+              "top": 720
+            },
+            "type": "execute_actions"
+          },
+          "d06f29b9-4523-4362-b4cb-24dd18747584": {
+            "position": {
+              "left": 780,
+              "top": 1180
+            },
+            "type": "execute_actions"
+          },
+          "df8b15c5-cb45-466e-94aa-63e60e500371": {
+            "position": {
+              "left": 1040,
+              "top": 1180
+            },
+            "type": "execute_actions"
+          },
+          "f34f4b9f-c6a3-4fb1-af4a-8e4b69fd8c9a": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 240
+            },
+            "type": "wait_for_response"
+          }
+        }
+      },
+      "expire_after_minutes": 60,
+      "language": "base",
+      "localization": {},
+      "metadata": {
+        "revision": 42
+      },
+      "name": "PLH - Content - Positive - CheckIn - IPV 1",
+      "nodes": [
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "Great",
+                "Neutral",
+                "Bad"
+              ],
+              "text": "Hi! How are you doing with treating your partner as an equal by, for example, involving them when making decisions? ",
+              "type": "send_msg",
+              "uuid": "788ccadf-1eb7-4c87-a6b3-68a2f7480e94"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "f34f4b9f-c6a3-4fb1-af4a-8e4b69fd8c9a",
+              "uuid": "19f43bfb-8f85-4c36-82e4-135902bd67dd"
+            }
+          ],
+          "uuid": "a2d8f7a7-d9e3-4e45-a12e-386caa9d509a"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "4351105f-d79f-471d-bf28-c6e6fc32f82a"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "702b8c36-243f-4cee-b8ea-c4c968f4e87e",
+              "uuid": "381d6fee-b1fe-4607-a741-23961d5c4199"
+            }
+          ],
+          "uuid": "a56d8188-05bf-4b59-9a78-238df10d0135"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "040007c2-702d-42d7-8d32-ae5723759ba3",
+              "uuid": "8fb95e5f-b90d-4301-b1d5-80fa3d09b262"
+            },
+            {
+              "destination_uuid": "15f7424a-a7a5-430c-8458-9bcdec097b2c",
+              "uuid": "0684756c-0805-4c6d-bf90-7da7ef7073c4"
+            },
+            {
+              "destination_uuid": "a56d8188-05bf-4b59-9a78-238df10d0135",
+              "uuid": "562c8dce-f922-48a7-bb83-b31c6fa0511d"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "great"
+                ],
+                "category_uuid": "0ef881d2-ab17-438a-9de5-dd63104ce4d3",
+                "type": "has_any_word",
+                "uuid": "6f2176e7-67de-4d9c-b969-bed4924b93d0"
+              },
+              {
+                "arguments": [
+                  "neutral bad"
+                ],
+                "category_uuid": "b3da5840-91cc-43b5-880e-79dcce4fe2f2",
+                "type": "has_any_word",
+                "uuid": "09f5e3a5-e8a1-42cd-92a8-ad415cafa065"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "8fb95e5f-b90d-4301-b1d5-80fa3d09b262",
+                "name": "Great",
+                "uuid": "0ef881d2-ab17-438a-9de5-dd63104ce4d3"
+              },
+              {
+                "exit_uuid": "0684756c-0805-4c6d-bf90-7da7ef7073c4",
+                "name": "Neutral bad",
+                "uuid": "b3da5840-91cc-43b5-880e-79dcce4fe2f2"
+              },
+              {
+                "exit_uuid": "562c8dce-f922-48a7-bb83-b31c6fa0511d",
+                "name": "Other",
+                "uuid": "8e312243-e4f9-40ec-b17e-669c285b61af"
+              }
+            ],
+            "default_category_uuid": "8e312243-e4f9-40ec-b17e-669c285b61af",
+            "operand": "@input.text",
+            "result_name": "Result 2",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "f34f4b9f-c6a3-4fb1-af4a-8e4b69fd8c9a"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "f26f535f-41bd-4de8-a0a0-dcf0b68479a2",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "a2d8f7a7-d9e3-4e45-a12e-386caa9d509a",
+              "uuid": "1f3400a6-a894-41e9-8a59-5129d629cedf"
+            }
+          ],
+          "uuid": "702b8c36-243f-4cee-b8ea-c4c968f4e87e"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Well done! Communicating and working together with your partner makes a difference!",
+              "type": "send_msg",
+              "uuid": "ebf48b7b-13f2-4de7-86b0-226ded42dada"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "9b226331-1dbf-455f-be3d-d08530df478f",
+              "uuid": "280a8935-a716-4365-9865-21ae02166a69"
+            }
+          ],
+          "uuid": "040007c2-702d-42d7-8d32-ae5723759ba3"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "2b594872-f8dc-4184-a944-690dd6cfce19",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "15d62653-dc08-4b41-9e7f-89c0d701a97e",
+              "uuid": "709a334d-03e1-46b0-84bd-444fe95d4b8b"
+            }
+          ],
+          "uuid": "15f7424a-a7a5-430c-8458-9bcdec097b2c"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry to hear this was difficult for you. Good job for trying!",
+              "type": "send_msg",
+              "uuid": "d6d085b6-2347-4434-99c2-6898487f969f"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "4460839d-6b21-476b-8247-00fbbd04e525",
+              "uuid": "aa10c771-7ca6-4fe3-bd23-8671a057abd9"
+            }
+          ],
+          "uuid": "15d62653-dc08-4b41-9e7f-89c0d701a97e"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "51fece24-d67e-44db-b82b-88139887c82f",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "0791dd1e-7eac-46af-aace-383257d4566c"
+            }
+          ],
+          "uuid": "9b226331-1dbf-455f-be3d-d08530df478f"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "f5dc76fa-6ac7-4d7c-81e5-fff1dd1e787c"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "4460839d-6b21-476b-8247-00fbbd04e525",
+              "uuid": "49713d59-48a0-4f3c-9e99-4afa4a3e0396"
+            }
+          ],
+          "uuid": "cd963d19-2060-4ce4-ab61-2a4ec38c9dbe"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [
+                "I didn\u2019t have time to involve my partner",
+                "I didn\u2019t know how to involve my partner",
+                "I felt uncomfortable asking for my partner's opinion",
+                "I forgot to involve my partner",
+                "My partner reacted negatively to me when I tried"
+              ],
+              "text": "What did you find difficult when learning to involve your partner and treat them as an equal?",
+              "type": "send_msg",
+              "uuid": "660a0ba5-d818-4fa1-ae4d-9932bb9938d0"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "0fa642ff-6d31-4fe7-bb97-eeb7acfb1dd4",
+              "uuid": "16afed33-32bc-41c0-b32e-43482908f394"
+            }
+          ],
+          "uuid": "4460839d-6b21-476b-8247-00fbbd04e525"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "25c2fa34-3a1e-4fd3-9eac-e9ef7be1fbc5",
+              "uuid": "19956346-3346-45ed-b3ee-197312998ea1"
+            },
+            {
+              "destination_uuid": "3fa6cb8d-fa2b-432e-aed8-60c7977b94d4",
+              "uuid": "5a155e91-c1b0-4f54-9ae0-e9e6d251ed72"
+            },
+            {
+              "destination_uuid": "b2207fe7-a145-4e71-95a3-f69530b13eea",
+              "uuid": "7a910ff3-0df6-4d8f-abe4-f612aa901093"
+            },
+            {
+              "destination_uuid": "d06f29b9-4523-4362-b4cb-24dd18747584",
+              "uuid": "bc534542-74d4-45d0-8e7c-daccbdc4d135"
+            },
+            {
+              "destination_uuid": "df8b15c5-cb45-466e-94aa-63e60e500371",
+              "uuid": "1ccea118-0421-4b10-8179-2402237a68d8"
+            },
+            {
+              "destination_uuid": "cd963d19-2060-4ce4-ab61-2a4ec38c9dbe",
+              "uuid": "67d1edcb-bed3-4832-9f45-777c7d896287"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "I didn\u2019t have time to involve my partner"
+                ],
+                "category_uuid": "594ba06b-71fe-4de7-a9b9-11f940f99c2c",
+                "type": "has_phrase",
+                "uuid": "467a2498-1dd1-4b0e-9ff4-597aac66b9ad"
+              },
+              {
+                "arguments": [
+                  "I didn\u2019t know how to involve my partner"
+                ],
+                "category_uuid": "1791e332-20b8-4555-a08b-18882c0cf8dc",
+                "type": "has_phrase",
+                "uuid": "3162b215-ab46-4b79-8e66-a48734b3e781"
+              },
+              {
+                "arguments": [
+                  "I felt uncomfortable asking for my partner's opinion"
+                ],
+                "category_uuid": "f8b2e597-3da4-4d96-8d5b-d855e6db3964",
+                "type": "has_phrase",
+                "uuid": "69940811-814d-4955-b065-e714c98afe66"
+              },
+              {
+                "arguments": [
+                  "I forgot to involve my partner"
+                ],
+                "category_uuid": "3b19e543-12d7-491b-b901-6b7b0dffd9a5",
+                "type": "has_phrase",
+                "uuid": "c8d94dd3-e0c7-49e1-8285-5a3a9f4c6e4e"
+              },
+              {
+                "arguments": [
+                  "My partner reacted negatively to me when I tried"
+                ],
+                "category_uuid": "f488057b-1bd4-418c-8e35-0c19f506c695",
+                "type": "has_phrase",
+                "uuid": "1f43715e-1afd-4c59-a2aa-31f79557d536"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "19956346-3346-45ed-b3ee-197312998ea1",
+                "name": "1",
+                "uuid": "594ba06b-71fe-4de7-a9b9-11f940f99c2c"
+              },
+              {
+                "exit_uuid": "5a155e91-c1b0-4f54-9ae0-e9e6d251ed72",
+                "name": "2",
+                "uuid": "1791e332-20b8-4555-a08b-18882c0cf8dc"
+              },
+              {
+                "exit_uuid": "7a910ff3-0df6-4d8f-abe4-f612aa901093",
+                "name": "3",
+                "uuid": "f8b2e597-3da4-4d96-8d5b-d855e6db3964"
+              },
+              {
+                "exit_uuid": "bc534542-74d4-45d0-8e7c-daccbdc4d135",
+                "name": "4",
+                "uuid": "3b19e543-12d7-491b-b901-6b7b0dffd9a5"
+              },
+              {
+                "exit_uuid": "1ccea118-0421-4b10-8179-2402237a68d8",
+                "name": "5",
+                "uuid": "f488057b-1bd4-418c-8e35-0c19f506c695"
+              },
+              {
+                "exit_uuid": "67d1edcb-bed3-4832-9f45-777c7d896287",
+                "name": "Other",
+                "uuid": "e994ff91-0699-4c15-b919-d83287b86a2b"
+              }
+            ],
+            "default_category_uuid": "e994ff91-0699-4c15-b919-d83287b86a2b",
+            "operand": "@input.text",
+            "result_name": "Result 3",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "0fa642ff-6d31-4fe7-bb97-eeb7acfb1dd4"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be difficult to find the time to ask our partners for their opinions when we are making decisions. Can you think of a time during the day when both you and your partner might be less busy, such as early in the morning or later in the evening?",
+              "type": "send_msg",
+              "uuid": "5739ecb4-9da7-497e-acdc-145359d7f4b4"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "7d7d6dcf-917b-425e-8c51-75a770ae00a3"
+            }
+          ],
+          "uuid": "25c2fa34-3a1e-4fd3-9eac-e9ef7be1fbc5"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be hard to remember to involve our partners in decision making. If you forget, it\u2019s important to try again! Asking them for their opinion shows them that you care and want them to be involved.",
+              "type": "send_msg",
+              "uuid": "c0b450d3-ba50-4349-8dd0-5fc50cfa8b3d"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "9ef89a94-e298-4d5f-948a-4913cee284c6"
+            }
+          ],
+          "uuid": "d06f29b9-4523-4362-b4cb-24dd18747584"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry to hear that your partner reacted negatively. Be proud of yourself for trying and be gentle with yourself. Remember you can always get extra support by typing \"Help\".",
+              "type": "send_msg",
+              "uuid": "078def2d-86c8-46b6-9e42-2b83ef44b97e"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "586fb1c3-f117-4fa1-91ca-888e016f1311"
+            }
+          ],
+          "uuid": "df8b15c5-cb45-466e-94aa-63e60e500371"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can take time to get used to making decisions together. Give yourself time to adjust. Remember that by communicating with your partner and involving them in decision-making, they will start to feel more comfortable doing so too.",
+              "type": "send_msg",
+              "uuid": "fc2ec309-8ed5-4974-9c7d-9b018a334670"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "ef30dc8c-173c-4091-8cb3-a4cd45dc52aa"
+            }
+          ],
+          "uuid": "b2207fe7-a145-4e71-95a3-f69530b13eea"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can sometimes be hard to know how to involve your partner when making a decision. Sometimes all you need to do is to ask them what they think. This shows them you care and want them to be involved!",
+              "type": "send_msg",
+              "uuid": "de95a7de-077e-4dd0-af4f-67b34f7a032b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "e5b2d24e-dcb6-4b6a-984a-fee5a2cc3cce"
+            }
+          ],
+          "uuid": "3fa6cb8d-fa2b-432e-aed8-60c7977b94d4"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "want_feedback_checkin",
+                "name": "want feedback checkin"
+              },
+              "type": "set_contact_field",
+              "uuid": "e5d9f692-e296-4379-959d-103b3ef8130b",
+              "value": "yes"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "873e15cd-dd59-4719-8467-7ef658422f44",
+              "uuid": "180111f8-d5af-4813-af5f-859647c63a63"
+            }
+          ],
+          "uuid": "9e69de6f-315d-4b38-8024-b58f4b5d86d0"
+        },
+        {
+          "actions": [
+            {
+              "flow": {
+                "name": "PLH - Feedback - Feedback for checkIn",
+                "uuid": "8a461ecd-92c1-408e-bd05-7fc23a0488b6"
+              },
+              "type": "enter_flow",
+              "uuid": "e8492673-5446-4666-8c0c-8b50490605fc"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "b11a4f9c-415d-4d30-a5b3-d25d71326994"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "9ca2bc17-eec7-464d-a2c3-f38ec43affcb"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "completed"
+                ],
+                "category_uuid": "440bb5af-d412-4eb9-86ea-bb1687db35c8",
+                "type": "has_only_text",
+                "uuid": "467dff7f-c828-4004-a43d-d4317b104ea8"
+              },
+              {
+                "arguments": [
+                  "expired"
+                ],
+                "category_uuid": "5cb197ec-6217-4d20-98fd-b32eb64ec7eb",
+                "type": "has_only_text",
+                "uuid": "17bdc6c9-9eab-47b0-b731-e940f0462249"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "b11a4f9c-415d-4d30-a5b3-d25d71326994",
+                "name": "Complete",
+                "uuid": "440bb5af-d412-4eb9-86ea-bb1687db35c8"
+              },
+              {
+                "exit_uuid": "9ca2bc17-eec7-464d-a2c3-f38ec43affcb",
+                "name": "Expired",
+                "uuid": "5cb197ec-6217-4d20-98fd-b32eb64ec7eb"
+              }
+            ],
+            "default_category_uuid": "5cb197ec-6217-4d20-98fd-b32eb64ec7eb",
+            "operand": "@child.run.status",
+            "type": "switch"
+          },
+          "uuid": "873e15cd-dd59-4719-8467-7ef658422f44"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "579303ad-beed-4562-83af-bba3850c350f",
+      "revision": 1
+    },
+    {
+      "_ui": {
+        "nodes": {
+          "0873d821-5c5a-42ed-854e-a3054cb76ff9": {
+            "position": {
+              "left": 580,
+              "top": 100
+            },
+            "type": "execute_actions"
+          },
+          "1088af9d-fc68-4d6c-803c-e27c8805ddf2": {
+            "position": {
+              "left": 1220,
+              "top": 1600
+            },
+            "type": "execute_actions"
+          },
+          "38ce81ec-76d0-4328-96b4-956b86b800fc": {
+            "config": {
+              "cases": {},
+              "operand": {
+                "id": "gender",
+                "name": "gender",
+                "type": "field"
+              }
+            },
+            "position": {
+              "left": 500,
+              "top": 0
+            },
+            "type": "split_by_contact_field"
+          },
+          "4a6d1019-bede-441d-a5f9-1b6ab2935e43": {
+            "position": {
+              "left": 1180,
+              "top": 1240
+            },
+            "type": "execute_actions"
+          },
+          "61a6b903-f12a-431b-838e-db6331c8bf41": {
+            "position": {
+              "left": 200,
+              "top": 820
+            },
+            "type": "execute_actions"
+          },
+          "62d878f4-9fcd-4787-92b6-3b99eb71561a": {
+            "position": {
+              "left": 180,
+              "top": 640
+            },
+            "type": "execute_actions"
+          },
+          "664f3328-4b0c-490b-a63c-4f8053fe0896": {
+            "position": {
+              "left": 720,
+              "top": 1240
+            },
+            "type": "execute_actions"
+          },
+          "7e91ab4b-99d9-44a6-b9b3-ba4ccddad954": {
+            "position": {
+              "left": 920,
+              "top": 140
+            },
+            "type": "execute_actions"
+          },
+          "8c628fa4-62b7-4e3b-ac17-692ec5f11fef": {
+            "position": {
+              "left": 200,
+              "top": 420
+            },
+            "type": "execute_actions"
+          },
+          "9639a8e3-d32a-46cd-a0f9-af8ef8b37680": {
+            "position": {
+              "left": 920,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
+          "978c594f-68e0-4ee8-9da5-a902075bb385": {
+            "position": {
+              "left": 960,
+              "top": 1240
+            },
+            "type": "execute_actions"
+          },
+          "a3bd737f-4bd1-439c-9392-2f79d64c46ce": {
+            "position": {
+              "left": 480,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "ba724b15-8e42-4580-81a2-b980e279953b": {
+            "config": {
+              "cases": {},
+              "operand": {
+                "id": "gender",
+                "name": "gender",
+                "type": "field"
+              }
+            },
+            "position": {
+              "left": 500,
+              "top": 720
+            },
+            "type": "split_by_contact_field"
+          },
+          "c55f21c4-cb8b-498b-9d35-673754ec9f6e": {
+            "position": {
+              "left": 100,
+              "top": 140
+            },
+            "type": "execute_actions"
+          },
+          "c7d31130-786f-4474-9b45-68aacbb7b2ef": {
+            "position": {
+              "left": 20,
+              "top": 1260
+            },
+            "type": "execute_actions"
+          },
+          "c7ed2c52-c3f4-4b84-8d61-5c6078fe82b6": {
+            "position": {
+              "left": 560,
+              "top": 820
+            },
+            "type": "execute_actions"
+          },
+          "c8ce2b41-c6ab-4e24-85b9-d88fa4c64a23": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 320
+            },
+            "type": "wait_for_response"
+          },
+          "d6b5ea2f-d5e5-4c5c-8ec5-177b12bb2c28": {
+            "position": {
+              "left": 500,
+              "top": 1260
+            },
+            "type": "execute_actions"
+          },
+          "ddaa7892-0fd7-41b2-8571-dc8c5eb1c088": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 460,
+              "top": 1100
+            },
+            "type": "wait_for_response"
+          },
+          "df52e99b-34be-4269-bc42-f107b6f5cac4": {
+            "position": {
+              "left": 280,
+              "top": 1260
+            },
+            "type": "execute_actions"
+          },
+          "dfbf2173-d704-41b8-b3c0-80ae488a4e7d": {
+            "position": {
+              "left": 980,
+              "top": 720
+            },
+            "type": "execute_actions"
+          },
+          "e85d8f78-642b-4940-8033-25cdf8334126": {
+            "position": {
+              "left": 480,
+              "top": 560
+            },
+            "type": "execute_actions"
+          },
+          "eaecf619-e231-4f28-8c7e-3f8630e0f6a7": {
+            "config": {},
+            "position": {
+              "left": 1320,
+              "top": 1700
+            },
+            "type": "split_by_subflow"
+          }
+        }
+      },
+      "expire_after_minutes": 60,
+      "language": "base",
+      "localization": {},
+      "metadata": {
+        "revision": 47
+      },
+      "name": "PLH - Content - Positive - CheckIn - IPV 2",
+      "nodes": [
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "c55f21c4-cb8b-498b-9d35-673754ec9f6e",
+              "uuid": "81f93e4a-a3e5-4432-9cdb-756bb887900a"
+            },
+            {
+              "destination_uuid": "0873d821-5c5a-42ed-854e-a3054cb76ff9",
+              "uuid": "5917b744-b7e8-4880-906e-6d9997409a59"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "8a2a108e-16aa-45c3-abb3-1c6405dbf92c"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "woman"
+                ],
+                "category_uuid": "cdf5a232-0aac-4c13-a7c7-869a6f97ac35",
+                "type": "has_any_word",
+                "uuid": "bc06ca06-8ae8-4276-ace7-d5590664b7ca"
+              },
+              {
+                "arguments": [
+                  "man"
+                ],
+                "category_uuid": "8653b2a2-ffbe-47ac-897d-2e80656a9ada",
+                "type": "has_any_word",
+                "uuid": "0cae7fb9-ad14-4e11-8cbe-2ca4cb7675e8"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "81f93e4a-a3e5-4432-9cdb-756bb887900a",
+                "name": "Woman",
+                "uuid": "cdf5a232-0aac-4c13-a7c7-869a6f97ac35"
+              },
+              {
+                "exit_uuid": "5917b744-b7e8-4880-906e-6d9997409a59",
+                "name": "Man",
+                "uuid": "8653b2a2-ffbe-47ac-897d-2e80656a9ada"
+              },
+              {
+                "exit_uuid": "8a2a108e-16aa-45c3-abb3-1c6405dbf92c",
+                "name": "Other",
+                "uuid": "0c0f97b8-d56c-4e05-a908-41b2eb877112"
+              }
+            ],
+            "default_category_uuid": "0c0f97b8-d56c-4e05-a908-41b2eb877112",
+            "operand": "@fields.gender",
+            "type": "switch"
+          },
+          "uuid": "38ce81ec-76d0-4328-96b4-956b86b800fc"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "Great",
+                "Neutral",
+                "Bad"
+              ],
+              "text": "Hi! How are you doing with getting involved and helping out with caregiving or housework? ",
+              "type": "send_msg",
+              "uuid": "96e8c8a7-9c1e-4732-a6be-3e4da840c948"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "c8ce2b41-c6ab-4e24-85b9-d88fa4c64a23",
+              "uuid": "a7be824e-b375-4712-8087-697c7b0d4c7f"
+            }
+          ],
+          "uuid": "0873d821-5c5a-42ed-854e-a3054cb76ff9"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "Great",
+                "Neutral",
+                "Bad"
+              ],
+              "text": "Hi! How are you doing with involving your partner in helping you with caregiving or housework?",
+              "type": "send_msg",
+              "uuid": "e066c6b5-8f93-40dc-9cb7-bec5b99d95d3"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "c8ce2b41-c6ab-4e24-85b9-d88fa4c64a23",
+              "uuid": "fe34ba4d-a702-424f-9c6f-de00ef085f50"
+            }
+          ],
+          "uuid": "c55f21c4-cb8b-498b-9d35-673754ec9f6e"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "6cf53e1b-6fdc-4803-98dc-d526ac741198"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "9639a8e3-d32a-46cd-a0f9-af8ef8b37680",
+              "uuid": "32294bec-6b88-4572-be95-22c4f48a71dd"
+            }
+          ],
+          "uuid": "7e91ab4b-99d9-44a6-b9b3-ba4ccddad954"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "0543eb03-1cee-4311-bd27-5e4147627912",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "0873d821-5c5a-42ed-854e-a3054cb76ff9",
+              "uuid": "a14990a5-b0ca-4600-bc13-4eb16c8ba875"
+            }
+          ],
+          "uuid": "9639a8e3-d32a-46cd-a0f9-af8ef8b37680"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "8c628fa4-62b7-4e3b-ac17-692ec5f11fef",
+              "uuid": "f1df2592-a497-4d8a-b012-87be8858dffa"
+            },
+            {
+              "destination_uuid": "a3bd737f-4bd1-439c-9392-2f79d64c46ce",
+              "uuid": "ab5684d2-55fa-4099-8ab7-333213b58369"
+            },
+            {
+              "destination_uuid": "7e91ab4b-99d9-44a6-b9b3-ba4ccddad954",
+              "uuid": "9a6def6e-2241-4bf9-97c2-6c5c19705630"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "great"
+                ],
+                "category_uuid": "ea22ad2c-2461-4275-88f0-6ace593f48ee",
+                "type": "has_any_word",
+                "uuid": "ad0fc361-e634-4402-aa6e-cdde6a2f55c2"
+              },
+              {
+                "arguments": [
+                  "neutral bad"
+                ],
+                "category_uuid": "f336fc81-b0b1-4e3a-b731-dd369506dd22",
+                "type": "has_any_word",
+                "uuid": "49e9c31c-98c5-46e9-a59e-f39461f35f65"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "f1df2592-a497-4d8a-b012-87be8858dffa",
+                "name": "Great",
+                "uuid": "ea22ad2c-2461-4275-88f0-6ace593f48ee"
+              },
+              {
+                "exit_uuid": "ab5684d2-55fa-4099-8ab7-333213b58369",
+                "name": "Neutral bad",
+                "uuid": "f336fc81-b0b1-4e3a-b731-dd369506dd22"
+              },
+              {
+                "exit_uuid": "9a6def6e-2241-4bf9-97c2-6c5c19705630",
+                "name": "Other",
+                "uuid": "4826b545-b5f0-4054-ab21-3fb807e72b7a"
+              }
+            ],
+            "default_category_uuid": "4826b545-b5f0-4054-ab21-3fb807e72b7a",
+            "operand": "@input.text",
+            "result_name": "Result 2",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "c8ce2b41-c6ab-4e24-85b9-d88fa4c64a23"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Fantastic, wonderful to hear that it went well!",
+              "type": "send_msg",
+              "uuid": "1a62b469-4176-4e0a-8424-e7c15ff679a1"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "62d878f4-9fcd-4787-92b6-3b99eb71561a",
+              "uuid": "e3a1791f-5697-4dbf-8f33-e054bdeed0ad"
+            }
+          ],
+          "uuid": "8c628fa4-62b7-4e3b-ac17-692ec5f11fef"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "22404f0f-f1b1-4a34-8f5a-bffb5b74c9f0",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "e85d8f78-642b-4940-8033-25cdf8334126",
+              "uuid": "dd0127ae-fb0c-40be-bdeb-259dc9c85478"
+            }
+          ],
+          "uuid": "a3bd737f-4bd1-439c-9392-2f79d64c46ce"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry to hear it was challenging. Well done for trying!",
+              "type": "send_msg",
+              "uuid": "51a5cf5f-6314-4e2e-8f87-dcc2483670f9"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "ba724b15-8e42-4580-81a2-b980e279953b",
+              "uuid": "3a432713-6056-40af-9ef8-babc2b5217f3"
+            }
+          ],
+          "uuid": "e85d8f78-642b-4940-8033-25cdf8334126"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "last_interaction",
+                "name": "last interaction"
+              },
+              "type": "set_contact_field",
+              "uuid": "77bd321f-f8c1-46a7-97f2-0890d4771415",
+              "value": "@(now())"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "cbfcd790-cacf-4612-bbb0-6120e9458679"
+            }
+          ],
+          "uuid": "62d878f4-9fcd-4787-92b6-3b99eb71561a"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "61a6b903-f12a-431b-838e-db6331c8bf41",
+              "uuid": "9cd12eb8-7723-47b1-a359-f7febb0f345f"
+            },
+            {
+              "destination_uuid": "c7ed2c52-c3f4-4b84-8d61-5c6078fe82b6",
+              "uuid": "2976dc7c-3465-4e81-bfd3-3c794a5e6eab"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "baaa674e-9668-4f79-a936-5555a9c80a4a"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "woman"
+                ],
+                "category_uuid": "b9e3ce23-4ba1-4a1e-bf45-a6d8cca3eecc",
+                "type": "has_any_word",
+                "uuid": "a017ea7d-92ba-408c-b7c3-b6be65743cfb"
+              },
+              {
+                "arguments": [
+                  "man"
+                ],
+                "category_uuid": "8455565d-ae18-442a-8f46-c15b53bffb83",
+                "type": "has_any_word",
+                "uuid": "c9441019-5d17-4da6-a1dc-8086343d4f92"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "9cd12eb8-7723-47b1-a359-f7febb0f345f",
+                "name": "Woman",
+                "uuid": "b9e3ce23-4ba1-4a1e-bf45-a6d8cca3eecc"
+              },
+              {
+                "exit_uuid": "2976dc7c-3465-4e81-bfd3-3c794a5e6eab",
+                "name": "Man",
+                "uuid": "8455565d-ae18-442a-8f46-c15b53bffb83"
+              },
+              {
+                "exit_uuid": "baaa674e-9668-4f79-a936-5555a9c80a4a",
+                "name": "Other",
+                "uuid": "59bce557-adc9-4d13-ab19-439d2bdc0791"
+              }
+            ],
+            "default_category_uuid": "59bce557-adc9-4d13-ab19-439d2bdc0791",
+            "operand": "@fields.gender",
+            "type": "switch"
+          },
+          "uuid": "ba724b15-8e42-4580-81a2-b980e279953b"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sorry, I don't understand what you mean.",
+              "type": "send_msg",
+              "uuid": "738870ab-9403-4ba0-bdd1-dfe5e2875cac"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "ba724b15-8e42-4580-81a2-b980e279953b",
+              "uuid": "4b864bf9-34a2-4b59-a4ed-93e551389897"
+            }
+          ],
+          "uuid": "dfbf2173-d704-41b8-b3c0-80ae488a4e7d"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [
+                "I didn\u2019t know what activities to do with my children",
+                "I didn\u2019t know how to support my partner",
+                "I forgot to ask my partner if they needed help",
+                "I forgot to ask for help",
+                "I didn\u2019t have the time",
+                "I felt uncomfortable doing tasks I don\u2019t normally do"
+              ],
+              "text": "What did you find difficult when learning to become a confident mother and supportive partner?I felt uncomfortable doing tasks I don\u2019t normally do",
+              "type": "send_msg",
+              "uuid": "a0dbaa47-fad1-408a-a447-55734cd35b97"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "ddaa7892-0fd7-41b2-8571-dc8c5eb1c088",
+              "uuid": "b1d1a093-22fb-4e6e-a6a5-6924d36c1057"
+            }
+          ],
+          "uuid": "61a6b903-f12a-431b-838e-db6331c8bf41"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [
+                "I didn\u2019t know what activities to do with my children",
+                "I didn\u2019t know how to support my partner",
+                "I forgot to ask my partner if they needed help",
+                "I forgot to ask for help",
+                "I didn\u2019t have the time",
+                "I felt uncomfortable doing tasks I don\u2019t normally do"
+              ],
+              "text": "What did you find difficult when learning to become a confident father and supportive partner?",
+              "type": "send_msg",
+              "uuid": "36b41037-22b5-4a6f-9ddc-2c8f8452bdff"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "ddaa7892-0fd7-41b2-8571-dc8c5eb1c088",
+              "uuid": "e4934b37-94a0-45c2-94f0-69cf86849f92"
+            }
+          ],
+          "uuid": "c7ed2c52-c3f4-4b84-8d61-5c6078fe82b6"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "c7d31130-786f-4474-9b45-68aacbb7b2ef",
+              "uuid": "7f8e2ff1-b0e6-4309-9205-977747a52ff4"
+            },
+            {
+              "destination_uuid": "df52e99b-34be-4269-bc42-f107b6f5cac4",
+              "uuid": "57db4e84-cf99-4916-9335-2bc061781a85"
+            },
+            {
+              "destination_uuid": "d6b5ea2f-d5e5-4c5c-8ec5-177b12bb2c28",
+              "uuid": "e4ad6468-ba58-4277-9333-7216b25fc025"
+            },
+            {
+              "destination_uuid": "664f3328-4b0c-490b-a63c-4f8053fe0896",
+              "uuid": "746c89f7-e6a2-44de-86c8-107cc98ea9ae"
+            },
+            {
+              "destination_uuid": "978c594f-68e0-4ee8-9da5-a902075bb385",
+              "uuid": "dff42a61-0363-4946-a5c3-a1600e708212"
+            },
+            {
+              "destination_uuid": "4a6d1019-bede-441d-a5f9-1b6ab2935e43",
+              "uuid": "875d8424-36c1-47d4-b340-6a23cc2ff108"
+            },
+            {
+              "destination_uuid": "dfbf2173-d704-41b8-b3c0-80ae488a4e7d",
+              "uuid": "29025b3c-9b21-49f8-b346-cc0c128a626e"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "I didn\u2019t know what activities to do with my children"
+                ],
+                "category_uuid": "3d656bd4-2034-469b-87ac-b23aa94d449f",
+                "type": "has_phrase",
+                "uuid": "5d770c3e-bb61-4150-ab55-e4b78211b5c4"
+              },
+              {
+                "arguments": [
+                  "I didn\u2019t know how to support my partner"
+                ],
+                "category_uuid": "a6c068c1-b53f-43a6-bd7a-5c5af11a4b50",
+                "type": "has_phrase",
+                "uuid": "149bc2b0-3e26-4c9d-b650-415d2be1b001"
+              },
+              {
+                "arguments": [
+                  "I forgot to ask my partner if they needed help"
+                ],
+                "category_uuid": "6029ac89-94d4-4240-9742-01c85379b080",
+                "type": "has_phrase",
+                "uuid": "ef0eb16f-222d-4179-8718-1d2fa63770b3"
+              },
+              {
+                "arguments": [
+                  "I forgot to ask for help"
+                ],
+                "category_uuid": "f42c5255-5254-4412-bd53-c13470d36f37",
+                "type": "has_phrase",
+                "uuid": "8d522595-48a9-4deb-a2d0-11e5ede8a6e1"
+              },
+              {
+                "arguments": [
+                  "I didn\u2019t have the time"
+                ],
+                "category_uuid": "9fc55fe7-8b00-46f1-b4f4-99135f9afea1",
+                "type": "has_phrase",
+                "uuid": "9d499b88-9c5c-4e9e-beb6-2224bda69157"
+              },
+              {
+                "arguments": [
+                  "I felt uncomfortable doing tasks I don\u2019t normally do"
+                ],
+                "category_uuid": "5a9be092-2880-4d11-9bdd-6a99b9275f6c",
+                "type": "has_phrase",
+                "uuid": "9755004c-99cf-4d3f-ba4e-b029b388588e"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "7f8e2ff1-b0e6-4309-9205-977747a52ff4",
+                "name": "1",
+                "uuid": "3d656bd4-2034-469b-87ac-b23aa94d449f"
+              },
+              {
+                "exit_uuid": "57db4e84-cf99-4916-9335-2bc061781a85",
+                "name": "2",
+                "uuid": "a6c068c1-b53f-43a6-bd7a-5c5af11a4b50"
+              },
+              {
+                "exit_uuid": "e4ad6468-ba58-4277-9333-7216b25fc025",
+                "name": "3",
+                "uuid": "6029ac89-94d4-4240-9742-01c85379b080"
+              },
+              {
+                "exit_uuid": "746c89f7-e6a2-44de-86c8-107cc98ea9ae",
+                "name": "4",
+                "uuid": "f42c5255-5254-4412-bd53-c13470d36f37"
+              },
+              {
+                "exit_uuid": "dff42a61-0363-4946-a5c3-a1600e708212",
+                "name": "5",
+                "uuid": "9fc55fe7-8b00-46f1-b4f4-99135f9afea1"
+              },
+              {
+                "exit_uuid": "875d8424-36c1-47d4-b340-6a23cc2ff108",
+                "name": "6",
+                "uuid": "5a9be092-2880-4d11-9bdd-6a99b9275f6c"
+              },
+              {
+                "exit_uuid": "29025b3c-9b21-49f8-b346-cc0c128a626e",
+                "name": "Other",
+                "uuid": "b75a6326-3e68-43b1-a242-ed148fe5df51"
+              }
+            ],
+            "default_category_uuid": "b75a6326-3e68-43b1-a242-ed148fe5df51",
+            "operand": "@input.text",
+            "result_name": "Result 3",
+            "type": "switch",
+            "wait": {
+              "type": "msg"
+            }
+          },
+          "uuid": "ddaa7892-0fd7-41b2-8571-dc8c5eb1c088"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be hard to ask for help. Sometimes we expect our partners to know we need help even if we don\u2019t ask them. Once you start telling however, they will likely start offering to help more often in the future.",
+              "type": "send_msg",
+              "uuid": "165a67ad-670d-448c-9f3a-60ae30d6c534"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "ec774d93-3238-4e72-9313-ee6535ab3463"
+            }
+          ],
+          "uuid": "664f3328-4b0c-490b-a63c-4f8053fe0896"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Sometimes it can be hard to find time during the day. Can you think of a time when you\u2019re less busy? For example, maybe it is easier to help out with housework later in the evening when some of the children have gone to sleep. Try to see what works for you!",
+              "type": "send_msg",
+              "uuid": "bc28a94d-0b1d-48f2-9ddf-ff91d6fbcc32"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "d92e87b4-6321-4abc-93e3-81c7c892b421"
+            }
+          ],
+          "uuid": "978c594f-68e0-4ee8-9da5-a902075bb385"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Be kind to yourself - trying something new is often hard at first! Give yourself time to adjust. Also remind yourself that helping your partner with these tasks benefits the whole family!",
+              "type": "send_msg",
+              "uuid": "b7e760d2-08b5-4024-a8e4-c0ad4fd7d88d"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "1da10bd4-fc14-4619-b77e-01ec2b25c850"
+            }
+          ],
+          "uuid": "4a6d1019-bede-441d-a5f9-1b6ab2935e43"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Ask your child! By asking your child what their favourite activity is, you are showing them you care. Soon they might also start asking you to join them when they\u2019re playing!",
+              "type": "send_msg",
+              "uuid": "ca1f0094-da89-40d7-bfe9-f31a5fdcb8a7"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "1fca39c6-ebc7-4221-a091-9efd2ece19b3"
+            }
+          ],
+          "uuid": "c7d31130-786f-4474-9b45-68aacbb7b2ef"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Ask them! By telling your partner you want to help out but don\u2019t know how, you are showing them you care and are interested in being involved. This can also help family members understand each other better.",
+              "type": "send_msg",
+              "uuid": "999390d0-e23f-4f00-8da1-d4c891018b27"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "f8c80512-a7f1-40fc-8fb5-1f99b1ccdc5b"
+            }
+          ],
+          "uuid": "df52e99b-34be-4269-bc42-f107b6f5cac4"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "It can be difficult to remember to ask others what they need help with. Once you start offering to help however, others may realise you want to be involved and may ask for help when they need it!",
+              "type": "send_msg",
+              "uuid": "1a1af079-1cc5-4758-bfb8-2db7ab5d1d9c"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "f9d7dab2-b641-41ab-9a19-2a423f2669a9"
+            }
+          ],
+          "uuid": "d6b5ea2f-d5e5-4c5c-8ec5-177b12bb2c28"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "want_feedback_checkin",
+                "name": "want feedback checkin"
+              },
+              "type": "set_contact_field",
+              "uuid": "b726a9ee-9689-4d22-8c57-995a8ec20b6b",
+              "value": "yes"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "eaecf619-e231-4f28-8c7e-3f8630e0f6a7",
+              "uuid": "26de0e67-3404-462d-962d-b8c5c66e49cb"
+            }
+          ],
+          "uuid": "1088af9d-fc68-4d6c-803c-e27c8805ddf2"
+        },
+        {
+          "actions": [
+            {
+              "flow": {
+                "name": "PLH - Feedback - Feedback for checkIn",
+                "uuid": "8a461ecd-92c1-408e-bd05-7fc23a0488b6"
+              },
+              "type": "enter_flow",
+              "uuid": "31c4d3b2-5e56-4659-9bac-c9fb304de140"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "9c3170ac-898e-41db-9487-66f9905941e4"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "e4a4ed45-ef43-4052-b020-2f5e0da1c8d7"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "completed"
+                ],
+                "category_uuid": "f504f684-4558-45fe-a811-614732421894",
+                "type": "has_only_text",
+                "uuid": "89f7360e-0f2f-4805-9cc4-643593f076c9"
+              },
+              {
+                "arguments": [
+                  "expired"
+                ],
+                "category_uuid": "79cfd453-b074-4194-b36b-080f61466612",
+                "type": "has_only_text",
+                "uuid": "0cb422ea-1f2a-4f3b-86b4-d7826d353e4a"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "9c3170ac-898e-41db-9487-66f9905941e4",
+                "name": "Complete",
+                "uuid": "f504f684-4558-45fe-a811-614732421894"
+              },
+              {
+                "exit_uuid": "e4a4ed45-ef43-4052-b020-2f5e0da1c8d7",
+                "name": "Expired",
+                "uuid": "79cfd453-b074-4194-b36b-080f61466612"
+              }
+            ],
+            "default_category_uuid": "79cfd453-b074-4194-b36b-080f61466612",
+            "operand": "@child.run.status",
+            "type": "switch"
+          },
+          "uuid": "eaecf619-e231-4f28-8c7e-3f8630e0f6a7"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "2e30ccdf-8251-4943-a1c9-476a2e6dbb61",
+      "revision": 1
+    }
+  ],
+  "campaigns": [],
+  "triggers": [],
+  "fields": [
+    {
+      "key": "gender",
+      "name": "gender",
+      "type": "text"
+    },
+    {
+      "key": "last_interaction",
+      "name": "last interaction",
+      "type": "datetime"
+    },
+    {
+      "key": "want_feedback_checkin",
+      "name": "want feedback checkin",
+      "type": "text"
+    }
+  ],
+  "groups": []
+}

@@ -180,11 +180,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry, I don't understand what you mean.",
-    "text": "Maaf, saya tidak faham apa yang anda maksudkan.",
-    "type": "text"
-  },
-  {
     "SourceText": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
     "text": "Tak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda memerlukan aktiviti untuk menenangkan atau mengurangkan tekanan anda. Berbual dengan anda kemudian!",
     "type": "text"
@@ -712,11 +707,6 @@
   {
     "SourceText": "Would you like to learn more about how you can help your child develop through book sharing?",
     "text": "Adakah anda ingin mengetahui lebih lanjut mengenai bagaimana anda dapat membantu anak anda berkembang melalui perkongsian buku?",
-    "type": "text"
-  },
-  {
-    "SourceText": "Sorry, I don't understand what you mean. ",
-    "text": "Maaf, saya tidak faham apa yang anda maksudkan. ",
     "type": "text"
   },
   {
@@ -1938,11 +1928,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry, I don't understand what you mean.",
-    "text": "Maaf, saya tidak faham maksud anda.",
-    "type": "text"
-  },
-  {
     "SourceText": "Please select the age of your child:",
     "text": "Sila pilih umur anak anda:",
     "type": "text"
@@ -2113,11 +2098,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry, I don't understand what you mean. ",
-    "text": "Maaf, saya tidak faham maksud anda. ",
-    "type": "text"
-  },
-  {
     "SourceText": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour.",
     "text": "Ianya okey! Anda boleh sentiasa menaip \"Tolong\" jika anda ingin menerima lebih banyak tip mengenai cara mengurus tingkah laku anak anda.",
     "type": "text"
@@ -2170,11 +2150,6 @@
   {
     "SourceText": "Babies are much more likely to want to do things if you make the activity fun and playful. Patience is also a must. Take a deep breath if you notice yourself getting frustrated by your baby.",
     "text": "Bayi lebih cenderung ingin melakukan sesuatu sekiranya anda membuat sesuatu aktiviti yang menyeronokkan dan menggembirakan. Kesabaran juga penting. Tarik nafas dalam-dalam jika anda sedar anda kecewa dengan bayi anda.",
-    "type": "text"
-  },
-  {
-    "SourceText": "Would you like to learn more about this tip?",
-    "text": "Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?",
     "type": "text"
   },
   {
@@ -3718,11 +3693,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry I don't understand what you mean.",
-    "text": "Maaf saya tidak faham apa yang awak maksudkan.",
-    "type": "text"
-  },
-  {
     "SourceText": "Here are 4 simple steps that you can do when talking about COVID-19 with your children:",
     "text": "Ini adalah 4 langkah mudah yang anda boleh lakukan apabila bercakap tentang COVID-19 dengan anak-anak anda:",
     "type": "text"
@@ -3880,11 +3850,6 @@
   {
     "SourceText": "Which child development milestones do you want to learn about?",
     "text": "Tahap perkembangan kanak-kanak yang manakah anda mahu pelajari mengenainya?",
-    "type": "text"
-  },
-  {
-    "SourceText": "Sorry I don't understand what you mean. ",
-    "text": "Maaf saya tidak faham apa yang awak maksudkan. ",
     "type": "text"
   },
   {
@@ -6366,11 +6331,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry, I don't understand what you mean.",
-    "text": "Maaf, saya tidak faham apa yang anda maksudkan.",
-    "type": "text"
-  },
-  {
     "SourceText": "So good to hear that you are doing well. What a wonderful feeling!",
     "text": "Gembira mendengar anda melakukannya yang baik. Satu perasaan yang indah!",
     "type": "text"
@@ -7062,11 +7022,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry, I don't understand what you mean.",
-    "text": "Maaf, saya tidak faham maksud anda.",
-    "type": "text"
-  },
-  {
     "SourceText": "Thank you for the feedback!",
     "text": "Terima kasih atas maklum balas anda!",
     "type": "text"
@@ -7074,11 +7029,6 @@
   {
     "SourceText": "Who would you like an activity for?",
     "text": "Untuk siapakah anda mahukan aktiviti?",
-    "type": "text"
-  },
-  {
-    "SourceText": "Sorry I don't understand what you mean.",
-    "text": "Maaf, saya tidak faham maksud anda.",
     "type": "text"
   },
   {
@@ -7246,11 +7196,6 @@
   {
     "SourceText": "What do you need help with?",
     "text": "Apakah perkara yang anda perlukan bantuan?",
-    "type": "text"
-  },
-  {
-    "SourceText": "Sorry, I don't understand what you mean. ",
-    "text": "Maaf, saya tidak faham maksud anda. ",
     "type": "text"
   },
   {
@@ -8437,11 +8382,6 @@
   {
     "SourceText": "This looks too young. ",
     "text": "Ini nampaknya terlalu muda. ",
-    "type": "text"
-  },
-  {
-    "SourceText": "Sorry I don't understand what you mean. ",
-    "text": "Maaf, saya tidak faham maksud anda. ",
     "type": "text"
   },
   {
@@ -16322,14 +16262,14 @@
     "type": "text"
   },
   {
-    "SourceText": "@fields.user_name, you have collected @results.n_skills/@fields.total_skills skills! You have shown excellent dedication so far, are you sure you want to exit the programme?",
-    "text": "@fields.user_name, anda telah mengumpulkan kemahiran@results.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang sangat baik sehingga kini, adakah anda pasti ingin keluar dari program ini?",
+    "SourceText": "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far, are you sure you want to exit the programme?",
+    "text": "@fields.user_name, anda telah mengumpulkan kemahiran @fields.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang sangat baik sehingga kini, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
   {
-    "SourceText": "You have collected @results.n_skills/@fields.total_skills skills! You have shown excellent dedication so far, are you sure you want to exit the programme?",
-    "text": "Anda telah mengumpulkan kemahiran @results.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang sangat baik sehingga kini, adakah anda pasti ingin keluar dari program ini?",
+    "SourceText": "You have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far, are you sure you want to exit the programme?",
+    "text": "Anda telah mengumpulkan kemahiran @fields.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang sangat baik sehingga kini, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
@@ -16536,26 +16476,26 @@
     "type": "text"
   },
   {
-    "SourceText": "@fields.user_name, you have collected @results.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname, are you sure you want to exit the programme?",
-    "text": "@fields.user_name, anda telah mengumpulkan kemahiran@results.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada @fields.child_nickname, adakah anda pasti ingin keluar dari program ini?",
+    "SourceText": "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname, are you sure you want to exit the programme?",
+    "text": "@fields.user_name, anda telah mengumpulkan kemahiran @fields.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada @fields.child_nickname, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
   {
-    "SourceText": "@fields.user_name, you have collected @results.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child, are you sure you want to exit the programme?",
-    "text": "@fields.user_name, anda telah mengumpulkan kemahiran@results.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada anak anda, adakah anda pasti ingin keluar dari program ini?",
+    "SourceText": "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child, are you sure you want to exit the programme?",
+    "text": "@fields.user_name, anda telah mengumpulkan kemahiran @fields.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada anak anda, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
   {
-    "SourceText": "You have collected @results.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname, are you sure you want to exit the programme?",
-    "text": "Anda telah mengumpulkan kemahiran @results.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada @fields.child_nickname, adakah anda pasti ingin keluar dari program ini?",
+    "SourceText": "You have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname, are you sure you want to exit the programme?",
+    "text": "Anda telah mengumpulkan kemahiran @fields.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada @fields.child_nickname, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
   {
-    "SourceText": "You have collected @results.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child, are you sure you want to exit the programme?",
-    "text": "Anda telah mengumpulkan kemahiran @results.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada anak anda, adakah anda pasti ingin keluar dari program ini?",
+    "SourceText": "You have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child, are you sure you want to exit the programme?",
+    "text": "Anda telah mengumpulkan kemahiran @fields.n_skills/@fields.total_skills! Anda telah menunjukkan dedikasi yang cemerlang setakat ini ke arah menjadi ibu bapa yang hebat kepada anak anda, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
@@ -19688,55 +19628,55 @@
   },
   {
     "SourceText": "i forgot what the risks and dangers are",
-    "text": "saya lupa tentang risiko dan bahaya",
+    "text": "saya lupa apakah risiko dan bahayanya",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i forgot how to set up set up technical fixes",
-    "text": "saya lupa cara menyediakan pembetulan teknikal",
+    "text": "saya terlupa bagaimana untuk mempersiapkan kerja baik pulih teknikal",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i forgot how to seek help",
-    "text": "saya lupa cara mendapatkan pertolongan",
+    "text": "saya terlupa bagaimana untuk memohon pertolongan",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i don't know how to create healthy and safe online habits",
-    "text": "saya tidak tahu cara memupuk tabiat kesihatan dan keselamatan dalam talian",
+    "text": "saya tidak tahu bagaimana untuk membentuk kelakuan sihat dan selamat dalam talian",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i did not have the time for this activity",
-    "text": "saya tidak mempunyai masa untuk aktiviti ini",
+    "text": "saya tidak ada masa untuk aktiviti ini",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i did not want to tell my family how much i earn ",
-    "text": "saya tidak mahu memberitahu keluarga saya jumlah pendapatan saya ",
+    "text": "saya enggan memberitahu keluarga saya berapa banyak yang saya perolehi",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "when budgeting, we could not agree on what should fall under needs and what should fall under wants",
-    "text": "semasa membuat belanjawan, kami tidak dapat bersetuju tentang perkara yang termasuk dalam keperluan dan yang termasuk dalam kehendak",
+    "text": "ketika menyediakan belanjawan, kami tidak dapat menyetujui apakah yang termasuk di dalam keperluan dan apakah yang termasuk di dalam kehendak",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i did not understand what to do",
-    "text": "saya tidak faham tindakan yang perlu dilakukan",
+    "text": "Saya tidak faham apa yang perlu dibuat",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "my family did not want to do the budgeting with me",
-    "text": "keluarga saya tidak mahu membuat belanjawan dengan saya",
+    "text": "keluarga saya tidak mahu menyediakan belanjawan bersama-sama saya",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -19748,19 +19688,19 @@
   },
   {
     "SourceText": "i am finding it difficult to use positive language whilst communicating to my family",
-    "text": "saya mendapati sukar untuk menggunakan bahasa positif semasa berkomunikasi dengan keluarga saya",
+    "text": "saya sukar untuk menggunakan bahasa yang positif ketika berkomunikasi dengan keluarga saya",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i don't know how to get others in my family to contribute to a supportive family environment",
-    "text": "saya tidak tahu cara untuk membuatkan orang lain dalam keluarga saya menyumbang untuk mencapai persekitaran kekeluargaan yang menyokong",
+    "text": "saya tidak tahu bagaimana untuk melibatkan ahli keluarga saya yang lain bagi menyumbang kepada persekitaran keluarga yang membantu",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "i don't know how to show others that i am listening",
-    "text": "saya tidak tahu cara untuk menunjukkan kepada orang lain yang saya mendengar",
+    "text": "saya tidak tahu bagaimana untuk menunjukkan kepada orang lain bahawa saya sedang mendengar",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -19771,8 +19711,8 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "i don't know how to contribute to a supportive family environment ",
-    "text": "saya tidak tahu cara untuk menyumbang kepada persekitaran kekeluargaan yang menyokong ",
+    "SourceText": "i don't know how to contribute to a supportive family environment",
+    "text": "saya tidak tahu bagaimana untuk menyumbang kepada persekitaran keluarga yang membantu",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -20000,7 +19940,7 @@
   },
   {
     "SourceText": "i did not have the opportunity to involve my children in problem solving",
-    "text": "saya tidak berpeluang untuk melibatkan anak saya dalam penyelesaian masalah",
+    "text": "saya berpeluang untuk melibatkan anak saya dalam penyelesaian masalah",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -20012,7 +19952,7 @@
   },
   {
     "SourceText": "i am finding it difficult to get my child to stop using gadgets",
-    "text": "saya mendapati sukar untuk menyuruh anak saya berhenti menggunakan alat digital",
+    "text": "saya mengalami kesukaran untuk menyuruh anak saya berhenti menggunakan alat digital",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -20084,7 +20024,7 @@
   },
   {
     "SourceText": "my teen did not discuss anything sensitive or challenging with me",
-    "text": "anak remaja saya tidak berbincang sesuatu yang sensitif atau mencabar dengan saya",
+    "text": "anak remaja saya tidak berbincang tentang sesuatu yang sensitif atau mencabar dengan saya",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -20138,7 +20078,7 @@
   },
   {
     "SourceText": "i am feeling overwhelmed",
-    "text": "saya berasa terbeban",
+    "text": "saya berasa kecewa",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -20228,7 +20168,7 @@
   },
   {
     "SourceText": "my child reacted negatively",
-    "text": "anak saya bertindak negatif",
+    "text": "anak saya memberikan reaksi yang negatif",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -21715,5 +21655,1279 @@
     "text": "Hai @fields.user_name! Adakah anda mahu tahu selanjutnya tentang cara anda boleh menyokong kanak-kanak kurang upaya?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried involving your partner when making decisions recently?",
+    "text": "Hai @fields.user_name! Adakah anda pernah mencuba melibatkan pasangan anda ketika membuat keputusan baru-baru ini?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried involving your partner when making decisions recently?",
+    "text": "Hai! Adakah anda pernah mencuba melibatkan pasangan anda ketika membuat keputusan baru-baru ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How was your experience?",
+    "text": "Bagaimanakah pengalaman anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That is fantastic!",
+    "text": "Itu hebat!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to review the content on this?",
+    "text": "Adakah anda ingin menyemak kandungannya?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when trying to involve your partner in making a decision?",
+    "text": "Kami berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba melibatkan pasangan anda dalam membuat keputusan?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when trying to involve your partner in making a decision?",
+    "text": "Saya berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba melibatkan pasangan anda dalam membuat keputusan?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That is okay! Remember you can access this content at anytime by typing \"Help\". Chat to you later @fields.user_name!",
+    "text": "Tidak mengapa! Ingat, anda boleh mengakses kandungan ini pada bila-bila masa dengan menaip “Tolong”. Sembang dengan anda kemudian @fields.user_name!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "That is okay! Remember you can access this content at anytime by typing \"Help\". Chat to you later!",
+    "text": "Tidak mengapa! Ingat, anda boleh mengakses kandungan ini pada bila-bila masa dengan menaip “Tolong”. Sembang dengan anda kemudian!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for trying! How was your experience?",
+    "text": "Syabas kerana mencuba! Bagaimanakah pengalaman anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried getting involved and helping out with caregiving or housework recently?",
+    "text": "Hai @fields.user_name! Adakah anda pernah mencuba terlibat dan membantu mengurus rumah tangga baru-baru ini?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hai @fields.user_name! Adakah anda pernah mencuba melibatkan pasangan anda dalam membantu anda dalam menjaga atau mengemas rumah baru-baru ini?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hai @fields.user_name! Adakah anda pernah mencuba melibatkan diri dalam membantu di rumah dan juga melibatkan pasangan anda dalam membantu anda dalam penjagaan atau kerja rumah baru-baru ini?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried getting involved and helping out with caregiving or housework recently?",
+    "text": "Hai! Adakah anda pernah mencuba terlibat dan membantu mengurus rumah tangga baru-baru ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Have you tried involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hai! Adakah anda pernah mencuba melibatkan pasangan anda dalam membantu anda dalam menjaga atau mengemas rumah baru-baru ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Have you tried getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hai! Adakah anda pernah mencuba melibatkan diri dalam membantu di rumah dan juga melibatkan pasangan anda dalam membantu anda dalam penjagaan atau kerja rumah baru-baru ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when tryng to help out with caregiving or housework?",
+    "text": "Kami berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba membantu penjagaan atau kerja-kerja rumah?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?",
+    "text": "Kami berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba melibatkan pasangan anda untuk penjagaan dan membuat kerja-kerja rumah?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?",
+    "text": "Kami berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba berkongsi tanggungjawab penjagaan dan membuat kerja-kerja rumah dengan pasangan anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when tryng to help out with caregiving or housework?",
+    "text": "Saya berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba membantu penjagaan atau kerja-kerja rumah?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?",
+    "text": "Saya berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba melibatkan pasangan anda untuk penjagaan dan membuat kerja-kerja rumah?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?",
+    "text": "Saya berasa sedih mendengarnya. Apakah yang anda dapati sukar apabila cuba berkongsi tanggungjawab penjagaan dan membuat kerja-kerja rumah dengan pasangan anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That is fantastic, @fields.user_name!",
+    "text": "Itu hebat @fields.user_name!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "“How am I going to get through this?”",
+    "text": "“Bagaimanakah saya dapat melalui perkara ini?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(1)",
+    "text": "(1)",
+    "type": "text"
+  },
+  {
+    "SourceText": "“Whatever it is, I am okay.” ",
+    "text": "Apa pun ianya, saya tiada masalah.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "(2)",
+    "text": "(2)",
+    "type": "text"
+  },
+  {
+    "SourceText": "“Breathe in. Breathe out.\"",
+    "text": "“Tarik nafas. Hembus nafas.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(3)",
+    "text": "(3)",
+    "type": "text"
+  },
+  {
+    "SourceText": "“I can do this. We will get through it together.”",
+    "text": "“Saya boleh melakukan perkara ini. Kita akan melaluinya bersama.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(4)",
+    "text": "(4)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children learn through play! Here is a comic about spending one-on-one time with your baby!",
+    "text": "Kanak-kanak belajar melalui bermain! Berikut adalah komik tentang meluangkan Masa Bersama Seorang-dengan-Seorang dengan bayi anda!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Such a strong baby you are.\"",
+    "text": "Ibu/bapa: “Kamu seorang bayi yang sangat kuat.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"We are making a delicious meal together.\"",
+    "text": "Ibu/bapa: “Kami sedang menyediakan makanan yang enak bersama-sama.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Here I am?” ",
+    "text": "Ibu/bapa: “Ibu/bapa di sini” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Baby: \"Ha ha ha!\"",
+    "text": "Bayi: \"Ha ha ha!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Wow! You have stacked 3 blocks on top of each other. Well done!\"",
+    "text": "Ibu/bapa: “Wow! Kamu sudah menyusun tiga blok di atas satu sama lain. Syabas!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening. Speak with enthusiasm when describing what your child is doing. Here is a comic on how to communicate with your baby. ",
+    "text": "Gunakan perkataan untuk menerangkan tindakan, warna, bentuk, nombor, saiz, tekstur, suhu, rasa, bunyi, dan apa sahaja yang berlaku. Bercakap dengan penuh semangat semasa menerangkan apa yang anak anda sedang dilakukan. Berikut adalah komik tentang bagaimana berkomunikasi dengan bayi anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"You are such a beautiful person\"",
+    "text": "Ibu/bapa: “Kamu seorang yang sangat cantik”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Buh, buh, buh, big baby!\"",
+    "text": "Ibu/bapa: \"Buh, buh, buh, baby dah besar!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Baby: \"Buh, buh, buh…\"",
+    "text": "Bayi: \"Buh, buh, buh…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"And then there were two green parrots in the mango tree!\"",
+    "text": "Ibu/bapa: “Ada dua ekor burung kakak tua berwarna hijau di atas pokok mangga!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"And now I am cleaning your toes, and your feet, and your knees…\"",
+    "text": "Ibu/bapa: “Sekarang ibu cuci jari kaki kamu, kaki kamu, dan lutut kamu...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on spending one-on-time with your child. ",
+    "text": "Berikut adalah komik tentang meluangkan Masa Bersama Seorang-dengan-Seorang dengan anak anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “I’m bored! There is nothing to do.”",
+    "text": "Anak: “Saya rasa bosan! Tiada apa yang hendak dilakukan.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Let’s do something together! How about we make some drawings and put them on the gate with messages for people to see?”",
+    "text": "Ibu/bapa: “Mari kita lakukan sesuatu bersama! Bagaimana kalau kita melukis dan letakkan di pintu pagar dengan mesej yang boleh dilihat oleh orang lain?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children: “Okay!”",
+    "text": "Anak: “Okey!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “You make the pictures and I’ll write the messages”",
+    "text": "Ibu/bapa: “Kamu lukis gambar dan saya akan tulis mesej”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Sure!”",
+    "text": "Anak: “Baik!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Remember to wash hands! We love our neighbours!” ",
+    "text": "Ibu/bapa: “Jangan lupa basuh tangan! Kami sayang jiran-jiran kami!” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried sharing family responsibilities at home recently?",
+    "text": "Hai @fields.user_name! Adakah anda pernah mencuba berkongsi tanggungjawab keluarga di rumah baru-baru ini?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried sharing family responsibilities at home recently?",
+    "text": "Hai! Adakah anda pernah mencuba berkongsi tanggungjawab keluarga di rumah baru-baru ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Excellent job @fields.user_name! Sharing the workload benefits the whole family. How was your experience?",
+    "text": "Kerja yang sangat bagus@fields.user_name! Berkongsi beban kerja memberi manfaat kepada seluruh keluarga. Bagaimanakah pengalaman anda?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Excellent job! Sharing the workload benefits the whole family. How was your experience?",
+    "text": "Kerja yang sangat bagus! Berkongsi beban kerja memberi manfaat kepada seluruh keluarga. Bagaimanakah pengalaman anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What was difficult for you about sharing family responsibilities?",
+    "text": "Kami berasa sedih mendengarnya. Apakah yang sukar bagi anda tentang berkongsi tanggungjawab keluarga?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What was difficult for you about sharing family responsibilities?",
+    "text": "Saya berasa sedih mendengarnya. Apakah yang sukar bagi anda tentang berkongsi tanggungjawab keluarga?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on how to talk to your child about COVID-19. ",
+    "text": "Berikut adalah komik tentang bagaimana bercakap dengan anak anda tentang COVID-19. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Am I going to get coronavirus?” ",
+    "text": "Anak: \"Adakah saya akan mendapat coronavirus?\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “It is very possible that we will all get coronavirus. But younger people do not normally get very sick.”",
+    "text": "Ibu/bapa: “Besar kemungkinan kita semua boleh dijangkiti coronavirus. Tetapi orang muda biasanya tidak sakit teruk.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “I am scared…” ",
+    "text": "Anak: “Saya takut...” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “It is okay to be afraid. We are all a bit scared about this. But we have each other and can do our best to keep ourselves and other people safe and healthy.”",
+    "text": "Ibu/bapa: “Tidak mengapa kalau kamu berasa takut. Kita semua agak takut tentang ini. Kita ada satu sama lain dan kita boleh cuba yang terbaik untuk menjaga diri kita sendiri dan orang lain supaya selamat dan sihat.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “How can we keep safe?” ",
+    "text": "Anak: “Bagaimana untuk kita jadi selamat?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “We can wash our hands regularly for 20 seconds. We can also keep a good physical distance away from people. We also need to try to avoid touching our faces as much as possible.” ",
+    "text": "Ibu/bapa: Kita boleh membasuh tangan secara kerap selama 20 saat. Kita juga boleh menjauhkan jarak fizikal dari orang lain. Kita juga harus mencuba mengelak daripada menyentuh wajah kita sebanyak yang mungkin.\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child, “Okay…”",
+    "text": "Anak, ” Okey...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “What happens to your body when you get coronavirus?”",
+    "text": "Anak: \"Apa yang terjadi pada tubuh anda ketika anda mendapat coronavirus?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": " Parent: “To tell you the truth, I don’t know exactly. How about we look on the UNICEF website together?”",
+    "text": " Ibu/bapa: “Sebenarnya, saya sendiri tidak tahu dengan tepat. Bagaimana kalau kita sama-sama tengok di laman web UNICEF?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "• They can think about new ideas, develop their own ideals and set their own course.",
+    "text": "• Mereka boleh berfikir tentang idea baharu, membina idea mereka sendiri dan menetapkan matlamatnya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on how you can reinforce your child's strength.",
+    "text": "Berikut adalah komik tentang bagaimana anda boleh mengukuhkan kekuatan anak anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"la la la la….\"",
+    "text": "Anak: “la la la la...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: \"la la la la…\"",
+    "text": "Remaja: “la la la la...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Disabled Child: \"la la la la…\"",
+    "text": "Anak Kurang Upaya:  “la la la la...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"It was so lovely to hear you singing while I was preparing dinner. Food is ready! Please tidy the room and put away the toys.\"",
+    "text": "Ibu/bapa: Seronoknya mendengar kamu menyanyi sambil saya menyediakan makan malam. Makanan dah siap! Tolong kemaskan bilik dan simpan mainan.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: \"Here is the toy box. We can put the toys inside.\"",
+    "text": "Remaja: “Ini kotak mainan. Kita boleh simpan mainan dalam kotak ini.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Disabled Child: \"Please remember my favourite car!\"",
+    "text": "Anak Kurang Upaya: “Tolong ingat kereta kesukaan saya!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"I have it right here!\"",
+    "text": "Anak: \"Ada dengan saya di sini!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I am so happy you have tidied up your toys together! It is dinnertime!\"",
+    "text": "Ibu/bapa: Saya sangat gembira kamu sudah mengemas mainan kamu bersama-sama! Masa untuk makan malam!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Disabled child: \"Can you help me come to dinner?\"",
+    "text": "Anak Kurang Upaya: “Boleh tolong saya ke tempat makan untuk makan malam?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(5)",
+    "text": "(5)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Thank you for asking. Let's go together. You are so strong!\"",
+    "text": "Ibu/bapa: “Terima kasih kerana minta tolong. Mari kita pergi bersama-sama. Kamu sangat kuat!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(6)",
+    "text": "(6)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “In 5 minutes it will be time to give me back the phone and start your school work.” ",
+    "text": "Ibu/bapa: “Dalam masa 5 minit, tolong beri telefon itu semula kepada saya dan mula buat kerja rumah kamu.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen (distractedly): “Uh-huh…”",
+    "text": "Remaja (terganggu): “Uh-huh…”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “5 minutes is up. Please give me the phone.” ",
+    "text": "Ibu/bapa: “Masa 5 minit dah tamat. Tolong berikan telefon itu kepada ibu.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “No, I am not done. I just need to get to the next level.”",
+    "text": "Remaja: “Tidak, saya belum selesai. Saya perlu naik ke tahap seterusnya.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “You have a choice, either you give me the phone now, or you cannot use it after dinner.” ",
+    "text": "Ibu/bapa: “Ibu/bapa beri kamu pilihan, sama ada kamu beri telefon itu sekarang kepada ibu/bapa atau kamu tak boleh gunakannya selepas makan malam.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen (not happy but agreeing): “Fine.”",
+    "text": "Remaja (tidak gembira tetapi bersetuju): “Baiklah.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for giving me the phone back, Carter. Now please do your school work. After that we can take a walk or play a game together.”",
+    "text": "Ibu/bapa: “Terima kasih kerana pulangkan telefon kepada saya, Carter. Sekarang tolong buat kerja sekolah anda. Selepas itu kita boleh berjalan-jalan atau bermain permainan bersama-sama.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “What’s wrong, my dear? Come and sit by me and tell me what happened.” ",
+    "text": "Ibu/bapa: “Apa masalahnya sayang? Mari duduk dekat ibu/bapa, beritahu ibu/bapa apa yang terjadi.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “It’s that person…they touched me…”",
+    "text": "Anak: “Orang itu...mereka menyentuh saya...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Take your time... I am listening.” ",
+    "text": "Ibu/bapa: “Ambillah masa kamu... Ibu/bapa sedia mendengar.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “… they held me down…told me I would be in trouble if I told anybody…”",
+    "text": "Anak: ”...mereka pegang saya...beritahu saya, saya akan mendapat masalah jika saya beritahu sesiapa...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I believe you. You are not in trouble. It is not your fault. This is a big thing and we will find a way to get the help you need. I wonder where we can go for help…?”",
+    "text": "Ibu/bapa: “Ibu/bapa percayakan kamu. Kamu tidak berada dalam masalah. Ini bukan salah kamu. Ini satu perkara yang besar dan kita akan cari jalan untuk dapatkan pertolongan yang kamu perlukan. Di manakah agaknya kita boleh dapatkan pertolongan...?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “The clinic? But could you come with me?”",
+    "text": "Anak: “Di klinik? Bolehkah ibu/bapa menemani saya?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Yes, they will know what to do. Of course, I will come with you. Remember, this is not your fault. I love you and we will get through this.” ",
+    "text": "Ibu/bapa: “Ya, mereka tahu apa yang perlu dilakukan. Semestinya saya akan menemani kamu. Ingat, ini bukan salah kamu. Ibu/bapa sayangkan kamu dan kita akan melalui semua ini.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Thanks so much.”",
+    "text": "Anak: “Terima kasih.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on  coping with a colicky baby",
+    "text": "Berikut adalah komik untuk menangani bayi yang kembung perut",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"We should do something.\"",
+    "text": "Ibu/bapa 1: “Kita perlu lakukan sesuatu.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"Okay, I'll try feeding them.\"",
+    "text": "Ibu/bapa 2: “Okey, saya cuba beri dia makan.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Baby: \"aaaaaaaa\"",
+    "text": "Bayi: “aaaaaaaa”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1:  \"What is wrong with them?\"",
+    "text": "Ibu/bapa 1: “Apa yang tidak kena dengan anak ini?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"I don't know. It has been an hour and they are still crying. I cannot take it anymore. They are driving me crazy, I just want to shake them!\"",
+    "text": "Ibu/bapa 2: “Saya tak tahu. Sudah satu jam dan anak ini masih menangis. Saya tidak boleh hadapinya lagi. Ini membuat saya berasa nak gila, saya rasa nak goncang dia!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"I can see that this has been a stressful night for you. How about you get some sleep while I take Frankie into the other room. I will try wrapping them up in a blanket.\"",
+    "text": "Ibu/bapa 2: “Saya lihat malam ini merupakan malam yang sukar untuk anda. Pergilah tidur sebentar sementara saya bawa Frankie ke bilik lain. Saya akan cuba menyelimutkannya.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Thank you. I was getting so angry at myself.\"",
+    "text": "Ibu/bapa 1: “Terima kasih. Saya berasa sangat marah kepada diri sendiri.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"How did you manage to get them to sleep?\"",
+    "text": "Ibu/bapa 1: “Bagaimana anda boleh menidurkannya?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"I think they wore themselves out but we should take them to the clinic tomorrow morning.\"",
+    "text": "Ibu/bapa 2: “Saya rasa dia keletihan sendiri, tetapi kita perlu bawa dia ke klinik pagi esok.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “How are you doing, Andy?”",
+    "text": "Ibu/bapa: “Apa khabar Andy?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen (looking sad): “I wish I could hang out with my friends.”",
+    "text": "Remaja (kelihatan sedih): “Saya harap dapat berjumpa dengan kawan-kawan saya.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent (thinking): \"Hmmm…that can wait…\"",
+    "text": "Ibu/bapa: “Hmmm...kamu boleh jumpa mereka kemudian..”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent (looks back to teen):“I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
+    "text": "Ibu/bapa (menoleh ke arah anak remaja): “ Ibu/bapa faham, tentu sukar apabila terpisah dari kawan-kawan.  Saya pasti mereka juga merindui kamu.” Mari kita fikirkan beberapa cara bagaimana kamu boleh menghubungi mereka.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: \"Maybe I can make a TikTok video to share with them. But I am not sure how…can you help me?”",
+    "text": "Remaja: “Mungkin saya boleh buat video TikTok untuk dikongsi dengan mereka. Tapi saya tak pasti bagaimana nak buat... boleh anda bantu saya?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I would be happy to help and would like to know more about TikTok, too!”",
+    "text": "Ibu/bapa: “Saya gembira untuk membantu dan ingin lebih tahu tentang TikTok!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Why can’t I go play with my friends today?”",
+    "text": "Anak: “Kenapa saya tidak boleh bermain dengan kawan-kawan hari ini?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I can see that you are upset, Sam. It can be difficult when we feel separated from our friends.”",
+    "text": "Ibu/bapa: “Ibu dapat lihat kamu sedang bersedih, Sam. Ia boleh menjadi sukar apabila kita terpisah dari kawan-kawan.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “We are not allowed to visit other people right now because of COVID-19.",
+    "text": "Ibu/bapa: “Kita tidak dibenarkan melawat orang lain sekarang disebabkan oleh COVID-19.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This will keep them and us safe while making sure our health services are able to support those who are sick.\"",
+    "text": "Ini akan membuat kita dan mereka selamat dan memastikan perkhidmatan kesihatan kita dapat membantu mereka yang sakit.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “As soon as we are able, you can play with your friends. In the meantime, we can draw some pictures of your favourite times playing with them.” ",
+    "text": "Ibu/bapa: “Sebaik sahaja dibenarkan, kamu boleh bermain dengan kawan-kawan kamu. Sementara itu, kita boleh melukis gambar-gambar semasa kamu bergembira bermain dengan mereka.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Okay!”",
+    "text": "Anak: “Okey!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on combining consequences and ignore.",
+    "text": "Berikut adalah komik tentang menggabungkan akibat dan pengabaian.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Bailey, please clear the dishes after dinner\" ",
+    "text": "Ibu/bapa 1: “Bailey, tolong cuci pinggan mangkuk selepas makan malam” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"Sam, time to get ready for bed. Come with me.\"",
+    "text": "Ibu/bapa 2: “Sam, masa untuk tidur. Mari ikut saya.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\"",
+    "text": "Ibu/bapa: “Dalam peraturan keluarga, kamu perlu membantu mengemas selepas makan malam sebelum kamu boleh bermain dengan permainan kamu.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"I don't want to clear the dishes. I want to play with my new toy car. \"",
+    "text": "Anak: “Saya tak mahu mencuci pinggan mangkuk. Saya nak bermain dengan permainan kereta baharu saya.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Bailey, either you clear the table now, or you will not be able to play with your toys later tonight\"",
+    "text": "Ibu/bapa 1: ‘Bailey, tolong kemaskan meja sekarang, atau kamu tak boleh bermain dengan mainan kamu kemudian malam ini”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\"",
+    "text": "Anak: “Tetapi itu tak adil! Sam tak perlu mengemas selepas makan malam!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Because you did not listen, you cannot play with your toys. Please get ready for bed. ",
+    "text": "Ibu/bapa 1: “Sebab kamu tak patuh, kamu tak boleh bermain dengan mainan kamu. Tolong bersiap untuk tidur. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"But that is not fair!\"",
+    "text": "Anak: “Tetapi itu tak adil!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"But that is not fair. Waaaah!\"",
+    "text": "Anak: “Tetapi itu tak adil!” Waaaah!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"It is so nice to see that you got ready for bed all by yourself!\"",
+    "text": "Ibu/bapa 1: “Gembira melihat kamu sendiri bersiap untuk tidur!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"Now can I play with my toy car?\"",
+    "text": "Anak: “Sekarang bolehkah saya bermain dengan kereta permainan saya?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"You can play with your car tomorrow. It is bedtime. Come, my sweetie, I will tell your favourite bedtime story.\"",
+    "text": "Ibu/bapa 1: “Kamu boleh bermain dengan kereta permainan kamu esok. Sudah sampai masa untuk tidur. Mari sayang,saya akan ceritakan cerita kegemaran kamu sebelum tidur.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(7)",
+    "text": "(7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Once upon a time...\"",
+    "text": "Ibu/bapa 1: ‘”Pada suatu masa...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(8)",
+    "text": "(8)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Give it to me!”",
+    "text": "Anak: “Berikan pada saya!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “I had it first!” ",
+    "text": "Remaja: “Saya dapat dahulu!” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Cameron and Billy, come and help me prepare dinner. We are making your favourite dish!” ",
+    "text": "Ibu/bapa: “Cameron dan Billy, mari tolong ibu sediakan makan malam. Kami sedang menyediakan makan malam kegemaran kamu!” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for helping me get these veggies clean for our dinner tonight!”",
+    "text": "Ibu/bapa: “Terima kasih kerana membantu saya membersihkan sayur untuk makan malam kita!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can add more, too! Here is a comic on creating a daily routine with your child. ",
+    "text": "Kamu juga boleh tambah lagi! Berikut adalah komik tentang membuat rutin harian dengan anak anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Now let’s look at the multiplication tables…”",
+    "text": "Ibu/bapa: “Mari kita tengok jadual sifir...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for helping me make lunch, Junior” ",
+    "text": "Ibu/bapa: “Terima kasih anak kerana menolong saya menyediakan makan tengahari, Junior” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “My favourite!”",
+    "text": "Anak: “Kegemaran saya!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent “And they all lived happily ever after…Goodnight, my love.”",
+    "text": "Ibu/bapa “Dan mereka hidup bahagia hingga akhir hayat... Selamat malam sayang.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Thank you for being so supportive with the kids today.” ",
+    "text": "Ibu/bapa: “Terima kasih kerana banyak membantu menjaga anak-anak hari ini.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about treating each other as equals.",
+    "text": "Berikut adalah komik tentang melayan satu sama lain secara adil.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “My dear, you look worried. What’s wrong?”",
+    "text": "Ibu/bapa 1: “Sayang, kamu kelihatan risau. Ada apa-apa yang tak kena?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “The stove has not been working very well recently. I think the stove might be broken.”",
+    "text": "Ibu/bapa 2: “Dapur ini tidak berfungsi dengan baik sejak kebelakangan ini. Saya rasa dapur ini rosak.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?”",
+    "text": "Ibu/bapa 1: “Saya juga perasan tentang perkara ini semasa saya memasak minggu lepas. Saya nak tanya kamu: kamu fikir perlukah kita beli yang baharu?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?",
+    "text": "Ibu/bapa 2: “Mungkin terlalu mahal untuk membeli yang baharu. Bagaimana kalau kita bincang tentangnya selepas makan malam, dan kita boleh buat keputusan bersama.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “That sounds great. Thank you for cooking dinner, my dear!”",
+    "text": "Ibu/bapa 1: ‘Itu cadangan yang baik. Terima kasih kerana masakkan makan malam, sayang!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first.”",
+    "text": "Ibu/bapa 1: “Saya gembira kita boleh berbincang tentang perkara ini dan buat keputusan bersama. Lebih elok untuk baikinya dahulu.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “Me too. I feel a lot better now that we have talked about it together.” ",
+    "text": "Ibu/bapa 2: “Saya juga. Saya rasa lebih lega sekarang kerana kita telah berbincang tentangnya bersama.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about becoming a confident parent and a supportive partner.",
+    "text": "Berikut adalah komik tentang menjadi ibu/bapa yang yakin dan pasangan yang menyokong.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about sharing family responsibilities.",
+    "text": "Berikut adalah komik tentang berkongsi tanggungjawab keluarga.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Wow, there are so many clothes in here!”",
+    "text": "Anak: ‘Wow, banyaknya pakaian di sini!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “You’re right, Kyle, there is quite a lot to do.”",
+    "text": "Ibu/bapa 1: ‘Betul Kyle, banyak kerja yang perlu dilakukan.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “If we do it together it will take less time!”",
+    "text": "Ibu/bapa 1: “Jika kita buat bersama, ia akan mengambil masa yang lebih singkat!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Doing tasks together is also fun”",
+    "text": "Ibu/bapa 1: “Seronok juga buat kerja bersama-sama”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “Thank you, my love. Sharing the workload makes it less stressful.”",
+    "text": "Ibu/bapa 2: “Terima kasih, sayang. Berkongsi beban kerja dapat mengurangkan tekanan.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about resolving conflict peacefully.",
+    "text": "Berikut ialah komik tentang menyelesaikan konflik secara aman.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Dinner is ready!”",
+    "text": "Ibu/bapa 1: “Makan malam dah siap!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Look, it is raining so much outside!”",
+    "text": "Anak: “Lihat, lebat sungguh hujan di luar!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I am glad you brought in the laundry earlier, my dear. Otherwise, it would have been soaked by now!”",
+    "text": "Ibu/bapa 1: “Sayang, mujur awak dah angkat pakaian di jemuran lebih awal. Kalau tak, habis basah pakaian kita!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I thought you said you would bring in the laundry today?”",
+    "text": "Ibu/bapa 1: “Bukankah awak kata awak akan angkatkan pakaian di jemuran hari ni?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “No, I was busy cooking dinner! You told me you would take care of it! How could you forget? Now all the laundry is wet!”",
+    "text": "Ibu/bapa 1: “Tak, saya sibuk memasak untuk makan malam! Awak cakap nak uruskan! Macam mana awak boleh lupa? Sekarang semua pakaian dah basah!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I’m really sorry. It was a mistake!”",
+    "text": "Ibu/bapa 2: “Saya minta maaf banyak-banyak. Itu adalah salah!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1(thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…",
+    "text": "Ibu bapa 1 (merenung): Tak sangka dia boleh lupa! Namun tiada siapa yang bebas daripada kesilapan Tarik nafas dalam-dalam...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I’m sorry if I sounded upset. I just got stressed because I have had a long day.”",
+    "text": "Ibu/bapa 1: \"Saya minta maaf kerana marah-marah tadi. Saya tertekan kerana terlalu sibuk sepanjang hari ni.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I am sorry that I forgot the laundry. I know you have had a long day. I will make sure to take care of it after dinner.”",
+    "text": "Ibu/bapa 2: “Maafkan saya kerana terlupa nak angkat pakaian dari jemuran. Saya tahu awak sibuk hari ni. Saya akan uruskannya lepas makan malam.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about listening and talking to each other.",
+    "text": "Berikut ialah komik tentang mendengar dan bercakap antara satu sama lain.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Are you okay, my love? You look tired.”",
+    "text": "Ibu/bapa 1: “Sayang, awak okey? Awak nampak letih ”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I didn’t sleep well last night and so I am feeling quite tired.”",
+    "text": "Ibu/bapa 2: “saya rasa letih sebab tidur saya agak terganggu semalam.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I am sorry to hear that, Amir. Is there anything I can do to help?”",
+    "text": "Ibu/bapa 1: “Saya simpati atas apa yang berlaku, Amir. Ada sesuatu yang boleh saya bantu?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I might try and get an earlier rest this evening.”",
+    "text": "Ibu/bapa 2: \"Saya akan cuba tidur lebih awal pada malam ini.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I can take over the children’s bedtime routine after dinner tonight, so that you can get some extra rest.”",
+    "text": "Ibu/bapa 1: \"Saya akan uruskan rutin tidur anak-anak lepas makan malam nanti, awak cubalah berehat lebih sikit.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “That would be lovely. Thank you so much, my dear.”",
+    "text": "Ibu/bapa 2: “Baiknya hati awak. Terima kasih banyak, sayang.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried to talk to your partner about your feelings and any difficulties you are facing recently?",
+    "text": "Hai @fields.user_name! Pernahkah anda luahkan perasaan emosi dan sebarang kesulitan yang anda hadapi baru-baru ini kepada pasangan anda?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried to talk to your partner about your feelings and any difficulties you are facing recently?",
+    "text": "Hai! Pernahkah anda luahkan perasaan emosi dan sebarang kesulitan yang anda hadapi baru-baru ini kepada pasangan anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Good for you! Talking about challenges and our emotions can be hard. How was your experience? ",
+    "text": "Tahniah buat anda! Bercakap tentang cabaran dan emosi adalah agak sukar. Bagaimanakah pengalaman anda? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear that. What was hard for you when talking about your feelings and challenges you are facing?",
+    "text": "Saya simpati atas apa yang berlaku. Apakah yang sukar bagi anda ketika bercakap tentang perasaan dan cabaran yang anda hadapi?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear that. What was hard for you when talking about your feelings and challenges you are facing?",
+    "text": "Saya simpati atas apa yang berlaku. Apakah yang sukar bagi anda ketika bercakap tentang perasaan dan cabaran yang anda hadapi?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried resolving conflict in a calm way even when you have felt frustrated recently?",
+    "text": "Hai @fields.user_name! Pernahkah anda cuba selesaikan konflik dengan tenang walaupun pernah kecewa baru-baru ini?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried resolving conflict in a calm way even when you have felt frustrated recently?",
+    "text": "Hai! Pernahkah anda cuba selesaikan konflik dengan tenang walaupun pernah kecewa baru-baru ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear this. What was difficult for you about resolving conflicts between you and your partner?",
+    "text": "Saya simpati atas apa yang berlaku. Apakah kesukaran yang paling ketara bagi anda dalam menyelesaikan konflik dengan pasangan anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Good job @fields.user_name! Resolving conflicts isn’t always easy. How was your experience?",
+    "text": "Bagus @fields.user_name! Menyelesaikan konflik bukanlah perkara yang mudah Bagaimanakah pengalaman anda?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Good job! Resolving conflicts isn’t always easy. How was your experience?",
+    "text": "Bagus! Menyelesaikan konflik bukanlah perkara yang mudah Bagaimanakah pengalaman anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on discussing online activities with your child",
+    "text": "Berikut ialah komik tentang perbincangan aktiviti dalam talian dengan anak anda",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Shani, have you done your homework?\"",
+    "text": "Ibu/bapa: “Shani, kerja rumah dah buat?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"Just a minute mum, I'm finishing this tiktok video\"",
+    "text": "Anak: “Kejap lah Ibu, saya nak siapkan video tiktok ni dulu”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"You are a really great dancer! Tell me about why you like it.\"",
+    "text": "Ibu/bapa: “Kamu sememangnya seorang penari yang hebat! Ceritakan kenapa kamu menyukainya?.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"All my friends are on it. I have more than 600 likes and 120 followers.\"",
+    "text": "Anak: “Semua rakan saya turut menggunakannya. Saya mempunyai lebih 600 tanda suka (likes) dan 120 orang pengikut.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I’m proud of how well you dance, Joey. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\"",
+    "text": "Ibu/bapa: “Joey, Ibu sangat bangga melihat kehebatan kamu menari. Namun kita perlu pastikan keselamatan kamu sentiasa terjaga. Ibu tahu rakan-rakan kamu menonton TikTok, namun dengan akaun yang terbuka begini, besar kemungkinan akan disalahgunakan oleh golongan pedofilia yang menonton video tentang remaja. Pedofilia merupakan golongan berumur yang berniat mengambil kesempatan terhadap kanak-kanak dan remaja.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\"",
+    "text": "Ibu/bapa: \"Apa kata kita sama-sama layari cara dan etika dalam talian yang paling selamat dan menyeronokkan. Tengok ni – kamu boleh memilih tetapan akaun peribadi dan menentukan siapa yang jadi pengikut kamu. Justeru, kamu hanya perlu menerima permintaan dari kenalan dan taulan dan bukan sembarangan orang. Boleh kita sama-sama bersetuju untuk syaratkan penggunaan TikTok dengan Akaun peribadi sahaja? Ibu yakin kamu tahu permintaan untuk menjadi pengikut yang mana boleh di terima!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I’m proud of you Shalini...\"",
+    "text": "Ibu/bapa: “Ibu bangga akankamu Shalini...”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on using positive words and praise with your teen. ",
+    "text": "Berikut ialah komik tentang menggunakan perkataan positif dan pujian dengan anak remaja anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “Can I watch some T.V. after dinner?” ",
+    "text": "Remaja: \"Boleh saya tonton T.V. sekejap selepas makan malam nanti?\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “When you clear the table, you can watch an hour of T.V.” ",
+    "text": "Ibu/bapa: \"Selepas bersihkan meja tu, kamu boleh tonton T.V. selama satu jam\". ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I really appreciate it when you help clean up after dinner. Thank you, Dylan”",
+    "text": "Ibu/bapa: \"Ibu/bapa amat menghargai apabila kamu menolong mengemas selepas selesai makan malam. Terima kasih, Dylan”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent and teen watching T.V. together. ",
+    "text": "Ibu bapa dan anak remaja menonton T.V. bersama. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children and teens are spending a lot more time online. Here is a comic on how you can create safe and healthy online habits like scheduling time online and offline.",
+    "text": "Kini anak kecil dan anak remaja meluangkan lebih banyak masa dalam talian. Berikut ialah komik tentang cara anda dapat mewujudkan tabiat dalam talian yang selamat dan sihat seperti menjadualkan masa dalam talian dan luar talian.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Jack, you have been spending a lot of time on your tablet. Why do you think I am concerned about that?” ",
+    "text": "Ibu/bapa: \"Jack, kamu telah menghabiskan banyak masa dengan tablet kamu. Tahukah kamu mengapa ibu/bapa bimbang akan hal itu?\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Um…because I am not doing my schoolwork?” ",
+    "text": "Anak: \"Hm...sebab saya tak buat kerja sekolah?\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Yes, that is one reason. It is important that you make the time for your schoolwork. I also like seeing you being more active. Maybe we can make a household rule about gadget use. What do you think would be a fair limit each day?” ",
+    "text": "Ibu/bapa: “Ya, itu salah satu sebab. Meluangkan masa secukupnya untuk membuat kerja sekolah adalah amat penting. Ibu juga suka tengok kamu lebih aktif. Mungkin kita boleh buat peraturan keluarga tentang penggunaan peranti. Pada pendapat kamu, apakah had penggunaan yang wajar setiap hari?\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Um…two hours a day?”",
+    "text": "Anak: \"Hm...dua jam sehari?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Hmmm…I think that might be too much time. You have so much else to do every day.” ",
+    "text": "Ibu/bapa: \"Hmmm...saya rasa dua jam tu terlalu lama. Kamu ada banyak perkara lain yang perlu dilakukan setiap hari.\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “How about one hour for fun and one hour for learning?",
+    "text": "Anak: “ Apa kata kalau satu jam untuk berseronok dan satu jam untuk belajar?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “That sounds reasonable. I would also like you to do your schoolwork before using any gadgets. So from now on, the household rule is that you do your schoolwork before using gadgets and that you can have 1 hour for free time and 1 hour for educational activities. Okay?” ",
+    "text": "Ibu/bapa: “ Itu agak munasabah. Ibu juga mahu kamu habiskan semua kerja sekolah sebelum bermain dengan sebarang peranti. Jadi mulai sekarang, peraturan keluarga adalah kamu buat kerja sekolah sebelum bermain dengan peranti (gajet) dan kamu boleh dapat 1 jam untuk aktiviti masa lapang dan 1 jam untuk aktiviti pendidikan. Okey?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Okay.”",
+    "text": "Anak: “Okey.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about spending one-on-one time with your child! Try to follow your child's lead when spending time with them. It will help build self-confidence.",
+    "text": "Berikut ialah komik tentang meluangkan masa satu dengan satu bersama anak anda! Cuba menuruti dorongan anak anda semasa meluangkan masa bersama mereka. Ini akan membina keyakinan diri mereka.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I see you are playing quietly with the lego with concentration, Alex.\"",
+    "text": "Ibu/bapa: \"Alex, Ibu lihat kamu bermain lego dengan tenang dan penuh penumpuan, Alex.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Wow! You are building such a tall and strong wall with those legos.\"",
+    "text": "Ibu/bapa: “Wow! Kamu membina dinding yang tinggi dan kukuh dengan lego-lego tersebut.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"It is for cows.\"",
+    "text": "Anak: “ Ia adalah untuk lembu-lembu.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"It will keep the cow safe!\"",
+    "text": "Ibu/bapa: \"Ia akan melindungi lembu itu dengan selamat!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"Now you can help me build a house for our family to sleep in!\"",
+    "text": "Anak: \"Sekarang bolehlah kamu tolong ibu bina rumah untuk penempatan keluarga kita\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"This house is going to keep our family warm and dry. You are such a good builder, Alex!\"",
+    "text": "Ibu/bapa: \"Rumah ni akan melindungi keluarga kita daripada panas dan hujan. “Alex, kamu memang tukang bina yang hebat”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on spending one-on-time with your teen.",
+    "text": "Berikut ialah komik tentang meluangkan Masa Bersama Seorang dengan Seorang dengan anak remaja anda!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can give @fields.child_nickname love and support when they share difficult emotions with you.",
+    "text": "Berikut ialah komik yang menunjukkan cara anda boleh memberi @fields.child_nickname kasih sayang dan sokongan apabila mereka berkongsi emosi yang sukar dengan anda.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Parent (looks back to teen): “I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
+    "text": "Ibu bapa (menoleh ke arah anak remaja): \"Ibu faham akan kesukaran terpisah daripada rakan-rakan. Saya pasti mereka juga merindui kamu.” Mari kita fikirkan beberapa cara bagaimana kamu boleh menghubungi mereka.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you.",
+    "text": "Berikut ialah komik yang menunjukkan cara anda boleh memberi anak remaja anda kasih sayang dan sokongan apabila mereka berkongsi emosi yang sukar dengan anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: All children misbehave. One thing that can help is to praise @fields.child_nickname anytime that they do something good – however small. They may not look like they want your praise but they still really, really do.",
+    "text": "Petua ringkas Semua kanak-kanak ada perangai masing-masing. Satu perkara yang dapat membantu adalah dengan memuji @fields.child_nickname pada bila-bila masa mereka melakukan sesuatu yang baik – walaupun perkara itu adalah kecil. Mereka mungkin kelihatan seperti tidak mahu pujian anda tetapi mereka sebenarnya benar-benar inginkannya.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations @fields.user_name! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Tahniah @fields.user_name! Anda telah melengkapkan petua keibubapaan pertama anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Tahniah! Anda telah melengkapkan petua keibubapaan pertama anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations @fields.user_name! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Tahniah @fields.user_name! Anda telah menambah satu tingkat lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Tahniah! Anda telah menambah satu tingkat lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu kemahiran lagi dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu kemahiran lagi dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu kemahiran lagi dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you please tell us the name or nickname of this child?",
+    "text": "Bolehkah anda beritahu saya nama atau nama panggilan anak anda ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Nice to meet you, @fields.user_name! ",
+    "text": "Salam sejahtera @fields.user_name! ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is completely normal to experience this, we know that this is not easy! Try swaddling, rocking or singing to @fields.child_nickname. You might also need feed @fields.child_nickname or change their diaper. Remember, you are not a bad parent if @fields.child_nickname continues to cry after you have done all you can to calm them. You are doing your best!",
+    "text": "Pengalaman ini adalah satu perkara yang sangat biasa, kami tahu ia bukan mudah! Cuba selimutkan, dodoikan atau nyanyikan untuk @fields.child_nickname. Anda mungkin juga perlu memberi makan @fields.child_nickname atau menukar lampinnya. Ingat, anda bukan ibu/bapa yang teruk jika @fields.child_nickname terus menangis setelah anda melakukan semua yang termampu untuk menenangkannya. Anda melakukan yang terbaik!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is completely normal to experience this, I know that this is not easy! Try swaddling, rocking or singing to @fields.child_nickname. You might also need feed @fields.child_nickname or change their diaper. Remember, you are not a bad parent if @fields.child_nickname continues to cry after you have done all you can to calm them. You are doing your best!",
+    "text": "Pengalaman ini adalah satu perkara yang sangat biasa. Saya tahu ia bukan mudah! Cuba selimutkan, dodoikan atau nyanyikan untuk @fields.child_nickname. Anda mungkin juga perlu memberi makan @fields.child_nickname atau menukar lampinnya. Ingat, anda bukan ibu/bapa yang teruk jika @fields.child_nickname terus menangis setelah anda melakukan semua yang termampu untuk menenangkannya. Anda melakukan yang terbaik!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "4. Online map",
+    "text": "4. Peta dalam talian",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"1\" to \"4\" to learn more about how you can do this activity with your children. Type \"N\" to stop this tip.",
+    "text": "Taip \"1\" hingga \"4\" untuk mengetahui lebih lanjut tentang cara anda dapat melakukan aktiviti ini bersama anak-anak anda. Taip “N” untuk menghentikan petua ini.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 4: Online map",
+    "text": "Langkah 4: Peta dalam talian",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Draw pictures of the apps and websites they use",
+    "text": "• Lukis gambar aplikasi dan laman web yang mereka gunakan",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Praise your child for how good they are at using the web!",
+    "text": "• Puji anak anda kerana mereka pandai menggunakan web!",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Talk about which ones might be unsafe. Why?",
+    "text": "• Bincang tentang laman web mana satu yang mungkin tidak selamat. Mengapa?",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Are there plans you could make together to make using the internet safer for your child and their friends?",
+    "text": "• Ada apa-apa perancangan yang dapat anda buat bersama untuk menjadikan internet lebih selamat untuk anak anda dan rakan mereka?",
+    "type": "text"
+  },
+  {
+    "SourceText": "• It can really help for parents to learn about this in advance.",
+    "text": "• Sangat membantu sekiranya ibu/bapa dapat mempelajari perkara ini terlebih dahulu.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great to hear that @fields.child_nickname has been behaving well! The best approach is to avoid having to use consequences in the first place by keeping @fields.child_nickname under a Sunshine of Positive Attention. Invest in quality time and praising @fields.child_nickname's positive behaviour. Redirect works great for avoiding these behaviours, too!",
+    "text": "Gembira mendengar @fields.child_nickname telah berkelakuan baik! Pendekatan terbaik adalah untuk mengelakkan penggunaan denda dari awal melalui pemerhatian terhadap @fields.child_nickname di bawah Sinaran Perhatian Positif. Luangkan masa berkualiti dan puji tingkah laku positif @fields.child_nickname. Mengubah kelakuan juga berkesan untuk mengelakkan tingkah laku ini!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. ",
+    "text": "Kadangkala anak-anak kita akan bertindak balas dengan cara yang negatif ketika kita mendenda mereka. Sekiranya @fields.child_nickname berusia lebih muda dari 9 tahun dan membuat perangai, anda harus mengabaikan tingkah laku anak anda sehingga mereka berhenti. Sekiranya @fields.child_nickname sudah besar, anda mungkin perlu beredar sebentar sehingga mereka bertenang. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. ",
+    "text": "Kadangkala anak-anak kita akan bertindak balas dengan cara yang negatif ketika kita mendenda mereka. Sekiranya @fields.child_nickname berusia lebih muda dari 9 tahun dan membuat perangai, anda harus mengabaikan tingkah laku anak anda sehingga mereka berhenti. Sekiranya anak anda sudah besar, anda mungkin perlu beredar sebentar sehingga mereka kembali tenang.  ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Maaf, saya tidak faham maksud anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean. ",
+    "text": "Maaf, saya tidak faham maksud anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry I don't understand what you mean.",
+    "text": "Maaf, saya tidak faham maksud anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry I don't understand what you mean. ",
+    "text": "Maaf, saya tidak faham maksud anda.",
+    "type": "text"
   }
 ]

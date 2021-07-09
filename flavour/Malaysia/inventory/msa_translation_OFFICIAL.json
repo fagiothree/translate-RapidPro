@@ -2794,12 +2794,12 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your child. Chat to you later!",
-    "text": "Tak mengapa! Anda sentiasa boleh menaip \"Bantuan\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anak anda. Berbual dengan anda kemudian!",
+    "text": "Tak mengapa! Anda sentiasa boleh menaip \"Tolong\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anak anda. Berbual dengan anda kemudian!",
     "type": "text"
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your baby. Chat to you later!",
-    "text": "Tak mengapa! Anda sentiasa boleh menaip \"Bantuan\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan bayi anda. Berbual dengan anda kemudian!",
+    "text": "Tak mengapa! Anda sentiasa boleh menaip \"Tolong\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan bayi anda. Berbual dengan anda kemudian!",
     "type": "text"
   },
   {
@@ -2884,7 +2884,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your teen. Chat to you later!",
-    "text": "Tak mengapa! Anda boleh menaip \"Bantuan\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anda remaja anda. Berbual kemudian!",
+    "text": "Tak mengapa! Anda boleh menaip \"Tolong\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anda remaja anda. Berbual kemudian!",
     "type": "text"
   },
   {
@@ -7078,7 +7078,7 @@
   },
   {
     "SourceText": "It looks like you are busy right now. You can always type \"GoBack\" to restart this parenting tip or \"Help\" for other support.",
-    "text": "Nampaknya anda sedang sibuk sekarang ini. Anda boleh sahaja taip \"PergiBalik\" untuk memulakan semula tip keibubapaan ini atau \"Bantuan\" untuk sokongan lain.",
+    "text": "Nampaknya anda sedang sibuk sekarang ini. Anda boleh sahaja taip \"PergiBalik\" untuk memulakan semula tip keibubapaan ini atau \"Tolong\" untuk sokongan lain.",
     "type": "text"
   },
   {
@@ -7088,7 +7088,7 @@
   },
   {
     "SourceText": "Type \"back\" if you want to go back to the Help menu.",
-    "text": "Taip \"kembali\" jika anda mahu kembali kepada menu Bantuan.",
+    "text": "Taip \"kembali\" jika anda mahu kembali kepada menu Tolong.",
     "type": "text"
   },
   {
@@ -7145,7 +7145,7 @@
   },
   {
     "SourceText": "Would you like to go back to the Help menu?",
-    "text": "Adakah anda mahu kembali kepada menu Bantuan?",
+    "text": "Adakah anda mahu kembali kepada menu Tolong?",
     "type": "text"
   },
   {
@@ -7215,7 +7215,7 @@
   },
   {
     "SourceText": "Would you like to go back to Help?",
-    "text": "Adakah anda mahu kembali kepada Bantuan?",
+    "text": "Adakah anda mahu kembali kepada Tolong?",
     "type": "text"
   },
   {
@@ -7235,7 +7235,7 @@
   },
   {
     "SourceText": "Change these settings by typing \"Help\" and then selecting \"Technical Support.\"",
-    "text": "Tukar tetapan ini dengan menaip \"Bantuan\" dan kemudian pilih \"Sokongan Teknikal.\"",
+    "text": "Tukar tetapan ini dengan menaip \"Tolong\" dan kemudian pilih \"Sokongan Teknikal.\"",
     "type": "text"
   },
   {
@@ -7419,7 +7419,7 @@
   },
   {
     "SourceText": "Sorry, you don't have anything to go back to! If you want to revisit any of the parenting tips, please type \"Help\". ",
-    "text": "Maaf, tiada apa-apa untuk anda kembali semula! Jika anda mahu melihat semula mana-mana tip keibubapaan, sila taip \"Bantuan\". ",
+    "text": "Maaf, tiada apa-apa untuk anda kembali semula! Jika anda mahu melihat semula mana-mana tip keibubapaan, sila taip \"Tolong\". ",
     "type": "text"
   },
   {
@@ -7633,7 +7633,7 @@
   },
   {
     "SourceText": "That's okay! You can always get more information by typing \"Help\". Chat later!",
-    "text": "Tidak mengapa! Anda boleh sahaja dapatkan maklumat lanjut dengan menaip \"Bantuan\". Kita berbual nanti!",
+    "text": "Tidak mengapa! Anda boleh sahaja dapatkan maklumat lanjut dengan menaip \"Tolong\". Kita berbual nanti!",
     "type": "text"
   },
   {
@@ -7688,7 +7688,7 @@
   },
   {
     "SourceText": "You can always revisit the parenting tips by typing \"Help\". If you want to stop receiving messages, go to \"Technical Support\" and then select \"User Experience\".",
-    "text": "Anda boleh sahaja melihat semula tip keibubapaan dengan menaip \"Bantuan\". Jika anda mahu berhenti menerima mesej, pergi ke \"Sokongan Teknikal\" dan kemudian, pilih \"Pengalaman Pengguna\".",
+    "text": "Anda boleh sahaja melihat semula tip keibubapaan dengan menaip \"Tolong\". Jika anda mahu berhenti menerima mesej, pergi ke \"Sokongan Teknikal\" dan kemudian, pilih \"Pengalaman Pengguna\".",
     "type": "text"
   },
   {
@@ -7709,7 +7709,7 @@
   },
   {
     "SourceText": "Type \"Toolkit\" if you want to go back and revisit any of these tips.",
-    "text": "Taip \"Set alat\" jika anda mahu kembali dan melihat semula mana-mana tip ini.",
+    "text": "Taip \"Kit Keibubapaan\" jika anda mahu kembali dan melihat semula mana-mana tip ini.",
     "type": "text"
   },
   {
@@ -7929,7 +7929,7 @@
   },
   {
     "SourceText": "Remember that we are here to help. Type \"Help\" if you ever want more parenting tips or other assistance. Chat later!",
-    "text": "Ingat, kami sedia membantu. Taip \"Bantuan\" jika anda mahu dapatkan banyak lagi tip keibubapaan atau bantuan lain. Kita berbual nanti!",
+    "text": "Ingat, kami sedia membantu. Taip \"Tolong\" jika anda mahu dapatkan banyak lagi tip keibubapaan atau bantuan lain. Kita berbual nanti!",
     "type": "text"
   },
   {
@@ -8014,7 +8014,7 @@
   },
   {
     "SourceText": "Remember that you are not alone and that we are here to help. Just type \"Help\" at anytime.",
-    "text": "Ingat, anda tidak keseorangan dan kami sedia membantu. Taip sahaja \"Bantuan\" pada bila-bila masa.",
+    "text": "Ingat, anda tidak keseorangan dan kami sedia membantu. Taip sahaja \"Tolong\" pada bila-bila masa.",
     "type": "text"
   },
   {
@@ -8206,7 +8206,7 @@
   },
   {
     "SourceText": "Thanks so much for answering these questions! We really appreciate it. Remember you can always get more tips or extra help by typing \"Help\". Chat later!",
-    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya. Ingat, anda boleh sahaja dapatkan banyak lagi tip atau bantuan tambahan dengan menaip \"Bantuan\". Kita berbual nanti!",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya. Ingat, anda boleh sahaja dapatkan banyak lagi tip atau bantuan tambahan dengan menaip \"Tolong\". Kita berbual nanti!",
     "type": "text"
   },
   {
@@ -8321,7 +8321,7 @@
   },
   {
     "SourceText": "You can always change this later by typing \"Help\" and selecting \"Technical support\"",
-    "text": "Anda boleh sahaja menukar ini nanti dengan menaip \"Bantuan\" dan memilih \"Sokongan teknikal\"",
+    "text": "Anda boleh sahaja menukar ini nanti dengan menaip \"Tolong\" dan memilih \"Sokongan teknikal\"",
     "type": "text"
   },
   {
@@ -8331,7 +8331,7 @@
   },
   {
     "SourceText": "You can always change this later by typing \"Help\" and selecting \"Technical support\".",
-    "text": "Anda boleh sahaja menukar ini nanti dengan menaip \"Bantuan\" dan memilih \"Sokongan teknikal\".",
+    "text": "Anda boleh sahaja menukar ini nanti dengan menaip \"Tolong\" dan memilih \"Sokongan teknikal\".",
     "type": "text"
   },
   {
@@ -8476,7 +8476,7 @@
   },
   {
     "SourceText": "Remember you can always get more tips by typing \"Help\".",
-    "text": "Ingat, anda boleh sahaja dapatkan banyak lagi tip dengan menaip \"Bantuan\".",
+    "text": "Ingat, anda boleh sahaja dapatkan banyak lagi tip dengan menaip \"Tolong\".",
     "type": "text"
   },
   {
@@ -11139,7 +11139,7 @@
   },
   {
     "SourceText": "That's okay! You can always get suggestions for activities to develop your baby's brain by typing \"Help\". Chat later!",
-    "text": "Tiada masalah! Anda boleh sentiasa mendapatkan cadangan aktiviti untuk membentuk otak bayi anda dengan menaip “Bantuan”. Sembang kemudian!",
+    "text": "Tiada masalah! Anda boleh sentiasa mendapatkan cadangan aktiviti untuk membentuk otak bayi anda dengan menaip “Tolong”. Sembang kemudian!",
     "type": "text"
   },
   {
@@ -11234,7 +11234,7 @@
   },
   {
     "SourceText": "That's okay! You can always get suggestions for activities to do by typing \"Help\". Chat later!",
-    "text": "Tiada masalah! Anda boleh sentiasa mendapatkan cadangan aktiviti untuk dilakukan dengan menaip “Bantuan”. Sembang kemudian!",
+    "text": "Tiada masalah! Anda boleh sentiasa mendapatkan cadangan aktiviti untuk dilakukan dengan menaip “Tolong”. Sembang kemudian!",
     "type": "text"
   },
   {
@@ -11279,7 +11279,7 @@
   },
   {
     "SourceText": "Hi! Every child has challenging behaviour sometimes. If you would like some tips on how to address these behaviours, type \"Help\".",
-    "text": "Hai! Setiap anak mempunyai tingkah laku yang mencabar kadangkala. Jika anda inginkan beberapa petua tentang cara untuk menangani tingkah laku ini, taip “Bantuan”.",
+    "text": "Hai! Setiap anak mempunyai tingkah laku yang mencabar kadangkala. Jika anda inginkan beberapa petua tentang cara untuk menangani tingkah laku ini, taip “Tolong”.",
     "type": "text"
   },
   {
@@ -12079,7 +12079,7 @@
   },
   {
     "SourceText": "How would you like to receive your messages? You can always change this setting at any time by typing \"Help\" and selecting Technical Support.",
-    "text": "Bagaimana anda mahu menerima mesej anda? Anda boleh menukar tetapan ini pada bila-bila masa dengan menaip \"Bantuan\" dan pilih Sokongan Teknikal.",
+    "text": "Bagaimana anda mahu menerima mesej anda? Anda boleh menukar tetapan ini pada bila-bila masa dengan menaip \"Tolong\" dan pilih Sokongan Teknikal.",
     "type": "text"
   },
   {
@@ -12139,7 +12139,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" at anytime if you need any support with relationships with your partner or other adults. Chat to you later!",
-    "text": "Tiada masalah! Anda boleh menaip \"Bantuan\" pada bila-bila masa sekiranya memerlukan sokongan tentang hubungan dengan pasangan anda atau orang dewasa yang lain. Kita berbual kemudian!",
+    "text": "Tiada masalah! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya memerlukan sokongan tentang hubungan dengan pasangan anda atau orang dewasa yang lain. Kita berbual kemudian!",
     "type": "text"
   },
   {
@@ -12244,7 +12244,7 @@
   },
   {
     "SourceText": "We understand that these times can be very challenging. Please type \"help\" if you want any extra support or information. Chat later!",
-    "text": "Kami faham waktu ini boleh menjadi suatu cabaran. Sila taip “bantuan” jika anda mahu bantuan atau maklumat tambahan. Sembang kemudian!",
+    "text": "Kami faham waktu ini boleh menjadi suatu cabaran. Sila taip “Tolong” jika anda mahu bantuan atau maklumat tambahan. Sembang kemudian!",
     "type": "text"
   },
   {
@@ -12429,7 +12429,7 @@
   },
   {
     "SourceText": "If you ever need additional support to help you cope with any stress or other emotional difficulties, type \"Help\". Chat to you later!",
-    "text": "Jika anda memerlukan sokongan tambahan untuk membantu anda menghadapi sebarang tekanan atau masalah emosi lain, taip \"Bantuan\". Kita berbual kemudian!",
+    "text": "Jika anda memerlukan sokongan tambahan untuk membantu anda menghadapi sebarang tekanan atau masalah emosi lain, taip \"Tolong\". Kita berbual kemudian!",
     "type": "text"
   },
   {
@@ -12756,7 +12756,7 @@
   },
   {
     "SourceText": "Thanks so much for a great chat session! We are really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Bantuan\".",
+    "text": "Terima kasih banyak untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text"
   },
   {
@@ -14303,14 +14303,14 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like to learn more about how to resolve conflicts in the family?",
-    "text": "Hai @field.user_name! Adakah anda mahu tahu lagi tentang cara untuk menyelesaikan konflik dalam keluarga?",
+    "SourceText": "Hi @fields.user_name! Would you like to learn more about how to resolve conflicts in the family?",
+    "text": "Hai @fields.user_name! Adakah anda mahu tahu lagi tentang cara untuk menyelesaikan konflik dalam keluarga?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "That's okay! You can always get more information by typing \"Help\". Chat later @fields.user_name!",
-    "text": "Tidak mengapa! Anda boleh sahaja dapatkan maklumat lanjut dengan menaip \"Bantuan\". Kita berbual nanti @fields.user_name!",
+    "text": "Tidak mengapa! Anda boleh sahaja dapatkan maklumat lanjut dengan menaip \"Tolong\". Kita berbual nanti @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14520,7 +14520,7 @@
   },
   {
     "SourceText": "Remember that we are here to help. Type \"Help\" if you ever want more parenting tips or other assistance. Thanks again @fields.user_name!",
-    "text": "Ingat, kami sedia membantu. Taip \"Bantuan\" jika anda mahu dapatkan banyak lagi petua keibubapaan atau bantuan lain. Kita berbual nanti @fields.user_name!",
+    "text": "Ingat, kami sedia membantu. Taip \"Tolong\" jika anda mahu dapatkan banyak lagi petua keibubapaan atau bantuan lain. Kita berbual nanti @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14537,7 +14537,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later @fields.user_name!",
-    "text": "Tidak mengapa! Anda boleh menaip \"Bantuan\" pada bila-bila masa sekiranya anda perlukan sebarang sokongan dengan anak anda. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Tidak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda perlukan sebarang sokongan dengan anak anda. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14573,7 +14573,7 @@
   },
   {
     "SourceText": "Thanks so much for answering these questions! We really appreciate it. Remember you can always get more tips or extra help by typing \"Help\". Chat later @fields.user_name!",
-    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami sangat menghargainya. Ingat, anda boleh sahaja dapatkan banyak lagi petua atau bantuan tambahan dengan menaip \"Bantuan\". Kita berbual nanti @fields.user_name!",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami sangat menghargainya. Ingat, anda boleh sahaja dapatkan banyak lagi petua atau bantuan tambahan dengan menaip \"Tolong\". Kita berbual nanti @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14615,7 +14615,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your baby. Chat to you later @fields.user_name!",
-    "text": "Tidak mengapa! Anda sentiasa boleh menaip \"Bantuan\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan bayi anda. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Tidak mengapa! Anda sentiasa boleh menaip \"Tolong\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan bayi anda. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14657,7 +14657,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" at anytime if you need an activity. Chat to you later @fields.user_name!",
-    "text": "Tidak mengapa! Anda boleh sentiasa menaip \"Bantuan\" pada bila-bila masa sekiranya anda memerlukan sesuatu aktiviti. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Tidak mengapa! Anda boleh sentiasa menaip \"Tolong\" pada bila-bila masa sekiranya anda memerlukan sesuatu aktiviti. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14690,7 +14690,7 @@
   },
   {
     "SourceText": "Children learn best when learning is fun! Try to find ways to make learning playful to keep @fields.child_nickname interested and engaged. Type \"Help\" if you ever need any fun ideas!",
-    "text": "Kanak-kanak belajar dengan baik apabila pembelajaran itu menyeronokkan! Cuba cari cara untuk menjadikan pembelajaran itu menyeronokkan untuk memastikan @fields.child_nickname terus berminat dan terlibat. Taip \"Bantuan\" jika anda perlukan idea yang menyeronokkan!",
+    "text": "Kanak-kanak belajar dengan baik apabila pembelajaran itu menyeronokkan! Cuba cari cara untuk menjadikan pembelajaran itu menyeronokkan untuk memastikan @fields.child_nickname terus berminat dan terlibat. Taip \"Tolong\" jika anda perlukan idea yang menyeronokkan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14714,7 +14714,7 @@
   },
   {
     "SourceText": "We understand that these times can be really difficult. Please type \"Help\" if you want any extra support or guidance. Chat to you later @fields.user_name!",
-    "text": "Kami faham bahawa masa-masa sebegini boleh menjadi begitu sukar. Sila taip \"Bantuan\" jika anda mahukan sokongan atau bimbingan tambahan. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Kami faham bahawa masa-masa sebegini boleh menjadi begitu sukar. Sila taip \"Tolong\" jika anda mahukan sokongan atau bimbingan tambahan. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14767,7 +14767,7 @@
   },
   {
     "SourceText": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later @fields.user_name!",
-    "text": "Ingatlah anda sentiasa boleh menaip \"Bantuan\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14821,7 +14821,7 @@
   },
   {
     "SourceText": "We understand that these times can be really difficult. Please type \"Help\" if you want any extra support or guidance. Chat later @fields.user_name!",
-    "text": "Kami faham bahawa masa-masa sebegini boleh menjadi begitu sukar. Sila taip \"Bantuan\" jika anda mahukan sokongan atau bimbingan tambahan. Kita berbual nanti @fields.user_name!",
+    "text": "Kami faham bahawa masa-masa sebegini boleh menjadi begitu sukar. Sila taip \"Tolong\" jika anda mahukan sokongan atau bimbingan tambahan. Kita berbual nanti @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14892,8 +14892,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! I just wanted to thank you for making this commitment to improve the life of your children. It shows you really care!",
-    "text": "Hai @field.user_name! Saya hanya ingin mengucapkan terima kasih kepada anda kerana memberi komitmen untuk meningkatkan kehidupan anak-anak anda. Ini menunjukkan anda betul-betul mengambil berat!",
+    "SourceText": "Hi @fields.user_name! I just wanted to thank you for making this commitment to improve the life of your children. It shows you really care!",
+    "text": "Hai @fields.user_name! Saya hanya ingin mengucapkan terima kasih kepada anda kerana memberi komitmen untuk meningkatkan kehidupan anak-anak anda. Ini menunjukkan anda betul-betul mengambil berat!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14911,7 +14911,7 @@
   },
   {
     "SourceText": " Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later @fields.user_name!",
-    "text": " Ingatlah anda sentiasa boleh menaip \"Bantuan\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
+    "text": " Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14947,13 +14947,13 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Remember that you can also change the type of messages you receive for an older or younger child. Just select \"Technical Support\". Chat to you later @fields.user_name!",
-    "text": "Tidak mengapa! Anda boleh menaip \"Bantuan\" pada bila-bila masa sekiranya anda perlukan sebarang sokongan dengan anak anda. Ingat bahawa anda juga boleh mengubah jenis mesej yang anda terima untuk anak yang lebih tua atau lebih muda. Cuma pilih \"Sokongan Teknikal\". Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Tidak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda perlukan sebarang sokongan dengan anak anda. Ingat bahawa anda juga boleh mengubah jenis mesej yang anda terima untuk anak yang lebih tua atau lebih muda. Cuma pilih \"Sokongan Teknikal\". Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Technical Support.\" Chat to you later @fields.user_name!",
-    "text": "Ingatlah anda sentiasa boleh menaip \"Bantuan\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Anda juga boleh mengubah jenis pesanan yang diterima untuk anak yang lebih tua atau yang lebih muda. Pilih sahaja \"Sokongan Teknikal.\" Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Anda juga boleh mengubah jenis pesanan yang diterima untuk anak yang lebih tua atau yang lebih muda. Pilih sahaja \"Sokongan Teknikal.\" Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15072,7 +15072,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your child. Chat to you later @fields.user_name!",
-    "text": "Tidak mengapa! Anda sentiasa boleh menaip \"Bantuan\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anak anda. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Tidak mengapa! Anda sentiasa boleh menaip \"Tolong\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anak anda. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15102,7 +15102,7 @@
   },
   {
     "SourceText": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your teen. Chat to you later @fields.user_name!",
-    "text": "Tidak mengapa! Anda sentiasa boleh menaip \"Bantuan\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anak anda. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Tidak mengapa! Anda sentiasa boleh menaip \"Tolong\" setiap kali anda ingin mengetahui lebih lanjut mengenai cara menghabiskan Masa Bersama Seorang-dengan-Seorang dengan anak anda. Berbual dengan anda kemudian @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15142,20 +15142,20 @@
     "type": "text"
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like to learn more about how to talk to your children about COVID-19?",
-    "text": "Hai @field.user_name! Adakah anda mahu tahu lagi tentang cara untuk bercakap dengan anak-anak anda mengenai COVID-19?",
+    "SourceText": "Hi @fields.user_name! Would you like to learn more about how to talk to your children about COVID-19?",
+    "text": "Hai @fields.user_name! Adakah anda mahu tahu lagi tentang cara untuk bercakap dengan anak-anak anda mengenai COVID-19?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like to learn more about your children's development?",
-    "text": "Hai @field.user_name! Adakah anda mahu tahu lagi tentang perkembangan anak-anak anda?",
+    "SourceText": "Hi @fields.user_name! Would you like to learn more about your children's development?",
+    "text": "Hai @fields.user_name! Adakah anda mahu tahu lagi tentang perkembangan anak-anak anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like to learn more about how you could support children with disabilities?",
-    "text": "Hai @field.user_name! Adakah anda mahu tahu lagi tentang cara anda boleh menyokong kanak-kanak kurang upaya?",
+    "SourceText": "Hi @fields.user_name! Would you like to learn more about how you could support children with disabilities?",
+    "text": "Hai @fields.user_name! Adakah anda mahu tahu lagi tentang cara anda boleh menyokong kanak-kanak kurang upaya?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15184,8 +15184,8 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like any support or additional parenting tips?",
-    "text": "Hai@field.user_name! Adakah anda memerlukan pertolongan atau panduan tambahan tentang keibubapaan?",
+    "SourceText": "Hi @fields.user_name! Would you like any support or additional parenting tips?",
+    "text": "Hai@fields.user_name! Adakah anda memerlukan pertolongan atau panduan tambahan tentang keibubapaan?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15200,8 +15200,8 @@
     "type": "text"
   },
   {
-    "SourceText": "Hi @field.user_name! How is your parenting going today? ",
-    "text": "Hai@field.user_name! Bagaimanakah keibubapaan anda hari ini? ",
+    "SourceText": "Hi @fields.user_name! How is your parenting going today? ",
+    "text": "Hai@fields.user_name! Bagaimanakah keibubapaan anda hari ini? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15398,14 +15398,14 @@
     "type": "text"
   },
   {
-    "SourceText": "Hi @field.user_name! We are delighted that you have signed up for these messages. It shows that you care!",
-    "text": "Hai@field.user_name! Kami gembira kerana anda telah mendaftar untuk pesanan-pesanan ini. Ini juga menunjukkan yang anda mengambil berat!",
+    "SourceText": "Hi @fields.user_name! We are delighted that you have signed up for these messages. It shows that you care!",
+    "text": "Hai@fields.user_name! Kami gembira kerana anda telah mendaftar untuk pesanan-pesanan ini. Ini juga menunjukkan yang anda mengambil berat!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! I am delighted that you have signed up for these messages. It shows that you care!",
-    "text": "Hai@field.user_name! Saya gembira anda telah mendaftar untuk pesanan-pesanan ini. Ini juga menunjukkan yang anda mengambil berat!",
+    "SourceText": "Hi @fields.user_name! I am delighted that you have signed up for these messages. It shows that you care!",
+    "text": "Hai@fields.user_name! Saya gembira anda telah mendaftar untuk pesanan-pesanan ini. Ini juga menunjukkan yang anda mengambil berat!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16125,7 +16125,7 @@
   },
   {
     "SourceText": "That is okay. If you ever want to return to the programme, type \"moretips\". ",
-    "text": "Tidak mengapa. Sekiranya anda ingin kembali ke program, taip \"lebih banyak panduan\". ",
+    "text": "Tidak mengapa. Sekiranya anda ingin kembali ke program, taip \"TipTambahan\". ",
     "type": "text"
   },
   {
@@ -17482,38 +17482,38 @@
     "type": "text"
   },
   {
-    "SourceText": "Hi @field.user_name! How are you doing with treating your partner as an equal by, for example, involving them when making decisions? ",
-    "text": "Hai@field.user_name! Bagaimanakah perkembangan anda melayan pasangan anda secara saksama, contohnya dengan melibatkan mereka ketika membuat keputusan? ",
+    "SourceText": "Hi @fields.user_name! How are you doing with treating your partner as an equal by, for example, involving them when making decisions? ",
+    "text": "Hai@fields.user_name! Bagaimanakah perkembangan anda melayan pasangan anda secara saksama, contohnya dengan melibatkan mereka ketika membuat keputusan? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Well done @field.user_name! Communicating and working together with your partner makes a difference!",
-    "text": "Syabas @field.user_name! Berkomunikasi dan bekerjasama bersama pasangan anda membuatkannya berbeza!",
+    "SourceText": "Well done @fields.user_name! Communicating and working together with your partner makes a difference!",
+    "text": "Syabas @fields.user_name! Berkomunikasi dan bekerjasama bersama pasangan anda membuatkannya berbeza!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear this was difficult for you. Good job for trying @field.user_name!",
-    "text": "Maaf kerana keadaan ini sukar bagi anda. Tahniah kerana mencuba @field.user_name!",
+    "SourceText": "Sorry to hear this was difficult for you. Good job for trying @fields.user_name!",
+    "text": "Maaf kerana keadaan ini sukar bagi anda. Tahniah kerana mencuba @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! How are you doing with getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework? ",
-    "text": "Hai@field.user_name! Bagaimanakah kemajuan anda dalam melibatkan diri membantu di rumah serta melibatkan pasangan anda dalam penjagaan atau kerja rumah? ",
+    "SourceText": "Hi @fields.user_name! How are you doing with getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework? ",
+    "text": "Hai@fields.user_name! Bagaimanakah kemajuan anda dalam melibatkan diri membantu di rumah serta melibatkan pasangan anda dalam penjagaan atau kerja rumah? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Fantastic, wonderful to hear that it went well @field.user_name!",
-    "text": "Hebat, gembira mengetahui semuanya berjalan lancar @field.user_name!",
+    "SourceText": "Fantastic, wonderful to hear that it went well @fields.user_name!",
+    "text": "Hebat, gembira mengetahui semuanya berjalan lancar @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear it was challenging. Well done for trying @field.user_name!!",
-    "text": "Maaf kerana ia sukar bagi anda. Syabas kerana mencuba @field.user_name!",
+    "SourceText": "Sorry to hear it was challenging. Well done for trying @fields.user_name!!",
+    "text": "Maaf kerana ia sukar bagi anda. Syabas kerana mencuba @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -17534,32 +17534,32 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Excellent job @field.user_name! Sharing the workload benefits both the whole family. You are a star!",
-    "text": "Usaha yang sangat baik@field.user_name! Berkongsi beban kerja memberi faedah kepada seluruh keluarga. Anda adalah bintang!",
+    "SourceText": "Excellent job @fields.user_name! Sharing the workload benefits both the whole family. You are a star!",
+    "text": "Usaha yang sangat baik@fields.user_name! Berkongsi beban kerja memberi faedah kepada seluruh keluarga. Anda adalah bintang!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear it was difficult for you. Good job for trying @field.user_name!",
-    "text": "Maaf kerana keadaan ini sukar bagi anda. Tahniah kerana mencuba @field.user_name!",
+    "SourceText": "Sorry to hear it was difficult for you. Good job for trying @fields.user_name!",
+    "text": "Maaf kerana keadaan ini sukar bagi anda. Tahniah kerana mencuba @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Good job @field.user_name! Resolving conflicts isn’t always easy. Great to hear it went well!",
-    "text": "Tahniah @field.user_name! Menyelesaikan konflik tidak selalunya mudah. Gembira mendengarnya berjalan lancar!",
+    "SourceText": "Good job @fields.user_name! Resolving conflicts isn’t always easy. Great to hear it went well!",
+    "text": "Tahniah @fields.user_name! Menyelesaikan konflik tidak selalunya mudah. Gembira mendengarnya berjalan lancar!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear it was challenging. Well done for trying @field.user_name!",
-    "text": "Maaf kerana ia sukar bagi anda. Syabas kerana mencuba @field.user_name!",
+    "SourceText": "Sorry to hear it was challenging. Well done for trying @fields.user_name!",
+    "text": "Maaf kerana ia sukar bagi anda. Syabas kerana mencuba @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Good for you! Talking about challenges and our emotions can be hard. You are doing great @field.user_name!",
-    "text": "Baik untuk anda! Bercakap tentang cabaran dan emosi boleh menjadi sukar.\n Anda melakukannya dengan hebat @field.user_name!",
+    "SourceText": "Good for you! Talking about challenges and our emotions can be hard. You are doing great @fields.user_name!",
+    "text": "Baik untuk anda! Bercakap tentang cabaran dan emosi boleh menjadi sukar.\n Anda melakukannya dengan hebat @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -17939,48 +17939,48 @@
   },
   {
     "SourceText": "Hi @fields.user_name! We hope you and @fields.child_nickname are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai@fields.user_name! Kami harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai@fields.user_name! Kami harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi @fields.user_name! I hope you and @fields.child_nickname are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai@fields.user_name! Saya harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai@fields.user_name! Saya harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi @fields.user_name! We hope you and your child are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai@fields.user_name! Kami harap anda dan anak anda mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai@fields.user_name! Kami harap anda dan anak anda mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi @fields.user_name! I hope you and your child are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai@fields.user_name! Saya harap anda dan anak anda mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai@fields.user_name! Saya harap anda dan anak anda mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi! We hope you and @fields.child_nickname are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai! Kami harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai! Kami harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi! I hope you and @fields.child_nickname are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai! Saya harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai! Saya harap anda dan @fields.child_nickname mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi! We hope you and your child are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai! Kami harap anda dan anak anda mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai! Kami harap anda dan anak anda mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text"
   },
   {
     "SourceText": "Hi! I hope you and your child are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai! Saya harap anda dan anak anda mendapati sembang ini berguna! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai! Saya harap anda dan anak anda mendapati sembang ini berguna! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text"
   },
   {
@@ -18031,24 +18031,24 @@
   },
   {
     "SourceText": "Hi @fields.user_name! We have noticed that you have not been responding to our chats today and we have been missing you! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai@fields.user_name! Kami dapati bahawa anda tidak membalas sembang kami hari ini dan kami menanti untuk bersembang dengan anda! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai@fields.user_name! Kami dapati bahawa anda tidak membalas sembang kami hari ini dan kami menanti untuk bersembang dengan anda! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi @fields.user_name! I have noticed that you have not been responding to our chats today and I have been missing you! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai@fields.user_name! Saya dapati bahawa anda tidak membalas sembang kami hari ini dan saya menanti untuk bersembang dengan anda! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai@fields.user_name! Saya dapati bahawa anda tidak membalas sembang kami hari ini dan saya menanti untuk bersembang dengan anda! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi! We have noticed that you have not been responding to our chats today and we have been missing you! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai! Kami dapati bahawa anda tidak membalas sembang kami hari ini dan kami menanti untuk bersembang dengan anda! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai! Kami dapati bahawa anda tidak membalas sembang kami hari ini dan kami menanti untuk bersembang dengan anda! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text"
   },
   {
     "SourceText": "Hi! I have noticed that you have not been responding to our chats today and I have been missing you! Please type “MoreTips” whenever you want to receive your next message.",
-    "text": "Hai! Saya dapati bahawa anda tidak membalas sembang kami hari ini dan saya menanti untuk bersembang dengan anda! Sila taip “Tip Tambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "text": "Hai! Saya dapati bahawa anda tidak membalas sembang kami hari ini dan saya menanti untuk bersembang dengan anda! Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
     "type": "text"
   },
   {
@@ -18212,7 +18212,7 @@
   },
   {
     "SourceText": "That's okay. Remember you can always type \"Help\" if you ever need extra support. Chat later!",
-    "text": "Tidak mengapa. Ingat bahawa anda sentiasa boleh menaip \"Bantuan\" sekiranya anda memerlukan sokongan tambahan. Berbual kemudian nanti!",
+    "text": "Tidak mengapa. Ingat bahawa anda sentiasa boleh menaip \"Tolong\" sekiranya anda memerlukan sokongan tambahan. Berbual kemudian nanti!",
     "type": "text"
   },
   {
@@ -18296,19 +18296,19 @@
   },
   {
     "SourceText": "Thanks so much @fields.user_name for a great chat session! We are really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak @fields.user_name untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Bantuan\".",
+    "text": "Terima kasih banyak @fields.user_name untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Thanks so much @fields.user_name for a great chat session! I am really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak @fields.user_name untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua-petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Bantuan\".",
+    "text": "Terima kasih banyak @fields.user_name untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua-petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Thanks so much for a great chat session! I am really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua-petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Bantuan\".",
+    "text": "Terima kasih banyak untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan petua-petua ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text"
   },
   {
@@ -19029,32 +19029,32 @@
     "type": "text"
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like some suggestions for fun activities to help develop your baby's brain?",
-    "text": "Hai@field.user_name! Adakah anda memerlukan beberapa cadangan aktiviti yang menyeronokkan bagi membantu perkembangan otak bayi anda?",
+    "SourceText": "Hi @fields.user_name! Would you like some suggestions for fun activities to help develop your baby's brain?",
+    "text": "Hai@fields.user_name! Adakah anda memerlukan beberapa cadangan aktiviti yang menyeronokkan bagi membantu perkembangan otak bayi anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "That's okay! You can always get suggestions for activities to develop your baby's brain by typing \"Help\". Chat later @fields.user_name!",
-    "text": "Tidak mengapa! Anda boleh dapatkan cadangan aktiviti untuk membentuk otak bayi anda nanti dengan menaip “Bantuan”. Berbual kemudian nanti @fields.user_name!",
+    "text": "Tidak mengapa! Anda boleh dapatkan cadangan aktiviti untuk membentuk otak bayi anda nanti dengan menaip “Tolong”. Berbual kemudian nanti @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! Would you like some suggestions for fun or educational activities to do with your children?",
-    "text": "Hai@field.user_name! Adakah anda memerlukan beberapa cadangan aktiviti yang menyeronokkan atau aktiviti pendidikan untuk dilakukan bersama anak-anak anda?",
+    "SourceText": "Hi @fields.user_name! Would you like some suggestions for fun or educational activities to do with your children?",
+    "text": "Hai@fields.user_name! Adakah anda memerlukan beberapa cadangan aktiviti yang menyeronokkan atau aktiviti pendidikan untuk dilakukan bersama anak-anak anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "That's okay! You can always get suggestions for activities to do by typing \"Help\". Chat later @fields.user_name!",
-    "text": "Tidak mengapa! Anda boleh terus dapatkan cadangan aktiviti untuk dilakukan dengan menaip “Bantuan”. Berbual kemudian nanti @fields.user_name!",
+    "text": "Tidak mengapa! Anda boleh terus dapatkan cadangan aktiviti untuk dilakukan dengan menaip “Tolong”. Berbual kemudian nanti @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! Every child has challenging behaviour sometimes. Would you like some tips on how to address these behaviours?",
-    "text": "Hai@field.user_name! Setiap anak mempunyai tingkah laku yang mencabar kadang-kadang. Adakah anda inginkan beberapa panduan tentang cara untuk menangani tingkah laku ini?",
+    "SourceText": "Hi @fields.user_name! Every child has challenging behaviour sometimes. Would you like some tips on how to address these behaviours?",
+    "text": "Hai@fields.user_name! Setiap anak mempunyai tingkah laku yang mencabar kadang-kadang. Adakah anda inginkan beberapa panduan tentang cara untuk menangani tingkah laku ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -19065,18 +19065,18 @@
   },
   {
     "SourceText": "That is okay! You can always access parenting tips by typing \"Help\".",
-    "text": "Tidak mengapa! Anda boleh terus mengakses panduan keibubapaan dengan menaip \"Bantuan\".",
+    "text": "Tidak mengapa! Anda boleh terus mengakses panduan keibubapaan dengan menaip \"Tolong\".",
     "type": "text"
   },
   {
-    "SourceText": "Hi @field.user_name! How are you feeling? ",
-    "text": "Hai@field.user_name! Bagaimanakah perasaan anda? ",
+    "SourceText": "Hi @fields.user_name! How are you feeling? ",
+    "text": "Hai@fields.user_name! Bagaimanakah perasaan anda? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Hi @field.user_name! Could you be spending more time with your children and less time on your phone? Put it down and do something fun together!",
-    "text": "Hai@field.user_name! Bolehkah anda melapangkan lebih banyak masa dengan anak-anak anda dan kurangkan masa dengan telefon anda? Letakkan telefon anda dan lakukan sesuatu yang menyeronokkan bersama-sama!",
+    "SourceText": "Hi @fields.user_name! Could you be spending more time with your children and less time on your phone? Put it down and do something fun together!",
+    "text": "Hai@fields.user_name! Bolehkah anda melapangkan lebih banyak masa dengan anak-anak anda dan kurangkan masa dengan telefon anda? Letakkan telefon anda dan lakukan sesuatu yang menyeronokkan bersama-sama!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -19778,19 +19778,19 @@
   },
   {
     "SourceText": "help",
-    "text": "bantu",
+    "text": "tolong",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "moretips",
-    "text": "tip tambahan",
+    "text": "tiptambahan",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "goback",
-    "text": "kembali",
+    "text": "PergiBalik",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -22929,5 +22929,11 @@
     "SourceText": "Sorry I don't understand what you mean. ",
     "text": "Maaf, saya tidak faham maksud anda.",
     "type": "text"
+  },
+  {
+    "SourceText": "sos",
+    "text": "sos",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
   }
 ]

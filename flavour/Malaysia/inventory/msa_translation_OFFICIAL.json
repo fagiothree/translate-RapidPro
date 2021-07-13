@@ -4978,11 +4978,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Would you like to learn more about how you can help your child develop through book sharing?",
-    "text": "Adakah anda ingin mengetahui lebih lanjut tentang bagaimana anda dapat menolong anak anda berkembang melalui perkongsian buku?",
-    "type": "text"
-  },
-  {
     "SourceText": "We know that you have already received this tip (well done!). Would like to review them again?",
     "text": "Kami tahu bahawa anda telah menerima tip ini (terbaik!). Ingin menyemaknya semula?",
     "type": "text"
@@ -5718,51 +5713,6 @@
     "type": "text"
   },
   {
-    "SourceText": "1 Not enough time",
-    "text": "1 Tidak cukup masa",
-    "type": "text"
-  },
-  {
-    "SourceText": "2 My child did not want to spend time with me",
-    "text": "2 Anak saya tidak mahu meluangkan masa dengan saya",
-    "type": "text"
-  },
-  {
-    "SourceText": "3 All my child wanted to do is watch T.V. or play with a gadget",
-    "text": "3 Semua yang anak saya ingin lakukan adalah menonton T.V. atau bermain dengan gajet",
-    "type": "text"
-  },
-  {
-    "SourceText": "4 My child wanted to do things I felt uncomfortable about",
-    "text": "4 Anak saya ingin lakukan perkara yang saya rasa tidak selesa",
-    "type": "text"
-  },
-  {
-    "SourceText": "5 My child wanted to do activities that I could not do",
-    "text": "5 Anak saya ingin lakukan aktiviti yang saya tidak dapat melakukannya",
-    "type": "text"
-  },
-  {
-    "SourceText": "6 My child chose a competitive activity. I won and then they got angry",
-    "text": "6 Anak saya memilih aktiviti yang kompetitif. Saya menang dan mereka menjadi marah",
-    "type": "text"
-  },
-  {
-    "SourceText": "7 My child had a tantrum at the end of One-on-One Time",
-    "text": "7 Anak saya mengamuk pada akhir Masa Bersama Seorang-dengan-Seorang",
-    "type": "text"
-  },
-  {
-    "SourceText": "8 My child wanted to do too many things at once",
-    "text": "8 Anak saya ingin melakukan terlalu banyak perkara sekaligus",
-    "type": "text"
-  },
-  {
-    "SourceText": "9 All my children wanted One-on-One Time at the same time",
-    "text": "9 Semua anak saya ingin Masa Bersama Seorang-dengan-Seorang pada masa yang sama",
-    "type": "text"
-  },
-  {
     "SourceText": "111 Other",
     "text": "111 Yang lain",
     "type": "text"
@@ -5771,6 +5721,66 @@
     "SourceText": "999 Prefer not to say",
     "text": "999 Lebih suka untuk tidak bercakap",
     "type": "text"
+  },
+  {
+    "SourceText": "Not enough time",
+    "text": "Tidak cukup masa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+{
+    "SourceText": "My child did not want to spend time with me",
+    "text": "Anak saya tidak mahu meluangkan masa dengan saya",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "All my child wanted to do is watch T.V. or play with a gadget",
+    "text": "Semua yang anak saya ingin lakukan adalah menonton T.V. atau bermain dengan gajet",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "My child wanted to do things I felt uncomfortable about",
+    "text": "Anak saya ingin lakukan perkara yang saya rasa tidak selesa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "My child wanted to do activities that I could not do",
+    "text": "Anak saya ingin lakukan aktiviti yang saya tidak dapat melakukannya",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "My child chose a competitive activity. I won and then they got angry",
+    "text": "Anak saya memilih aktiviti yang kompetitif. Saya menang dan mereka menjadi marah",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "My child had a tantrum at the end of One-on-One Time",
+    "text": "Anak saya mengamuk pada akhir Masa Bersama Seorang-dengan-Seorang",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "My child wanted to do too many things at once",
+    "text": "Anak saya ingin melakukan terlalu banyak perkara sekaligus",
+   "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "All my children wanted One-on-One Time at the same time",
+    "text": "Semua anak saya ingin Masa Bersama Seorang-dengan-Seorang pada masa yang sama",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+   {
+    "SourceText": "Prefer not to say",
+    "text": "Memilih untuk tidak menjawab",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "Would you like some new activities to do with your children?",
@@ -6165,7 +6175,7 @@
   },
   {
     "SourceText": "apply",
-    "text": "guna",
+    "text": "diterima",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -6279,7 +6289,7 @@
   },
   {
     "SourceText": "baby babies",
-    "text": "bayi-bayi",
+    "text": "bayi-bayi bayi",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -6970,9 +6980,9 @@
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
-  {
+    {
     "SourceText": "A little less often",
-    "text": "Jarang sekali",
+    "text": "Kurang kerap",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -7420,11 +7430,6 @@
   {
     "SourceText": "Sorry, you don't have anything to go back to! If you want to revisit any of the parenting tips, please type \"Help\". ",
     "text": "Maaf, tiada apa-apa untuk anda kembali semula! Jika anda mahu melihat semula mana-mana tip keibubapaan, sila taip \"Tolong\". ",
-    "type": "text"
-  },
-  {
-    "SourceText": "Which child do you want tips for?",
-    "text": "Anak mana satu yang anda mahu dapatkan tip untuknya?",
     "type": "text"
   },
   {
@@ -8748,12 +8753,6 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
-    "SourceText": "A little less often",
-    "text": "Kurang kerap",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
     "SourceText": "baby",
     "text": "bayi",
     "type": "quick_replies",
@@ -9023,11 +9022,11 @@
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
-  {
-    "SourceText": "Does not apply",
-    "text": "Tidak berkenaan",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    {
+    "SourceText": "No restrictions",
+    "text": "Tiada sekatan",
+  "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "Activities",
@@ -9113,40 +9112,40 @@
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
+ {
+    "SourceText": "Extremely helpful",
+    "text": "Teramat berguna",
+     "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
   {
-    "SourceText": "not ",
-    "text": "tidak ",
+    "SourceText": "Very helpful",
+    "text": "Sangat berguna",
+     "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "Helpful",
+    "text": "Berguna",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "little",
-    "text": "sedikit",
+    "SourceText": "A little helpful",
+    "text": "Sedikit berguna",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "helpful",
-    "text": "berguna",
-    "type": "arguments",
+    "SourceText": "Not helpful",
+    "text": "Tidak berguna",
+   "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "very",
-    "text": "sangat",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "extremely",
-    "text": "teramat",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "prefer",
-    "text": "memilih",
-    "type": "arguments",
+    "SourceText": "Prefer not to answer",
+    "text": "Memilih untuk tidak menjawab",
+   "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
@@ -9205,7 +9204,7 @@
   },
   {
     "SourceText": "activities",
-    "text": "aktiviti-aktiviti",
+    "text": "aktiviti-aktiviti, aktiviti",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9223,7 +9222,7 @@
   },
   {
     "SourceText": "safe",
-    "text": "selamat",
+    "text": "keselamatan",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9241,7 +9240,7 @@
   },
   {
     "SourceText": "disabilities",
-    "text": "ketidakupayaan",
+    "text": "ketidakupayaan kurang upaya",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9271,7 +9270,7 @@
   },
   {
     "SourceText": "children ",
-    "text": "kanak-kanak ",
+	"text": "kanak-kanak anak-anak",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9283,7 +9282,7 @@
   },
   {
     "SourceText": "other",
-    "text": "lain-lain",
+    "text": "lain-lain lain",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9355,7 +9354,7 @@
   },
   {
     "SourceText": "relaxation reduction",
-    "text": "pengurangan ketenangan",
+    "text": "pengurangan ketenangan Bersantai",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9427,13 +9426,13 @@
   },
   {
     "SourceText": "yourself",
-    "text": "diri anda",
+    "text": "diri",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "children",
-    "text": "kanak-kanak",
+    "text": "kanak-kanak anak-anak",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9523,7 +9522,7 @@
   },
   {
     "SourceText": "only",
-    "text": "hanya",
+    "text": "hanya sahaja",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -9571,7 +9570,7 @@
   },
   {
     "SourceText": "aunt uncle aunt/uncle",
-    "text": "ibu saudara bapa saudara ibu saudara/bapa saudara",
+    "text": "saudara",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -14064,7 +14063,7 @@
   },
   {
     "SourceText": "married",
-    "text": "sudah berkahwin",
+    "text": "berkahwin",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -14137,60 +14136,6 @@
   {
     "SourceText": "ok",
     "text": "ok",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "enough",
-    "text": "cukup",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "did not want to spend ",
-    "text": "tidak mahu berbelanja ",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "t.v. gadget",
-    "text": "t.v. peranti (gajet)",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "uncomfortable",
-    "text": "tidak selesa",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "activities that i could not do",
-    "text": "aktiviti yang tidak dapat saya lakukan",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "competitive",
-    "text": "berdaya saing",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "tantrum",
-    "text": "kerenah",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": " too many things at once",
-    "text": " terlalu banyak perkara sekali gus",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "all my children",
-    "text": "semua anak saya",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -14292,7 +14237,7 @@
   },
   {
     "SourceText": "time",
-    "text": "masa",
+    "text": "masa waktu",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -14875,7 +14820,7 @@
   },
   {
     "SourceText": "Having a tantrum can be just as traumatic and difficult for your child as it is for you. Make sure you give @fields.child_nickname plenty of positive attention and love as soon as they have calmed down. ",
-    "text": "Mempunyai sikap baran boleh menjadi trauma dan sukar kepada anak anda seperti juga kepada anda. Pastikan anda berikan @fields.child_nicknameperhatian dan kasih sayang positif yang banyak sebaik sahaja mereka sudah tenang. ",
+    "text": "Mempunyai sikap baran boleh menjadi trauma dan sukar kepada anak anda seperti juga kepada anda. Pastikan anda berikan @fields.child_nickname perhatian dan kasih sayang positif yang banyak sebaik sahaja mereka sudah tenang. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15184,12 +15129,6 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "Hi @fields.user_name! Would you like any support or additional parenting tips?",
-    "text": "Hai@fields.user_name! Adakah anda memerlukan pertolongan atau panduan tambahan tentang keibubapaan?",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
     "SourceText": "Hi! Would you like any support or additional parenting tips?",
     "text": "Hai! Adakah anda memerlukan pertolongan atau panduan tambahan tentang keibubapaan?",
     "type": "text"
@@ -15198,12 +15137,6 @@
     "SourceText": "That is okay! Remember you can always access support and parenting tips by typing \"help\". Chat to you later!",
     "text": "Tidak mengapa! Ingatlah, anda boleh sentiasa mendapatkan pertolongan dan panduan tambahan tentang keibubapaan dengan menaip “tolong”. Berbual dengan anda nanti!",
     "type": "text"
-  },
-  {
-    "SourceText": "Hi @fields.user_name! How is your parenting going today? ",
-    "text": "Hai@fields.user_name! Bagaimanakah keibubapaan anda hari ini? ",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Your commitment is an inspiration. Keep calm and carry on @fields.user_name! ",
@@ -15398,18 +15331,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Hi @fields.user_name! We are delighted that you have signed up for these messages. It shows that you care!",
-    "text": "Hai@fields.user_name! Kami gembira kerana anda telah mendaftar untuk pesanan-pesanan ini. Ini juga menunjukkan yang anda mengambil berat!",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "Hi @fields.user_name! I am delighted that you have signed up for these messages. It shows that you care!",
-    "text": "Hai@fields.user_name! Saya gembira anda telah mendaftar untuk pesanan-pesanan ini. Ini juga menunjukkan yang anda mengambil berat!",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
     "SourceText": "Can I ask you 2 quick questions about COVID-19 in your area?",
     "text": "Bolehkah saya menanyakan 2 soalan ringkas tentang COVID-19 di kawasan anda?",
     "type": "text"
@@ -15490,13 +15411,13 @@
   },
   {
     "SourceText": "Sorry that it has been harder for you to praise @fields.child_nickname. Try to find something positive, even if it is small. Over time, they will appreciate that you notice when they do something well.  ",
-    "text": "Kami faham bahawa situasi menjadi lebih sukar bagi anda untuk memberi @fields.child_nicknamepujian. Cuba cari sesuatu yang positif, walaupun perkara itu kecil. Dari semasa ke semasa, mereka akan menghargai anda dan tahu bahawa anda nampak usaha yang mereka telah melakukan sesuatu dengan baik.  ",
+    "text": "Kami faham bahawa situasi menjadi lebih sukar bagi anda untuk memberi @fields.child_nickname pujian. Cuba cari sesuatu yang positif, walaupun perkara itu kecil. Dari semasa ke semasa, mereka akan menghargai anda dan tahu bahawa anda nampak usaha yang mereka telah melakukan sesuatu dengan baik.  ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "I understand it can be hard to praise @fields.child_nickname sometimes. Remember, your praise makes a big difference, even if you don’t see it right away! ",
-    "text": "Saya faham, kadang-kadang memuji @fields.child_nicknameboleh menjadi sukar. Ingatlah, walaupun anda tidak melihat kesannya dengan segera, pujian anda membawa perbezaan yang besar! ",
+    "text": "Saya faham, kadang-kadang memuji @fields.child_nickname boleh menjadi sukar. Ingatlah, walaupun anda tidak melihat kesannya dengan segera, pujian anda membawa perbezaan yang besar! ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -15532,7 +15453,7 @@
   },
   {
     "SourceText": "With everything that is going on, it is not always easy to focus on the positive. Try to find 10 minutes to pay attention to what @fields.child_nickname is doing – perhaps you can praise them for helping with a chore or for doing their homework? It helps a lot! ",
-    "text": "Dengan apa yang sedang berlaku, bukanlah mudah untuk memberi tumpuan kepada perkara positif. Cuba luangkan masa 10 minit untuk memberi perhatian kepada apa yang @fields.child_nicknamelakukan. Mungkin anda boleh memuji mereka kerana membantu melakukan kerja-kerja di rumah atau menyiapkan kerja sekolah? Ini sangat membantu! ",
+    "text": "Dengan apa yang sedang berlaku, bukanlah mudah untuk memberi tumpuan kepada perkara positif. Cuba luangkan masa 10 minit untuk memberi perhatian kepada apa yang @fields.child_nickname lakukan. Mungkin anda boleh memuji mereka kerana membantu melakukan kerja-kerja di rumah atau menyiapkan kerja sekolah? Ini sangat membantu! ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16167,13 +16088,13 @@
   },
   {
     "SourceText": "See what facial expressions @fields.child_nickname is making. Notice what @fields.child_nickname is interested in or looking at. ",
-    "text": "Lihat apakah ekspresi wajah @fields.child_nickname sedang lakukan. Perhatikan apakah @fields.child_nicknameberminat atau melihat. ",
+    "text": "Lihat apakah ekspresi wajah @fields.child_nickname sedang lakukan. Perhatikan apakah @fields.child_nickname berminat atau melihat. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If @fields.child_nickname gets frustrated, you can reassure @fields.child_nickname by gently stroking their back.",
-    "text": "Berikan bantuan sekadar memadai untuk menjadikan perkara itu adalah pencapaian kanak-kanak tersebut. Anda boleh turut serta dan meniru tindakan mereka, namun biarkan mereka yang mengekalkan inisiatif tersebut. Jika@fields.child_nicknamemerasa kecewa, anda boleh meyakinkan@fields.child_nickname dengan mengosok-gosok belakang badan mereka.",
+    "text": "Berikan bantuan sekadar memadai untuk menjadikan perkara itu adalah pencapaian kanak-kanak tersebut. Anda boleh turut serta dan meniru tindakan mereka, namun biarkan mereka yang mengekalkan inisiatif tersebut. Jika @fields.child_nicknameme rasa kecewa, anda boleh meyakinkan@fields.child_nickname dengan mengosok-gosok belakang badan mereka.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16431,7 +16352,7 @@
   },
   {
     "SourceText": "@fields.user_name, without having access to these tips, it will be harder to know how to handle @fields.child_nickname's misbehaviour, are you sure you want to exit the programme?",
-    "text": "@fields.user_name, tanpa dapat mengakses panduan-panduan ini, akan lebih sukar untuk mengetahui bagaimana menangani tingkah laku @fields.child_nicknameyang tidak betul, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.user_name, tanpa dapat mengakses panduan-panduan ini, akan lebih sukar untuk mengetahui bagaimana menangani tingkah laku @fields.child_nickname yang tidak betul, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16443,7 +16364,7 @@
   },
   {
     "SourceText": "Without having access to these tips, it will be harder to know how to handle @fields.child_nickname's misbehaviour, are you sure you want to exit the programme?",
-    "text": "Tanpa dapat mengakses panduan-panduan ini, akan lebih sukar untuk mengetahui bagaimana menangani tingkah laku @fields.child_nicknameyang tidak betul, adakah anda pasti ingin keluar dari program ini?",
+    "text": "Tanpa dapat mengakses panduan-panduan ini, akan lebih sukar untuk mengetahui bagaimana menangani tingkah laku @fields.child_nickname yang tidak betul, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16466,7 +16387,7 @@
   },
   {
     "SourceText": "Other children just like @fields.child_nickname are benefiting from ParentText in your community! Are you sure you want to exit the programme?",
-    "text": "Kanak-kanak lain seperti @fields.child_nicknamemendapat faedah dari ParentText dalam komuniti anda! Adakah anda pasti ingin keluar dari program ini?",
+    "text": "Kanak-kanak lain seperti @fields.child_nickname mendapat faedah dari ParentText dalam komuniti anda! Adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16501,7 +16422,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of improving your relationship with your child. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki hubungan anda dengan anak anda. , adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki hubungan anda dengan anak anda. , adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16524,7 +16445,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of improving your child's behaviour. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki tingkah laku anak anda.@fields.user_name,adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki tingkah laku anak anda.@fields.user_name,adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16536,7 +16457,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of improving your child's behaviour, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki tingkah laku anak anda. adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki tingkah laku anak anda. adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16547,7 +16468,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of talking to your child about COVID-19. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk bercakap dengan anak anda tentang COVID-19. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk bercakap dengan anak anda tentang COVID-19. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16559,7 +16480,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of talking to your child about COVID-19, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk bercakap dengan anak anda tentang COVID-19, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk bercakap dengan anak anda tentang COVID-19, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16570,7 +16491,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of feeling less stress, loneliness or anger. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk merasa kurang tertekan, kesunyian atau marah. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk merasa kurang tertekan, kesunyian atau marah. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16582,7 +16503,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of feeling less stress, loneliness or anger, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk merasa kurang tertekan, kesunyian atau marah, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk merasa kurang tertekan, kesunyian atau marah, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16593,7 +16514,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of your child improving their performance at school. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki prestasi anak anda di sekolah.@fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki prestasi anak anda di sekolah.@fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16605,7 +16526,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of your child improving their performance at school, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki prestasi anak anda di sekolah, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk memperbaiki prestasi anak anda di sekolah, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16616,7 +16537,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of worrying less about money. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan kerisauan tentang duit. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan kerisauan tentang duit. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16628,7 +16549,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of worrying less about money, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan kerisauan tentang duit, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan kerisauan tentang duit, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16639,7 +16560,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of having less conflict in your family. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan konflik dalam keluarga anda.@fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan konflik dalam keluarga anda.@fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16651,7 +16572,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of having less conflict in your family, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan konflik dalam keluarga anda, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengurangkan konflik dalam keluarga anda, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16662,7 +16583,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about how to keep your child safe. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengetahui lebih lanjut tentang bagaimana menjaga keselamatan anak anda. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk mengetahui lebih lanjut tentang bagaimana menjaga keselamatan anak anda. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16674,7 +16595,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about how to keep your child safe, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk megetahui lebih lanjut tentang bagaimana menjaga keselamatan anak anda, adakah anda pasti ingin keluar dari program ini? ",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk megetahui lebih lanjut tentang bagaimana menjaga keselamatan anak anda, adakah anda pasti ingin keluar dari program ini? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16685,7 +16606,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of supporting your child living with disabilities. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk membantu anak anda yang kurang upaya. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk membantu anak anda yang kurang upaya. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16697,7 +16618,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your goal of supporting your child living with disabilities, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk membantu anak anda yang kurang upaya, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat anda untuk membantu anak anda yang kurang upaya, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16708,7 +16629,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your parenting goal. @fields.user_name, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat keibubapaan anda. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat keibubapaan anda. @fields.user_name, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -16720,7 +16641,7 @@
   },
   {
     "SourceText": "@fields.child_nickname has really benefitted from your progress towards reaching your parenting goal, are you sure you want to exit the programme?",
-    "text": "@fields.child_nicknametelah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat keibubapaan anda, adakah anda pasti ingin keluar dari program ini?",
+    "text": "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat keibubapaan anda, adakah anda pasti ingin keluar dari program ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -19243,10 +19164,22 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "From start",
+    "text": "Dari mula",
+  "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "From where I last left the programme",
     "text": "Dari titik terakhir saya meninggalkan program",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+   {
+    "SourceText": "From where I last left the programme",
+    "text": "Dari titik terakhir saya meninggalkan program",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
     "SourceText": "Share with a friend!",
@@ -19758,6 +19691,12 @@
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
+   {
+    "SourceText": "Family counselling services",
+    "text": "Perkhidmatan kaunseling kekeluargaan",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
   {
     "SourceText": "education",
     "text": "pendidikan",
@@ -19766,7 +19705,7 @@
   },
   {
     "SourceText": "covid",
-    "text": "kovid",
+    "text": "covid",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -19791,18 +19730,6 @@
   {
     "SourceText": "goback",
     "text": "PergiBalik",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "start",
-    "text": "mula",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "left",
-    "text": "tinggal",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -19832,7 +19759,7 @@
   },
   {
     "SourceText": "share friend",
-    "text": "berkongsi dengan kawan",
+    "text": "berkongsi kawan rakan",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -19922,7 +19849,7 @@
   },
   {
     "SourceText": "i forgot the steps of problem solving",
-    "text": "saya terlupa langkah penyelesaian masalah",
+    "text": "saya terlupa langkah menyelesaikan masalah",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -20354,13 +20281,13 @@
   },
   {
     "SourceText": "If @fields.child_nickname wants to do things that are too difficult for you to physically do, you can simply watch @fields.child_nickname. Try describing what they are doing like a sports announcer and praising what they do!",
-    "text": "Jika @fields.child_nicknameingin melakukan perkara yang sangat sukar untuk anda lakukannya secara fizikal, anda boleh lihat @fields.child_nickname. Cuba terangkan apakah yang mereka lakukan seperti seorang penyiar sukan dan puji apa yang mereka lakukan!",
+    "text": "Jika @fields.child_nickname ingin melakukan perkara yang sangat sukar untuk anda lakukannya secara fizikal, anda boleh lihat @fields.child_nickname. Cuba terangkan apakah yang mereka lakukan seperti seorang penyiar sukan dan puji apa yang mereka lakukan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "If @fields.child_nickname wants to do things that are too difficult for you to physically do, you can simply watch your child. Try describing what they are doing like a sports announcer and praising what they do!",
-    "text": "Jika @fields.child_nicknameingin melakukan perkara yang sangat sukar untuk anda lakukannya secara fizikal, anda boleh lihat anak anda. Cuba terangkan apakah yang mereka lakukan seperti seorang penyiar sukan dan puji apa yang mereka lakukan!",
+    "text": "Jika @fields.child_nickname ingin melakukan perkara yang sangat sukar untuk anda lakukannya secara fizikal, anda boleh lihat anak anda. Cuba terangkan apakah yang mereka lakukan seperti seorang penyiar sukan dan puji apa yang mereka lakukan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20372,7 +20299,7 @@
   },
   {
     "SourceText": "If @fields.child_nickname is very young, it is normal for them to have a short attention span and want to do many things during One-on-One Time. Just accept @fields.child_nickname and follow their lead moving from one activity to the next.",
-    "text": "Jika @fields.child_nicknamesangat muda, adalah biasa bagi mereka untuk mempunyai daya perhatian yang pendek dan ingin melakukan banyak perkara semasa Masa Bersama Seorang-dengan-Seorang. Terima @fields.child_nickname dan ikut mereka bergerak dari satu aktiviti ke aktiviti seterusnya.",
+    "text": "Jika @fields.child_nickname sangat muda, adalah biasa bagi mereka untuk mempunyai daya perhatian yang pendek dan ingin melakukan banyak perkara semasa Masa Bersama Seorang-dengan-Seorang. Terima @fields.child_nickname dan ikut mereka bergerak dari satu aktiviti ke aktiviti seterusnya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20577,7 +20504,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Were you able to give @fields.child_nickname instructions?",
-    "text": "Hai @fields.user_name! Adakah anda boleh memberikan @fields.child_nicknamearahan?",
+    "text": "Hai @fields.user_name! Adakah anda boleh memberikan @fields.child_nickname arahan?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20677,7 +20604,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Did you praise @fields.child_nickname during one-on-one time or any other time during the day? ",
-    "text": "Hai @fields.user_name! Adakah anda memuji @fields.child_nicknameketika masa bersama seorang-dengan-seorang atau pada masa lain pada hari itu? ",
+    "text": "Hai @fields.user_name! Adakah anda memuji @fields.child_nickname ketika masa bersama seorang-dengan-seorang atau pada masa lain pada hari itu? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20689,7 +20616,7 @@
   },
   {
     "SourceText": "Hi! Did you praise @fields.child_nickname during one-on-one time or any other time during the day? ",
-    "text": "Hai! Adakah anda memuji @fields.child_nicknameketika masa bersama seorang-dengan-seorang atau pada masa lain pada hari itu? ",
+    "text": "Hai! Adakah anda memuji @fields.child_nickname ketika masa bersama seorang-dengan-seorang atau pada masa lain pada hari itu? ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20737,7 +20664,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Have you been able to give @fields.child_nickname any responsibilities during the last week?",
-    "text": "Hai @fields.user_name! Adakah anda dapat memberikan apa-apa tanggungjawab kepada @fields.child_nicknamesepanjang minggu lalu?",
+    "text": "Hai @fields.user_name! Adakah anda dapat memberikan apa-apa tanggungjawab kepada @fields.child_nickname sepanjang minggu lalu?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20749,7 +20676,7 @@
   },
   {
     "SourceText": "Hi! Have you been able to give @fields.child_nickname any responsibilities during the last week?",
-    "text": "Hai! Adakah anda dapat memberikan apa-apa tanggungjawab kepada @fields.child_nicknamesepanjang minggu lalu?",
+    "text": "Hai! Adakah anda dapat memberikan apa-apa tanggungjawab kepada @fields.child_nickname sepanjang minggu lalu?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20761,7 +20688,7 @@
   },
   {
     "SourceText": "Well done! As @fields.child_nickname shows more responsibility, you can also give them extra privileges. Try to share responsibilities equally amongst women/men and girls/boys. Praise @fields.child_nickname whenever they do their job!",
-    "text": "Syabas! Jika @fields.child_nickname menunjukkan sikap lebih bertanggungjawab, anda boleh memberikan mereka lebih banyak keistimewaan. Cuba untuk sama-sama berkongsi tanggungjawab antara ibu/bapa dan anak perempuan/lelaki. Puji @fields.child_nicknamebila mereka melakukan tugasan!",
+    "text": "Syabas! Jika @fields.child_nickname menunjukkan sikap lebih bertanggungjawab, anda boleh memberikan mereka lebih banyak keistimewaan. Cuba untuk sama-sama berkongsi tanggungjawab antara ibu/bapa dan anak perempuan/lelaki. Puji @fields.child_nickname bila mereka melakukan tugasan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20919,13 +20846,13 @@
   },
   {
     "SourceText": "That is great! As you begin to redirect @fields.child_nickname's behaviour regularly, you will begin to notice their behaviour improving!",
-    "text": "Hebat! Apabila anda mula mengubah tingkah laku @fields.child_nicknamesecara berkala, anda akan mula melihat tingkah laku mereka bertambah baik!",
+    "text": "Hebat! Apabila anda mula mengubah tingkah laku @fields.child_nickname secara berkala, anda akan mula melihat tingkah laku mereka bertambah baik!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "It is completely normal to experience this challenge. Remember, it takes some time for @fields.child_nickname to get used to you redirecting their behaviour. The more time you spend with them, the better it will go!",
-    "text": "Mengalami cabaran ini adalah satu perkara yang sangat normal. Ingatlah, @fields.child_nicknamememerlukan masa untuk membiasakan diri dengan anda yang mengubah tingkah laku mereka. Lebih banyak masa yang anda luangkan bersama mereka, lebih banyak perkara akan berjalan dengan lancar!",
+    "text": "Mengalami cabaran ini adalah satu perkara yang sangat normal. Ingatlah, @fields.child_nickname memerlukan masa untuk membiasakan diri dengan anda yang mengubah tingkah laku mereka. Lebih banyak masa yang anda luangkan bersama mereka, lebih banyak perkara akan berjalan dengan lancar!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },

@@ -1,0 +1,1256 @@
+[
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried involving your partner when making decisions recently?",
+    "text": "Hi @fields.user_name! Have you tried involving your partner when making decisions recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried involving your partner when making decisions recently?",
+    "text": "Hi! Have you tried involving your partner when making decisions recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How was your experience?",
+    "text": "How was your experience?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That is fantastic!",
+    "text": "That is fantastic!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to review the content on this?",
+    "text": "Would you like to review the content on this?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when trying to involve your partner in making a decision?",
+    "text": "We are sorry to hear this. What did you find difficult when trying to involve your partner in making a decision?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when trying to involve your partner in making a decision?",
+    "text": "I am sorry to hear this. What did you find difficult when trying to involve your partner in making a decision?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That is okay! Remember you can access this content at anytime by typing \"Help\". Chat to you later @fields.user_name!",
+    "text": "That is okay! Remember you can access this content at anytime by typing \"Help\". Chat to you later @fields.user_name!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "That is okay! Remember you can access this content at anytime by typing \"Help\". Chat to you later!",
+    "text": "That is okay! Remember you can access this content at anytime by typing \"Help\". Chat to you later!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for trying! How was your experience?",
+    "text": "Well done for trying! How was your experience?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried getting involved and helping out with caregiving or housework recently?",
+    "text": "Hi @fields.user_name! Have you tried getting involved and helping out with caregiving or housework recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hi @fields.user_name! Have you tried involving your partner in helping you with caregiving or housework recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hi @fields.user_name! Have you tried getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried getting involved and helping out with caregiving or housework recently?",
+    "text": "Hi! Have you tried getting involved and helping out with caregiving or housework recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Have you tried involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hi! Have you tried involving your partner in helping you with caregiving or housework recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Have you tried getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework recently?",
+    "text": "Hi! Have you tried getting involved in helping out at home as well as involving your partner in helping you with caregiving or housework recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when tryng to help out with caregiving or housework?",
+    "text": "We are sorry to hear this. What did you find difficult when tryng to help out with caregiving or housework?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?",
+    "text": "We are sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?",
+    "text": "We are sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when tryng to help out with caregiving or housework?",
+    "text": "I am sorry to hear this. What did you find difficult when tryng to help out with caregiving or housework?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?",
+    "text": "I am sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?",
+    "text": "I am sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That is fantastic, @fields.user_name!",
+    "text": "That is fantastic, @fields.user_name!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "“How am I going to get through this?”",
+    "text": "“How am I going to get through this?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(1)",
+    "text": "(1)",
+    "type": "text"
+  },
+  {
+    "SourceText": "“Whatever it is, I am okay.” ",
+    "text": "“Whatever it is, I am okay.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "(2)",
+    "text": "(2)",
+    "type": "text"
+  },
+  {
+    "SourceText": "“Breathe in. Breathe out.\"",
+    "text": "“Breathe in. Breathe out.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "(3)",
+    "text": "(3)",
+    "type": "text"
+  },
+  {
+    "SourceText": "“I can do this. We will get through it together.”",
+    "text": "“I can do this. We will get through it together.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "(4)",
+    "text": "(4)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children learn through play! Here is a comic about spending one-on-one time with your baby!",
+    "text": "Children learn through play! Here is a comic about spending one-on-one time with your baby!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Such a strong baby you are.\"",
+    "text": "Parent: \"Such a strong baby you are.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"We are making a delicious meal together.\"",
+    "text": "Parent: \"We are making a delicious meal together.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Here I am?” ",
+    "text": "Parent: “Here I am?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Baby: \"Ha ha ha!\"",
+    "text": "Baby: \"Ha ha ha!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Wow! You have stacked 3 blocks on top of each other. Well done!\"",
+    "text": "Parent: \"Wow! You have stacked 3 blocks on top of each other. Well done!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening. Speak with enthusiasm when describing what your child is doing. Here is a comic on how to communicate with your baby. ",
+    "text": "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening. Speak with enthusiasm when describing what your child is doing. Here is a comic on how to communicate with your baby. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"You are such a beautiful person\"",
+    "text": "Parent: \"You are such a beautiful person\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Buh, buh, buh, big baby!\"",
+    "text": "Parent: \"Buh, buh, buh, big baby!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Baby: \"Buh, buh, buh…\"",
+    "text": "Baby: \"Buh, buh, buh…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"And then there were two green parrots in the mango tree!\"",
+    "text": "Parent: \"And then there were two green parrots in the mango tree!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"And now I am cleaning your toes, and your feet, and your knees…\"",
+    "text": "Parent: \"And now I am cleaning your toes, and your feet, and your knees…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on spending one-on-time with your child. ",
+    "text": "Here is a comic on spending one-on-time with your child. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “I’m bored! There is nothing to do.”",
+    "text": "Child: “I’m bored! There is nothing to do.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Let’s do something together! How about we make some drawings and put them on the gate with messages for people to see?”",
+    "text": "Parent: “Let’s do something together! How about we make some drawings and put them on the gate with messages for people to see?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children: “Okay!”",
+    "text": "Children: “Okay!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “You make the pictures and I’ll write the messages”",
+    "text": "Parent: “You make the pictures and I’ll write the messages”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Sure!”",
+    "text": "Child: “Sure!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Remember to wash hands! We love our neighbours!” ",
+    "text": "Parent: \"Remember to wash hands! We love our neighbours!” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried sharing family responsibilities at home recently?",
+    "text": "Hi @fields.user_name! Have you tried sharing family responsibilities at home recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried sharing family responsibilities at home recently?",
+    "text": "Hi! Have you tried sharing family responsibilities at home recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Excellent job @fields.user_name! Sharing the workload benefits the whole family. How was your experience?",
+    "text": "Excellent job @fields.user_name! Sharing the workload benefits the whole family. How was your experience?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Excellent job! Sharing the workload benefits the whole family. How was your experience?",
+    "text": "Excellent job! Sharing the workload benefits the whole family. How was your experience?",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear this. What was difficult for you about sharing family responsibilities?",
+    "text": "We are sorry to hear this. What was difficult for you about sharing family responsibilities?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear this. What was difficult for you about sharing family responsibilities?",
+    "text": "I am sorry to hear this. What was difficult for you about sharing family responsibilities?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on how to talk to your child about COVID-19. ",
+    "text": "Here is a comic on how to talk to your child about COVID-19. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Am I going to get coronavirus?” ",
+    "text": "Child: “Am I going to get coronavirus?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “It is very possible that we will all get coronavirus. But younger people do not normally get very sick.”",
+    "text": "Parent: “It is very possible that we will all get coronavirus. But younger people do not normally get very sick.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “I am scared…” ",
+    "text": "Child: “I am scared…” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “It is okay to be afraid. We are all a bit scared about this. But we have each other and can do our best to keep ourselves and other people safe and healthy.”",
+    "text": "Parent: “It is okay to be afraid. We are all a bit scared about this. But we have each other and can do our best to keep ourselves and other people safe and healthy.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “How can we keep safe?” ",
+    "text": "Child: “How can we keep safe?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “We can wash our hands regularly for 20 seconds. We can also keep a good physical distance away from people. We also need to try to avoid touching our faces as much as possible.” ",
+    "text": "Parent: “We can wash our hands regularly for 20 seconds. We can also keep a good physical distance away from people. We also need to try to avoid touching our faces as much as possible.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child, “Okay…”",
+    "text": "Child, “Okay…”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “What happens to your body when you get coronavirus?”",
+    "text": "Child: “What happens to your body when you get coronavirus?”",
+    "type": "text"
+  },
+  {
+    "SourceText": " Parent: “To tell you the truth, I don’t know exactly. How about we look on the UNICEF website together?”",
+    "text": " Parent: “To tell you the truth, I don’t know exactly. How about we look on the UNICEF website together?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "• They can think about new ideas, develop their own ideals and set their own course.",
+    "text": "• They can think about new ideas, develop their own ideals and set their own course.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on how you can reinforce your child's strength.",
+    "text": "Here is a comic on how you can reinforce your child's strength.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"la la la la….\"",
+    "text": "Child: \"la la la la….\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: \"la la la la…\"",
+    "text": "Teen: \"la la la la…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Disabled Child: \"la la la la…\"",
+    "text": "Disabled Child: \"la la la la…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"It was so lovely to hear you singing while I was preparing dinner. Food is ready! Please tidy the room and put away the toys.\"",
+    "text": "Parent: \"It was so lovely to hear you singing while I was preparing dinner. Food is ready! Please tidy the room and put away the toys.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: \"Here is the toy box. We can put the toys inside.\"",
+    "text": "Teen: \"Here is the toy box. We can put the toys inside.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Disabled Child: \"Please remember my favourite car!\"",
+    "text": "Disabled Child: \"Please remember my favourite car!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"I have it right here!\"",
+    "text": "Child: \"I have it right here!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I am so happy you have tidied up your toys together! It is dinnertime!\"",
+    "text": "Parent: \"I am so happy you have tidied up your toys together! It is dinnertime!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Disabled child: \"Can you help me come to dinner?\"",
+    "text": "Disabled child: \"Can you help me come to dinner?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "(5)",
+    "text": "(5)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Thank you for asking. Let's go together. You are so strong!\"",
+    "text": "Parent: \"Thank you for asking. Let's go together. You are so strong!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "(6)",
+    "text": "(6)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “In 5 minutes it will be time to give me back the phone and start your school work.” ",
+    "text": "Parent: “In 5 minutes it will be time to give me back the phone and start your school work.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen (distractedly): “Uh-huh…”",
+    "text": "Teen (distractedly): “Uh-huh…”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “5 minutes is up. Please give me the phone.” ",
+    "text": "Parent: “5 minutes is up. Please give me the phone.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “No, I am not done. I just need to get to the next level.”",
+    "text": "Teen: “No, I am not done. I just need to get to the next level.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “You have a choice, either you give me the phone now, or you cannot use it after dinner.” ",
+    "text": "Parent: “You have a choice, either you give me the phone now, or you cannot use it after dinner.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen (not happy but agreeing): “Fine.”",
+    "text": "Teen (not happy but agreeing): “Fine.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for giving me the phone back, Carter. Now please do your school work. After that we can take a walk or play a game together.”",
+    "text": "Parent: “Thank you for giving me the phone back, Carter. Now please do your school work. After that we can take a walk or play a game together.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “What’s wrong, my dear? Come and sit by me and tell me what happened.” ",
+    "text": "Parent: “What’s wrong, my dear? Come and sit by me and tell me what happened.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “It’s that person…they touched me…”",
+    "text": "Child: “It’s that person…they touched me…”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Take your time... I am listening.” ",
+    "text": "Parent: “Take your time... I am listening.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “… they held me down…told me I would be in trouble if I told anybody…”",
+    "text": "Child: “… they held me down…told me I would be in trouble if I told anybody…”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I believe you. You are not in trouble. It is not your fault. This is a big thing and we will find a way to get the help you need. I wonder where we can go for help…?”",
+    "text": "Parent: “I believe you. You are not in trouble. It is not your fault. This is a big thing and we will find a way to get the help you need. I wonder where we can go for help…?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “The clinic? But could you come with me?”",
+    "text": "Child: “The clinic? But could you come with me?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Yes, they will know what to do. Of course, I will come with you. Remember, this is not your fault. I love you and we will get through this.” ",
+    "text": "Parent: “Yes, they will know what to do. Of course, I will come with you. Remember, this is not your fault. I love you and we will get through this.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Thanks so much.”",
+    "text": "Child: “Thanks so much.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on  coping with a colicky baby",
+    "text": "Here is a comic on  coping with a colicky baby",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"We should do something.\"",
+    "text": "Parent 1: \"We should do something.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"Okay, I'll try feeding them.\"",
+    "text": "Parent 2: \"Okay, I'll try feeding them.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Baby: \"aaaaaaaa\"",
+    "text": "Baby: \"aaaaaaaa\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1:  \"What is wrong with them?\"",
+    "text": "Parent 1:  \"What is wrong with them?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"I don't know. It has been an hour and they are still crying. I cannot take it anymore. They are driving me crazy, I just want to shake them!\"",
+    "text": "Parent 2: \"I don't know. It has been an hour and they are still crying. I cannot take it anymore. They are driving me crazy, I just want to shake them!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"I can see that this has been a stressful night for you. How about you get some sleep while I take Frankie into the other room. I will try wrapping them up in a blanket.\"",
+    "text": "Parent 2: \"I can see that this has been a stressful night for you. How about you get some sleep while I take Frankie into the other room. I will try wrapping them up in a blanket.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Thank you. I was getting so angry at myself.\"",
+    "text": "Parent 1: \"Thank you. I was getting so angry at myself.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"How did you manage to get them to sleep?\"",
+    "text": "Parent 1: \"How did you manage to get them to sleep?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"I think they wore themselves out but we should take them to the clinic tomorrow morning.\"",
+    "text": "Parent 2: \"I think they wore themselves out but we should take them to the clinic tomorrow morning.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “How are you doing, Andy?”",
+    "text": "Parent: “How are you doing, Andy?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen (looking sad): “I wish I could hang out with my friends.”",
+    "text": "Teen (looking sad): “I wish I could hang out with my friends.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent (thinking): \"Hmmm…that can wait…\"",
+    "text": "Parent (thinking): \"Hmmm…that can wait…\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent (looks back to teen):“I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
+    "text": "Parent (looks back to teen):“I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: \"Maybe I can make a TikTok video to share with them. But I am not sure how…can you help me?”",
+    "text": "Teen: \"Maybe I can make a TikTok video to share with them. But I am not sure how…can you help me?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I would be happy to help and would like to know more about TikTok, too!”",
+    "text": "Parent: “I would be happy to help and would like to know more about TikTok, too!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Why can’t I go play with my friends today?”",
+    "text": "Child: “Why can’t I go play with my friends today?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I can see that you are upset, Sam. It can be difficult when we feel separated from our friends.”",
+    "text": "Parent: “I can see that you are upset, Sam. It can be difficult when we feel separated from our friends.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “We are not allowed to visit other people right now because of COVID-19.",
+    "text": "Parent: “We are not allowed to visit other people right now because of COVID-19.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This will keep them and us safe while making sure our health services are able to support those who are sick.\"",
+    "text": "This will keep them and us safe while making sure our health services are able to support those who are sick.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “As soon as we are able, you can play with your friends. In the meantime, we can draw some pictures of your favourite times playing with them.” ",
+    "text": "Parent: “As soon as we are able, you can play with your friends. In the meantime, we can draw some pictures of your favourite times playing with them.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Okay!”",
+    "text": "Child: “Okay!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on combining consequences and ignore.",
+    "text": "Here is a comic on combining consequences and ignore.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Bailey, please clear the dishes after dinner\" ",
+    "text": "Parent 1: \"Bailey, please clear the dishes after dinner\" ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: \"Sam, time to get ready for bed. Come with me.\"",
+    "text": "Parent 2: \"Sam, time to get ready for bed. Come with me.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\"",
+    "text": "Parent: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"I don't want to clear the dishes. I want to play with my new toy car. \"",
+    "text": "Child: \"I don't want to clear the dishes. I want to play with my new toy car. \"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Bailey, either you clear the table now, or you will not be able to play with your toys later tonight\"",
+    "text": "Parent 1: \"Bailey, either you clear the table now, or you will not be able to play with your toys later tonight\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\"",
+    "text": "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Because you did not listen, you cannot play with your toys. Please get ready for bed. ",
+    "text": "Parent 1: \"Because you did not listen, you cannot play with your toys. Please get ready for bed. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"But that is not fair!\"",
+    "text": "Child: \"But that is not fair!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"But that is not fair. Waaaah!\"",
+    "text": "Child: \"But that is not fair. Waaaah!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"It is so nice to see that you got ready for bed all by yourself!\"",
+    "text": "Parent 1: \"It is so nice to see that you got ready for bed all by yourself!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"Now can I play with my toy car?\"",
+    "text": "Child: \"Now can I play with my toy car?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"You can play with your car tomorrow. It is bedtime. Come, my sweetie, I will tell your favourite bedtime story.\"",
+    "text": "Parent 1: \"You can play with your car tomorrow. It is bedtime. Come, my sweetie, I will tell your favourite bedtime story.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "(7)",
+    "text": "(7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: \"Once upon a time...\"",
+    "text": "Parent 1: \"Once upon a time...\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "(8)",
+    "text": "(8)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Give it to me!”",
+    "text": "Child: “Give it to me!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “I had it first!” ",
+    "text": "Teen: “I had it first!” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Cameron and Billy, come and help me prepare dinner. We are making your favourite dish!” ",
+    "text": "Parent: “Cameron and Billy, come and help me prepare dinner. We are making your favourite dish!” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for helping me get these veggies clean for our dinner tonight!”",
+    "text": "Parent: “Thank you for helping me get these veggies clean for our dinner tonight!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can add more, too! Here is a comic on creating a daily routine with your child. ",
+    "text": "You can add more, too! Here is a comic on creating a daily routine with your child. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Now let’s look at the multiplication tables…”",
+    "text": "Parent: “Now let’s look at the multiplication tables…”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for helping me make lunch, Junior” ",
+    "text": "Parent: “Thank you for helping me make lunch, Junior” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “My favourite!”",
+    "text": "Child: “My favourite!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent “And they all lived happily ever after…Goodnight, my love.”",
+    "text": "Parent “And they all lived happily ever after…Goodnight, my love.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Thank you for being so supportive with the kids today.” ",
+    "text": "Parent: \"Thank you for being so supportive with the kids today.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about treating each other as equals.",
+    "text": "Here is a comic about treating each other as equals.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “My dear, you look worried. What’s wrong?”",
+    "text": "Parent 1: “My dear, you look worried. What’s wrong?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “The stove has not been working very well recently. I think the stove might be broken.”",
+    "text": "Parent 2: “The stove has not been working very well recently. I think the stove might be broken.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?”",
+    "text": "Parent 1: “I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?",
+    "text": "Parent 2: “Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “That sounds great. Thank you for cooking dinner, my dear!”",
+    "text": "Parent 1: “That sounds great. Thank you for cooking dinner, my dear!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first.”",
+    "text": "Parent 1: “I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “Me too. I feel a lot better now that we have talked about it together.” ",
+    "text": "Parent 2: “Me too. I feel a lot better now that we have talked about it together.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about becoming a confident parent and a supportive partner.",
+    "text": "Here is a comic about becoming a confident parent and a supportive partner.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about sharing family responsibilities.",
+    "text": "Here is a comic about sharing family responsibilities.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Wow, there are so many clothes in here!”",
+    "text": "Child: “Wow, there are so many clothes in here!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “You’re right, Kyle, there is quite a lot to do.”",
+    "text": "Parent 1: “You’re right, Kyle, there is quite a lot to do.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “If we do it together it will take less time!”",
+    "text": "Parent 1: “If we do it together it will take less time!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Doing tasks together is also fun”",
+    "text": "Parent 1: “Doing tasks together is also fun”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “Thank you, my love. Sharing the workload makes it less stressful.”",
+    "text": "Parent 2: “Thank you, my love. Sharing the workload makes it less stressful.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about resolving conflict peacefully.",
+    "text": "Here is a comic about resolving conflict peacefully.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Dinner is ready!”",
+    "text": "Parent 1: “Dinner is ready!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Look, it is raining so much outside!”",
+    "text": "Child: “Look, it is raining so much outside!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I am glad you brought in the laundry earlier, my dear. Otherwise, it would have been soaked by now!”",
+    "text": "Parent 1: “I am glad you brought in the laundry earlier, my dear. Otherwise, it would have been soaked by now!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I thought you said you would bring in the laundry today?”",
+    "text": "Parent 1: “I thought you said you would bring in the laundry today?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “No, I was busy cooking dinner! You told me you would take care of it! How could you forget? Now all the laundry is wet!”",
+    "text": "Parent 1: “No, I was busy cooking dinner! You told me you would take care of it! How could you forget? Now all the laundry is wet!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I’m really sorry. It was a mistake!”",
+    "text": "Parent 2: “I’m really sorry. It was a mistake!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1(thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…",
+    "text": "Parent 1(thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I’m sorry if I sounded upset. I just got stressed because I have had a long day.”",
+    "text": "Parent 1: “I’m sorry if I sounded upset. I just got stressed because I have had a long day.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I am sorry that I forgot the laundry. I know you have had a long day. I will make sure to take care of it after dinner.”",
+    "text": "Parent 2: “I am sorry that I forgot the laundry. I know you have had a long day. I will make sure to take care of it after dinner.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about listening and talking to each other.",
+    "text": "Here is a comic about listening and talking to each other.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Are you okay, my love? You look tired.”",
+    "text": "Parent 1: “Are you okay, my love? You look tired.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I didn’t sleep well last night and so I am feeling quite tired.”",
+    "text": "Parent 2: “I didn’t sleep well last night and so I am feeling quite tired.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I am sorry to hear that, Amir. Is there anything I can do to help?”",
+    "text": "Parent 1: “I am sorry to hear that, Amir. Is there anything I can do to help?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “I might try and get an earlier rest this evening.”",
+    "text": "Parent 2: “I might try and get an earlier rest this evening.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “I can take over the children’s bedtime routine after dinner tonight, so that you can get some extra rest.”",
+    "text": "Parent 1: “I can take over the children’s bedtime routine after dinner tonight, so that you can get some extra rest.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “That would be lovely. Thank you so much, my dear.”",
+    "text": "Parent 2: “That would be lovely. Thank you so much, my dear.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried to talk to your partner about your feelings and any difficulties you are facing recently?",
+    "text": "Hi @fields.user_name! Have you tried to talk to your partner about your feelings and any difficulties you are facing recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried to talk to your partner about your feelings and any difficulties you are facing recently?",
+    "text": "Hi! Have you tried to talk to your partner about your feelings and any difficulties you are facing recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Good for you! Talking about challenges and our emotions can be hard. How was your experience? ",
+    "text": "Good for you! Talking about challenges and our emotions can be hard. How was your experience? ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry to hear that. What was hard for you when talking about your feelings and challenges you are facing?",
+    "text": "We are sorry to hear that. What was hard for you when talking about your feelings and challenges you are facing?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry to hear that. What was hard for you when talking about your feelings and challenges you are facing?",
+    "text": "I am sorry to hear that. What was hard for you when talking about your feelings and challenges you are facing?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! Have you tried resolving conflict in a calm way even when you have felt frustrated recently?",
+    "text": "Hi @fields.user_name! Have you tried resolving conflict in a calm way even when you have felt frustrated recently?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! Have you tried resolving conflict in a calm way even when you have felt frustrated recently?",
+    "text": "Hi! Have you tried resolving conflict in a calm way even when you have felt frustrated recently?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear this. What was difficult for you about resolving conflicts between you and your partner?",
+    "text": "Sorry to hear this. What was difficult for you about resolving conflicts between you and your partner?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Good job @fields.user_name! Resolving conflicts isn’t always easy. How was your experience?",
+    "text": "Good job @fields.user_name! Resolving conflicts isn’t always easy. How was your experience?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Good job! Resolving conflicts isn’t always easy. How was your experience?",
+    "text": "Good job! Resolving conflicts isn’t always easy. How was your experience?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on discussing online activities with your child",
+    "text": "Here is a comic on discussing online activities with your child",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Shani, have you done your homework?\"",
+    "text": "Parent: \"Shani, have you done your homework?\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"Just a minute mum, I'm finishing this tiktok video\"",
+    "text": "Child: \"Just a minute mum, I'm finishing this tiktok video\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"You are a really great dancer! Tell me about why you like it.\"",
+    "text": "Parent: \"You are a really great dancer! Tell me about why you like it.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"All my friends are on it. I have more than 600 likes and 120 followers.\"",
+    "text": "Child: \"All my friends are on it. I have more than 600 likes and 120 followers.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I’m proud of how well you dance, Joey. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\"",
+    "text": "Parent: \"I’m proud of how well you dance, Joey. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\"",
+    "text": "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I’m proud of you Shalini...\"",
+    "text": "Parent: \"I’m proud of you Shalini...\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on using positive words and praise with your teen. ",
+    "text": "Here is a comic on using positive words and praise with your teen. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “Can I watch some T.V. after dinner?” ",
+    "text": "Teen: “Can I watch some T.V. after dinner?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “When you clear the table, you can watch an hour of T.V.” ",
+    "text": "Parent: “When you clear the table, you can watch an hour of T.V.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I really appreciate it when you help clean up after dinner. Thank you, Dylan”",
+    "text": "Parent: “I really appreciate it when you help clean up after dinner. Thank you, Dylan”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent and teen watching T.V. together. ",
+    "text": "Parent and teen watching T.V. together. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children and teens are spending a lot more time online. Here is a comic on how you can create safe and healthy online habits like scheduling time online and offline.",
+    "text": "Children and teens are spending a lot more time online. Here is a comic on how you can create safe and healthy online habits like scheduling time online and offline.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Jack, you have been spending a lot of time on your tablet. Why do you think I am concerned about that?” ",
+    "text": "Parent: “Jack, you have been spending a lot of time on your tablet. Why do you think I am concerned about that?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Um…because I am not doing my schoolwork?” ",
+    "text": "Child: “Um…because I am not doing my schoolwork?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Yes, that is one reason. It is important that you make the time for your schoolwork. I also like seeing you being more active. Maybe we can make a household rule about gadget use. What do you think would be a fair limit each day?” ",
+    "text": "Parent: “Yes, that is one reason. It is important that you make the time for your schoolwork. I also like seeing you being more active. Maybe we can make a household rule about gadget use. What do you think would be a fair limit each day?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Um…two hours a day?”",
+    "text": "Child: “Um…two hours a day?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Hmmm…I think that might be too much time. You have so much else to do every day.” ",
+    "text": "Parent: “Hmmm…I think that might be too much time. You have so much else to do every day.” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “How about one hour for fun and one hour for learning?",
+    "text": "Child: “How about one hour for fun and one hour for learning?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “That sounds reasonable. I would also like you to do your schoolwork before using any gadgets. So from now on, the household rule is that you do your schoolwork before using gadgets and that you can have 1 hour for free time and 1 hour for educational activities. Okay?” ",
+    "text": "Parent: “That sounds reasonable. I would also like you to do your schoolwork before using any gadgets. So from now on, the household rule is that you do your schoolwork before using gadgets and that you can have 1 hour for free time and 1 hour for educational activities. Okay?” ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: “Okay.”",
+    "text": "Child: “Okay.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic about spending one-on-one time with your child! Try to follow your child's lead when spending time with them. It will help build self-confidence.",
+    "text": "Here is a comic about spending one-on-one time with your child! Try to follow your child's lead when spending time with them. It will help build self-confidence.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"I see you are playing quietly with the lego with concentration, Alex.\"",
+    "text": "Parent: \"I see you are playing quietly with the lego with concentration, Alex.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"Wow! You are building such a tall and strong wall with those legos.\"",
+    "text": "Parent: \"Wow! You are building such a tall and strong wall with those legos.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"It is for cows.\"",
+    "text": "Child: \"It is for cows.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"It will keep the cow safe!\"",
+    "text": "Parent: \"It will keep the cow safe!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Child: \"Now you can help me build a house for our family to sleep in!\"",
+    "text": "Child: \"Now you can help me build a house for our family to sleep in!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: \"This house is going to keep our family warm and dry. You are such a good builder, Alex!\"",
+    "text": "Parent: \"This house is going to keep our family warm and dry. You are such a good builder, Alex!\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on spending one-on-time with your teen.",
+    "text": "Here is a comic on spending one-on-time with your teen.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can give @fields.child_nickname love and support when they share difficult emotions with you.",
+    "text": "Here is a comic that shows how you can give @fields.child_nickname love and support when they share difficult emotions with you.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Parent (looks back to teen): “I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
+    "text": "Parent (looks back to teen): “I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you.",
+    "text": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: All children misbehave. One thing that can help is to praise @fields.child_nickname anytime that they do something good – however small. They may not look like they want your praise but they still really, really do.",
+    "text": "Quick tip: All children misbehave. One thing that can help is to praise @fields.child_nickname anytime that they do something good – however small. They may not look like they want your praise but they still really, really do.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations @fields.user_name! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Congratulations @fields.user_name! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Congratulations! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations @fields.user_name! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Congratulations @fields.user_name! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "text": "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Well done for Taking a Pause @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "text": "Well done for Taking a Pause @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "text": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "text": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "text": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you please tell us the name or nickname of this child?",
+    "text": "Can you please tell us the name or nickname of this child?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Nice to meet you, @fields.user_name! ",
+    "text": "Nice to meet you, @fields.user_name! ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is completely normal to experience this, we know that this is not easy! Try swaddling, rocking or singing to @fields.child_nickname. You might also need feed @fields.child_nickname or change their diaper. Remember, you are not a bad parent if @fields.child_nickname continues to cry after you have done all you can to calm them. You are doing your best!",
+    "text": "It is completely normal to experience this, we know that this is not easy! Try swaddling, rocking or singing to @fields.child_nickname. You might also need feed @fields.child_nickname or change their diaper. Remember, you are not a bad parent if @fields.child_nickname continues to cry after you have done all you can to calm them. You are doing your best!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is completely normal to experience this, I know that this is not easy! Try swaddling, rocking or singing to @fields.child_nickname. You might also need feed @fields.child_nickname or change their diaper. Remember, you are not a bad parent if @fields.child_nickname continues to cry after you have done all you can to calm them. You are doing your best!",
+    "text": "It is completely normal to experience this, I know that this is not easy! Try swaddling, rocking or singing to @fields.child_nickname. You might also need feed @fields.child_nickname or change their diaper. Remember, you are not a bad parent if @fields.child_nickname continues to cry after you have done all you can to calm them. You are doing your best!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "4. Online map",
+    "text": "4. Online map",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"1\" to \"4\" to learn more about how you can do this activity with your children. Type \"N\" to stop this tip.",
+    "text": "Type \"1\" to \"4\" to learn more about how you can do this activity with your children. Type \"N\" to stop this tip.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 4: Online map",
+    "text": "Step 4: Online map",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Draw pictures of the apps and websites they use",
+    "text": "• Draw pictures of the apps and websites they use",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Praise your child for how good they are at using the web!",
+    "text": "• Praise your child for how good they are at using the web!",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Talk about which ones might be unsafe. Why?",
+    "text": "• Talk about which ones might be unsafe. Why?",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Are there plans you could make together to make using the internet safer for your child and their friends?",
+    "text": "• Are there plans you could make together to make using the internet safer for your child and their friends?",
+    "type": "text"
+  },
+  {
+    "SourceText": "• It can really help for parents to learn about this in advance.",
+    "text": "• It can really help for parents to learn about this in advance.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Great to hear that @fields.child_nickname has been behaving well! The best approach is to avoid having to use consequences in the first place by keeping @fields.child_nickname under a Sunshine of Positive Attention. Invest in quality time and praising @fields.child_nickname's positive behaviour. Redirect works great for avoiding these behaviours, too!",
+    "text": "Great to hear that @fields.child_nickname has been behaving well! The best approach is to avoid having to use consequences in the first place by keeping @fields.child_nickname under a Sunshine of Positive Attention. Invest in quality time and praising @fields.child_nickname's positive behaviour. Redirect works great for avoiding these behaviours, too!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. ",
+    "text": "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. ",
+    "text": "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  }
+]

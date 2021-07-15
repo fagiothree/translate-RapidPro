@@ -1,0 +1,112 @@
+[
+  {
+    "SourceText": "##police referrals##",
+    "text": "##police referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##medical services referrals##",
+    "text": "##medical services referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##fire department referrals##",
+    "text": "##fire department referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##violence referrals##",
+    "text": "##violence referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##mental health referrals##",
+    "text": "##mental health referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##suicide referrals##",
+    "text": "##suicide referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##education referrals##",
+    "text": "##education referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "##family referrals##",
+    "text": "##family referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on praising your child.",
+    "text": "Here is a comic on praising your child.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a comic on praising your teen.",
+    "text": "Here is a comic on praising your teen.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for being quiet while I talked to my boss. I appreciate it! Here, you can use my phone to WhatsApp your friends”",
+    "text": "Parent: “Thank you for being quiet while I talked to my boss. I appreciate it! Here, you can use my phone to WhatsApp your friends”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Teen: “Thanks! I really want to see how they are doing.”",
+    "text": "Teen: “Thanks! I really want to see how they are doing.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Silence ",
+    "text": "Silence ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “Thank you for playing quietly while I was doing work. In 5 minutes I will be able to join you.”",
+    "text": "Parent: “Thank you for playing quietly while I was doing work. In 5 minutes I will be able to join you.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent: “I really appreciate you playing quietly together while I worked. Now I can play with you for a bit. What would you like to do?”",
+    "text": "Parent: “I really appreciate you playing quietly together while I worked. Now I can play with you for a bit. What would you like to do?”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Good job, Jessie! You are reading very well!”",
+    "text": "Parent 1: “Good job, Jessie! You are reading very well!”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “The weather today is so nice. It is a shame I have not had time to go outside for a walk.”",
+    "text": "Parent 2: “The weather today is so nice. It is a shame I have not had time to go outside for a walk.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “If you would like to get some fresh air and exercise, my dear, I can continue helping the children with their homework while you go for your afternoon walk.”",
+    "text": "Parent 1: “If you would like to get some fresh air and exercise, my dear, I can continue helping the children with their homework while you go for your afternoon walk.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 2: “That would be wonderful, my love! Thank you for being so supportive.”",
+    "text": "Parent 2: “That would be wonderful, my love! Thank you for being so supportive.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parent 1: “Of course! It is fun to help the children with their reading practice! They are doing so well.”",
+    "text": "Parent 1: “Of course! It is fun to help the children with their reading practice! They are doing so well.”",
+    "type": "text"
+  },
+  {
+    "SourceText": "##covid referrals##",
+    "text": "##covid referrals##",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is a video to help you take a pause.",
+    "text": "Here is a video to help you take a pause.",
+    "type": "text"
+  }
+]

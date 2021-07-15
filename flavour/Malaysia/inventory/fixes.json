@@ -1,0 +1,155 @@
+[  {
+    "SourceText": "aunt uncle aunt/uncle",
+    "old_text": "ibu saudara bapa saudara ibu saudara/bapa saudara",
+	"text": "saudara",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "apply",
+    "old_text": "guna",
+	"text": "diterima",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "activities",
+    "old_text": "aktiviti-aktiviti",
+	"old_text": "aktiviti-aktiviti aktiviti",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "safe",
+	"old_text": "selamat",
+    "text": "keselamatan",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "disabilities",
+    "old_text": "ketidakupayaan",
+	"text": "ketidakupayaan kurang upaya",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+   {
+    "SourceText": "children",
+    "old_text": "kanak-kanak",
+	"text": "kanak-kanak anak-anak",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "children ",
+    "old_text": "kanak-kanak ",
+	"text": "kanak-kanak anak-anak",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "other",
+    "old_text": "lain-lain",
+	"text": "lain-lain lain",
+      "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "share friend",
+	"old_text": "berkongsi dengan kawan",
+    "text": "berkongsi kawan rakan",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yourself",
+    "old_text": "diri anda",
+	"text": "diri",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "time",
+	"old_text": "masa",
+    "text": "masa waktu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "only",
+    "old_text": "hanya",
+	 "text": "hanya sahaja",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "relaxation reduction",
+	"old_text": "pengurangan ketenangan",
+    "text": "pengurangan ketenangan Bersantai",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+   {
+    "SourceText": "baby babies",
+	"old_text": "bayi-bayi",
+    "text": "bayi-bayi bayi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "married",
+    "old_text": "sudah berkahwin",
+	"text": "berkahwin",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "i forgot the steps of problem solving",
+    "old_text": "saya terlupa langkah penyelesaian masalah",
+	"text": "saya terlupa langkah penyelesaian masalah",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+   {
+    "SourceText": "obey,temper,tantrums,disrespectful,whining ",
+    "old_text": "patuh, marah, mengamuk, tidak menghormati, merengek ",
+	"text": "mematuhi, mengamuk, menghormati, merengek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "hyperactivity,still",
+    "old_text": "hiperaktif, kaku",
+	"text": "hiperaktif",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "refuses,obey,angry,rudeness,disrespectful,rules,stubbornness,breaking,fighting,teasing,bothering",
+    "old_text": "menolak, patuh, marah, kasar, tidak menghormati, peraturan, degil, memecahkan, bergaduh, mengusik, mengganggu",
+    "text": "mematuhi, selalu, kasar, peraturan, kedegilan, memecahkan, bergaduh, mengusik, mengganggu",
+	"type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+    {
+    "SourceText": "irritable,mood",
+    "old_text": "cepat marah, perasaan",
+	"text": "cepat",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+   {
+    "SourceText": "bad tempered moody",
+    "old_text": "perasaan marah",
+	"text": "pemarah",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+   {
+    "SourceText": "eating",
+    "old_text": "makan",
+	"text": "makan pemakanan",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  ]

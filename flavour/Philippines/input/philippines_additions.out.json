@@ -1,0 +1,733 @@
+[
+  {
+    "SourceText": "Da ta! Pause Power! My transformation from grumpy to calm is complete!",
+    "text": "Ta da! Pause Power! Kumpleto na ang aking pagbabago mula sa pagiging sumpungin hanggang sa pagiging kalmado!",
+    "type": "text"
+  },
+  {
+    "SourceText": "mother-child connection",
+    "text": "koneksiyon ng nanay at anak",
+    "type": "text"
+  },
+  {
+    "SourceText": "father-child connection",
+    "text": "koneksiyon ng tatay at anak",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sound of a baby crying can be very distressing, especially for a father. It is completely natural to want to make it stop. You might also think that you are not a good father or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong.",
+    "text": "Maaaring nakakainis marinig ang iyak ng isang sanggol, lalo na sa isang ama. Natural na gusto natin siyang matigil. Maaari mo ring isiping hindi ka mabuting ama o kaya'y umiiyak ang iyong sanggol para asarin ka. Ngunit lahat ng sanggol ay umiiyak. Isa ito sa mga paraan para sabihin sa iyo ng sanggol na mayroong mali.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sound of a baby crying can be very distressing, especially for a mother. It is completely natural to want to make it stop. You might also think that you are not a good mother or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong.",
+    "text": "Maaaring nakakainis marinig ang iyak ng isang sanggol, lalo na sa isang ina. Natural na gusto natin siyang matigil. Maaari mo ring isiping hindi ka mabuting ina o kaya'y umiiyak ang iyong sanggol para asarin ka. Ngunit lahat ng sanggol ay umiiyak. Isa ito sa mga paraan para sabihin sa iyo ng sanggol na mayroong mali.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We know that this is not easy. You are not a bad mother if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Alam nating hindi ito madali. Hindi ka masamang ina kapag patuloy na umiiyak ang iyong sanggol matapos mong gawin lahat para mapakalma sila. Ginagawa mo ang iyong makakaya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We know that this is not easy. You are not a bad father if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Alam nating hindi ito madali. Hindi ka masamang ama kapag patuloy na umiiyak ang iyong sanggol matapos mong gawin lahat para mapakalma sila. Ginagawa mo ang iyong makakaya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit. Remember that there are no bad mothers. We are all learning here!",
+    "text": "Mahusay! Nakapagdagdag ka ng panibagong kakayahan sa iyong Parenting Toolkit. Alalahaning walang masamang ina. Lahat tayo ay natututo rito!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit. Remember that there are no bad fathers. We are all learning here!",
+    "text": "Mahusay! Nakapagdagdag ka ng panibagong kakayahan sa iyong Parenting Toolkit. Alalahaning walang masamang ama. Lahat tayo ay natututo rito!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! A lot of mothers struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+    "text": "Hello! Maraming ina ang nahihirapan kapag mayroong pag-aalboroto at iba pang mapagpumilit na pag-uugali ang kanilang anak. Ang tip ngayon ay tungkol sa kung paano ito mas mapamahalaan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! A lot of fathers struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+    "text": "Hello! Maraming ama ang nahihirapan kapag mayroong pag-aalboroto at iba pang mapagpumilit na pag-uugali ang kanilang anak. Ang tip ngayon ay tungkol sa kung paano ito mas mapamahalaan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 3. Remember that you are a mother NOT a substitute teacher! ",
+    "text": "Ika-3 Hakbang. Alalahaning ikaw ay isang ina HINDI kapalit na guro! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 3. Remember that you are a father NOT a substitute teacher! ",
+    "text": "Ika-3 Hakbang. Alalahaning ikaw ay isang ama HINDI kapalit na guro! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! This is a stressful time, especially for fathers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
+    "text": "Hello! Isa itong nakaka-stress na panahon, lalo na sa mga tatay. Kapag tayo ay stressed o galit, hindi tayo nakakagawa ng pinakamahusay na desisyon. Ang pagbibigay ng panahong alagaan ang ating mga sarili ay makatutulong sa ating mag-alaga ng ating mga anak.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! This is a stressful time, especially for mothers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
+    "text": "Hello! Isa itong nakaka-stress na panahon, lalo na sa mga nanay. Kapag tayo ay stressed o galit, hindi tayo nakakagawa ng pinakamahusay na desisyon. Ang pagbibigay ng panahong alagaan ang ating mga sarili ay makatutulong sa ating mag-alaga ng ating mga anak.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons men like you may struggle with spending time with their children. Please choose the closest to you.",
+    "text": "Naiintindihan naming mahirap minsan ang paggugol ng One-on-One Time. Narito ang ilan sa mga pangunahing dahilan kung bakit ang mga lalaking tulad mo ay nahihirapan sa paggugol ng oras sa kanilang mga anak. Mangyaring piliin ang pinakamalapit sa iyo.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons mothers struggle. Please choose the closest to you.",
+    "text": "Naiintindihan naming mahirap minsan ang paggugol ng One-on-One Time. Narito ang ilan sa mga dahilan kung bakit nahihirapan ang mga nanay. Mangyaring piliin ang pinakamalapit sa iyo.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can make you feel bad if your children do not want to spend One-on-One Time with their father. Think to yourself: When are they more open to you? Maybe in the morning or right before bedtime.",
+    "text": "Maaaring sumama ang loob natin kapag ayaw ng mga anak nating gumugol ng One-on-One time kasama ang kanilang tatay. Pag-isipan ito: Kailan sila mas bukas sa inyo? Baka sa umaga o bago matulog.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can make you feel bad if your children do not want to spend One-on-One Time with their mother. Think to yourself: When are they more open to you? Maybe in the morning or right before bedtime.",
+    "text": "Maaaring sumama ang loob natin kapag ayaw ng mga anak nating gumugol ng One-on-One Time kasama ang kanilang nanay. Pag-isipan ito: Kailan sila mas bukas sa inyo? Baka sa umaga o bago matulog.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is normal for men of the family to struggle to think of what to do with their babies, especially when it seems they just eat, sleep, cry, poop, and repeat. It can be especially challenging when the baby is very young and not able to talk to you.",
+    "text": "Normal sa mga lalaki sa pamilya na mahirapang mag-isip kung ano ang gagawin kasama ang kanilang mga sanggol, lalo na kung mukhang sila  ay kumakain, natutulog, umiiyak, tumatae, at inuulit lamang ang mga ito.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is normal for mothers to struggle to think of what to do with their babies, especially when it seems they just eat, sleep, cry, poop, and repeat. It can be especially challenging when the baby is very young and not able to talk to you.",
+    "text": "Normal sa mga nanay na mahirapang mag-isip kung ano ang gagawin kasama ang kanilang mga sanggol, lalo na kung mukhang sila ay kumakain, natutulog, umiiyak, tumatae, at inuulit lamang ang mga ito. Maaaring mas mahirap kapag masyado pang bata ang sanggol at hindi ka pa makausap.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Fathers can have difficult relationships with their teenagers, it can be hard to find pleasure from spending time with them. Instead, we spend a lot of time disciplining them or complaining about how they are behaving.",
+    "text": "Maaaring magkaroon ng mahirap na relasyon ang mga tatay sa kanilang teenager, maaaring mahirap makahanap ng kasiyahan sa paggugol ng oras kasama sila. Sa halip, gumugugol tayo ng maraming oras sa pagdidisiplina sa kanila o pagrereklamo tungkol sa kung paano sila umasta.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You should also praise yourself for trying. Being a father is not easy. You are a star just for showing up and caring. You can do it!",
+    "text": "Dapat mo ring purihin ang sarili mo sa pagsubok. Hindi madali ang pagiging ama. Isa kang bida sa pagpapakita at pag-aalaga. Kaya mo iyan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You should also praise yourself for trying. Being a mother is not easy. You are a star just for showing up and caring. You can do it!",
+    "text": "Dapat mo ring purihin ang sarili mo sa pagsubok. Hindi madali ang pagiging ina. Isa kang bida sa pagpapakita at pag-aalaga. Kaya mo iyan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a man.",
+    "text": "Nasabi mo sa aming ikaw ay isang lalaki.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told us that you are a woman.",
+    "text": "Nasabi mo sa aming ikaw ay isang babae.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You did not tell us if you are a man or a woman.",
+    "text": "Hindi mo nasabi sa amin kung ikaw ay lalaki o babae.",
+    "type": "text"
+  },
+  {
+    "SourceText": "@results.count Having a loving relationship with your partner",
+    "text": "@results.count Pagkakaroon ng mapagmahal na relasyon sa iyong partner",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "Are you a mother/female caregiver of a baby (0 to 23 months)?",
+    "text": "Ikaw ba ay isang ina/babaeng tagapangalaga ng isang sanggol (0 hanggang 23 buwan)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a father/male caregiver of a baby (0 to 23 months)?",
+    "text": "Ikaw ba ay isang ama/lalaking tagapangalaga ng isang sanggol (0 hanggang 23 buwan)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a mother/female caregiver of a young child (2 to 9 years)?",
+    "text": "Ikaw ba ay isang ina/babaeng tagapangalaga ng isang bata (2 hanggang 9 na taon)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a father/male caregiver of a young child (2 to 9 years)?",
+    "text": "Ikaw ba ay isang ama/lalaking tagapangalaga ng isang bata (2 hanggang 9 na taon)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a mother/female caregiver of a teen (10 to 17  years)?",
+    "text": "Ikaw ba ay isang ina/babaeng tagapangalaga ng isang teenager (10 hanggang 17 na taon)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Are you a father/male caregiver of a teen (10 to 17  years)?",
+    "text": "Ikaw ba ay isang ama/lalaking tagapangalaga ng isang teenager (10 hanggang 17 na taon)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing that you keep doing fun things with your child. You are the best mother they could wish for! ",
+    "text": "Nakakabilib na patuloy kang gumagawa ng masasayang bagay kasama ang iyong anak. Ikaw ang pinakamahusay na inang maaari nilang hilingin! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Amazing that you keep doing fun things with your child. You are the best father they could wish for!",
+    "text": "Nakakabilib na patuloy kang gumagawa ng masasayang bagay kasama ang iyong anak. Ikaw ang pinakamahusay na amang maaari nilang hilingin!",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a very stressful time for families. How many days in the past week did you feel very stressed as a mother/female caregiver? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "Sobrang nakaka-stress na panahon ito para sa mga pamilya. Ilang araw sa nakalipas na linggo mo naramdaman ang sobrang stress bilang isang ina/babaeng tagapangalaga? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a very stressful time for families. How many days in the past week did you feel very stressed as a father/male caregiver? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "text": "Sobrang nakaka-stress na panahon ito para sa mga pamilya. Ilang araw sa nakalipas na linggo mo naramdaman ang sobrang stress bilang isang ama/lalaking tagapangalaga? (0, 1, 2, 3, 4, 5, 6, 7)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being a mother is not easy. Try to be patient with yourself and your family, and take some space if you need it. By talking about our challenges calmly, we can solve them together!  ",
+    "text": "Hindi madali ang maging isang ina. Subukang maging mapagpasensiya sa sarili at iyong pamilya, at magkaroon ng konting lugar para sa sarili kung kinakailangan. Sa pamamagitan ng mahinahong pag-uusap tungkol sa mga hamon, masosolusyonan natin sila ng magkasama!  ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being the man of the house is not easy. Try to be patient with yourself and your family, and take some space if you need it. By talking about our challenges calmly, we can solve them together!",
+    "text": "Mahirap maging lalaki sa bahay. Subukang maging mapagpasensiya sa sarili at iyong pamilya, at magkaroon ng konting lugar para sa sarili kung kinakailangan. Sa pamamagitan ng mahinahong pag-uusap tungkol sa mga hamon, masosolusyonan natin sila ng magkasama!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all struggle to stay calm sometimes. Take a deep breath and remember that mistakes are human. Talking to your child will help more in the end – you are an awesome father! ",
+    "text": "Lahat tayo ay nahihirapang manatiling kalmado minsan. Huminga ng malalim at alalahaning parte ng pagiging tao ang mga pagkakamali. Makatutulong sa huli ang pagkausap sa iyong anak -- isa kang kahanga-hangang ama! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "We all struggle to stay calm sometimes. Take a deep breath and remember that mistakes are human. Talking to your child will help more in the end – you are an awesome mother! ",
+    "text": "Lahat tayo ay nahihirapang manatiling kalmado minsan. Huminga ng malalim at alalahaning parte ng pagiging tao ang mga pagkakamali. Makatutulong sa huli ang pagkausap sa iyong anak -- isa kang kahanga-hangang ina! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can sometimes be difficult to have a positive relationship with our children. How confident do you feel about your ability as a mother or female caregiver to have a positive relationship with your children? (0=not confident to 7=extremely confident)",
+    "text": "Maaaring mahirap minsan ang pagkakaroon ng positibong relasyon sa ating mga anak. Gaano ka kakumpiyansa sa iyong abilidad bilang isang ina o babaeng tagapangalaga na magkaroon ng positibong relasyon sa iyong mga anak? (0=walang kumpiyansa hanggang 7=higit ang kumpiyansa)",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can sometimes be difficult to have a positive relationship with our children. How confident do you feel about your ability as a father or male caregiver to have a positive relationship with your children? (0=not confident to 7=extremely confident)",
+    "text": "Maaaring mahirap minsan ang pagkakaroon ng positibong relasyon sa ating mga anak. Gaano ka kakumpiyansa sa iyong abilidad bilang isang ama o lalaking tagapangalaga na magkaroon ng positibong relasyon sa iyong mga anak? (0=walang kumpiyansa hanggang 7=higit ang kumpiyansa)",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being a mother is not easy and comes with lots of stress and responsibilities. Well done for taking the time to learn how to keep your child safe!",
+    "text": "Hindi madali ang maging isang ina at kasama nito ang napakaraming stress at responsibilidad. Mahusay at nagbibigay ka ng oras para matuto paano mapapanatiling ligtas ang iyong anak!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being the man of the house is not easy and comes with lots of stress and responsibilities. Well done for taking the time to learn how to keep your child safe!",
+    "text": "Hindi madali ang maging lalaki sa bahay at kasama nito ang napakaraming stress at responsibilidad. Mahusay at nagbibigay ka ng oras para matuto paano mapapanatiling ligtas ang iyong anak!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being a mother is not easy and comes with lots of stress and responsibilities. It can be difficult to know how to keep our children safe. We are here to support you!",
+    "text": "Hindi madali ang maging isang ina at kasama nito ang napakaraming stress at responsibilidad. Maaaring mahirap malaman paano mapanatiling ligtas ang ating mga anak. Narito kami para suportahan ka!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Being the man of the house is not easy and comes with lots of stress and responsibilities. It can be difficult to know how to keep our children safe. We are here to support you!",
+    "text": "Hindi madali ang maging lalaki sa bahay at kasama nito ang napakaraming stress at responsibilidad. Maaaring mahirap malaman paano mapanatiling ligtas ang ating mga anak. Narito kami para suportahan ka!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can always change this later by typing \"Help\" and selecting \"Technical support\"",
+    "text": "Maaari mong palitan ito sa pamamagitan ng pag-type ng \"Help\" at pagpili sa \"Technical support\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.",
+    "text": "Mangyaring pumili ng isang age group para sa tips sa pagiging magulang. Maaari mong piliin ang anak na pinakainaalala mo.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can always change this later by typing \"Help\" and selecting \"Technical support\".",
+    "text": "Maaari mong palitan ito sa pamamagitan ng pag-type ng \"Help\" at pagpili sa \"Technical support\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Thank you for signing up to receive these parenting tips. Please tell us which language you would like:",
+    "text": "Hi! Salamat sa pag-sign up para makatanggap ng mga tips sa pagiging magulang. Mangyaring sabihin sa amin kung anong lenggwahe ang gusto niyo:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Bringing up children and teenagers is hard. You are the best parent your children could have. ",
+    "text": "Mahirap magpalaki ng mga bata at teenager. Ikaw ang pinakamahusay na magulang para sa iyong mga anak. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thank you for joining the 133 million parents who have used our resources developed by Parenting for Lifelong Health, WHO, and UNICEF.",
+    "text": "Salamat sa pagsali sa 133 milyong mga magulang na ginamit ang aming mga resources na ginawa ng Parenting for Lifelong Health, WHO, at UNICEF.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Your participation and any information you provide will be used anonymously by researchers so that we learn about how to better support families like yours. ",
+    "text": "Ang iyong pakikilahok at anumang impormasyon na iyong ibibigay ay tanging mga mananaliksik lamang ang makakakita upang mapag-aralan namin ang tungkol sa kung paano mas masusuportahan ang mga pamilya tulad ng sa iyo. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. Click here for more information [insert link]",
+    "text": "I-type ang \"Oo\" kung sumasang-ayon ka dito. I-type ang \"Exit\" kung hindi mo nais na makilahok. Mag-click dito para sa karagdagang impormasyon [insert link]",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry I did not understand. Please type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate.",
+    "text": "Pasensya na hindi ko naintindihan. Mangyaring i-type ang \"Oo\" kung sumasang-ayon ka dito. I-type ang \"Exit\" kung hindi mo nais na makilahok.",
+    "type": "text"
+  },
+  {
+    "SourceText": "These tips are for YOU. Are you a WOMAN or MAN?",
+    "text": "Ang mga tips na ito ay para sa iyo. Ikaw ba ay BABAE o LALAKI?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you don't want to tell us, that's okay. Please type \"N\".",
+    "text": "Kung ayaw mong sabihin sa amin, okay lang iyon. Mangyaring i-type ang \"N\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you please tell us your age? Please reply with the number only. Example: 28",
+    "text": "Maaari mo bang sabihin sa amin ang iyong edad? Mangyaring tumugon lamang sa numero. Halimbawa: 28",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you don't want to tell us your age, that's okay. Please type \"N\".",
+    "text": "Kung ayaw mong sabihin sa amin, okay lang iyon. Mangyaring i-type ang \"N\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "This looks too young. ",
+    "text": "Mukha itong bata pa. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is your relationship status?",
+    "text": "Ano ang katayuan ng iyong relasyon?",
+    "type": "text"
+  },
+  {
+    "SourceText": "So we can give you the right information, please choose a child age group that best meets your needs. You can choose the age for the child you are concerned about the most. ",
+    "text": "Para mabigyan ka namin ng tamang impormasyon, mangyaring pumili ng pangkat ng edad ng bata na pinakamahusay na nakakatugon sa iyong mga pangangailangan. Maaari mong piliin ang edad ng anak mo na kinababahala mo. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "How would you like to receive these messages? You can always change this choice through the settings later: ",
+    "text": "Paano mo nais matanggap ang mga mensaheng ito? Maaari mong baguhin ang pinilo mo sa pamamagitan ng mga setting sa ibang pagkakataon: ",
+    "type": "text"
+  },
+  {
+    "SourceText": "A daily stress-reducer can help us with parenting, and make us feel better.  Let’s start with 30 seconds of relaxation for yourself. You deserve this!",
+    "text": "Ang isang pang-araw-araw na stress-reducer ay maaaring makatulong sa atin sa pagiging magulang, at magpapagaan ng pakiramdam sa atin. Magsimula tayo sa 30 segundo ng pagpapahinga para sa ating sarili. Dapat lang sa'yo yan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like to receive this activity now?",
+    "text": "Nais mo bang matanggap ang aktibidad na ito ngayon?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's Ok! You can always type \"Relax\" whenever you want an activity to help you with stress.",
+    "text": "Ok lang yan! Maaari mong i-type ang \"Relax\" kahit kailan mo nais ang isang aktibidad na makakatulong sa iyo sa stress.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is an audio message to help you take a pause.",
+    "text": "Narito ang isang audio message upang matulungan kang magpanandaliang pahinga.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Taking care of children can be difficult even in the best of times. We're here to help!",
+    "text": "Ang pag-aalaga ng mga bata ay maaaring maging mahirap kahit sa pinakamagandang panahon. Narito kami upang tumulong!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Could you please choose one parenting goal that is most important to you?",
+    "text": "Maaari ka bang pumili ng isang layunin sa pagiging magulang na pinakamahalaga sa iyo?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: It can be difficult to know how to talk to your children about something like COVID-19, especially since we are learning about it too. ",
+    "text": "Mabilis na tip: Maaaring mahirap malaman kung paano makipag-usap sa iyong mga anak tungkol sa isang bagay tulad ng COVID-19, lalo na't Pinagaaralan din natin ito. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "The important thing is to be open and listen to your children. Be honest and supportive. Show them that you care.",
+    "text": "Ang mahalaga ay maging bukas at makinig sa iyong mga anak. Maging matapat at sumusuporta. Ipakita sa kanila na nagmamalasakit ka.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: It is really hard to help our children continue learning when schools are closed or part-open. One thing that might be helpful is to try and set up a daily schedule that includes time for schoolwork and time for fun.",
+    "text": "Mabilis na tip: Napakahirap matulungan ang ating mga anak na magpatuloy sa pag-aaral kapag ang mga paaralan ay sarado. Ang isang bagay na maaaring makatulong ay ang pag-set up ng isang pang-araw-araw na iskedyul na may kasamang oras para sa gawain sa paaralan at oras para sa kasiyahan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: All children misbehave. One thing that can help is to praise your child anytime that they do something good – however small. They may not look like they want your praise but they still really, really do.",
+    "text": "Mabilis na tip: Lahat ng mga bata ay nagmamasamang-asal. Ang isang bagay na makakatulong ay purihin ang iyong anak anumang oras na gumawa sila ng isang mabuting bagay - gaano man kaliit. Maaaring mukhang hindi nila gusto ang iyong papuri ngunit gustung-gusto nila talaga ito.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: Caring for yourself is really important. Take five deep breaths when you feel overwhelmed. Try talking to a friend, or doing something relaxing for yourself? You deserve it!",
+    "text": "Mabilis na tip: Ang pag-aalaga sa iyong sarili ay mahalaga. Huminga ng malalim ng limang beses kapag naramdaman mong nabibigatan ka. Subukang makipag-usap sa isang kaibigan, o gumawa ng isang bagay na nakakarelaks para sa iyong sarili. Nararapat sa iyo iyan!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: When you give your baby your full attention, you make them feel secure and loved. Try to spend at least 20 minutes a day playing with your baby. Switch off the television and put away phones. Make it fun!",
+    "text": "Mabilis na tip: Kapag binigyan mo ng buong pansin ang iyong sanggol, pinaparamdam mo sa kanila na ligtas at minamahal ka. Subukang maglaan ng hindi bababa sa 20 minuto sa isang araw sa paglalaro kasama ang iyong sanggol. Patayin ang telebisyon at itabi ang mga telepono. Gawin itong masaya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: Spending time with your child is free and even 5 minutes a day can make a difference. Try asking your child what they would like to do together. It can be fun and relaxing for you too!",
+    "text": "Mabilis na tip: Ang paglaan ng oras kasama ang iyong anak ay libre at kahit 5 minuto sa isang araw ay mahalaga. Subukang tanungin ang iyong anak kung ano ang nais nilang gawin nang magkasama. Maaari itong maging masaya at nakakarelaks para sa iyo!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Parenting is really hard. But there are things we can do to make things easier. We are here to help!",
+    "text": "Mahirap ang pagiging magulang. Ngunit may mga bagay na maaari nating gawin upang mas madali ang mga bagay-bagay. Narito kami para tumulong!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: All children, including those living with disabilities, need love, respect and time especially at difficult times.",
+    "text": "Mabilis na tip: Lahat ng mga bata, kabilang ang mga mayroong kapansanan, ay kailangan ng pagmamahal, respeto at oras lalo na sa mga panahong gipit.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: This is a stressful time for all of us. When a problem comes up, talk about it together! What is the problem exactly? What different solutions are there and what are the consequences of one? That way, you can find a solution that can be OK for everyone.",
+    "text": "Mabilis na tip: Ito ay isang nakakastress na panahon para sa ating lahat. Kapag may dumating na problema, pag-usapan ito nang magkasama! Ano ang eksaktong problema? Ano ang iba't ibang mga solusyon doon at ano ang mga kahihinatnan ng bawat isa? Sa ganoong paraan, makakahanap ka ng isang solusyon na maaaring maging OK para sa lahat.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: Try to start a conversation with your child about safe and unsafe places in your community and online. They may even know some you don’t. This will help you make a plan together about how to stay safe.",
+    "text": "Mabilis na tip: Subukang magsimula ng isang pag-uusap sa iyong anak tungkol sa ligtas at hindi ligtas na mga lugar sa iyong komunidad at online. Maaaring mayroon silang mga nalalaman na hindi mo alam. Makakatulong ito upang makagawa kayo ng plano nang magkasama tungkol sa kung paano manatiling ligtas.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We hope this small tip will help. More support will be given later on when we talk about keeping my child safe.",
+    "text": "Inaasahan naming makakatulong ang maliit na tip na ito. Magbibigay pa kami ng higit pang suporta kapag pag-uusapan natin ang tungkol sa pagpapanatiling ligtas ng ating anak.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Quick tip: It is normal to be stressed about money. Talk to your children about how much money comes in and what you spend money on as a family each month. When everyone sees where the money goes, it is easier to agree on where you can save money together!",
+    "text": "Mabilis na tip: Normal na ma-stress tungkol sa pera. Kausapin ang iyong mga anak tungkol sa kung magkano ang papasok na pera at kung ano ang ginagastos ninyo bilang isang pamilya sa bawat buwan. Kapag nakita ng lahat kung saan napupunta ang pera, mas madaling sumang-ayon sa kung saan ka makakapagtipid ng pera nang magkasama!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Congratulations! You have added your first parenting skill to your Parenting Toolkit.",
+    "text": "Binabati kita! Naidagdag mo ang iyong unang kasanayan sa pagiging magulang sa iyong Parenting Toolkit.",
+    "type": "text"
+  },
+  {
+    "SourceText": "There are many more practical and useful tips that will help make your home a happier place for everyone! You can also get more tips or other support by typing \"Help\".",
+    "text": "Maraming mas praktikal at kapaki-pakinabang na mga tip na makakatulong na gawing mas masayang lugar ang iyong tahanan para sa lahat! Maaari ka ring makakuha ng higit pang mga tip o iba pang suporta sa pamamagitan ng pag-type ng \"Tulong\".",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on how to increase family harmony at home?",
+    "text": "Nais mo ba ng ilang higit pang mga tip sa kung paano madagdagan ang pagkakaisa ng pamilya sa bahay?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on how to keep your children safe?",
+    "text": "Nais mo ba ng ilang higit pang mga tip sa kung paano panatilihing ligtas ang iyong mga anak?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on how to support children living with disabilities?",
+    "text": "Nais mo ba ng ilang higit pang mga tip sa kung paano susuportahan ang mga bata na mayroong kapansanan",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on parenting or reducing stress?",
+    "text": "Nais mo ba ng ilang higit pang mga tip sa pagiging magulang o pagbawas ng stress?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on how to help your children with schoolwork?",
+    "text": "Nais mo ba ng ilang higit pang mga tip sa kung paano matulungan ang iyong mga anak sa mga gawain sa paaralan?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on talking about COVID-19 with your children?",
+    "text": "Nais mo ba ng ilang karagdagang mga tip sa pag-uusap tungkol sa COVID-19 sa iyong mga anak?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on how to reduce stress?",
+    "text": "Nais mo ba ng ilang higit pang mga tip sa kung paano mabawasan ang stress?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some tips on how to reduce financial stress as a family?",
+    "text": "Nais mo ba ng ilang mga tip sa kung paano mabawasan ang stress sa pera bilang isang pamilya?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some activities to do with your children?",
+    "text": "Nais mo bang gawin ang ilang mga aktibidad kasama ang iyong mga anak?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Would you like some more tips on difficult child behaviour?",
+    "text": "Nais mo ba ng ilang higit pang mga tip tungkol sa masama na pag-uugali ng bata?",
+    "type": "text"
+  },
+  {
+    "SourceText": "That's okay! You will receive lots of other helpful advice over the next few weeks.",
+    "text": "Okay lang 'yan! Makakatanggap ka ng maraming iba pang kapaki-pakinabang na payo sa mga susunod na linggo.",
+    "type": "text"
+  },
+  {
+    "SourceText": "One more thing! Here is a song that we made just for parents like you. Have a great day!",
+    "text": "Isa pang bagay! Narito ang isang kanta na ginawa namin para sa mga magulang na tulad mo. Magandang araw!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Man",
+    "text": "Lalaki",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Woman",
+    "text": "Babae",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Single",
+    "text": "Single",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Married",
+    "text": "Kasal",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Partnered but not married",
+    "text": "Hindi Kasal Pero May Karelasyon o Kinakasama",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Divorced or separated",
+    "text": "Hiwalay",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Widowed",
+    "text": "Biyudo/Biyuda",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Baby (0 to 23 months)",
+    "text": "Sanggol (0 hanggang 23 buwan)",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Improve my relationship with my child",
+    "text": "Pagbutihin ang aking relasyon sa aking anak",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child to behave better",
+    "text": "Ang aking anak na kumilos nang mas mahusay",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child to do better at school",
+    "text": "Ang aking anak na gumawa ng mas mahusay sa paaralan",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "To talk to my child about COVID-19",
+    "text": "Upang makausap ang aking anak tungkol sa COVID-19",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Feel less stress, loneliness or anger",
+    "text": "Mabawasan ang stress, lungkot, o galit",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Worry less about money",
+    "text": "Mabawasan ang pag-aalala tungkol sa pera",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Less conflict in my family",
+    "text": "Mabawasan ang pag-aaway sa aking pamilya",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Know more about how to keep my child safe",
+    "text": "Malaman ang higit pa tungkol sa kung paano panatilihing ligtas ang aking anak",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "How to support children living with disabilities",
+    "text": "Paano suportahan ang mga anak na may kapansanan",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Other goal",
+    "text": "Iba pang layunin",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, on parenting",
+    "text": "Oo, tungkol sa pag-aalaga ng bata",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, on reducing stress",
+    "text": "Oo, tungkol sa pagbawas ng stress",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "man",
+    "text": "lalaki",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "woman",
+    "text": "babae",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "english",
+    "text": "ingles",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "single",
+    "text": "single",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "married",
+    "text": "kasal",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "partnered but not married",
+    "text": "hindi kasal pero may kinakasama",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "divorced separated",
+    "text": "hiwalay",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "widowed",
+    "text": "biyudo/biyuda",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "improve my relationship with my child",
+    "text": "pagbutihin ang aking relasyon sa aking anak",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child to behave better",
+    "text": "ang aking anak na kumilos nang mas mahusay",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child to do better at school",
+    "text": "ang aking anak na gumawa ng mas mahusay sa paaralan",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "to talk to my child about covid-19",
+    "text": "upang makausap ang aking anak tungkol sa COVID-19",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "feel less stress, loneliness or anger",
+    "text": "mabawasan ang stress, lungkot, o galit",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "worry less about money",
+    "text": "mabawasan ang pag-aalala tungkol sa pera",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "less conflict in my family",
+    "text": "mabawasan ang pag-aaway sa aking pamilya",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "know more about how to keep my child safe",
+    "text": "malaman ang higit pa tungkol sa kung paano panatilihing ligtas ang aking anak",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "how to support children living with disabilities",
+    "text": "paano suportahan ang mga anak na may kapansanan",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "other goal",
+    "text": "iba pang layunin",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "parenting",
+    "text": "pagiging magulang",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stress",
+    "text": "stress",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

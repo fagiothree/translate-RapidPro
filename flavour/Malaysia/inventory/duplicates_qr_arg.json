@@ -1,0 +1,4004 @@
+[
+  {
+    "SourceText": [
+      "Now ask them to do the same. Did you learn something new about each other? ",
+      "Now ask them to do the same. Did you learn something new about each other?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekarang minta mereka melakukan perkara yang sama. Adakah anda belajar sesuatu yang baru antara satu sama lain? ",
+      "Sekarang minta mereka melakukan perkara yang sama. Adakah anda belajar sesuatu yang baru antara satu sama lain?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Would you like to learn more about this tip?",
+      "Would you like to learn more about this tip?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda ingin belajar lebih lagi mengenai tip ini?",
+      "Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf, saya tidak faham apa yang anda maksudkan.",
+      "Maaf, saya tidak faham apa yang anda maksudkan. ",
+      "Maaf, saya tidak faham maksud anda.",
+      "Maaf, saya tidak faham maksud anda. ",
+      "Maaf, saya tidak faham apa yang anda maksudkan.",
+      "Maaf, saya tidak faham maksud anda.",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
+      "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda memerlukan aktiviti untuk menenangkan atau mengurangkan tekanan anda. Berbual dengan anda kemudian!",
+      "Tidak mengapa! Anda sentiasa boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda perlukan aktiviti untuk membantu anda relaks atau mengurangkan tekanan. Kita berbual lagi nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? ",
+      "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? ",
+      "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?"
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Kenal pasti apa yang berlaku kepada anda pada masa ini. Apa yang kamu fikirkan? Adakah pemikiran anda positif atau negatif. Bagaimana perasaan anda? Adakah anda merasa selesa atau sebaliknya? Bagaimana rasa badan anda? Adakah anda merasa tegang atau tenang? ",
+      "Kenal pasti apa yang sedang berlaku kepada anda pada masa ini. Apa yang anda sedang fikir? Adakah fikiran anda positif atau negatif. Bagaimana perasaan anda? Adakah anda rasa seronok atau tidak seronok? Apa yang badan anda rasa? Adakah anda rasa tegang atau santai? ",
+      "Iktiraf perkara yang berlaku kepada anda pada detik ini. Apa yang anda fikirkan? Adakah fikiran anda positif atau negatif? Apakah perasaan anda? Adakah perasaan anda tenang atau bercelaru? Bagaimana keadaan tubuh badan anda? Adakah anda berasa tegang atau santai?"
+    ]
+  },
+  {
+    "SourceText": [
+      "May I be peaceful.",
+      "May I be peaceful."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Semoga saya tenteram.",
+      "Semoga saya tenang."
+    ]
+  },
+  {
+    "SourceText": [
+      "May there be love in my family.",
+      "May there be love in my family."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Semoga ada kasih sayang dalam keluarga saya.",
+      "Semoga wujud kasih sayang dalam keluarga saya."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? ",
+      "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Adakah anda tahu bahawa 3 adalah nombor ajaib? Tarik nafas dalam kiraan tiga dan hembus dengan kiraan tiga. Bagaimana anda rasa sekarang? Adakah anda merasai sebarang perbezaan? ",
+      "Helo! Adakah anda tahu bahawa nombor 3 adalah nombor ajaib? Tarik nafas dengan kiraan tiga dan hembus nafas dengan kiraan tiga. Bagaimana perasaan anda sekarang? Adakah anda rasa sebarang perbezaan?"
+    ]
+  },
+  {
+    "SourceText": [
+      "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? ",
+      "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Apakah tiga makanan kegemaran anda? Boleh anda nyatakan tiga perkara yang dapat anda lihat sekarang? Boleh anda dengar tiga bunyi yang boleh anda dengari sekarang? Apakah tiga perkara yang anda syukuri sekarang? ",
+      "Apakah tiga makanan kegemaran anda? Bolehkah anda namakan tiga benda yang anda nampak sekarang? Adakah anda boleh mendengar tiga bunyi sekarang? Apakah tiga perkara yang anda syukuri sekarang? "
+    ]
+  },
+  {
+    "SourceText": [
+      "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!",
+      "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tarik nafas dalam kiraan tiga dan hembus nafas dalam kiraan tiga? Bagaimana anda rasa sekarang? Adakah anda rasai sebarang perbezaan? Tiga adalah nombor ajaib!",
+      "Tarik nafas ke dalam dengan kiraan tiga dan hembus nafas keluar dengan kiraan tiga. Bagaimana anda rasa sekarang? Adakah anda rasa sebarang perbezaan? Tiga adalah nombor yang ajaib!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress.",
+      "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Bagaimana perasaan anda? Sekiranya anda merasa sungguh sedih atau tertekan, berikut adalah aktiviti yang menyeronokkan yang juga dapat melepaskan tekanan.",
+      "Helo! Apakah perasaan anda? Jika anda berasa gelisah atau tertekan, di sini ada aktiviti menyeronokkan yang boleh mengurangkan sedikit tekanan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction.",
+      "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Letakkan satu kaki di hadapan dan pusingkan pergelangan kaki ke kedua-dua sisi. Lakukan setiap kaki dengan empat bulatan pada setiap arah.",
+      "Letakkan satu kaki di hadapan sebelah kaki dan buat bulatan kecil dari buku lali, ingat untuk mengubah kedua-dua belah. Lakukan untuk setiap kaki dengan empat kali bagi setiap arah."
+    ]
+  },
+  {
+    "SourceText": [
+      "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!",
+      "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekarang goyangkan seluruh badan anda secepat yang anda boleh. Goyangkan ke atas! Goyangkan ke bawah! Goyangkan semuanya!",
+      "Sekarang goyang seluruh badan anda selaju yang boleh. Goyang setinggi yang boleh! Goyang ke bawah! Goyang dan pusing!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.",
+      "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Biarkan tangan anda tergantung di sisi anda. Tolak bahu ke telinga sambil anda menarik nafas, mengerutkan mata, dan tahan nafas anda. Lepaskan bahu anda sambil merehatkan badan.",
+      "Biarkan tangan anda tergantung sebelah menyebelah. Pusingkan bahu anda dengan ketat sehingga menyentuh telinga selama anda menarik nafas, gerakkan mata anda, dan tahan nafas. Lepaskan bahu anda apabila anda merehatkan badan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Relax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side.",
+      "Relax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Rehatkan tangan anda dan biarkan tangan anda berayun ke samping, dan pusingkan bahagian atas badan anda. Tangan anda harus perlahan-lahan memukul belakang anda semasa anda berpusing dari sisi ke sisi.",
+      "Rehatkan lengan anda dan biarkan lengan berpusing atas ke bawah, dan tukar bahagian atas badan. Lengan anda patut menyentuh bahagian belakang apabila anda memusing dari sebelah ke sebelah yang lain."
+    ]
+  },
+  {
+    "SourceText": [
+      "Tell them the clouds are coming! Wrap the towel or cloth around them like a blanket and cuddle them.",
+      "Tell them the clouds are coming! Wrap the towel or cloth around them like a blanket and cuddle them. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Beritahu mereka awan datang! Balut tuala atau kain di sekeliling mereka seperti selimut dan peluk mereka.",
+      "Beritahu mereka awan datang! Balut tuala atau kain di sekeliling mereka seperti selimut dan peluk mereka."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+      "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
+      "Helo! Perkongsian buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat anda dan anak anda nikmati."
+    ]
+  },
+  {
+    "SourceText": [
+      "Would you like to learn more about how you can help your child develop through book sharing?",
+      "Would you like to learn more about how you can help your child develop through book sharing?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda ingin mengetahui lebih lanjut mengenai bagaimana anda dapat membantu anak anda berkembang melalui perkongsian buku?",
+      "Adakah anda ingin mengetahui lebih lanjut tentang bagaimana anda dapat menolong anak anda berkembang melalui perkongsian buku?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf, saya tidak faham apa yang anda maksudkan. ",
+      "Maaf, saya tidak faham maksud anda. ",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+      "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+      "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda perlukan sebarang sokongan dengan anak anda. Berbual dengan anda kemudian!",
+      "Tidak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda memerlukan sebarang bantuan berkaitan anak-anak anda. Bersembang dengan anda kemudian!",
+      "Tidak mengapa! Anda boleh sahaja taip \"Tolong\" pada bila-bila masa jika anda perlukan sokongan untuk anak-anak anda. Berbual dengan anda nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "To learn more about one of these tips, type \"1\" to \"7\". You can also type \"N\" to move on.",
+      "To learn more about one of these tips, type \"1\" to \"7\". You can also type \"N\" to move on."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Untuk mengetahui dengan lebih lanjut mengenai salah satu tip ini, taip \"1\" hingga \"7\". Anda juga boleh menaip \"T\" untuk meneruskan.",
+      "Untuk mengetahui lebih lanjut mengenai salah satu tip ini, taip \"1\" hingga \"7\". Anda juga boleh menaip \"T\" untuk meneruskan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Chat to you later!",
+      " Chat to you later!",
+      "Chat to you later!",
+      "Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Kita berbual kemudian!",
+      " Bersembang dengan anda kemudian!",
+      "Bersembang dengan anda kemudian!",
+      "Berbual dengan anda nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Technical Support.\" Chat to you later!",
+      "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Technical Support.\" Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Ingat anda sentiasa boleh menaip \"Tolong\" jika anda inginkan lebih banyak tip atau sokongan keibubapaan. Anda juga boleh mengubah jenis pesanan yang diterima untuk anak yang lebih tua atau yang lebih muda. Cuma pilih \"Sokongan Teknikal.\" Kita berbual kemudian!",
+      "Ingat anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip keibubapaan atau sokongan. Anda juga boleh mengubah jenis maklumat yang diterima untuk kanak-kanak yang lebih tua atau yang lebih muda. Cuma pilih \"Sokongan Teknikal\". Kita berbual lagi nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Praise yourself for one thing you did well today.",
+      "Praise yourself for one thing you did well today."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Puji diri anda sendiri untuk satu perkara yang anda telah lakukan dengan baik hari ini.",
+      "Puji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini."
+    ]
+  },
+  {
+    "SourceText": [
+      "Think of one thing that you are grateful for.  ",
+      "Think of one thing that you are grateful for. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Fikirkan tentang satu perkara yang anda syukuri.  ",
+      "Fikirkan satu perkara yang anda syukuri. "
+    ]
+  },
+  {
+    "SourceText": [
+      "When the music stops, everyone does a funny freeze. ",
+      "When the music stops, everyone does a funny freeze."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Apabila muzik berhenti, setiap orang membekukan diri dengan lucu. ",
+      "Apabila muzik berhenti, semua orang membuat pembekuan lucu."
+    ]
+  },
+  {
+    "SourceText": [
+      "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+      "After ten seconds, how many fingers do you have up? What sounds did you hear?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Selepas 10 saat, berapa banyak jari yang anda naikkan? Apakah bunyi yang anda dengar?",
+      "Selepas sepuluh saat, berapakah jari yang anda naikkan? Apakah bunyi yang telah anda dengari?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Try again for another ten seconds. ",
+      "Try again for another ten seconds. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Cuba lagi untuk 10 saat. ",
+      "Cuba lagi untuk sepuluh saat. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Make sure you act it out too! ",
+      "Make sure you act it out too!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Pastikan anda melakonkannya juga! ",
+      "Pastikan anda melakonkannya juga!"
+    ]
+  },
+  {
+    "SourceText": [
+      "You can bounce the snap, throw it in the air, and catch it a few times before passing it.  ",
+      "You can bounce the snap, throw it in the air, and catch it a few times before passing it. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Anda boleh lantun petikan, baling ke udara, dan tangkap beberapa kali sebelum melepaskannya.  ",
+      "Anda boleh lantun petikan, baling ke udara, dan tangkap beberapa kali sebelum melepaskannya.  "
+    ]
+  },
+  {
+    "SourceText": [
+      "yes y",
+      "yes y "
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "YA Y",
+      "ya y "
+    ]
+  },
+  {
+    "SourceText": [
+      "no n",
+      "no n "
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "TIDAK T",
+      "tidak t "
+    ]
+  },
+  {
+    "SourceText": [
+      "Which child do you want tips for?",
+      "Which child do you want tips for?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Untuk anak mana yang anda mahukan tip?",
+      "Anak mana satu yang anda mahu dapatkan tip untuknya?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting.",
+      "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Memberikan akibat yang menenangkan membantu anak-anak kita bertanggungjawab terhadap apa yang mereka lakukan. Tindakan ini juga menjadikan disiplin yang terkawal. Ini adalah lebih berkesan berbanding memukul atau menjerit.",
+      "Memberikan akibat yang menenangkan membantu anak-anak kita bertanggungjawab terhadap apa yang mereka lakukan. Tindakan ini juga menjadikan disiplin yang terkawal. Ini adalah lebih berkesan berbanding memukul atau menjerit."
+    ]
+  },
+  {
+    "SourceText": [
+      "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later!",
+      " Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Sembang dengan anda kemudian!",
+      " Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Sembang dengan anda kemudian!"
+    ]
+  },
+  {
+    "SourceText": [
+      "• Give your child a hug and kiss goodnight before leaving the room.  ",
+      "• Give your child a hug and kiss goodnight before leaving the room. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "• Peluk dan cium anak anda sebelum meninggalkan bilik.  ",
+      "• Peluk dan cium anak anda sebelum meninggalkan bilik.  "
+    ]
+  },
+  {
+    "SourceText": [
+      "Schoolwork",
+      "schoolwork"
+    ],
+    "type": [
+      "text",
+      "arguments"
+    ],
+    "transl": [
+      "Kerja sekolah",
+      "kerja sekolah"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry I don't understand what you mean.",
+      "Sorry I don't understand what you mean. ",
+      "Sorry I don't understand what you mean.",
+      "Sorry I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf saya tidak faham apa yang awak maksudkan.",
+      "Maaf saya tidak faham apa yang awak maksudkan. ",
+      "Maaf, saya tidak faham maksud anda.",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "UNICEF: https://www.unicef.org/coronavirus/covid-19 ",
+      "UNICEF: https://www.unicef.org/coronavirus/covid-19"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "UNICEF: https://www.unicef.org/coronavirus/covid-19 ",
+      "UNICEF: https://www.unicef.org/coronavirus/covid-19"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for. ",
+      "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Kadang kala kita berasa kecewa dengan anak-anak kerana kita mengharapkan mereka bertingkah laku dengan cara yang mereka belum bersedia. ",
+      "Kadang kala kita berasa kecewa dengan anak-anak kerana kita mengharapkan mereka bertingkah laku dengan cara yang mereka belum bersedia."
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry I don't understand what you mean. ",
+      "Sorry I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf saya tidak faham apa yang awak maksudkan. ",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "4. Praise them for doing it! ",
+      "4. Praise them for doing it!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "4. Puji mereka selepas mereka melakukannya! ",
+      "4. Puji mereka selepas mereka melakukannya!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them. ",
+      "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Peraturan isi rumah dapat membantu anak-anak berasa selamat daripada potensi bahaya dari dalam rumah dan komuniti. Ia juga membantu anak-anak untuk mengetahui jenis tingkah laku yang diharapkan daripada mereka. ",
+      "Peraturan keluarga dapat menghindarkan anak-anak anda daripada kemungkinan di dalam rumah dan dalam masyarakat. Peraturan juga membantu anak mengetahui tingkah laku yang diharapkan daripada mereka."
+    ]
+  },
+  {
+    "SourceText": [
+      "Take a moment to reflect on your experience. ",
+      "Take a moment to reflect on your experience."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Ambil masa sebentar untuk refleksi pengalaman anda. ",
+      "Ambil masa sebentar untuk refleksi pengalaman anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "6. Reflect on whether it worked. ",
+      "6. Reflect on whether it worked."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "6. Renungkan sama ada ia berkesan. ",
+      "6. Renungkan sama ada penyelesaian berkesan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. ",
+      "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Apa khabar? Kami sangat gembira kerana anda telah mendaftar untuk menerima mesej ini. Ini menunjukkan anda mengambil berat. ",
+      "Helo! Apa khabar? Kami gembira kerana anda telah mendaftar untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Baby",
+      "baby",
+      "baby"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments",
+      "quick_replies"
+    ],
+    "transl": [
+      "Bayi",
+      "bayi",
+      "bayi"
+    ]
+  },
+  {
+    "SourceText": [
+      "Teen",
+      "teen"
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies"
+    ],
+    "transl": [
+      "Remaja",
+      "remaja"
+    ]
+  },
+  {
+    "SourceText": [
+      "Does not apply",
+      "Does not apply"
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies"
+    ],
+    "transl": [
+      "Tidak boleh diterima pakai",
+      "Tidak berkenaan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Temper tantrums",
+      "temper tantrums"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Mengamuk",
+      "mengamuk"
+    ]
+  },
+  {
+    "SourceText": [
+      "Whining",
+      "whining"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Merengek",
+      "merengek"
+    ]
+  },
+  {
+    "SourceText": [
+      "Clingy",
+      "clingy"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Lekat",
+      "lekat"
+    ]
+  },
+  {
+    "SourceText": [
+      "No",
+      "no"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Tidak",
+      "tidak"
+    ]
+  },
+  {
+    "SourceText": [
+      "baby",
+      "baby"
+    ],
+    "type": [
+      "arguments",
+      "quick_replies"
+    ],
+    "transl": [
+      "bayi",
+      "bayi"
+    ]
+  },
+  {
+    "SourceText": [
+      "young child",
+      "young child",
+      "Young child",
+      "young child "
+    ],
+    "type": [
+      "arguments",
+      "quick_replies",
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "anak kecil",
+      "anak kecil",
+      "Anak kecil",
+      "anak kecil"
+    ]
+  },
+  {
+    "SourceText": [
+      "y yes",
+      "y yes "
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "y ya",
+      "y ya "
+    ]
+  },
+  {
+    "SourceText": [
+      "n no ",
+      "n no"
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "t tidak ",
+      "t tidak"
+    ]
+  },
+  {
+    "SourceText": [
+      "Hi! How are you feeling? ",
+      "Hi! How are you feeling?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Hai! Bagaimana perasaan anda? ",
+      "Hai! Bagaimanakah keadaan emosi anda?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Notice how you feel now.",
+      " Notice how you feel now."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Rasai perasaan anda sekarang.",
+      "Rasai perasaan anda sekarang."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+      "Hi! If you ever want any support or additional parenting tips, type \"Help\" "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Hai! Sekiranya anda mahukan sokongan atau petua keibubapaan tambahan, taip \"Tolong\" ",
+      "Hai! Jika anda perlukan sebarang sokongan atau tip keibubapaan tambahan, taip \"Tolong\" "
+    ]
+  },
+  {
+    "SourceText": [
+      "Thank you for your dedication! The world needs more men like you. ",
+      "Thank you for your dedication! The world needs more men like you."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Terima kasih atas dedikasi anda! Dunia memerlukan lebih ramai lelaki seperti anda. ",
+      "Terima kasih atas dedikasi anda! Dunia memerlukan lebih ramai lelaki seperti anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "It’s not always easy to be a woman in this world. But you are leading the way! ",
+      "It’s not always easy to be a woman in this world. But you are leading the way!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tidak mudah untuk menjadi wanita di dunia ini. Tetapi anda sedang mendahuluinya! ",
+      "Tidak mudah untuk menjadi wanita di dunia ini. Tetapi anda sedang mendahuluinya! "
+    ]
+  },
+  {
+    "SourceText": [
+      "Congratulations! You have made it through your first week. How time flies! ",
+      "Congratulations! You have made it through your first week. How time flies! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tahniah! Anda berjaya mengharungi minggu pertama anda. Cepatnya masa berlalu! ",
+      "Tahniah! Anda telah berjaya melalui minggu yang pertama. Betapa cepatnya masa berlalu! "
+    ]
+  },
+  {
+    "SourceText": [
+      "Congratulations! You have made it through another week!",
+      "Congratulations! You have made it through another week!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tahniah! Anda berjaya mengharungi seminggu lagi!",
+      "Tahniah! Anda telah berjaya melalui satu lagi minggu!"
+    ]
+  },
+  {
+    "SourceText": [
+      "You also have made progress on the following skills: ",
+      "You also have made progress on the following skills: "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Anda juga telah melakukan kemajuan dalam kemahiran berikut: ",
+      "Anda juga telah bertambah maju dalam kemahiran berikut: "
+    ]
+  },
+  {
+    "SourceText": [
+      "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+      "If you have already noticed some changes in your life or relationship with your children, that's great! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekiranya anda dapat melihat beberapa perubahan dalam hidup anda atau hubungan dengan anak, itu bagus! ",
+      "Jika anda telah mula nampak beberapa perubahan dalam hidup atau hubungan anda dengan anak-anak anda, itu adalah bagus! "
+    ]
+  },
+  {
+    "SourceText": [
+      "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+      "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekiranya anda tidak melihat perubahan, teruskannya. Kadang-kala perkara ini memerlukan masa untuk berubah. Kami tahu anda boleh melakukannya!",
+      "Jika anda belum nampak sebarang perubahan, sila teruskannya. Kadang-kadang, perkara seperti ini akan mengambil masa.  Kami tau anda boleh melakukannya!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Great",
+      "great"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Bagus",
+      "bagus"
+    ]
+  },
+  {
+    "SourceText": [
+      "Okay",
+      "okay"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Okey",
+      "okey"
+    ]
+  },
+  {
+    "SourceText": [
+      "Bad",
+      "bad"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Teruk",
+      "teruk"
+    ]
+  },
+  {
+    "SourceText": [
+      "A little less often",
+      "A little less often"
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies"
+    ],
+    "transl": [
+      "Jarang sekali",
+      "Kurang kerap"
+    ]
+  },
+  {
+    "SourceText": [
+      " ",
+      "  "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      " ",
+      "  "
+    ]
+  },
+  {
+    "SourceText": [
+      "Which age group would you like to receive parenting tips for? ",
+      "Which age group would you like to receive parenting tips for?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Apakah kumpulan umur bagi tip keibubapaan yang anda mahukan? ",
+      "Apakah kumpulan umur yang ingin anda terima petua keibubapaan?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Would you like to change it?",
+      "Would you like to change it? ",
+      "Would you like to change it?  "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda mahu menukarnya?",
+      "Adakah anda mahu menukarnya? ",
+      "Adakah anda mahu menukarnya?  "
+    ]
+  },
+  {
+    "SourceText": [
+      "Would you like to change it? ",
+      "Would you like to change it?  "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda mahu menukarnya? ",
+      "Adakah anda mahu menukarnya?  "
+    ]
+  },
+  {
+    "SourceText": [
+      "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?",
+      "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour? "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani tingkah laku ini?",
+      "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani tingkah laku ini? "
+    ]
+  },
+  {
+    "SourceText": [
+      "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most. ",
+      "Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda. ",
+      "Sila pilih satu kumpulan umur bagi tip keibubapaan ini. Anda mungkin mahu memilih anak yang paling merisaukan anda."
+    ]
+  },
+  {
+    "SourceText": [
+      "Helpful",
+      "helpful"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Berguna",
+      "berguna"
+    ]
+  },
+  {
+    "SourceText": [
+      "Yes",
+      "yes"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Ya",
+      "ya"
+    ]
+  },
+  {
+    "SourceText": [
+      "Active",
+      "active"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Aktif",
+      "aktif"
+    ]
+  },
+  {
+    "SourceText": [
+      "Calm",
+      "calm"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Tenang",
+      "tenang"
+    ]
+  },
+  {
+    "SourceText": [
+      "Fun",
+      "fun"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Seronok",
+      "seronok"
+    ]
+  },
+  {
+    "SourceText": [
+      "Language",
+      "language "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Bahasa",
+      "bahasa "
+    ]
+  },
+  {
+    "SourceText": [
+      "Family relationships",
+      "family relationships"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Hubungan keluarga",
+      "hubungan keluarga"
+    ]
+  },
+  {
+    "SourceText": [
+      "adult",
+      "adult"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "dewasa",
+      "dewasa"
+    ]
+  },
+  {
+    "SourceText": [
+      "other",
+      "Other",
+      "other"
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "lain-lain",
+      "Lain-lain",
+      "lain-lain"
+    ]
+  },
+  {
+    "SourceText": [
+      "teenager",
+      "teenager"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "remaja",
+      "remaja"
+    ]
+  },
+  {
+    "SourceText": [
+      "young child",
+      "Young child",
+      "young child "
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "anak kecil",
+      "Anak kecil",
+      "anak kecil"
+    ]
+  },
+  {
+    "SourceText": [
+      "Other",
+      "other"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Lain-lain",
+      "lain-lain"
+    ]
+  },
+  {
+    "SourceText": [
+      "Young child",
+      "young child "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil",
+      "anak kecil"
+    ]
+  },
+  {
+    "SourceText": [
+      "English",
+      "english"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Bahasa Inggeris",
+      "inggeris"
+    ]
+  },
+  {
+    "SourceText": [
+      "Yourself",
+      "yourself"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Diri anda",
+      "diri anda"
+    ]
+  },
+  {
+    "SourceText": [
+      "Age",
+      "age"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Umur",
+      "umur"
+    ]
+  },
+  {
+    "SourceText": [
+      "Gender",
+      "gender"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Jantina",
+      "jantina"
+    ]
+  },
+  {
+    "SourceText": [
+      "Male",
+      "male"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Lelaki",
+      "lelaki"
+    ]
+  },
+  {
+    "SourceText": [
+      "Female",
+      "female"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Perempuan",
+      "perempuan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Boy",
+      "boy"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Lelaki",
+      "lelaki"
+    ]
+  },
+  {
+    "SourceText": [
+      "Girl",
+      "girl"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Perempuan",
+      "perempuan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Parent",
+      "parent"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Ibu bapa",
+      "ibu bapa"
+    ]
+  },
+  {
+    "SourceText": [
+      "Grandparent",
+      "grandparent"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Datuk dan nenek",
+      "datuk dan nenek"
+    ]
+  },
+  {
+    "SourceText": [
+      "Curfews",
+      "curfews"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Perintah berkurung",
+      "perintah berkurung"
+    ]
+  },
+  {
+    "SourceText": [
+      "Activities",
+      "activities"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Aktiviti-aktiviti",
+      "aktiviti-aktiviti"
+    ]
+  },
+  {
+    "SourceText": [
+      "not ",
+      "not"
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "tidak ",
+      "tidak"
+    ]
+  },
+  {
+    "SourceText": [
+      "children ",
+      "children"
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "kanak-kanak ",
+      "kanak-kanak"
+    ]
+  },
+  {
+    "SourceText": [
+      "less often",
+      "less often "
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "kurang kerap",
+      "kurang kerap "
+    ]
+  },
+  {
+    "SourceText": [
+      "child young ",
+      "child young"
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "anak kecil ",
+      "anak kecil "
+    ]
+  },
+  {
+    "SourceText": [
+      "time day",
+      "time day "
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "waktu hari",
+      "waktu hari "
+    ]
+  },
+  {
+    "SourceText": [
+      "stress ",
+      "stress"
+    ],
+    "type": [
+      "arguments",
+      "arguments"
+    ],
+    "transl": [
+      "tekanan ",
+      "tekanan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Not enough time",
+      "not enough time"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Tidak cukup masa",
+      "Tidak cukup masa"
+    ]
+  },
+  {
+    "SourceText": [
+      "The first one to guess it right becomes the next leader who will choose or sing the next song.",
+      "The first one to guess it right becomes the next leader who will choose or sing the next song. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Orang yang pertama meneka dengan betul akan menjadi ketua yang seterusnya yang akan dipilih dan menyanyikan lagu seterusnya.",
+      "Orang yang pertama meneka dengan betul akan menjadi ketua yang seterusnya yang akan dipilih dan menyanyikan lagu seterusnya. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Well done! You have added another tool to your Parenting Toolkit.",
+      "Well done! You have added another tool to your Parenting Toolkit. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Syabas! Anda telah menambahkan kemahiran dalam Kit Keibubapaan anda.",
+      "Syabas! Anda telah menambahkan kemahiran lain ke dalam Kit Keibubapaan anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "  1. Treat each other as equals",
+      "1. Treat each other as equals"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  1. Melayani sesama sendiri dengan saksama",
+      "1. Melayani sesama sendiri dengan saksama"
+    ]
+  },
+  {
+    "SourceText": [
+      "  2. Become a confident parent and a supportive partner",
+      "2. Become a confident parent and a supportive partner"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  2. Menjadi ibu bapa yang berkeyakinan dan pasangan yang memberikan sokongan",
+      "2. Menjadi ibu bapa yang berkeyakinan dan pasangan yang memberikan sokongan"
+    ]
+  },
+  {
+    "SourceText": [
+      "  3. Share family responsibilities",
+      "3. Share family responsibilities"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  3. Berkongsi tanggungjawab keluarga",
+      "3. Berkongsi tanggungjawab keluarga"
+    ]
+  },
+  {
+    "SourceText": [
+      "  4. Resolve conflict peacefully",
+      "4. Resolve conflict peacefully"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  4. Menyelesaikan konflik dengan aman",
+      "4. Menyelesaikan konflik dengan aman"
+    ]
+  },
+  {
+    "SourceText": [
+      "  5. Listen and talk to each other",
+      "5. Listen and talk to each other"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  5. Dengar dan bincangkan sesama sendiri",
+      "5. Dengar dan bincangkan sesama sendiri"
+    ]
+  },
+  {
+    "SourceText": [
+      "Never",
+      "never"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Tidak sesekali",
+      "tidak sesekali"
+    ]
+  },
+  {
+    "SourceText": [
+      "Once",
+      "once"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Sekali",
+      "sekali"
+    ]
+  },
+  {
+    "SourceText": [
+      "Few times",
+      "few times"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Beberapa kali",
+      "beberapa kali"
+    ]
+  },
+  {
+    "SourceText": [
+      "Many times",
+      "many times"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Banyak kali",
+      "banyak kali"
+    ]
+  },
+  {
+    "SourceText": [
+      "Surprised",
+      "surprised"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Terkejut",
+      "terkejut"
+    ]
+  },
+  {
+    "SourceText": [
+      "Happy",
+      "happy"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Gembira",
+      "gembira"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child did not like it",
+      "my child did not like it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya tidak menyukainya",
+      "anak saya tidak menyukainya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don't know",
+      "i don't know"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu",
+      "saya tidak tahu"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen could not agree on one specific rule or routine",
+      "my child or teen could not agree on one specific rule or routine"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya tidak dapat bersetuju dengan satu peraturan atau rutin khusus",
+      "anak atau anak remaja saya tidak dapat bersetuju dengan satu peraturan atau rutin khusus"
+    ]
+  },
+  {
+    "SourceText": [
+      "My children felt it was unfair that they have to follow the rule while I don’t have to follow it",
+      "my children felt it was unfair that they have to follow the rule while i don’t have to follow it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak-anak saya berasa tidak adil mereka mengikut peraturan tersebut manakala saya tidak perlu mengikutinya",
+      "anak-anak saya berasa tidak adil mereka mengikut peraturan tersebut manakala saya tidak perlu mengikutinya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt uncomfortable because I feel I should be the one establishing the rule not my child or teen",
+      "i felt uncomfortable because i feel i should be the one establishing the rule not my child or teen"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa tidak selesa kerana saya berasa saya seharusnya menjadi orang yang menetapkan peraturan dan bukannya anak atau anak remaja saya",
+      "saya rasa tidak selesa kerana saya berasa saya seharusnya menjadi orang yang menetapkan peraturan dan bukannya anak atau anak remaja saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
+      "my partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Pasangan saya berasa tidak selesa, kerana mereka berasa mereka seharusnya menjadi orang yang menetapkan peraturan, bukan anak atau anak remaja",
+      "pasangan saya berasa tidak selesa, kerana mereka berasa mereka seharusnya menjadi orang yang menetapkan peraturan, bukan anak atau anak remaja"
+    ]
+  },
+  {
+    "SourceText": [
+      "Neutral",
+      "neutral"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Neutral",
+      "neutral"
+    ]
+  },
+  {
+    "SourceText": [
+      "I got very angry with my child or teen and yelled at them",
+      "i got very angry with my child or teen and yelled at them"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya jadi sangat marah dengan anak atau anak remaja saya dan menengking mereka",
+      "saya jadi sangat marah dengan anak atau anak remaja saya dan menengking mereka"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to give my child or teen a choice to comply before giving the consequence",
+      "i forgot to give my child or teen a choice to comply before giving the consequence"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa untuk memberi anak atau anak remaja saya pilihan untuk dipatuhi sebelum memberikan akibatnya",
+      "saya terlupa untuk memberi anak atau anak remaja saya pilihan untuk dipatuhi sebelum memberikan akibatnya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen got very angry with me after I gave the consequence",
+      "my child or teen got very angry with me after i gave the consequence"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya amat marah dengan saya setelah saya memberikan akibatnya",
+      "anak atau anak remaja saya amat marah dengan saya setelah saya memberikan akibatnya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen complained that the consequence was not fair",
+      "my child or teen complained that the consequence was not fair"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya mengadu bahawa akibatnya adalah tidak adil",
+      "anak atau anak remaja saya mengadu bahawa akibatnya adalah tidak adil"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to follow through with the consequence",
+      "i forgot to follow through with the consequence"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa untuk melaksanakan akibat tersebut",
+      "saya terlupa untuk melaksanakan akibat tersebut"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am giving too many consequences all the time",
+      "i am giving too many consequences all the time"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya memberikan terlalu banyak akibat sepanjang masa",
+      "saya memberikan terlalu banyak akibat sepanjang masa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am afraid my child or teen will think I am weak",
+      "i am afraid my child or teen will think i am weak"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya bimbang anak atau anak remaja saya akan fikir saya lemah",
+      "saya bimbang anak atau anak remaja saya akan fikir saya lemah"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt uncomfortable to name specific difficult emotions",
+      "i felt uncomfortable to name specific difficult emotions"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya berasa tidak selesa untuk menamakan emosi sukar tertentu",
+      "saya berasa tidak selesa untuk menamakan emosi sukar tertentu"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen felt uncomfortable when I shared my emotions",
+      "my child or teen felt uncomfortable when i shared my emotions"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya tidak berasa selesa apabila saya berkongsi emosi saya",
+      "anak atau anak remaja saya tidak berasa selesa apabila saya berkongsi emosi saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen asked many questions when I shared my emotions, which made me uncomfortable",
+      "my child or teen asked many questions when i shared my emotions, which made me uncomfortable"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya bertanyakan banyak soalan apabila saya berkongsi emosi saya, yang membuatkan saya tidak selesa",
+      "anak atau anak remaja saya bertanyakan banyak soalan apabila saya berkongsi emosi saya, yang membuatkan saya tidak selesa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that",
+      "i was too stressed or angry to try sharing my emotions – i prefer to be alone when i feel like that"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlalu tertekan atau marah untuk cuba berkongsi emosi saya - saya lebih suka bersendirian apabila saya rasa seperti itu",
+      "saya terlalu tertekan atau marah untuk cuba berkongsi emosi saya - saya lebih suka bersendirian apabila saya rasa seperti itu"
+    ]
+  },
+  {
+    "SourceText": [
+      "It was hard to stay calm while ignoring my child's tantrum",
+      "it was hard to stay calm while ignoring my child's tantrum"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Sukar untuk kekal bertenang sambil mengabaikan kerenah anak saya",
+      "sukar untuk kekal bertenang sambil mengabaikan kerenah anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I struggled to be consistent and gave into their demands",
+      "i struggled to be consistent and gave into their demands"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya menghadapi masalah untuk kekal konsisten dan beralah dengan tuntutan mereka",
+      "saya menghadapi masalah untuk kekal konsisten dan beralah dengan tuntutan mereka"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am concerned about my child or someone else getting hurt",
+      "i am concerned about my child or someone else getting hurt"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya bimbang tentang anak saya atau orang lain yang akan terluka",
+      "saya bimbang tentang anak saya atau orang lain yang akan terluka"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am having to ignore my child's behaviour all the time",
+      "i am having to ignore my child's behaviour all the time"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terpaksa mengabaikan tingkah laku anak saya sepanjang masa",
+      "saya terpaksa mengabaikan tingkah laku anak saya sepanjang masa"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen did not want to follow the instruction",
+      "my child or teen did not want to follow the instruction"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya tidak mahu mengikut arahan",
+      "anak atau anak remaja saya tidak mahu mengikut arahan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I gave a negative instead of a positive instruction",
+      "i gave a negative instead of a positive instruction"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya memberikan arahan negatif dan bukannya arahan positif",
+      "saya memberikan arahan negatif dan bukannya arahan positif"
+    ]
+  },
+  {
+    "SourceText": [
+      "I gave too many instructions at once",
+      "i gave too many instructions at once"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya memberikan terlalu banyak arahan sekali gus",
+      "saya memberikan terlalu banyak arahan sekali gus"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen could not do what I asked them",
+      "my child or teen could not do what i asked them"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak atau anak remaja saya tidak dapat melakukan perkara yang saya minta mereka lakukan",
+      "anak atau anak remaja saya tidak dapat melakukan perkara yang saya minta mereka lakukan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to praise my child or teen for following my instruction",
+      "i forgot to praise my child or teen for following my instruction"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya lupa untuk memuji anak atau anak remaja saya kerana mengikuti arahan saya",
+      "saya lupa untuk memuji anak atau anak remaja saya kerana mengikuti arahan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t have time to involve my partner",
+      "i didn’t have time to involve my partner"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa untuk melibatkan pasangan saya",
+      "saya tidak mempunyai masa untuk melibatkan pasangan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know how to involve my partner",
+      "i didn’t know how to involve my partner"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara melibatkan pasangan saya",
+      "saya tidak tahu cara melibatkan pasangan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt uncomfortable asking for my partner's opinion",
+      "i felt uncomfortable asking for my partner's opinion"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa tidak selesa meminta pendapat pasangan saya",
+      "saya rasa tidak selesa meminta pendapat pasangan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to involve my partner",
+      "i forgot to involve my partner"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa untuk melibatkan pasangan saya",
+      "saya terlupa untuk melibatkan pasangan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My partner reacted negatively to me when I tried",
+      "my partner reacted negatively to me when i tried"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Pasangan saya memberikan reaksi negatif terhadap saya ketika saya mencuba",
+      "pasangan saya memberikan reaksi negatif terhadap saya ketika saya mencuba"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know what activities to do with my children",
+      "i didn’t know what activities to do with my children"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu aktiviti yang boleh dilakukan dengan anak-anak saya",
+      "saya tidak tahu aktiviti yang boleh dilakukan dengan anak-anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know how to support my partner",
+      "i didn’t know how to support my partner"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara menyokong pasangan saya",
+      "saya tidak tahu cara menyokong pasangan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to ask my partner if they needed help",
+      "i forgot to ask my partner if they needed help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa untuk bertanya kepada pasangan saya sama ada mereka memerlukan bantuan",
+      "saya terlupa untuk bertanya kepada pasangan saya sama ada mereka memerlukan bantuan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to ask for help",
+      "i forgot to ask for help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa untuk meminta bantuan",
+      "saya terlupa untuk meminta bantuan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t have the time",
+      "i didn’t have the time"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa",
+      "saya tidak mempunyai masa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt uncomfortable doing tasks I don’t normally do",
+      "i felt uncomfortable doing tasks i don’t normally do"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya berasa tidak selesa melakukan tugas yang biasanya saya tidak lakukan",
+      "saya berasa tidak selesa melakukan tugas yang biasanya saya tidak lakukan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know how to ask my partner if they needed help",
+      "i didn’t know how to ask my partner if they needed help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara bertanya kepada pasangan saya sama ada mereka memerlukan bantuan",
+      "saya tidak tahu cara bertanya kepada pasangan saya sama ada mereka memerlukan bantuan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know how to ask for help",
+      "i didn’t know how to ask for help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara meminta bantuan",
+      "saya tidak tahu cara meminta bantuan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know how to help",
+      "i didn’t know how to help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara membantu",
+      "saya tidak tahu cara membantu"
+    ]
+  },
+  {
+    "SourceText": [
+      "My partner didn’t have time to help",
+      "my partner didn’t have time to help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Pasangan saya tidak mempunyai masa untuk membantu",
+      "pasangan saya tidak mempunyai masa untuk membantu"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t stay calm during a disagreement",
+      "i didn’t stay calm during a disagreement"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak kekal tenang semasa perselisihan",
+      "saya tidak kekal tenang semasa perselisihan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I got angry and yelled at my partner",
+      "i got angry and yelled at my partner"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya jadi marah dan menengking pasangan saya",
+      "saya jadi marah dan menengking pasangan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My partner got angry and yelled at me",
+      "my partner got angry and yelled at me"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Pasangan saya jadi marah dan menengking saya",
+      "pasangan saya jadi marah dan menengking saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot to take a pause when I started feeling angry",
+      "i forgot to take a pause when i started feeling angry"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa untuk berhenti sejenak apabila saya mula berasa marah",
+      "saya terlupa untuk berhenti sejenak apabila saya mula berasa marah"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am afraid my partner will think I am weak",
+      "i am afraid my partner will think i am weak"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya bimbang pasangan saya akan fikir saya lemah",
+      "saya bimbang pasangan saya akan fikir saya lemah"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt uncomfortable talking about it",
+      "i felt uncomfortable talking about it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa tidak selesa untuk bercakap tentangnya",
+      "saya rasa tidak selesa untuk bercakap tentangnya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My partner felt uncomfortable when I talked about it",
+      "my partner felt uncomfortable when i talked about it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Pasangan saya berasa tidak selesa apabila saya bercakap tentangnya",
+      "pasangan saya berasa tidak selesa apabila saya bercakap tentangnya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My partner asked many questions, which made me uncomfortable",
+      "my partner asked many questions, which made me uncomfortable"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Pasangan saya bertanyakan banyak soalan, yang membuatkan saya tidak selesa",
+      "pasangan saya bertanyakan banyak soalan, yang membuatkan saya tidak selesa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt too stressed or angry to talk about it",
+      "i felt too stressed or angry to talk about it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa terlalu tertekan atau marah untuk bercakap tentangnya",
+      "saya rasa terlalu tertekan atau marah untuk bercakap tentangnya"
+    ]
+  },
+  {
+    "SourceText": [
+      "Woman",
+      "woman"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Wanita",
+      "wanita"
+    ]
+  },
+  {
+    "SourceText": [
+      "Man",
+      "man"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Lelaki",
+      "lelaki"
+    ]
+  },
+  {
+    "SourceText": [
+      "Married",
+      "married"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Berkahwin",
+      "sudah berkahwin"
+    ]
+  },
+  {
+    "SourceText": [
+      "Partnered but not married",
+      "partnered but not married"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Berpasangan tetapi tidak berkahwin",
+      "berpasangan tetapi tidak berkahwin"
+    ]
+  },
+  {
+    "SourceText": [
+      "Widowed",
+      "widowed"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Janda/Duda",
+      "janda/duda"
+    ]
+  },
+  {
+    "SourceText": [
+      "Learn about family budgeting",
+      "learn about family budgeting"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Belajar tentang belanjawan keluarga",
+      "belajar tentang belanjawan keluarga"
+    ]
+  },
+  {
+    "SourceText": [
+      "Look for support organisations in your area",
+      "look for support organisations in your area"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Cari organisasi sokongan di kawasan anda",
+      "cari organisasi sokongan di kawasan anda"
+    ]
+  },
+  {
+    "SourceText": [
+      "Ok",
+      "ok"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Ok",
+      "ok"
+    ]
+  },
+  {
+    "SourceText": [
+      "Improve my relationship with my child",
+      "improve my relationship with my child"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Menambah baik hubungan saya dengan anak saya",
+      "menambah baik hubungan saya dengan anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child to behave better",
+      "my child to behave better"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya berkelakuan lebih baik",
+      "anak saya berkelakuan lebih baik"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child to do better at school",
+      "my child to do better at school"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya melakukan yang lebih baik di sekolah",
+      "anak saya melakukan yang lebih baik di sekolah"
+    ]
+  },
+  {
+    "SourceText": [
+      "To talk to my child about COVID-19",
+      "to talk to my child about covid-19"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Untuk bercakap dengan anak saya tentang COVID-19",
+      "untuk bercakap dengan anak saya tentang COVID-19"
+    ]
+  },
+  {
+    "SourceText": [
+      "Feel less stress, loneliness or anger",
+      "feel less stress, loneliness or anger"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Rasa kurang tekanan, kesunyian atau kemarahan",
+      "rasa kurang tekanan, kesunyian atau kemarahan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Worry less about money",
+      "worry less about money"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Kurang kebimbangan tentang wang",
+      "kurang kebimbangan tentang wang"
+    ]
+  },
+  {
+    "SourceText": [
+      "Less conflict in my family",
+      "less conflict in my family"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Kurang konflik dalam keluarga saya",
+      "kurang konflik dalam keluarga saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "Know more about how to keep my child safe",
+      "know more about how to keep my child safe"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Mengetahui lebih lanjut tentang cara menjaga keselamatan anak saya",
+      "mengetahui lebih lanjut tentang cara menjaga keselamatan anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "How to support children living with disabilities",
+      "how to support children living with disabilities"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Cara menyokong kanak-kanak yang kurang upaya",
+      "cara menyokong kanak-kanak yang kurang upaya"
+    ]
+  },
+  {
+    "SourceText": [
+      "Other goal",
+      "other goal"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Matlamat lain",
+      "matlamat lain"
+    ]
+  },
+  {
+    "SourceText": [
+      "Review parenting toolkit",
+      "review parenting toolkit"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Semak kit keibubapaan",
+      "semak kit keibubapaan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Emergencies",
+      "emergencies"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Kecemasan",
+      "kecemasan"
+    ]
+  },
+  {
+    "SourceText": [
+      "COVID-19 Info",
+      "covid-19 info"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Maklumat COVID-19",
+      "maklumat covid-19"
+    ]
+  },
+  {
+    "SourceText": [
+      "Other services",
+      "other services"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Perkhidmatan lain",
+      "perkhidmatan lain"
+    ]
+  },
+  {
+    "SourceText": [
+      "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later @fields.user_name!",
+      " Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later @fields.user_name!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Ingatlah anda sentiasa boleh menaip \"Bantuan\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
+      " Ingatlah anda sentiasa boleh menaip \"Bantuan\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!"
+    ]
+  },
+  {
+    "SourceText": [
+      "It is okay if this is not a good time. Chat later @fields.user_name!",
+      "It is okay if this is not a good time. Chat later @fields.user_name! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tidak mengapa jika ini bukan masa yang baik.\nSee raw\nSegment info\nSee context\n Berbual kemudian nanti @fields.user_name!",
+      "Tidak mengapa jika ini bukan masa yang baik.\nSee raw\nSegment info\nSee context\n Berbual kemudian nanti @fields.user_name! "
+    ]
+  },
+  {
+    "SourceText": [
+      "I understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?",
+      "I understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour? "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Saya memahami perkara ini mungkin sangat sukar kepada anda dan anak anda. Adakah anda memerlukan apa-apa nasihat tentang bagaimana untuk menangani tingkah laku ini?",
+      "Saya memahami perkara ini mungkin sangat sukar kepada anda dan anak anda. Adakah anda memerlukan apa-apa nasihat tentang bagaimana untuk menangani tingkah laku ini? "
+    ]
+  },
+  {
+    "SourceText": [
+      "Would you like to review the content?",
+      "Would you like to review the content? "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda ingin menyemak kandungannya?",
+      "Adakah anda ingin menyemak kandungannya? "
+    ]
+  },
+  {
+    "SourceText": [
+      "That is okay! Remember you can access parenting content at anytime by typing \"Help\". Chat to you later! ",
+      "That is okay! Remember you can access parenting content at anytime by typing \"Help\". Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tidak mengapa! Ingat bahawa, anda boleh mengakses kandungan keibubapaan pada bila-bila masa dengan menaip “Tolong”. Berbual dengan anda nanti!\nSegment info\nSee context\n ",
+      "Tidak mengapa! Ingat bahawa, anda boleh mengakses kandungan keibubapaan pada bila-bila masa dengan menaip “Tolong”. Berbual dengan anda nanti!\nSegment info\nSee context\n"
+    ]
+  },
+  {
+    "SourceText": [
+      "We hope to see you again soon, and we wish you a happy and peaceful day! ",
+      "We hope to see you again soon, and we wish you a happy and peaceful day!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Semoga berjumpa lagi! Selamat sejahtera! ",
+      "Semoga berjumpa lagi! Selamat sejahtera!"
+    ]
+  },
+  {
+    "SourceText": [
+      "I hope to see you again soon, and I wish you a happy and peaceful day! ",
+      "I hope to see you again soon, and I wish you a happy and peaceful day!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Semoga berjumpa lagi! Selamat sejahtera! ",
+      "Semoga berjumpa lagi! Selamat sejahtera! "
+    ]
+  },
+  {
+    "SourceText": [
+      "  2. Become a confident father and a supportive partner",
+      "2. Become a confident father and a supportive partner"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  2. Jadilah seorang bapa yang berkeyakinan dan pasangan yang memberikan sokongan",
+      "2. Jadilah seorang bapa yang berkeyakinan dan pasangan yang memberikan sokongan"
+    ]
+  },
+  {
+    "SourceText": [
+      "  2. Become a confident mother and a supportive partner",
+      "2. Become a confident mother and a supportive partner"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "  2. Jadi seorang ibu yang berkeyakinan dan pasangan yang memberikan sokongan",
+      "2. Jadi seorang ibu yang berkeyakinan dan pasangan yang memberikan sokongan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Thank you so much! Here is a link to sign up!",
+      "Thank you so much! Here is a link to sign up! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Terima kasih! Berikut ialah pautan untuk mendaftar!",
+      "Terima kasih! Berikut ialah pautan untuk mendaftar! "
+    ]
+  },
+  {
+    "SourceText": [
+      "Friend",
+      "friend"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Kawan",
+      "kawan"
+    ]
+  },
+  {
+    "SourceText": [
+      "UNICEF U-Report",
+      "unicef u-report"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Laporan-U UNICEF",
+      "u-report unicef"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot what the risks and dangers are",
+      "i forgot what the risks and dangers are"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya lupa apakah risiko dan bahayanya",
+      "saya lupa tentang risiko dan bahaya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot how to set up set up technical fixes",
+      "i forgot how to set up set up technical fixes"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa bagaimana untuk mempersiapkan kerja baik pulih teknikal",
+      "saya lupa cara menyediakan pembetulan teknikal"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot how to seek help",
+      "i forgot how to seek help"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa bagaimana untuk memohon pertolongan",
+      "saya lupa cara mendapatkan pertolongan"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don't know how to create healthy and safe online habits",
+      "i don't know how to create healthy and safe online habits"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu bagaimana untuk membentuk kelakuan sihat dan selamat dalam talian",
+      "saya tidak tahu cara memupuk tabiat kesihatan dan keselamatan dalam talian"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the time for this activity",
+      "i did not have the time for this activity"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak ada masa untuk aktiviti ini",
+      "saya tidak mempunyai masa untuk aktiviti ini"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not want to tell my family how much I earn",
+      "i did not want to tell my family how much i earn "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya enggan memberitahu keluarga saya berapa banyak yang saya perolehi",
+      "saya tidak mahu memberitahu keluarga saya jumlah pendapatan saya "
+    ]
+  },
+  {
+    "SourceText": [
+      "When budgeting, we could not agree on what should fall under needs and what should fall under wants",
+      "when budgeting, we could not agree on what should fall under needs and what should fall under wants"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Ketika menyediakan belanjawan, kami tidak dapat menyetujui apakah yang termasuk di dalam keperluan dan apakah yang termasuk di dalam kehendak",
+      "semasa membuat belanjawan, kami tidak dapat bersetuju tentang perkara yang termasuk dalam keperluan dan yang termasuk dalam kehendak"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not understand what to do",
+      " i did not understand what to do"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak faham apa yang perlu dibuat",
+      " saya tidak faham tindakan yang perlu dilakukan"
+    ]
+  },
+  {
+    "SourceText": [
+      "My family did not want to do the budgeting with me",
+      "my family did not want to do the budgeting with me"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Keluarga saya tidak mahu menyediakan belanjawan bersama-sama saya",
+      "keluarga saya tidak mahu membuat belanjawan dengan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the time to talk about budgeting with my family",
+      "i did not have the time to talk about budgeting with my family"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa untuk bercakap tentang belanjawan dengan keluarga saya",
+      "saya tidak mempunyai masa untuk bercakap tentang belanjawan dengan keluarga saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am finding it difficult to use positive language whilst communicating to my family",
+      "i am finding it difficult to use positive language whilst communicating to my family"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya sukar untuk menggunakan bahasa yang positif ketika berkomunikasi dengan keluarga saya",
+      "saya mendapati sukar untuk menggunakan bahasa positif semasa berkomunikasi dengan keluarga saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don't know how to get others in my family to contribute to a supportive family environment",
+      "i don't know how to get others in my family to contribute to a supportive family environment"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu bagaimana untuk melibatkan ahli keluarga saya yang lain bagi menyumbang kepada persekitaran keluarga yang membantu",
+      "saya tidak tahu cara untuk membuatkan orang lain dalam keluarga saya menyumbang untuk mencapai persekitaran kekeluargaan yang menyokong"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don't know how to show others that I am listening",
+      "i don't know how to show others that i am listening"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu bagaimana untuk menunjukkan kepada orang lain bahawa saya sedang mendengar",
+      "saya tidak tahu cara untuk menunjukkan kepada orang lain yang saya mendengar"
+    ]
+  },
+  {
+    "SourceText": [
+      "I feel tired and overwhelmed",
+      "i feel tired and overwhelmed"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya berasa letih dan kecewa",
+      "saya berasa letih dan kecewa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don't know how to contribute to a supportive family environment",
+      "i don't know how to contribute to a supportive family environment "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu bagaimana untuk menyumbang kepada persekitaran keluarga yang membantu",
+      "saya tidak tahu cara untuk menyumbang kepada persekitaran kekeluargaan yang menyokong "
+    ]
+  },
+  {
+    "SourceText": [
+      "Police",
+      "police"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Polis",
+      "polis"
+    ]
+  },
+  {
+    "SourceText": [
+      "Content is not relevant",
+      "content is not relevant"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Kandungan tidak relevan",
+      "kandungan tidak relevan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Data load is too high",
+      "data load is too high"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Muatan data sangat tinggi",
+      "muatan data sangat tinggi"
+    ]
+  },
+  {
+    "SourceText": [
+      "Too many messages",
+      "too many messages"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Terlalu banyak mesej",
+      "terlalu banyak mesej"
+    ]
+  },
+  {
+    "SourceText": [
+      "Technical problems",
+      "technical problems"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Masalah teknikal",
+      "masalah teknikal"
+    ]
+  },
+  {
+    "SourceText": [
+      "Positive",
+      "positive"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Positif",
+      "positif"
+    ]
+  },
+  {
+    "SourceText": [
+      "Negative",
+      "negative"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Negatif",
+      "negatif"
+    ]
+  },
+  {
+    "SourceText": [
+      "I can’t seem to distract my child when they are misbehaving.",
+      "i can’t seem to distract my child when they are misbehaving."
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak boleh mengalihkan perhatian anak saya apabila mereka tidak berkelakuan baik.",
+      "saya tidak boleh mengalihkan perhatian anak saya apabila mereka tidak berkelakuan baik."
+    ]
+  },
+  {
+    "SourceText": [
+      "I am too angry to find anything positive to say to my child after they have misbehaved.",
+      "i am too angry to find anything positive to say to my child after they have misbehaved."
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlalu marah sehingga tidak dapat mencari sebarang kata-kata positif untuk dikatakan kepada anak saya selepas mereka tidak berkelakuan baik.",
+      "saya terlalu marah sehingga tidak dapat mencari sebarang kata-kata positif untuk dikatakan kepada anak saya selepas mereka tidak berkelakuan baik."
+    ]
+  },
+  {
+    "SourceText": [
+      "My child is misbehaving all the time.",
+      "my child is misbehaving all the time."
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya tidak berkelakuan baik sepanjang masa.",
+      "anak saya tidak berkelakuan baik sepanjang masa."
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the opportunity to redirect my child.",
+      "i did not have the opportunity to redirect my child."
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak berpeluang untuk mengalihkan perhatian anak saya.",
+      "saya tidak berpeluang untuk mengalihkan perhatian anak saya."
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn’t know how to involve my child",
+      "i didn’t know how to involve my child"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara untuk melibatkan anak saya",
+      "saya tidak tahu cara untuk melibatkan anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child had no interest in book sharing",
+      "my child had no interest in book sharing"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya tidak berminat untuk berkongsi buku",
+      "anak saya tidak berminat untuk berkongsi buku"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn't have the time",
+      "i didn't have the time"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa",
+      "saya tidak mempunyai masa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot the steps of problem solving",
+      "i forgot the steps of problem solving"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa langkah menyelesaikan masalah",
+      "saya terlupa langkah penyelesaian masalah"
+    ]
+  },
+  {
+    "SourceText": [
+      "We could not agree on one solution to try out and got into an argument",
+      "we could not agree on one solution to try out and got into an argument"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Kami tidak dapat bersetuju untuk mencuba satu penyelesaian dan kami bertengkar",
+      "kami tidak dapat bersetuju untuk mencuba satu penyelesaian dan kami bertengkar"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen got angry and did not want to talk about the problem",
+      "my child or teen got angry and did not want to talk about the problem"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil atau anak remaja saya menjadi marah dan tidak mahu untuk bercakap tentang masalahnya",
+      "anak kecil atau anak remaja saya menjadi marah dan tidak mahu untuk bercakap tentang masalahnya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the opportunity to involve my children in problem solving",
+      "i did not have the opportunity to involve my children in problem solving"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya berpeluang untuk melibatkan anak saya dalam penyelesaian masalah",
+      "saya tidak berpeluang untuk melibatkan anak saya dalam penyelesaian masalah"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child is still using digital gagdets",
+      "my child is still using digital gagdets"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya masih menggunakan alat digital",
+      "anak saya masih menggunakan alat digital"
+    ]
+  },
+  {
+    "SourceText": [
+      "I am finding it difficult to get my child to stop using gadgets",
+      "i am finding it difficult to get my child to stop using gadgets"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya mengalami kesukaran untuk menyuruh anak saya berhenti menggunakan alat digital",
+      "saya mendapati sukar untuk menyuruh anak saya berhenti menggunakan alat digital"
+    ]
+  },
+  {
+    "SourceText": [
+      "I do not feel comfortable with what my child is looking at online",
+      "i do not feel comfortable with what my child is looking at online"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa tidak selesa dengan perkara yang anak saya lihat dalam talian",
+      "saya rasa tidak selesa dengan perkara yang anak saya lihat dalam talian"
+    ]
+  },
+  {
+    "SourceText": [
+      "I do not know how to talk to my child about what's safe and not safe online",
+      "i do not know how to talk to my child about what's safe and not safe online"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara untuk bercakap dengan anak saya tentang perkara yang selamat dan tidak selamat yang terdapat dalam talian",
+      "saya tidak tahu cara untuk bercakap dengan anak saya tentang perkara yang selamat dan tidak selamat yang terdapat dalam talian"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don’t know much about technology, so I don’t know how to talk about it with my child",
+      "i don’t know much about technology, so i don’t know how to talk about it with my child"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu banyak tentang teknologi, jadi saya tidak tahu cara untuk bercakap tentangnya dengan anak saya",
+      "saya tidak tahu banyak tentang teknologi, jadi saya tidak tahu cara untuk bercakap tentangnya dengan anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the time to have this discussion with my child or teen",
+      "i did not have the time to have this discussion with my child or teen"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak ada masa untuk berbincang dengan anak kecil atau anak remaja saya",
+      "saya tidak ada masa untuk berbincang dengan anak kecil atau anak remaja saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I didn't stay calm",
+      "i didn't stay calm"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak dapat bertenang",
+      "saya tidak dapat bertenang"
+    ]
+  },
+  {
+    "SourceText": [
+      "I got angry",
+      "i got angry"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya menjadi marah",
+      "saya menjadi marah"
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt overwhelmed",
+      "i felt overwhelmed"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa kecewa",
+      "saya rasa kecewa"
+    ]
+  },
+  {
+    "SourceText": [
+      "My baby won't stop crying",
+      "my baby won't stop crying "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Bayi saya tidak berhenti menangis",
+      "bayi saya tidak berhenti menangis "
+    ]
+  },
+  {
+    "SourceText": [
+      "My teen told me that something serious happened to them and I did not know how to handle it",
+      "my teen told me that something serious happened to them and i did not know how to handle it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak remaja saya memberitahu saya bahawa sesuatu yang serius berlaku kepadanya dan saya tidak tahu cara untuk menanganinya",
+      "anak remaja saya memberitahu saya bahawa sesuatu yang serius berlaku kepadanya dan saya tidak tahu cara untuk menanganinya"
+    ]
+  },
+  {
+    "SourceText": [
+      "The conversation made me very uncomfortable because I was reminded of something serious that happened to me",
+      "the conversation made me very uncomfortable because i was reminded of something serious that happened to me"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Perbualan itu membuatkan saya berasa sangat tidak selesa kerana saya teringat tentang sesuatu yang serius yang telah berlaku kepada saya",
+      "perbualan itu membuatkan saya berasa sangat tidak selesa kerana saya teringat tentang sesuatu yang serius yang telah berlaku kepada saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My teen, or me, or my family did not feel comfortable",
+      "my teen, or me, or my family did not feel comfortable"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak remaja saya, atau saya, atau keluarga saya berasa tidak selesa",
+      "anak remaja saya, atau saya, atau keluarga saya berasa tidak selesa"
+    ]
+  },
+  {
+    "SourceText": [
+      "My teen did not discuss anything sensitive or challenging with me",
+      "my teen did not discuss anything sensitive or challenging with me"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak remaja saya tidak berbincang tentang sesuatu yang sensitif atau mencabar dengan saya",
+      "anak remaja saya tidak berbincang sesuatu yang sensitif atau mencabar dengan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child told me that something serious happened to them and I did not know how to handle it",
+      "my child told me that something serious happened to them and i did not know how to handle it"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya memberitahu saya bahawa sesuatu yang serius berlaku kepadanya dan saya tidak tahu cara untuk menanganinya",
+      "anak saya memberitahu saya bahawa sesuatu yang serius berlaku kepadanya dan saya tidak tahu cara untuk menanganinya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child did not feel comfortable",
+      "my child did not feel comfortable"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya tidak berasa selesa",
+      "anak saya tidak berasa selesa"
+    ]
+  },
+  {
+    "SourceText": [
+      "I do not know how to have this discussion",
+      "i do not know how to have this discussion"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu cara untuk berbincang tentang ini",
+      "saya tidak tahu cara untuk berbincang tentang ini"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the time to have this discussion with my child",
+      "i did not have the time to have this discussion with my child"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa untuk berbincang tentang perkara ini dengan anak saya",
+      "saya tidak mempunyai masa untuk berbincang tentang perkara ini dengan anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen did not want to do the budgeting with me",
+      "my child or teen did not want to do the budgeting with me"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil atau anak remaja saya tidak mahu membuat belanjawan dengan saya",
+      "anak kecil atau anak remaja saya tidak mahu membuat belanjawan dengan saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the time to talk about family budgeting with my child or teen",
+      "i did not have the time to talk about family budgeting with my child or teen"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa untuk bercakap tentang belanjawan keluarga dengan anak kecil atau anak remaja saya",
+      "saya tidak mempunyai masa untuk bercakap tentang belanjawan keluarga dengan anak kecil atau anak remaja saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I don't know what to do with my child",
+      "i don't know what to do with my child"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu tindakan yang perlu dilakukan kepada anak saya",
+      "saya tidak tahu tindakan yang perlu dilakukan kepada anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child does not want to learn",
+      "my child does not want to learn "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya tidak mahu belajar",
+      "anak saya tidak mahu belajar "
+    ]
+  },
+  {
+    "SourceText": [
+      "I am feeling overwhelmed",
+      "i am feeling overwhelmed"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya berasa kecewa",
+      "saya berasa terbeban"
+    ]
+  },
+  {
+    "SourceText": [
+      "I do not know where to find resources to support my child's learning",
+      "i do not know where to find resources to support my child's learning"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak tahu tempat untuk mencari sumber untuk menyokong pembelajaran anak saya",
+      "saya tidak tahu tempat untuk mencari sumber untuk menyokong pembelajaran anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have the time to involve myself in my child's learning or education",
+      "i did not have the time to involve myself in my child's learning or education"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa untuk melibatkan diri saya dalam pembelajaran atau pendidikan anak saya",
+      "saya tidak mempunyai masa untuk melibatkan diri saya dalam pembelajaran atau pendidikan anak saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen and I disagreed on which areas were unsafe",
+      "my child or teen and i disagreed on which areas were unsafe"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil atau anak remaja saya dan saya tidak bersetuju tentang kawasan tidak selamat",
+      "anak kecil atau anak remaja saya dan saya tidak bersetuju tentang kawasan tidak selamat"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen identified the house of someone I trust as unsafe. I was shocked and did not know what to do",
+      "my child or teen identified the house of someone i trust as unsafe. i was shocked and did not know what to do"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil atau anak remaja saya mengenal pasti rumah seseorang yang saya percayai sebagai tidak selamat. Saya terkejut dan tidak tahu tindakan yang perlu dilakukan",
+      "anak kecil atau anak remaja saya mengenal pasti rumah seseorang yang saya percayai sebagai tidak selamat. saya terkejut dan tidak tahu tindakan yang perlu dilakukan"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen insisted that a place like a bar is for them to visit. I don’t know how to convince them that it is not a safe area",
+      "my child or teen insisted that a place like a bar is for them to visit. i don’t know how to convince them that it is not a safe area"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil atau anak remaja saya berkeras bahawa tempat seperti bar ialah tempat yang boleh mereka kunjungi. Saya tidak tahu cara untuk meyakinkan mereka bahawa tempat itu tidak selamat",
+      "anak kecil atau anak remaja saya berkeras bahawa tempat seperti bar ialah tempat yang boleh mereka kunjungi. saya tidak tahu cara untuk meyakinkan mereka bahawa tempat itu tidak selamat"
+    ]
+  },
+  {
+    "SourceText": [
+      "As an adult, I feel I am responsible for protecting my child or teen. When I told my child or teen which areas are unsafe, they got angry",
+      "as an adult, i feel i am responsible for protecting my child or teen. when i told my child or teen which areas are unsafe, they got angry"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Sebagai orang dewasa, saya berasa bertanggungjawab untuk melindungi anak kecil atau anak remaja saya. Apabila saya memberitahu anak kecil atau anak remaja saya tentang tempat yang tidak selamat, mereka menjadi marah",
+      "sebagai orang dewasa, saya berasa bertanggungjawab untuk melindungi anak kecil atau anak remaja saya. apabila saya memberitahu anak kecil atau anak remaja saya tentang tempat yang tidak selamat, mereka menjadi marah"
+    ]
+  },
+  {
+    "SourceText": [
+      "It was hard to identify resources available in my community because I don’t know my community so well",
+      "it was hard to identify resources available in my community because i don’t know my community so well"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Sangat sukar untuk mengenal pasti sumber yang tersedia dalam komuniti saya kerana saya tidak betul-betul mengenali komuniti saya",
+      "sangat sukar untuk mengenal pasti sumber yang tersedia dalam komuniti saya kerana saya tidak betul-betul mengenali komuniti saya"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have any time to do this activity",
+      "i did not have any time to do this activity"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai masa untuk melakukan aktiviti ini",
+      "saya tidak mempunyai masa untuk melakukan aktiviti ini"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child or teen did not need a consequence because they were behaving well",
+      "my child or teen did not need a consequence because they were behaving well"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak kecil atau anak remaja saya tidak akan mendapat akibat kerana mereka berkelakuan baik",
+      "anak kecil atau anak remaja saya tidak akan mendapat akibat kerana mereka berkelakuan baik"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child did not behave in a negative attention seeking or demanding way",
+      "my child did not behave in a negative attention seeking or demanding way"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya tidak berkelakuan dalam cara mencari perhatian negatif atau secara mendesak",
+      "anak saya tidak berkelakuan dalam cara mencari perhatian negatif atau secara mendesak"
+    ]
+  },
+  {
+    "SourceText": [
+      "It was hard to identify resources available",
+      "it was hard to identify resources available"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Mengenal pasti sumber tersedia adalah sukar",
+      "mengenal pasti sumber tersedia adalah sukar"
+    ]
+  },
+  {
+    "SourceText": [
+      "I did not have any time",
+      "i did not have any time"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya tidak mempunyai sedikit masa pun",
+      "saya tidak mempunyai sedikit masa pun"
+    ]
+  },
+  {
+    "SourceText": [
+      "As an adult, I feel I am responsible for protecting my child, but I don't know a lot about COVID-19",
+      "as an adult, i feel i am responsible for protecting my child, but i don't know a lot about covid-19 "
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Sebagai orang dewasa, saya berasa bertanggungjawab untuk melindungi anak saya, tetapi saya tidak tahu banyak maklumat tentang COVID-19",
+      "sebagai orang dewasa, saya berasa bertanggungjawab untuk melindungi anak saya, tetapi saya tidak tahu banyak maklumat tentang covid-19 "
+    ]
+  },
+  {
+    "SourceText": [
+      "I felt uncomfortable or confused",
+      "i felt uncomfortable or confused"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya rasa tidak selesa atau keliru",
+      "saya rasa tidak selesa atau keliru"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child reacted negatively",
+      "my child reacted negatively"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya memberikan reaksi yang negatif",
+      "anak saya bertindak negatif"
+    ]
+  },
+  {
+    "SourceText": [
+      "My child asked me questions I did not the answers to",
+      "my child asked me questions i did not the answers to"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Anak saya bertanya soalan yang saya tiada jawapan",
+      "anak saya bertanya soalan yang saya tiada jawapan"
+    ]
+  },
+  {
+    "SourceText": [
+      "That is okay! Remember you can access parenting content at anytime by typing \"Help\". Chat to you later @fields.user_name! ",
+      "That is okay! Remember you can access parenting content at anytime by typing \"Help\". Chat to you later @fields.user_name!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tidak mengapa! Ingatlah, anda boleh mengakses kandungan keibubapaan pada bila-bila masa dengan menaip “Tolong”. Sembang dengan anda kemudian @fields.user_name! ",
+      "Tidak mengapa! Ingatlah, anda boleh mengakses kandungan keibubapaan pada bila-bila masa dengan menaip “Tolong”. Sembang dengan anda kemudian @fields.user_name!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Hi @fields.user_name! How are you feeling?",
+      "Hi @fields.user_name! How are you feeling? "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Hai @fields.user_name! Bagaimana perasaan anda?",
+      "Hai @fields.user_name! Bagaimana perasaan anda? "
+    ]
+  },
+  {
+    "SourceText": [
+      "It is completely normal to experience this challenge. Praise @fields.child_nickname for telling you, that is not easy to do! Remember, you can use all the skills you collected in your toolbox: Take a Pause, reassure @fields.child_nickname that you are here for them, discuss possible solutions, and reach out to get the support you and @fields.child_nickname need!",
+      "It is completely normal to experience this challenge. Praise @fields.child_nickname for telling you, that is not easy to do! Remember, you can use all the skills you collected in your toolbox: Take a Pause, reassure @fields.child_nickname that you are here for them, discuss possible solutions, and reach out to get the support you and @fields.child_nickname need! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Mengalami cabaran ini adalah satu perkara yang sangat normal. Puji @fields.child_nickname kerana berkongsi dengan anda kerana ia bukanlah satu perkara yang mudah! Ingat, anda boleh menggunakan semua kemahiran yang telah diperolehi daripada Kit Keibubapaan anda: Berhenti Seketika untuk meyakinkan @fields.child_nickname bahawa anda di pihak mereka, bincangkan solusi-solusi berpotensi dan dapatkan sokongan yang anda dan @fields.child_nickname perlukan!",
+      "Mengalami cabaran ini adalah satu perkara yang sangat normal. Puji @fields.child_nickname kerana berkongsi dengan anda kerana ia bukanlah satu perkara yang mudah! Ingat, anda boleh menggunakan semua kemahiran yang telah diperolehi daripada Kit Keibubapaan anda: Berhenti Seketika untuk meyakinkan @fields.child_nickname bahawa anda di pihak mereka, bincangkan solusi-solusi berpotensi dan dapatkan sokongan yang anda dan @fields.child_nickname perlukan! "
+    ]
+  }
+]

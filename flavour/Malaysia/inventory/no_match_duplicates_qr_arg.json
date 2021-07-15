@@ -1,0 +1,696 @@
+[
+  {
+    "SourceText": [
+      "Would you like to learn more about this tip?",
+      "Would you like to learn more about this tip?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda ingin belajar lebih lagi mengenai tip ini?",
+      "Adakah anda ingin mengetahui lebih lanjut mengenai tip ini?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean.",
+      "Sorry, I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf, saya tidak faham apa yang anda maksudkan.",
+      "Maaf, saya tidak faham apa yang anda maksudkan. ",
+      "Maaf, saya tidak faham maksud anda.",
+      "Maaf, saya tidak faham maksud anda. ",
+      "Maaf, saya tidak faham apa yang anda maksudkan.",
+      "Maaf, saya tidak faham maksud anda.",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
+      "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda memerlukan aktiviti untuk menenangkan atau mengurangkan tekanan anda. Berbual dengan anda kemudian!",
+      "Tidak mengapa! Anda sentiasa boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda perlukan aktiviti untuk membantu anda relaks atau mengurangkan tekanan. Kita berbual lagi nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? ",
+      "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? ",
+      "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?"
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Kenal pasti apa yang berlaku kepada anda pada masa ini. Apa yang kamu fikirkan? Adakah pemikiran anda positif atau negatif. Bagaimana perasaan anda? Adakah anda merasa selesa atau sebaliknya? Bagaimana rasa badan anda? Adakah anda merasa tegang atau tenang? ",
+      "Kenal pasti apa yang sedang berlaku kepada anda pada masa ini. Apa yang anda sedang fikir? Adakah fikiran anda positif atau negatif. Bagaimana perasaan anda? Adakah anda rasa seronok atau tidak seronok? Apa yang badan anda rasa? Adakah anda rasa tegang atau santai? ",
+      "Iktiraf perkara yang berlaku kepada anda pada detik ini. Apa yang anda fikirkan? Adakah fikiran anda positif atau negatif? Apakah perasaan anda? Adakah perasaan anda tenang atau bercelaru? Bagaimana keadaan tubuh badan anda? Adakah anda berasa tegang atau santai?"
+    ]
+  },
+  {
+    "SourceText": [
+      "May I be peaceful.",
+      "May I be peaceful."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Semoga saya tenteram.",
+      "Semoga saya tenang."
+    ]
+  },
+  {
+    "SourceText": [
+      "May there be love in my family.",
+      "May there be love in my family."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Semoga ada kasih sayang dalam keluarga saya.",
+      "Semoga wujud kasih sayang dalam keluarga saya."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? ",
+      "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Adakah anda tahu bahawa 3 adalah nombor ajaib? Tarik nafas dalam kiraan tiga dan hembus dengan kiraan tiga. Bagaimana anda rasa sekarang? Adakah anda merasai sebarang perbezaan? ",
+      "Helo! Adakah anda tahu bahawa nombor 3 adalah nombor ajaib? Tarik nafas dengan kiraan tiga dan hembus nafas dengan kiraan tiga. Bagaimana perasaan anda sekarang? Adakah anda rasa sebarang perbezaan?"
+    ]
+  },
+  {
+    "SourceText": [
+      "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? ",
+      "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Apakah tiga makanan kegemaran anda? Boleh anda nyatakan tiga perkara yang dapat anda lihat sekarang? Boleh anda dengar tiga bunyi yang boleh anda dengari sekarang? Apakah tiga perkara yang anda syukuri sekarang? ",
+      "Apakah tiga makanan kegemaran anda? Bolehkah anda namakan tiga benda yang anda nampak sekarang? Adakah anda boleh mendengar tiga bunyi sekarang? Apakah tiga perkara yang anda syukuri sekarang? "
+    ]
+  },
+  {
+    "SourceText": [
+      "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!",
+      "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tarik nafas dalam kiraan tiga dan hembus nafas dalam kiraan tiga? Bagaimana anda rasa sekarang? Adakah anda rasai sebarang perbezaan? Tiga adalah nombor ajaib!",
+      "Tarik nafas ke dalam dengan kiraan tiga dan hembus nafas keluar dengan kiraan tiga. Bagaimana anda rasa sekarang? Adakah anda rasa sebarang perbezaan? Tiga adalah nombor yang ajaib!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress.",
+      "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Bagaimana perasaan anda? Sekiranya anda merasa sungguh sedih atau tertekan, berikut adalah aktiviti yang menyeronokkan yang juga dapat melepaskan tekanan.",
+      "Helo! Apakah perasaan anda? Jika anda berasa gelisah atau tertekan, di sini ada aktiviti menyeronokkan yang boleh mengurangkan sedikit tekanan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction.",
+      "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Letakkan satu kaki di hadapan dan pusingkan pergelangan kaki ke kedua-dua sisi. Lakukan setiap kaki dengan empat bulatan pada setiap arah.",
+      "Letakkan satu kaki di hadapan sebelah kaki dan buat bulatan kecil dari buku lali, ingat untuk mengubah kedua-dua belah. Lakukan untuk setiap kaki dengan empat kali bagi setiap arah."
+    ]
+  },
+  {
+    "SourceText": [
+      "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!",
+      "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekarang goyangkan seluruh badan anda secepat yang anda boleh. Goyangkan ke atas! Goyangkan ke bawah! Goyangkan semuanya!",
+      "Sekarang goyang seluruh badan anda selaju yang boleh. Goyang setinggi yang boleh! Goyang ke bawah! Goyang dan pusing!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.",
+      "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Biarkan tangan anda tergantung di sisi anda. Tolak bahu ke telinga sambil anda menarik nafas, mengerutkan mata, dan tahan nafas anda. Lepaskan bahu anda sambil merehatkan badan.",
+      "Biarkan tangan anda tergantung sebelah menyebelah. Pusingkan bahu anda dengan ketat sehingga menyentuh telinga selama anda menarik nafas, gerakkan mata anda, dan tahan nafas. Lepaskan bahu anda apabila anda merehatkan badan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Relax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side.",
+      "Relax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Rehatkan tangan anda dan biarkan tangan anda berayun ke samping, dan pusingkan bahagian atas badan anda. Tangan anda harus perlahan-lahan memukul belakang anda semasa anda berpusing dari sisi ke sisi.",
+      "Rehatkan lengan anda dan biarkan lengan berpusing atas ke bawah, dan tukar bahagian atas badan. Lengan anda patut menyentuh bahagian belakang apabila anda memusing dari sebelah ke sebelah yang lain."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+      "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
+      "Helo! Perkongsian buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat anda dan anak anda nikmati."
+    ]
+  },
+  {
+    "SourceText": [
+      "Would you like to learn more about how you can help your child develop through book sharing?",
+      "Would you like to learn more about how you can help your child develop through book sharing?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Adakah anda ingin mengetahui lebih lanjut mengenai bagaimana anda dapat membantu anak anda berkembang melalui perkongsian buku?",
+      "Adakah anda ingin mengetahui lebih lanjut tentang bagaimana anda dapat menolong anak anda berkembang melalui perkongsian buku?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean. ",
+      "Sorry, I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf, saya tidak faham apa yang anda maksudkan. ",
+      "Maaf, saya tidak faham maksud anda. ",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+      "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!",
+      "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda perlukan sebarang sokongan dengan anak anda. Berbual dengan anda kemudian!",
+      "Tidak mengapa! Anda boleh menaip \"Tolong\" pada bila-bila masa sekiranya anda memerlukan sebarang bantuan berkaitan anak-anak anda. Bersembang dengan anda kemudian!",
+      "Tidak mengapa! Anda boleh sahaja taip \"Tolong\" pada bila-bila masa jika anda perlukan sokongan untuk anak-anak anda. Berbual dengan anda nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "To learn more about one of these tips, type \"1\" to \"7\". You can also type \"N\" to move on.",
+      "To learn more about one of these tips, type \"1\" to \"7\". You can also type \"N\" to move on."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Untuk mengetahui dengan lebih lanjut mengenai salah satu tip ini, taip \"1\" hingga \"7\". Anda juga boleh menaip \"T\" untuk meneruskan.",
+      "Untuk mengetahui lebih lanjut mengenai salah satu tip ini, taip \"1\" hingga \"7\". Anda juga boleh menaip \"T\" untuk meneruskan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Chat to you later!",
+      " Chat to you later!",
+      "Chat to you later!",
+      "Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Kita berbual kemudian!",
+      " Bersembang dengan anda kemudian!",
+      "Bersembang dengan anda kemudian!",
+      "Berbual dengan anda nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Technical Support.\" Chat to you later!",
+      "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Technical Support.\" Chat to you later!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Ingat anda sentiasa boleh menaip \"Tolong\" jika anda inginkan lebih banyak tip atau sokongan keibubapaan. Anda juga boleh mengubah jenis pesanan yang diterima untuk anak yang lebih tua atau yang lebih muda. Cuma pilih \"Sokongan Teknikal.\" Kita berbual kemudian!",
+      "Ingat anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip keibubapaan atau sokongan. Anda juga boleh mengubah jenis maklumat yang diterima untuk kanak-kanak yang lebih tua atau yang lebih muda. Cuma pilih \"Sokongan Teknikal\". Kita berbual lagi nanti!"
+    ]
+  },
+  {
+    "SourceText": [
+      "Praise yourself for one thing you did well today.",
+      "Praise yourself for one thing you did well today."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Puji diri anda sendiri untuk satu perkara yang anda telah lakukan dengan baik hari ini.",
+      "Puji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini."
+    ]
+  },
+  {
+    "SourceText": [
+      "Think of one thing that you are grateful for.  ",
+      "Think of one thing that you are grateful for. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Fikirkan tentang satu perkara yang anda syukuri.  ",
+      "Fikirkan satu perkara yang anda syukuri. "
+    ]
+  },
+  {
+    "SourceText": [
+      "When the music stops, everyone does a funny freeze. ",
+      "When the music stops, everyone does a funny freeze."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Apabila muzik berhenti, setiap orang membekukan diri dengan lucu. ",
+      "Apabila muzik berhenti, semua orang membuat pembekuan lucu."
+    ]
+  },
+  {
+    "SourceText": [
+      "After ten seconds, how many fingers do you have up? What sounds did you hear?",
+      "After ten seconds, how many fingers do you have up? What sounds did you hear?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Selepas 10 saat, berapa banyak jari yang anda naikkan? Apakah bunyi yang anda dengar?",
+      "Selepas sepuluh saat, berapakah jari yang anda naikkan? Apakah bunyi yang telah anda dengari?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Try again for another ten seconds. ",
+      "Try again for another ten seconds. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Cuba lagi untuk 10 saat. ",
+      "Cuba lagi untuk sepuluh saat. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Which child do you want tips for?",
+      "Which child do you want tips for?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Untuk anak mana yang anda mahukan tip?",
+      "Anak mana satu yang anda mahu dapatkan tip untuknya?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry I don't understand what you mean.",
+      "Sorry I don't understand what you mean. ",
+      "Sorry I don't understand what you mean.",
+      "Sorry I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf saya tidak faham apa yang awak maksudkan.",
+      "Maaf saya tidak faham apa yang awak maksudkan. ",
+      "Maaf, saya tidak faham maksud anda.",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Sorry I don't understand what you mean. ",
+      "Sorry I don't understand what you mean. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Maaf saya tidak faham apa yang awak maksudkan. ",
+      "Maaf, saya tidak faham maksud anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them. ",
+      "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Peraturan isi rumah dapat membantu anak-anak berasa selamat daripada potensi bahaya dari dalam rumah dan komuniti. Ia juga membantu anak-anak untuk mengetahui jenis tingkah laku yang diharapkan daripada mereka. ",
+      "Peraturan keluarga dapat menghindarkan anak-anak anda daripada kemungkinan di dalam rumah dan dalam masyarakat. Peraturan juga membantu anak mengetahui tingkah laku yang diharapkan daripada mereka."
+    ]
+  },
+  {
+    "SourceText": [
+      "6. Reflect on whether it worked. ",
+      "6. Reflect on whether it worked."
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "6. Renungkan sama ada ia berkesan. ",
+      "6. Renungkan sama ada penyelesaian berkesan."
+    ]
+  },
+  {
+    "SourceText": [
+      "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. ",
+      "Hello! How are you doing? We are so happy that you have signed up to receive these messages. It shows you care. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Helo! Apa khabar? Kami sangat gembira kerana anda telah mendaftar untuk menerima mesej ini. Ini menunjukkan anda mengambil berat. ",
+      "Helo! Apa khabar? Kami gembira kerana anda telah mendaftar untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Does not apply",
+      "Does not apply"
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies"
+    ],
+    "transl": [
+      "Tidak boleh diterima pakai",
+      "Tidak berkenaan"
+    ]
+  },
+  {
+    "SourceText": [
+      "Hi! How are you feeling? ",
+      "Hi! How are you feeling?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Hai! Bagaimana perasaan anda? ",
+      "Hai! Bagaimanakah keadaan emosi anda?"
+    ]
+  },
+  {
+    "SourceText": [
+      "Hi! If you ever want any support or additional parenting tips, type \"Help\" ",
+      "Hi! If you ever want any support or additional parenting tips, type \"Help\" "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Hai! Sekiranya anda mahukan sokongan atau petua keibubapaan tambahan, taip \"Tolong\" ",
+      "Hai! Jika anda perlukan sebarang sokongan atau tip keibubapaan tambahan, taip \"Tolong\" "
+    ]
+  },
+  {
+    "SourceText": [
+      "Congratulations! You have made it through your first week. How time flies! ",
+      "Congratulations! You have made it through your first week. How time flies! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tahniah! Anda berjaya mengharungi minggu pertama anda. Cepatnya masa berlalu! ",
+      "Tahniah! Anda telah berjaya melalui minggu yang pertama. Betapa cepatnya masa berlalu! "
+    ]
+  },
+  {
+    "SourceText": [
+      "Congratulations! You have made it through another week!",
+      "Congratulations! You have made it through another week!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Tahniah! Anda berjaya mengharungi seminggu lagi!",
+      "Tahniah! Anda telah berjaya melalui satu lagi minggu!"
+    ]
+  },
+  {
+    "SourceText": [
+      "You also have made progress on the following skills: ",
+      "You also have made progress on the following skills: "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Anda juga telah melakukan kemajuan dalam kemahiran berikut: ",
+      "Anda juga telah bertambah maju dalam kemahiran berikut: "
+    ]
+  },
+  {
+    "SourceText": [
+      "If you have already noticed some changes in your life or relationship with your children, that's great! ",
+      "If you have already noticed some changes in your life or relationship with your children, that's great! "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekiranya anda dapat melihat beberapa perubahan dalam hidup anda atau hubungan dengan anak, itu bagus! ",
+      "Jika anda telah mula nampak beberapa perubahan dalam hidup atau hubungan anda dengan anak-anak anda, itu adalah bagus! "
+    ]
+  },
+  {
+    "SourceText": [
+      "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!",
+      "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  We know you can do it!"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Sekiranya anda tidak melihat perubahan, teruskannya. Kadang-kala perkara ini memerlukan masa untuk berubah. Kami tahu anda boleh melakukannya!",
+      "Jika anda belum nampak sebarang perubahan, sila teruskannya. Kadang-kadang, perkara seperti ini akan mengambil masa.  Kami tau anda boleh melakukannya!"
+    ]
+  },
+  {
+    "SourceText": [
+      "A little less often",
+      "A little less often"
+    ],
+    "type": [
+      "quick_replies",
+      "quick_replies"
+    ],
+    "transl": [
+      "Jarang sekali",
+      "Kurang kerap"
+    ]
+  },
+  {
+    "SourceText": [
+      "Which age group would you like to receive parenting tips for? ",
+      "Which age group would you like to receive parenting tips for?"
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Apakah kumpulan umur bagi tip keibubapaan yang anda mahukan? ",
+      "Apakah kumpulan umur yang ingin anda terima petua keibubapaan?"
+    ]
+  },
+  {
+    "SourceText": [
+      "English",
+      "english"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Bahasa Inggeris",
+      "inggeris"
+    ]
+  },
+  {
+    "SourceText": [
+      "Well done! You have added another tool to your Parenting Toolkit.",
+      "Well done! You have added another tool to your Parenting Toolkit. "
+    ],
+    "type": [
+      "text",
+      "text"
+    ],
+    "transl": [
+      "Syabas! Anda telah menambahkan kemahiran dalam Kit Keibubapaan anda.",
+      "Syabas! Anda telah menambahkan kemahiran lain ke dalam Kit Keibubapaan anda. "
+    ]
+  },
+  {
+    "SourceText": [
+      "Married",
+      "married"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Berkahwin",
+      "sudah berkahwin"
+    ]
+  },
+  {
+    "SourceText": [
+      "UNICEF U-Report",
+      "unicef u-report"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Laporan-U UNICEF",
+      "u-report unicef"
+    ]
+  },
+  {
+    "SourceText": [
+      "I forgot the steps of problem solving",
+      "i forgot the steps of problem solving"
+    ],
+    "type": [
+      "quick_replies",
+      "arguments"
+    ],
+    "transl": [
+      "Saya terlupa langkah menyelesaikan masalah",
+      "saya terlupa langkah penyelesaian masalah"
+    ]
+  }
+]

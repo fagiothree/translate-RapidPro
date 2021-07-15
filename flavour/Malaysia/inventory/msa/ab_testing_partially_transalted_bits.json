@@ -1,0 +1,479 @@
+[
+  {
+    "SourceText": "Type \"Skills\" if you want to go back and revisit any of these tips.",
+    "text": "Taip \"Set alat\" jika anda mahu kembali dan melihat semula mana-mana tip ini.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you have not noticed any changes, please keep it up. Sometimes these things take time to change.  I know you can do it!",
+    "text": "Jika anda belum nampak sebarang perubahan, sila teruskannya. Kadang-kadang, perkara seperti ini akan mengambil masa.  Kami tau anda boleh melakukannya!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try to stay calm and support @fields.child_nickname as they move through the tantrum. Your priority is to ensure that they don’t hurt themselves. Don’t add to @fields.child_nickname’s anger by shouting and showing angry emotions. This won’t help.",
+    "text": "Cubalah untuk bertenang dan menyokong anak kecil anda ketika mereka sedang mengamuk. Keutamaan anda adalah memastikan bahawa mereka tidak mencederakan diri sendiri. Jangan menambah kemarahan anak anda dengan menjerit dan menunjukkan emosi marah. Ini tidak akan membantu.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is okay if this is not a good time. We will try again tomorrow. Chat later @fields.user_name!",
+    "text": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita boleh cuba sekali lagi pada hari esok. Kita berbual nanti!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is okay if this is not a good time. I will try again tomorrow. Chat later @fields.user_name!",
+    "text": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita boleh cuba sekali lagi pada hari esok. Kita berbual nanti!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "It is okay if this is not a good time. I will try again tomorrow. Chat later!",
+    "text": "Tidak mengapa jika sekarang bukan waktu yang sesuai. Kita boleh cuba sekali lagi pada hari esok. Kita berbual nanti!",
+    "type": "text"
+  },
+  {
+    "SourceText": "All children misbehave sometimes. So that I can give you the right information, please tell me the name or nickname of the child who you are having the most difficulties with.",
+    "text": "Semua kanak-kanak kadang-kadang berkelakuan nakal. Sila beritahu kami nama atau nama panggilan anak anda yang paling sukar diasuh, supaya kami dapat berikan anda maklumat yang betul.",
+    "type": "text"
+  },
+  {
+    "SourceText": "I understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?",
+    "text": "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani tingkah laku ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions. I really appreciate it.",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember that I am here to help. Type \"Help\" if you ever want more parenting tips or other assistance. Thanks again!",
+    "text": "Ingat, kami sedia membantu. Taip \"Bantuan\" jika anda mahu dapatkan banyak lagi tip keibubapaan atau bantuan lain. Kita berbual nanti!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @field.user_name! We are delighted that you have signed up for these messages. It shows that you care!",
+    "text": "Hai! Kami gembira kerana anda telah mendaftar untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi @field.user_name! I am delighted that you have signed up for these messages. It shows that you care!",
+    "text": "Hai! Kami gembira kerana anda telah mendaftar untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Can I ask you 2 quick questions about COVID-19 in your area?",
+    "text": "Boleh kami tanya anda 2 soalan ringkas tentang COVID-19 di kawasan anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! I am delighted that you have signed up for these messages. It shows that you care!",
+    "text": "Hai! Kami gembira kerana anda telah mendaftar untuk menerima mesej-mesej ini. Ini menunjukkan anda mengambil berat!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions @fields.user_name. I really appreciate it especially since COVID-19 has been a very difficult time for many families. ",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini. Kami benar-benar menghargainya, terutamanya kerana banyak keluarga kini sedang susah akibat COVID-19. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Remember that you are not alone and that I am here to help. Just type \"Help\" at anytime.",
+    "text": "Ingat, anda tidak keseorangan dan kami sedia membantu. Taip sahaja \"Bantuan\" pada bila-bila masa.",
+    "type": "text"
+  },
+  {
+    "SourceText": "I understand that this is a stressful time. Remember that you are not alone. I am here to help!",
+    "text": "Kami faham keadaan sedang tertekan pada masa ini. Ingat, anda tidak keseorangan. Kami sedia membantu!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress.",
+    "text": "Anda sentiasa boleh menaip \"Tolong\" pada bila-bila masa sekiranya memerlukan aktiviti untuk menenangkan anda atau mengurangkan tekanan. Berbual kemudian!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can I ask you a few questions? If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
+    "text": "Boleh kami tanya anda beberapa soalan? Tidak mengapa jika anda tidak mahu menjawab mana-mana soalan. Ingat, semua perkara yang anda katakan akan dirahsiakan sepenuhnya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "I would also like to know how you are doing with @fields.survey_behave_name. ",
+    "text": "Kami juga ingin bertanya tentang perkembangan anda dengan @fields.survey_behave_name. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "I understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour? ",
+    "text": "Kami faham situasi ini mungkin adalah amat susah untuk anda dan anak anda. Adakah anda mahu dapatkan nasihat untuk menangani tingkah laku ini?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can I ask you a few questions to help these messages work better for you?  If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
+    "text": "Boleh kami tanya anda beberapa soalan? Tidak mengapa jika anda tidak mahu menjawab mana-mana soalan. Ingat, semua perkara yang anda katakan akan dirahsiakan sepenuhnya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Thanks so much for answering these questions! I really appreciate it.",
+    "text": "Terima kasih kerana menjawab soalan-soalan ini! Kami benar-benar menghargainya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi! Thank you for signing up to receive these parenting tips. Please tell me which language you would like:",
+    "text": "Hai! Terima kasih kerana mendaftar untuk menerima tip keibubapaan ini. Sila beritahu kami bahasa pilihan anda:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello @fields.user_name! This is a stressful time, especially for fathers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
+    "text": "Helo! Ini adalah masa yang tertekan, terutama kepada ibu bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang baik. Mengambil masa untuk menjaga diri kita akan membantu kita untuk menjaga anak-anak.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hello @fields.user_name! This is a stressful time, especially for mothers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
+    "text": "Helo! Ini adalah masa yang tertekan, terutama kepada ibu bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang baik. Mengambil masa untuk menjaga diri kita akan membantu kita untuk menjaga anak-anak.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hello! This is a stressful time, especially for fathers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
+    "text": "Helo! Ini adalah masa yang tertekan, terutama kepada ibu bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang baik. Mengambil masa untuk menjaga diri kita akan membantu kita untuk menjaga anak-anak.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! This is a stressful time, especially for mothers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
+    "text": "Helo! Ini adalah masa yang tertekan, terutama kepada ibu bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang baik. Mengambil masa untuk menjaga diri kita akan membantu kita untuk menjaga anak-anak.",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know that you have already received this tip (well done!).Would you like to review it again?",
+    "text": "Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is normal for men of the family to struggle to think of what to do with their babies, especially when it seems they just eat, sleep, cry, poop, and repeat. It can be especially challenging when your baby is very young and not able to talk to you.",
+    "text": "Ianya normal untuk bertungkus-lumus memikirkan apa yang harus dilakukan dengan bayi kita, terutama ketika mereka hanya makan, tidur, menangis, membuang najis, dan mengulanginya semula. Ia boleh menjadi sangat mencabar terutamanya apabila bayi anda masih kecil dan masih belum boleh bercakap.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is normal for mothers to struggle to think of what to do with their babies, especially when it seems they just eat, sleep, cry, poop, and repeat. It can be especially challenging when your baby is very young and not able to talk to you.",
+    "text": "Ianya normal untuk bertungkus-lumus memikirkan apa yang harus dilakukan dengan bayi kita, terutama ketika mereka hanya makan, tidur, menangis, membuang najis, dan mengulanginya semula. Ia boleh menjadi sangat mencabar terutamanya apabila bayi anda masih kecil dan masih belum boleh bercakap.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If @fields.child_nickname gets frustrated, you can reassure @fields.child_nickname by gently stroking their back.",
+    "text": "Berikan bantuan yang mencukupi untuk anak berjaya. Bermain bersama dan meniru apa yang mereka lakukan adalah baik tetapi cuba biarkan mereka terus berusaha Sekiranya anak anda berasa kecewa, anda boleh menenangkannya dengan lembut dengan",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "How can I help you with your children?",
+    "text": "Bagaimana kami boleh membantu anda tentang hal-ehwal anak-anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How can I help you keep your children safe?",
+    "text": "Bagaimana kami boleh membantu anda menjaga keselamatan anak-anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How can I help you?",
+    "text": "Bagaimana kami boleh membantu anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you do not want to receive any more messages, please type \"STOP MESSAGES.\"",
+    "text": "Adakah anda pasti anda mahu Keluar? Jika anda tidak lagi mahu menerima mesej, sila taip \"HENTIKAN MESEJ.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "You didn't tell me the age of your children.  ",
+    "text": "Anda tidak memberitahu kami umur anak-anak anda. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are @fields.age years old.",
+    "text": "Anda memberitahu kami anda berumur @fields.age tahun.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "You did not tell me your age.",
+    "text": "Anda tidak memberitahu kami umur anda.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sound of a baby crying can be very distressing, especially for a father It is completely natural to want to make it stop. You might also think that you are not a good parent or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong.",
+    "text": "Bunyi tangisan bayi boleh memberi tekanan, terutamanya kepada ibu bapa. Ia adalah proses semula jadi jika mahu mereka berhenti. Anda juga mungkin sangka bahawa anda bukan ibu bapa yang baik atau anak anda menangis untuk menyakitkan hati anda. Tetapi semua bayi menangis. Ia adalah salah satu cara utama bayi memberitahu bahawa ada sesuatu yang tidak kena.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sound of a baby crying can be very distressing, especially for a mother. It is completely natural to want to make it stop. You might also think that you are not a good parent or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong.",
+    "text": "Bunyi tangisan bayi boleh memberi tekanan, terutamanya kepada ibu bapa. Ia adalah proses semula jadi jika mahu mereka berhenti. Anda juga mungkin sangka bahawa anda bukan ibu bapa yang baik atau anak anda menangis untuk menyakitkan hati anda. Tetapi semua bayi menangis. Ia adalah salah satu cara utama bayi memberitahu bahawa ada sesuatu yang tidak kena.",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know that you have already received this tip (well done!). Would you like to review it again?",
+    "text": "Kami tahu bahawa anda telah menerima tip ini (syabas!). Adakah anda ingin menyemaknya semula?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 3. Remember that you are a father NOT a substitute teacher! ",
+    "text": "Langkah 3. Ingatlah bahawa anda adalah ibu bapa dan BUKAN guru ganti! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Step 3. Remember that you are a mother NOT a substitute teacher! ",
+    "text": "Langkah 3. Ingatlah bahawa anda adalah ibu bapa dan BUKAN guru ganti! ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for adding another skill to your Parenting Toolkit! Over the next few days, try to talk about COVID-19 with your child in a supportive way. It will make them feel loved and safe. You are the hero of this story!",
+    "text": "Syabas kerana telah menambah satu lagi kemahiran kepada Kit Keibubapaan anda! Apabila bercakap tentang COVID-19 dengan anak anda dengan cara yang menyokong, anda membuatkan mereka berasa selamat dan disayangi. Anda adalah hero dalam cerita ini!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I understand that these times can be really difficult.  Please type \"Help\" if you want any extra support or guidance. Chat to you later!",
+    "text": "Kami faham bahawa pada masa ini keadaan boleh jadi begitu sukar. Sila taip \"Tolong\" jika anda mahukan sokongan atau panduan tambahan. Nanti kita berbual lagi!",
+    "type": "text"
+  },
+  {
+    "SourceText": "• Continue providing love, support and guidance and build a strong parent-child connection",
+    "text": "• Terus memberikan kasih sayang, sokongan dan membina kekuatan",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for adding another layer to your House of Support! Knowing about child development can help you feel less frustrated by them.",
+    "text": "Bagus kerana telah menambah bahan ke dalam Kit Keibubapaan anda! Mengetahui tentang perkembangan kanak-kanak dapat membantu anda mengurangkan rasa kecewa terhadap mereka.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit! Try following these steps whenever your child shares something difficult. Supporting your child through a crisis will also teach them how to support others in difficult times. Good for you!",
+    "text": "Tahniah! Anda telah menambah satu lagi kemahiran dalam Kit Keibubapaan anda! Memberi sokongan kepada anak anda sewaktu menghadapi krisis akan mengajar mereka mengenai cara memberi sokongan kepada orang lain pada waktu-waktu yang sukar. Bagus untuk anda!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I understand that these times can be really difficult. Please type \"Help\" if you want any extra support or guidance. Chat later @fields.user_name!",
+    "text": "Kami faham bahawa keadaan semasa boleh menjadi sangat sukar. Sila taip \"Tolong\" jika anda memerlukan sebarang sokongan atau bimbingan tambahan. Berbual lagi nanti!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "I understand that these times can be really difficult. Please type \"Help\" if you want any extra support or guidance. Chat later!",
+    "text": "Kami faham bahawa keadaan semasa boleh menjadi sangat sukar. Sila taip \"Tolong\" jika anda memerlukan sebarang sokongan atau bimbingan tambahan. Berbual lagi nanti!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We know that this is not easy. You are not a bad father if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Kami tahu ianya bukan sesuatu yang mudah. Anda bukanlah ibu bapa yang teruk jika bayi anda terus menangis setelah anda melakukan semua perkara untuk menenangkan mereka. Anda sedang melakukan yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "We know that this is not easy. You are not a bad mother if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Kami tahu ianya bukan sesuatu yang mudah. Anda bukanlah ibu bapa yang teruk jika bayi anda terus menangis setelah anda melakukan semua perkara untuk menenangkan mereka. Anda sedang melakukan yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know this is not easy. You are not a bad father if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Kami tahu ianya bukan sesuatu yang mudah. Anda bukanlah ibu bapa yang teruk jika bayi anda terus menangis setelah anda melakukan semua perkara untuk menenangkan mereka. Anda sedang melakukan yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know this is not easy. You are not a bad mother if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Kami tahu ianya bukan sesuatu yang mudah. Anda bukanlah ibu bapa yang teruk jika bayi anda terus menangis setelah anda melakukan semua perkara untuk menenangkan mereka. Anda sedang melakukan yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I know this is not easy. You are not a bad parent if your baby continues to cry after you have done all they can to calm them. You are doing your best!",
+    "text": "Kami tahu ianya bukan sesuatu yang mudah. Anda bukanlah ibu bapa yang teruk jika bayi anda terus menangis setelah anda melakukan semua perkara untuk menenangkan mereka. Anda sedang melakukan yang terbaik!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try swaddling, gently rocking, or singing or soft music. You might need to feed @fields.child_nickname or change their diaper. They may be too hot or too cold. Or maybe they just need to be held. Take a Pause and try to relax - @fields.child_nickname can actually sense tension from you, too!",
+    "text": "Cuba bedung, buai dengan lembut, atau menyanyi atau mainkan muzik yang lembut. Anda mungkin perlu susukan bayi atau menukar lampin. Mereka mungkin rasa terlalu panas atau sejuk. Atau mungkin mereka hanya perlu dipegang. Berhenti Seketika dan cuba untuk bertenang - bayi anda sebenarnya boleh merasai tekanan daripada anda, juga!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hello @fields.user_name! A lot of fathers struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+    "text": "Helo! Sebilangan besar ibu bapa berhempas pulas ketika anak-anak mereka merengek dan bertingkah laku mendesak. Petua hari ini adalah mengenai bagaimana menjadikannya lebih terkawal.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hello @fields.user_name! A lot of mothers struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+    "text": "Helo! Sebilangan besar ibu bapa berhempas pulas ketika anak-anak mereka merengek dan bertingkah laku mendesak. Petua hari ini adalah mengenai bagaimana menjadikannya lebih terkawal.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hello! A lot of fathers struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+    "text": "Helo! Sebilangan besar ibu bapa berhempas pulas ketika anak-anak mereka merengek dan bertingkah laku mendesak. Petua hari ini adalah mengenai bagaimana menjadikannya lebih terkawal.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! A lot of mothers struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+    "text": "Helo! Sebilangan besar ibu bapa berhempas pulas ketika anak-anak mereka merengek dan bertingkah laku mendesak. Petua hari ini adalah mengenai bagaimana menjadikannya lebih terkawal.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for adding another skill to your Parenting Toolkit! Over the next few days, try to find 3 things that you can praise your children for every day. You can also praise other adults in your household, too. Notice how they respond!",
+    "text": "Syabas kerana menambahkan kemahiran lain ke dalam Kit Keibubapaan anda! Cuba cari 3 perkara yang anda boleh puji anak anda setiap hari. Anda juga boleh memuji orang dewasa lain di rumah anda, juga. Perhatikan bagaimana mereka bertindak balas!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Well done for adding another layer to your House of Support! Over the next few days, try to find 3 things that you can praise your children for every day. You can also praise other adults in your household, too. Notice how they respond!",
+    "text": "Syabas kerana menambahkan kemahiran lain ke dalam Kit Keibubapaan anda! Cuba cari 3 perkara yang anda boleh puji anak anda setiap hari. Anda juga boleh memuji orang dewasa lain di rumah anda, juga. Perhatikan bagaimana mereka bertindak balas!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Help @fields.child_nickname learn how to solve problems. As children get older, they become more independent and sometimes push the boundaries that we create to keep them safe. ",
+    "text": "Bantu anak/anak remaja anda belajar cara untuk menyelesaikan masalah. Apabila kanak-kanak meningkat dewasa, mereka menjadi lebih berdikari dan kadang-kadang menolak sempadan yang kita bina untuk memastikan mereka selamat. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try to use one of these tips for online safety. Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your child safe online. Good for you!",
+    "text": "Tahniah! Anda telah menambah kemahiran lain dalam Kit Keibubapaan anda! Keibubapaan digital sama seperti keibubapaan di dunia nyata. Anda telah mengambil LANGKAH BESAR untuk memastikan anak anda selamat dalam talian. Syabas!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit! Over the next few days, try to use one of these tips for online safety. Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your child safe online. Good for you!",
+    "text": "Tahniah! Anda telah menambah kemahiran lain dalam Kit Keibubapaan anda! Keibubapaan digital sama seperti keibubapaan di dunia nyata. Anda telah mengambil LANGKAH BESAR untuk memastikan anak anda selamat dalam talian. Syabas!",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Involve @fields.child_nickname in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax! ",
+    "text": "4. Libatkan anak remaja anda dalam merangka rancangan harian. Tetapkan matlamat dan ganjaran secara bersama. Biarkan mereka merancang bila untuk membuat kerja sekolah dan bila mereka boleh berehat! ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done! As your teen shows more responsibility, you can also give them extra privileges. Try to share responsibilities equally amongst women/men and girls/boys. Praise your teen whenever they do their job!",
+    "text": "Apabila anak remaja anda menunjukkan lebih tanggungjawab, anda juga boleh memberikan mereka keistimewaan tambahan. Cuba untuk berkongsi tanggungjawab dengan sama rata antara wanita/lelaki dan kanak-kanak perempuan/lelaki!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It can be hard sometime to remember. Routines help your children feel safe and secure. Try to have regular mealtimes and bedtimes. Remember to schedule One-on-One time with your children, too!",
+    "text": "Rutin akan membuatkan anak-anak anda berasa selamat dan terkawal. Cuba untuk amalkan waktu makan dan waktu tidur yang tetap. Ingat untuk menjadualkan masa Seorang-bersama-Seorang dengan anak-anak anda, juga!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you please tell me your age? Please reply with the number only. Example: 28",
+    "text": "Bolehkah anda memberitahu kami umur anda? Sila jawab dengan nombor sahaja. Contoh: 28",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you don't want to tell me your age, that's okay. Please type \"N\".",
+    "text": "Tidak mengapa jika anda tidak mahu memberitahu kami umur anda. Sila taip \"N\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you don't want to tell me, that's okay. Please type \"N\".",
+    "text": "Tidak mengapa jika anda tidak mahu memberitahu kami umur anda. Sila taip \"N\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello @fields.user_name! Taking care of children can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
+    "text": "Helo! Mengurus tingkah laku anak-anak kita merupakan satu cabaran… walaupun pada masa-masa terbaik. Kita kadang-kadang tidak menyedari ketika anak-anak berkelakuan baik. Tetapi apabila mereka nakal, ia boleh menjadi satu mimpi buruk!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit! Over the next few days, try to create a family gadget use agreement with your child. Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your child safe online. Good for you!",
+    "text": "Tahniah! Anda telah menambah kemahiran lain dalam Kit Keibubapaan anda! Keibubapaan digital sama seperti keibubapaan di dunia nyata. Anda telah mengambil LANGKAH BESAR untuk memastikan anak anda selamat dalam talian. Syabas!",
+    "type": "text"
+  },
+  {
+    "SourceText": "I understand that this can be really difficult. Please type \"Help\" if you want any extra support or guidance.",
+    "text": "Kami faham bahawa perkara ini sangat sukar. Sila taip \"Tolong\" sekiranya anda mahukan lebih sokongan atau panduan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
+    "text": "Sekiranya anda marah kerana bayi anda tidak berhenti menangis, ok jika membiarkan mereka di tempat yang selamat, seperti buaian, dan meninggalkan mereka sebentar. Periksa bayi anda setiap 5-10 minit.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi @fields.user_name! We hope you are finding these messages useful. Please type “MoreTips” when you want to receive your next message.",
+    "text": "Hai! Saya harap mesej-mesej ini adalah berguna untuk anda. Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Hi! We hope you are finding these messages useful. Please type “MoreTips” when you want to receive your next message.",
+    "text": "Hai! Saya harap mesej-mesej ini adalah berguna untuk anda. Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Make sure you will not be interrupted. Finish all your chores, switch off the TV and put your phone on silent. It will show @fields.child_nickname, they are important.",
+    "text": "Pastikan anda tidak akan terganggu. Tutup T.V. dan senyapkan telefon anda. Ini akan menunjukkan anak anda bahawa mereka penting.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Fathers can have difficult relationships with their teenagers, it can be hard to find pleasure from spending time with them. Instead, we spend a lot of time disciplining them or complaining about how they are behaving.",
+    "text": "Apabila kita mempunyai hubungan yang sukar dengan anak remaja kita, susah untuk kita mencari kegembiraan semasa meluangkan masa dengan mereka. Sebaliknya, kita menghabiskan banyak masa mendisiplinkan atau mengeluh tentang tingkah laku mereka.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Mothers can have difficult relationships with their teenagers, it can be hard to find pleasure from spending time with them. Instead, we spend a lot of time disciplining them or complaining about how they are behaving.",
+    "text": "Apabila kita mempunyai hubungan yang sukar dengan anak remaja kita, susah untuk kita mencari kegembiraan semasa meluangkan masa dengan mereka. Sebaliknya, kita menghabiskan banyak masa mendisiplinkan atau mengeluh tentang tingkah laku mereka.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can even try rephrasing back what @fields.child_nickname says when they speak to you. For example, when @fields.child_nickname says, “This math problem is really hard,” you can say, “Yeah, I see that you are finding it difficult.” It shows you are really listening to them and will make them feel supported.",
+    "text": "Anda juga boleh cuba mengulang apa yang dikatakan oleh anak remaja semasa mereka bercakap dengan anda. Contohnya, semasa anak remaja anda berkata, \"Masalah matematik ini sangat sukar,\" anda boleh katakan, \"Ya, saya tahu ianya sukar bagi anda.\" Ini menunjukkan bahawa anda benar-benar mendengar keluhan dan ini membuat mereka berasa disokong.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Parenting is really hard. But there are things we can do to make things easier. I am here to help!",
+    "text": "Mengasuh anak adalah amat sukar. Namun, ada perkara yang kita boleh lakukan untuk memudahkannya. Kami sedia membantu!",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of a baby (0 to 23 months old).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi bayi (0 hingga 23 bulan).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of a baby (0 to 23 months old) and teenager (10 to 17 years).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi bayi (0 hingga 23 bulan) dan remaja (10 hingga 17 tahun).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of a teenager (10 to 17 years).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi remaja (10 hingga 17 tahun).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of a young child (2 to 9 years).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi anak kecil (2 hingga 9 tahun).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of a young child (2 to 9 years) and teenager (10 to 17 years).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi anak kecil (2 hingga 9 tahun) dan remaja (10 hingga 17 tahun).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of baby (0 to 23 months old) and young child (2 to 9 years).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi bayi (0 hingga 23 bulan) dan anak kecil (2 hingga 9 tahun).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You told me that you are a parent/caregiver of a baby (0 to 23 months old), young child (2 to 9 years) and teenager (10 to 17 years).",
+    "text": "Anda memberitahu kami anda adalah ibu bapa/penjaga bagi bayi (0 hingga 23 bulan), anak kecil (2 hingga 9 tahun) dan remaja (10 hingga 17 tahun).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hello! How are you doing? I am so happy that you have signed up to receive these messages. It shows you care. ",
+    "text": "Helo! Apa khabar? Kami sangat gembira kerana anda telah mendaftar untuk menerima mesej ini. Ini menunjukkan anda mengambil berat. ",
+    "type": "text"
+  }
+]

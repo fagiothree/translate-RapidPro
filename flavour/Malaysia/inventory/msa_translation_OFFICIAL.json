@@ -3843,11 +3843,6 @@
     "type": "text"
   },
   {
-    "SourceText": "Chat to you later!",
-    "text": "Bersembang dengan anda kemudian!",
-    "type": "text"
-  },
-  {
     "SourceText": "Which child development milestones do you want to learn about?",
     "text": "Tahap perkembangan kanak-kanak yang manakah anda mahu pelajari mengenainya?",
     "type": "text"
@@ -7054,11 +7049,6 @@
   {
     "SourceText": "https://playlist.legofoundation.com/all-activities/",
     "text": "https://playlist.legofoundation.com/all-activities/",
-    "type": "text"
-  },
-  {
-    "SourceText": "Chat to you later!",
-    "text": "Berbual dengan anda nanti!",
     "type": "text"
   },
   {
@@ -22820,5 +22810,95 @@
     "text": "sos",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  }
+  },
+   {
+    "SourceText": "Please select the number for the following options:",
+    "text": "Sila pilih nombor bagi pilihan berikut:",
+    "type": "text"
+  },
+   {
+    "SourceText": "1. Johor",
+    "text": "1. Johor",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. Kedah",
+    "text": "2. Kedah",
+    "type": "text"
+  },
+  {
+    "SourceText": "3. Kelantan",
+    "text": "3. Kelantan",
+    "type": "text"
+  },
+  {
+    "SourceText": "4. Melaka",
+    "text": "4. Melaka",
+    "type": "text"
+  },
+  {
+    "SourceText": "5. Negeri Sembilan",
+    "text": "5. Negeri Sembilan",
+    "type": "text"
+  },
+  {
+    "SourceText": "6. Pahang",
+    "text": "6. Pahang",
+    "type": "text"
+  },
+  {
+    "SourceText": "7. Perak",
+    "text": "7. Perak",
+    "type": "text"
+  },
+  {
+    "SourceText": "8. Perlis",
+    "text": "8. Perlis",
+    "type": "text"
+  },
+  {
+    "SourceText": "9. Penang",
+    "text": "9. Penang",
+    "type": "text"
+  },
+  {
+    "SourceText": "10. Sabah",
+    "text": "10. Sabah",
+    "type": "text"
+  },
+  {
+    "SourceText": "11. Sarawak",
+    "text": "11. Sarawak",
+    "type": "text"
+  },
+  {
+    "SourceText": "12. Selangor",
+    "text": "12. Selangor",
+    "type": "text"
+  },
+  {
+    "SourceText": "13. Terengganu",
+    "text": "13. Terengganu",
+    "type": "text"
+  },
+  {
+    "SourceText": "14. Wilayah Persekutuan",
+    "text": "14. Wilayah Persekutuan",
+    "type": "text"
+  },
+  {
+    "SourceText": "15. Kuala Lumpur",
+    "text": "15. Kuala Lumpur",
+    "type": "text"
+  },
+  {
+    "SourceText": "16. Putrajaya dan Labuan",
+    "text": "16. Putrajaya dan Labuan",
+    "type": "text"
+  },
+    {
+    "SourceText": "Sorry, I don't understand what you mean. Please reply with a number between 1 and @fields.n_states.",
+    "text": "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara 1 dan @fields.n_states.",
+    "type": "text"
+  },
 ]

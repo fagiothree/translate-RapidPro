@@ -21,3 +21,9 @@ To merge translated strings back into original flow as a localization.
 ```
 node insert/create_localisation_from_translated_json_files.js <input-rapidpro-flow-file> <language-code> <translated-strings-file> <output-rapidpro-flow-file> <missing-strings-file>
 ```
+
+## Running tests
+
+```
+npm test
+```

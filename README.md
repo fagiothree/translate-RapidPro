@@ -14,10 +14,16 @@ npm install
 
 To extract English-language strings from flows, for translation.
 ```
-node extract/extract_text_for_translation.js <rapidpro-json-file> <output-dir>
+node index extract <rapidpro-json-file> <output-dir>
 ```
 
 To merge translated strings back into original flow as a localization.
 ```
 node insert/create_localisation_from_translated_json_files.js <input-rapidpro-flow-file> <language-code> <translated-strings-file> <output-rapidpro-flow-file> <missing-strings-file>
+```
+
+## Running tests
+
+```
+npm test
 ```
